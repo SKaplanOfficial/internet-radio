@@ -4,21 +4,27 @@
         "stream": "http://108.61.34.50:7317/stream/1/",
         "genres": [
             "ambient"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "SCIFI.radio": {
         "website": "https://scifi.radio",
         "stream": "https://station.kryptonradio.com:8080/stream",
         "genres": [
             "soundtracks"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Streaming Soundtracks": {
         "website": "http://www.streamingsoundtracks.com",
         "stream": "http://hi5.streamingsoundtracks.com/;",
         "genres": [
             "soundtracks"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Newsmax": {
         "website": "https://www.iheart.com/live/newsmax-8856/",
@@ -26,14 +32,18 @@
         "genres": [
             "news",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "WRCW Crime Story": {
         "website": "https://live365.com/station/WRCW-Crime-Story----a60381",
         "stream": "https://streaming.live365.com/a60381",
         "genres": [
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Majestic Jukebox Radio": {
         "website": "https://www.majesticjukeboxradio.com/",
@@ -49,14 +59,18 @@
             "60s",
             "70s",
             "80s"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Radio X-MAS": {
         "website": "http://www.radio-xmas.at",
         "stream": "http://77.75.16.229:443/stream/1/",
         "genres": [
             "holiday"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Beethoven Channel": {
         "website": "https://beethovenchannel.com/",
@@ -66,7 +80,9 @@
             "symphony",
             "romantic",
             "piano"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Sleep Radio Stream": {
         "website": "https://www.sleepradio.co.nz",
@@ -74,7 +90,9 @@
         "genres": [
             "ambient",
             "new age"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Joy Hits": {
         "website": " https://joyhits.online",
@@ -82,7 +100,9 @@
         "genres": [
             "top 40",
             "pop"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "ASMR Mix": {
         "website": "https://www.getmeradio.com/stations/asmrmix-7014/",
@@ -90,7 +110,9 @@
         "genres": [
             "ambient",
             "ASMR"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "C-Span Radio": {
         "website": "https://www.c-span.org",
@@ -98,7 +120,9 @@
         "genres": [
             "talk",
             "politics"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Magic 80s Florida": {
         "website": "http://www.magicoldiesflorida.com",
@@ -109,7 +133,9 @@
             "top 40",
             "pop",
             "rock"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Metal Rock Radio": {
         "website": "http://metalrockradio.com",
@@ -118,7 +144,9 @@
             "metal",
             "hard rock",
             "classic rock"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Bloomberg Radio": {
         "website": "https://tunein.com/radio/Bloomberg-Radio-s165740/",
@@ -126,28 +154,36 @@
         "genres": [
             "news",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Calm Piano": {
         "website": "https://www.getmeradio.com/stations/calmpiano-4057/",
         "stream": "https://drive.uber.radio/uber/calmpiano/icecast.audio",
         "genres": [
             "piano"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Horror and Halloween Radio": {
         "website": "http://horrorandhalloweenradio.com/",
         "stream": "http://s2.voscast.com:11034/;stream1674643361109/1",
         "genres": [
             "holiday"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Park Magic Radio": {
         "website": "http://parkmagicradio.ca/",
         "stream": "http://www.parkmagicradio.ca:8000/stream/1/;",
         "genres": [
             "soundtracks"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "AmbientRadio": {
         "website": "http://www.ambientradio.net",
@@ -155,7 +191,9 @@
         "genres": [
             "ambient",
             "chillout"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "PaganRadio": {
         "website": "https://paganradio.org",
@@ -163,7 +201,9 @@
         "genres": [
             "pagan",
             "folk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "SonaFM Groove Salad": {
         "website": "https://somafm.com/groovesalad/",
@@ -172,7 +212,8 @@
             "ambient",
             "downtempo"
         ],
-        "description": "A nicely chilled plate of ambient/downtempo beats and grooves."
+        "description": "A nicely chilled plate of ambient/downtempo beats and grooves.",
+        "discontinued": false
     },
     "SonaFM ThistleRadio": {
         "website": "https://somafm.com/thistle/index.html",
@@ -180,7 +221,8 @@
         "genres": [
             "celtic"
         ],
-        "description": "Exploring music from Celtic roots and branches."
+        "description": "Exploring music from Celtic roots and branches.",
+        "discontinued": false
     },
     "SonaFM SF 10-33": {
         "website": "https://somafm.com/sf1033/",
@@ -188,7 +230,8 @@
         "genres": [
             "ambient"
         ],
-        "description": "Ambient music mixed with the sounds of San Francisco public safety radio traffic."
+        "description": "Ambient music mixed with the sounds of San Francisco public safety radio traffic.",
+        "discontinued": false
     },
     "SonaFM Mission Control": {
         "website": "https://somafm.com/missioncontrol/",
@@ -197,7 +240,8 @@
             "ambient",
             "experimental"
         ],
-        "description": "Celebrating NASA and Space Explorers everywhere."
+        "description": "Celebrating NASA and Space Explorers everywhere.",
+        "discontinued": false
     },
     "SonaFM Dub Step Beyond": {
         "website": "https://somafm.com/dubstep/",
@@ -205,7 +249,8 @@
         "genres": [
             "dubstep"
         ],
-        "description": "Dubstep, Dub and Deep Bass. May damage speakers at high volume."
+        "description": "Dubstep, Dub and Deep Bass. May damage speakers at high volume.",
+        "discontinued": false
     },
     "SonaFM The Dark Zone": {
         "website": "https://somafm.com/darkzone/",
@@ -213,7 +258,8 @@
         "genres": [
             ""
         ],
-        "description": "The darker side of deep ambient. Music for staring into the Abyss."
+        "description": "The darker side of deep ambient. Music for staring into the Abyss.",
+        "discontinued": false
     },
     "SonaFM Deep Space One": {
         "website": "https://somafm.com/deepspaceone/",
@@ -223,7 +269,8 @@
             "electronic",
             "experimental"
         ],
-        "description": "Deep ambient electronic, experimental and space music. For inner and outer space exploration."
+        "description": "Deep ambient electronic, experimental and space music. For inner and outer space exploration.",
+        "discontinued": false
     },
     "SonaFM SF Police Scanner": {
         "website": "https://somafm.com/scanner/",
@@ -232,7 +279,8 @@
             "ambient",
             "talk"
         ],
-        "description": "San Francisco Public Safety Scanner Feed."
+        "description": "San Francisco Public Safety Scanner Feed.",
+        "discontinued": false
     },
     "SonaFM Secret Agent": {
         "website": "https://somafm.com/secretagent/",
@@ -243,7 +291,8 @@
             "lounge",
             "samba"
         ],
-        "description": "The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!"
+        "description": "The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!",
+        "discontinued": false
     },
     "SonaFM Heavyweight Reggae": {
         "website": "https://somafm.com/reggae/",
@@ -251,7 +300,8 @@
         "genres": [
             "reggae"
         ],
-        "description": "Reggae, Ska, Rocksteady classic and deep tracks."
+        "description": "Reggae, Ska, Rocksteady classic and deep tracks.",
+        "discontinued": false
     },
     "SonaFM Christmas Rocks!": {
         "website": "https://somafm.com/xmasrocks/",
@@ -261,7 +311,8 @@
             "indie",
             "alternative"
         ],
-        "description": "Have your self an indie/alternative holiday season!"
+        "description": "Have your self an indie/alternative holiday season!",
+        "discontinued": false
     },
     "SonaFM Covers": {
         "website": "https://somafm.com/covers/",
@@ -269,7 +320,8 @@
         "genres": [
             "cover"
         ],
-        "description": "Just covers. Songs you know by artists you don't."
+        "description": "Just covers. Songs you know by artists you don't.",
+        "discontinued": false
     },
     "Los 40 Argentina": {
         "website": "https://los40.com.ar/lista40/?o=VL40",
@@ -281,7 +333,8 @@
             "R&B",
             "rock"
         ],
-        "description": "40 Principales is a broadcast radio station in Buenos Aires, Argentina, providing Adult Contemporary, Top 40 Pop music as part of Los 40 Principales network of radio stations based in Latin America."
+        "description": "40 Principales is a broadcast radio station in Buenos Aires, Argentina, providing Adult Contemporary, Top 40 Pop music as part of Los 40 Principales network of radio stations based in Latin America.",
+        "discontinued": false
     },
     "Organlive": {
         "website": "https://www.organlive.com",
@@ -291,7 +344,8 @@
             "classical",
             "baroque"
         ],
-        "description": "Organlive is a listener-supported internet audio station with a focus on music of the classical organ."
+        "description": "Organlive is a listener-supported internet audio station with a focus on music of the classical organ.",
+        "discontinued": false
     },
     "Baroque Sonatas Radio": {
         "website": "https://laut.fm/baroque_sonatas_radio",
@@ -300,7 +354,8 @@
             "baroque",
             "classical"
         ],
-        "description": "Klassik Barockmusik."
+        "description": "Klassik Barockmusik.",
+        "discontinued": false
     },
     "Pumpkin FM Crime Incorporated": {
         "website": "https://pumpkinfm.com/live-stream/crime-inc/",
@@ -308,7 +363,8 @@
         "genres": [
             "talk"
         ],
-        "description": "The best Crime, Police and Detective shows 24/7."
+        "description": "The best Crime, Police and Detective shows 24/7.",
+        "discontinued": false
     },
     "Pumpkin FM 1940s Radio": {
         "website": "https://pumpkinfm.com/live-stream/1940s-radio/",
@@ -317,7 +373,8 @@
             "40s",
             "hits"
         ],
-        "description": "Home Service, the Best Mix of Old Time Radio shows and music 24/7."
+        "description": "Home Service, the Best Mix of Old Time Radio shows and music 24/7.",
+        "discontinued": false
     },
     "Pumpkin FM Radio Malvern International": {
         "website": "https://pumpkinfm.com/live-stream/radio-malvern-int/",
@@ -325,7 +382,8 @@
         "genres": [
             ""
         ],
-        "description": "An Internet Radio station broadcasting from London, England, United Kingdom, providing Classical, Opera, Symphony, and Baroque music."
+        "description": "An Internet Radio station broadcasting from London, England, United Kingdom, providing Classical, Opera, Symphony, and Baroque music.",
+        "discontinued": false
     },
     "Pumpkin FM BritCom 1": {
         "website": "65.21.202.84:8175/;",
@@ -334,7 +392,8 @@
             "comedy",
             "talk"
         ],
-        "description": "The Best Classic British Comedy Radio."
+        "description": "The Best Classic British Comedy Radio.",
+        "discontinued": false
     },
     "Radio Online Smooth Jazz": {
         "website": "http://cloud-jazz.com",
@@ -342,7 +401,8 @@
         "genres": [
             "jazz"
         ],
-        "description": "24 hours a day of smooth jazz"
+        "description": "24 hours a day of smooth jazz",
+        "discontinued": false
     },
     "Middle Eastern Classical": {
         "website": "https://zeno.fm/radio/eastern-classical-music/",
@@ -351,7 +411,8 @@
             "classical",
             "middle eastern"
         ],
-        "description": "Western Classical Music by Composers from Iran, Turkey, Azerbaijan, Armenia, Arab Countries, Israel, Central Asia, etc."
+        "description": "Western Classical Music by Composers from Iran, Turkey, Azerbaijan, Armenia, Arab Countries, Israel, Central Asia, etc.",
+        "discontinued": false
     },
     "Animal Radio": {
         "website": "https://animalradio.com/top.php",
@@ -359,7 +420,8 @@
         "genres": [
             "talk"
         ],
-        "description": "Come celebrate the connection with your pets. Animal Radio's experts will answer your pet-questions toll-free 1-866-405-8405."
+        "description": "Come celebrate the connection with your pets. Animal Radio's experts will answer your pet-questions toll-free 1-866-405-8405.",
+        "discontinued": false
     },
     "Top 80 Radio": {
         "website": "https://www.top80radio.com",
@@ -369,7 +431,9 @@
             "rock",
             "pop",
             "disco"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "The Zone - Dublin": {
         "website": "https://www.thezonedublin.org",
@@ -379,7 +443,9 @@
             "indie",
             "pop",
             "classic rock"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Radio Bloodstream": {
         "website": "http://www.radiobloodstream.com/",
@@ -389,7 +455,9 @@
             "metal",
             "heavy metal",
             "punk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Psyndora Chillout": {
         "website": "https://www.psyndora.com/chill.html",
@@ -398,14 +466,18 @@
             "downtempo",
             "chillout",
             "psychill"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "CINEMIX": {
         "website": "http://www.cinemix.radio",
         "stream": "http://51.81.46.118:1190/stream/1/",
         "genres": [
             "soundtracks"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Classical Radio Stream": {
         "website": "https://classicalradiostream.com/",
@@ -415,14 +487,18 @@
             "symphony",
             "romantic",
             "piano"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "J-Pop Sakura": {
         "website": "https://asiadreamradio.com",
         "stream": "https://igor.torontocast.com:1710/stream/1/",
         "genres": [
             "jpop"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Pink Noise Radio": {
         "website": "https://www.internet-radio.com/station/pinknoise/",
@@ -431,7 +507,9 @@
             "noise",
             "ambient",
             "chillout"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Brown Noise Radio": {
         "website": "https://www.internet-radio.com/station/brownnoise/",
@@ -440,7 +518,9 @@
             "noise",
             "ambient",
             "chillout"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "White Noise Radio": {
         "website": "https://www.internet-radio.com/station/whitenoise/",
@@ -449,14 +529,18 @@
             "noise",
             "ambient",
             "chillout"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "NoLife Radio": {
         "website": "https://nolife-radio.com",
         "stream": "http://listen.nolife-radio.com/stream",
         "genres": [
             "video game music"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Radio Summernight": {
         "website": "http://radiosummernight.ch",
@@ -465,14 +549,18 @@
             "pop",
             "alternative",
             "rock"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Frontier Country": {
         "website": "http://www.frontiercountryonline.com",
         "stream": "http://192.111.140.11:8205/stream/1/",
         "genres": [
             "country"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Dubstep.fm": {
         "website": "https://www.dubstep.fm",
@@ -480,21 +568,27 @@
         "genres": [
             "dubstep",
             "electronic"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Blues Radio": {
         "website": "http://www.bluesradio.gr",
         "stream": "http://i4.streams.ovh:8352/stream/1/",
         "genres": [
             "blues"
-        ]
+        ],
+        "description": "Just the blues.",
+        "discontinued": false
     },
     "BBC Radio 1": {
         "website": "https://tunein.com/radio/BBC-Radio-1-988-s24939/",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
         "genres": [
             "pop"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "BBC World Service": {
         "website": "https://tunein.com/radio/BBC-World-Service-News-s24948/",
@@ -502,7 +596,9 @@
         "genres": [
             "news",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Associated Press": {
         "website": "https://tunein.com/radio/Associated-Press-s249264/",
@@ -510,14 +606,18 @@
         "genres": [
             "news",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "KPOP Radio": {
         "website": "https://zeno.fm/radio/kpop-radio",
         "stream": "https://stream-55.zeno.fm/382yfn6u498uv?zs=mvrPGxDnTw-zWW4K1sLI2A",
         "genres": [
             "kpop"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "NPR": {
         "website": "https://www.npr.org",
@@ -525,7 +625,9 @@
         "genres": [
             "news",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Hot Hitz": {
         "website": "http://player.100hitz.com",
@@ -533,7 +635,9 @@
         "genres": [
             "hits",
             "pop"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Fox News": {
         "website": "https://radio.foxnews.com/player-files/radio.php",
@@ -541,7 +645,9 @@
         "genres": [
             "news",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "NBC News": {
         "website": "https://tunein.com/radio/NBC-News-NOW-s310584/",
@@ -549,7 +655,9 @@
         "genres": [
             "news",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "ESPN": {
         "website": "https://www.iheart.com/live/espn-radio-7903/",
@@ -557,7 +665,9 @@
         "genres": [
             "sports",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Greatest Hits Radio USA": {
         "website": "https://www.greatesthitsradiousa.com/",
@@ -565,14 +675,18 @@
         "genres": [
             "hits",
             "oldies"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Adagio.FM": {
         "website": "http://adagio.fm",
         "stream": "http://hi5.adagio.fm/;",
         "genres": [
             "classical"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Ambient Sleeping Pill": {
         "website": "https://ambientsleepingpill.com",
@@ -580,28 +694,36 @@
         "genres": [
             "ambient",
             "chillout"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Exclusively Ocean": {
         "website": "https://www.getmeradio.com/stations/exclusivelyocean-3235/",
         "stream": "https://streaming.exclusive.radio/er/ocean/icecast.audio",
         "genres": [
             "ambient"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Exclusively Birdsong": {
         "website": "https://www.getmeradio.com/stations/exclusivelybirdsong-3243/",
         "stream": "https://streaming.exclusive.radio/er/birdsong/icecast.audio",
         "genres": [
             "ambient"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Musical Theater Radio": {
         "website": "https://www.musicaltheatreradio.com",
         "stream": "https://streaming.live365.com/a99840",
         "genres": [
             "soundtracks"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Latin Hits": {
         "website": "https://tunein.com/radio/Latin-Hits-s249995/",
@@ -609,7 +731,9 @@
         "genres": [
             "latin",
             "world"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Sports Radio 810 WHB": {
         "website": "http://www.810whb.com/",
@@ -617,7 +741,9 @@
         "genres": [
             "sports",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "HI95 Kauai": {
         "website": "http://www.hi95kauai.com/",
@@ -625,7 +751,9 @@
         "genres": [
             "hawaiian",
             "tropical"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "talkSPORT": {
         "website": "https://talksport.com",
@@ -633,7 +761,9 @@
         "genres": [
             "sports",
             "talk"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Top Salsa Radio": {
         "website": "https://latina104.net",
@@ -643,7 +773,9 @@
             "tropical",
             "spanish",
             "world"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Galgalatz": {
         "website": "https://glz.co.il/גלגלצ",
@@ -651,7 +783,9 @@
         "genres": [
             "hebrew",
             "world"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Peace FM": {
         "website": "http://www.peacefmonline.com/",
@@ -660,7 +794,9 @@
             "african",
             "pop",
             "world"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Irish Pub Radio": {
         "website": "http://www.irishpubradio.com/",
@@ -668,7 +804,9 @@
         "genres": [
             "irish",
             "world"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
     },
     "Nota Arabia": {
         "website": "http://www.notaarabia.com",
@@ -676,6 +814,585 @@
         "genres": [
             "arabian",
             "world"
-        ]
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Abacus Jazz": {
+        "website": "http://www.abacus.fm",
+        "stream": "https://stream3.hippynet.co.uk:8008/stream",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Smooth and Easy 24/7.",
+        "discontinued": false
+    },
+    "Abacus Rain": {
+        "website": "http://www.abacus.fm",
+        "stream": "http://158.69.227.214:8026/stream?1675480291386",
+        "genres": [
+            "ambient"
+        ],
+        "description": "Rain sounds.",
+        "discontinued": false
+    },
+    "Abacus Ocean": {
+        "website": "http://www.abacus.fm",
+        "stream": "http://158.69.227.214:8085/stream?1675480304833",
+        "genres": [
+            "ambient"
+        ],
+        "description": "Ocean wave sounds.",
+        "discontinued": false
+    },
+    "Nature Radio Rain": {
+        "website": "https://radiosuitenetwork.torontocast.stream/nature-radio-rain/",
+        "stream": "https://maggie.torontocast.com:2020/stream/natureradiorain/stream",
+        "genres": [
+            "ambient"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Reggae Chill Cafe": {
+        "website": "https://radiosuitenetwork.torontocast.stream/reggae-chill-cafe/",
+        "stream": "https://maggie.torontocast.com:8104/stream",
+        "genres": [
+            "reggae"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Suite Jazz Radio": {
+        "website": "https://radiosuitenetwork.torontocast.stream/suite-jazz-radio/",
+        "stream": "https://jenny.torontocast.com:2000/stream/suitejazzradio/stream",
+        "genres": [
+            "jazz"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Sensual Lounge": {
+        "website": "https://radiosuitenetwork.torontocast.stream/sensual-lounge/",
+        "stream": "https://maggie.torontocast.com:8028/stream",
+        "genres": [
+            "sensual"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Vibrazioni Rock Radio": {
+        "website": "https://radiosuitenetwork.torontocast.stream/vibrazioni-rock-radio/",
+        "stream": "https://maggie.torontocast.com:8036/stream",
+        "genres": [
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "100% Covers Lounge": {
+        "website": "https://radiosuitenetwork.torontocast.stream/100-covers-lounge/",
+        "stream": "https://mpc2.mediacp.eu:8226/stream",
+        "genres": [
+            "cover"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "1001 Classic Collection": {
+        "website": "https://radiosuitenetwork.torontocast.stream/1001-classic-collection/",
+        "stream": "https://strw1.openstream.co/2447",
+        "genres": [
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "70 80 90 Italia D’autore": {
+        "website": "https://radiosuitenetwork.torontocast.stream/70-80-90-italia-dautore/",
+        "stream": "https://maggie.torontocast.com:8118/stream",
+        "genres": [
+            "italian"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "A Mississippi Blues": {
+        "website": "https://radiosuitenetwork.torontocast.stream/amississippiblues/",
+        "stream": "https://jenny.torontocast.com:2000/stream/amississippiblues/stream",
+        "genres": [
+            "blues"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Smooth Jazz Deluxe": {
+        "website": "https://radiosuitenetwork.torontocast.stream/smooth-jazz-deluxe/",
+        "stream": "https://mpc1.mediacp.eu:8356/stream",
+        "genres": [
+            "jazz"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Nature Radio Ocean": {
+        "website": "https://radiosuitenetwork.torontocast.stream/nature-radio-ocean/",
+        "stream": "https://strw1.openstream.co/890",
+        "genres": [
+            "ambient"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "RadioSEGA": {
+        "website": "https://www.radiosega.net",
+        "stream": "http://content.radiosega.net:8006/live",
+        "genres": [
+            "video game music"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Final Fantasy Radio": {
+        "website": "http://finalfantasyradio.co",
+        "stream": "http://finalfantasystation.com:8000/stream",
+        "genres": [
+            "video game music"
+        ],
+        "description": "Plays a mix of not only the official soundtracks from the Square Enix games, but also fan made music.",
+        "discontinued": false
+    },
+    "Game Music": {
+        "website": "https://laut.fm/gamemusic",
+        "stream": "https://stream.laut.fm/gamemusic",
+        "genres": [
+            "video game music"
+        ],
+        "description": "Here you will listen to video game music 24/7.",
+        "discontinued": false
+    },
+    "Radio PARALAX": {
+        "website": "https://www.radio-paralax.de",
+        "stream": "https://www.radio-paralax.de/listen.pls",
+        "genres": [
+            "video game music"
+        ],
+        "description": "Radio PARALAX is a private, non-commercial web radio project with a focus on game music of well-known computer and video game systems of the 80s and 90s (so-called \"chiptune remixes\"), music from the retro computer and demo scene as well as other GEMA and GVL-free music.",
+        "discontinued": false
+    },
+    "Game FM": {
+        "website": "https://streema.com/radios/Game_FM",
+        "stream": "https://cast.imaginaredigital.com.br:7000/stream",
+        "genres": [
+            "video game music"
+        ],
+        "description": "Game FM is an internet radio station from Brazil, providing news, information, humor and best music of games.",
+        "discontinued": false
+    },
+    "Stereoanime": {
+        "website": "https://www.stereoanime.net",
+        "stream": "https://radio.stereoanime.net/listen/stereoanime/128",
+        "genres": [
+            "anime"
+        ],
+        "description": "Anime music 24/7.",
+        "discontinued": false
+    },
+    "GamingNow Radio": {
+        "website": "https://gamingnow.net/radio/",
+        "stream": "https://media01.gamingnow.net:8010/erweb.mp3",
+        "genres": [
+            "video game music",
+            "classics",
+            "pop",
+            "dance"
+        ],
+        "description": "Music to game to.",
+        "discontinued": false
+    },
+    "Hawaiian Rainbow Radio": {
+        "website": "https://www.hawaiianrainbow.com",
+        "stream": "https://fwd.autopo.st/hawaiianrainbow/;stream.mp3",
+        "genres": [
+            "hawaiian"
+        ],
+        "description": "Your home for Hawaiian Music on the Internet.",
+        "discontinued": false
+    },
+    "Anda Suriname": {
+        "website": "https://suriname.nu/radio/radio-anda.html",
+        "stream": "https://kathy.torontocast.com:2945/stream",
+        "genres": [
+            "latin",
+            "tropical"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Cariba FM": {
+        "website": "https://suriname.nu/radio/radio-caribafm.html",
+        "stream": "http://cc3b.beheerstream.com:8192/;stream.mp3",
+        "genres": [
+            "caribbean",
+            "tropical"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Hawaiian 105 - KINE": {
+        "website": "https://www.hawaiian105.com",
+        "stream": "https://ais-sa1.streamon.fm/7694_128k.aac",
+        "genres": [
+            "hawaiian",
+            "tropical"
+        ],
+        "description": "Hawaiian105 - KINE is a broadcast radio station in Honolulu, Hawaii, United States, providing Tropical and Hawaiian music.",
+        "discontinued": false
+    },
+    "Radio Boise": {
+        "website": "https://radioboise.org",
+        "stream": "http://radioboise-ice.streamguys1.com/live",
+        "genres": [
+            "folk",
+            "community"
+        ],
+        "description": "Volunteer-driven community radio station providing quality local programming for Boise and beyond.",
+        "discontinued": false
+    },
+    "Polka TJ": {
+        "website": "http://polkatj.com",
+        "stream": "http://98.235.212.188:88/broadwave.m3u",
+        "genres": [
+            "polka",
+            "polish",
+            "rock",
+            "world"
+        ],
+        "description": "Radio promoting and advancing the wonderful music of our Polish heritage.",
+        "discontinued": false
+    },
+    "24/7 Poka Heaven": {
+        "website": "http://www.247polkaheaven.com",
+        "stream": "http://192.99.83.149:8046/stream",
+        "genres": [
+            "polka",
+            "dance"
+        ],
+        "description": "The First and Original 24-Hour Webcasting Polka Music Internet Site in the World!",
+        "discontinued": false
+    },
+    "The Engineered Network": {
+        "website": "https://engineered.network",
+        "stream": "https://stream.engineered.network:8002/stream",
+        "genres": [
+            "education",
+            "talk",
+            "history",
+            "science"
+        ],
+        "description": "The Engineered Network is a network of shows about all facets of engineering. Made by engineers for all the curious people that always wanted to know, but didn’t know who to ask.",
+        "discontinued": false
+    },
+    "Story FM": {
+        "website": "https://story.ru",
+        "stream": "http://storyfm.hostingradio.ru:8031/storyfm128.mp3",
+        "genres": [
+            "audiobooks",
+            "history"
+        ],
+        "description": "Understanding the diversity of human destinies through stories.",
+        "discontinued": false
+    },
+    "Stockholm Community Radio 88,0 MHz": {
+        "website": "http://www.narradio.se",
+        "stream": "http://live.narradio.se:8010/;stream.mp3",
+        "genres": [
+            "community",
+            "education",
+            "news",
+            "talk",
+            "swedish"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Stockholm Community Radio 95,3 MHz": {
+        "website": "http://www.narradio.se",
+        "stream": "http://live.narradio.se:8020/;stream.mp3",
+        "genres": [
+            "community",
+            "education",
+            "news",
+            "talk",
+            "swedish"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Stockholm Community Radio 101,1 MHz": {
+        "website": "http://www.narradio.se",
+        "stream": "http://live.narradio.se:8030/;stream.mp3",
+        "genres": [
+            "community",
+            "education",
+            "news",
+            "talk",
+            "swedish"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Store Radio": {
+        "website": "http://wsbj.com/snoring-radio.html",
+        "stream": "http://104.167.4.67:8215/stream",
+        "genres": [
+            "ambient"
+        ],
+        "description": "Snoring sounds.",
+        "discontinued": false
+    },
+    "Payphone Radio": {
+        "website": "http://payphoneradio.com/#",
+        "stream": "https://centova2.cheapshoutcast.com/proxy/mark2?mp=/stream",
+        "genres": [
+            "ambient",
+            "talk"
+        ],
+        "description": "Radio stream containing recordings of phone calls made almost entirely from New York City payphones.",
+        "discontinued": false
+    },
+    "Practice Piano Radio": {
+        "website": "http://wsbj.com/practice-room-radio.html",
+        "stream": "http://centova32.instainternet.com:8067/stream",
+        "genres": [
+            "piano",
+            "instrumental"
+        ],
+        "description": "Mostly piano practice recordings, some concerts.",
+        "discontinued": false
+    },
+    "LinkNYC Radio": {
+        "website": "http://wsbj.com/linknyc-radio.html",
+        "stream": "http://104.167.4.67:8265/stream",
+        "genres": [
+            "ambient"
+        ],
+        "description": "City street sounds heard through LinkNYC Smart City kiosks.",
+        "discontinued": false
+    },
+    "LoFi World": {
+        "website": "https://zeno.fm/radio/lofi-world/",
+        "stream": "https://stream.zeno.fm/c7uhh95s7k0uv",
+        "genres": [
+            "lofi",
+            "electronic",
+            "hip hop"
+        ],
+        "description": "Radio station from Russia whose goal is to feature and promote artists across lofi and chillhop music.",
+        "discontinued": false
+    },
+    "Radio Coco Live": {
+        "website": "https://radiococolive.co.uk",
+        "stream": "https://s7.citrus3.com:8144/stream",
+        "genres": [
+            "community",
+            "news",
+            "variety"
+        ],
+        "description": "Live Malayalam Radio which carries a rainbow of Malayalam entertaining programmes from live news every hour, lilting melodies, soothing music, spotlight on superstars, comedy and laughter, literature, debates and discussions and many more.",
+        "discontinued": false
+    },
+    "Tiki Man Radio": {
+        "website": "https://www.tikimanradio.com",
+        "stream": "https://ice64.securenetsystems.net/TIKIMAN",
+        "genres": [
+            "caribbean",
+            "tropical",
+            "rock"
+        ],
+        "description": "Plays only the best quality Trop Rock music sprinkled with hits from today and yesterday's artist.",
+        "discontinued": false
+    },
+    "Vive Radio Fm": {
+        "website": "",
+        "stream": "https://antares.dribbcast.com/proxy/viveradiofm?mp=/stream",
+        "genres": [
+            "spanish",
+            "variety"
+        ],
+        "description": "Varied programming with 15 hours of good music, broadcasting live and direct from Peru to the world.",
+        "discontinued": false
+    },
+    "Radio Jerez - XEXM": {
+        "website": "https://grupozer.mx/portada.php",
+        "stream": "https://cast.zuperdns.net/8016/stream/;stream.mp3",
+        "genres": [
+            "mexican"
+        ],
+        "description": "Mexican entertainment.",
+        "discontinued": false
+    },
+    "Venice Classic Radio": {
+        "website": "https://www.veniceclassicradio.eu",
+        "stream": "https://uk2.streamingpulse.com/ssl/vcr2",
+        "genres": [
+            "classical",
+            "baroque",
+            "opera",
+            "italian"
+        ],
+        "description": "A repertoire of early, baroque, classical and romantic music!",
+        "discontinued": false
+    },
+    "Radio Swiss Classic": {
+        "website": "https://www.radioswissclassic.ch",
+        "stream": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+        "genres": [
+            "classical",
+            "baroque",
+            "opera"
+        ],
+        "description": "A broad cross-section from different eras and different styles of classical music.",
+        "discontinued": false
+    },
+    "101 Smooth Jazz": {
+        "website": "http://101smoothjazz.com",
+        "stream": "http://www.101smoothjazz.com/101-smoothjazz.m3u",
+        "genres": [
+            "jazz"
+        ],
+        "description": "An amazing mix of instrumental smooth jazz. At your service 24 hours a day.",
+        "discontinued": false
+    },
+    "Sonatica": {
+        "website": "http://sonatica.fm",
+        "stream": "http://148.251.43.231:8742/160;.mp3",
+        "genres": [
+            "classical",
+            "baroque"
+        ],
+        "description": "Hundreds of hours of the best classical music.",
+        "discontinued": false
+    },
+    "Hits on Guitar": {
+        "website": "https://www.facebook.com/HitsOnGuitar",
+        "stream": "http://radio.streemlion.com:2310/stream",
+        "genres": [
+            "guitar",
+            "hits",
+            "70s",
+            "80s"
+        ],
+        "description": "Focuses on guitar-based instrumentals of the pop, soft rock and adult contemporary hits from the '60, '70s, '80s, and beyond.",
+        "discontinued": false
+    },
+    "Radio Caprice - Cello": {
+        "website": "http://radcap.ru/cello.html",
+        "stream": "http://79.120.12.130:8002/cello",
+        "genres": [
+            "instrumental",
+            "classical"
+        ],
+        "description": "Nonstop cello pieces.",
+        "discontinued": false
+    },
+    "a.m. ambient": {
+        "website": "https://amambient.com",
+        "stream": "https://radio.stereoscenic.com/ama-h",
+        "genres": [
+            "ambient"
+        ],
+        "description": "An internet radio stream featuring bright and positive ambient music.",
+        "discontinued": false
+    },
+    "Christian Church Radio Classic": {
+        "website": "https://live365.com/station/Christian-Church-Radio-Classic-a84344",
+        "stream": "https://streaming.live365.com/a84344",
+        "genres": [
+            "christian",
+            "gospel",
+            "religious"
+        ],
+        "description": "Christian Church Radio Classic (CCRC) plays inspirational music from 1970 through today. It is your source for music of the Christian Church, News, Commentary, Preaching, and Bible study.",
+        "discontinued": false
+    },
+    "Klassik Radio - Classic Radio Live": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://live.streams.klassikradio.de/klassikradio-deutschland",
+        "genres": [
+            "classical",
+            "soundtracks"
+        ],
+        "description": "The largest classical music station in the EU with a unique program recipe for Germany, Austria and German-speaking Switzerland.",
+        "discontinued": false
+    },
+    "Klassic Radio - Beats Radio": {
+        "website": "https://www.beatsradio.de",
+        "stream": "https://live.streams.klassikradio.de/beats-radio",
+        "genres": [
+            "house",
+            "lounge",
+            "dance"
+        ],
+        "description": "A German national station for house, deep house, nu disco, dance and lounge music",
+        "discontinued": false
+    },
+    "Kassik Radio - Movie Radio": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://live.streams.klassikradio.de/klassikradio-movie",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "A German national station for movie soundtracks.",
+        "discontinued": false
+    },
+    "Kassik Radio - Choir": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/chor/mp3-192",
+        "genres": [
+            "choir"
+        ],
+        "description": "A German national station for choir music.",
+        "discontinued": false
+    },
+    "Klassik Radio - X-Mas Classics": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/christmas/mp3-192",
+        "genres": [
+            "holiday",
+            "classics"
+        ],
+        "description": "A German national station for Christmas music.",
+        "discontinued": false
+    },
+    "La Ranchera - 106.1 fm": {
+        "website": "https://grupozer.mx/portada.php?id=103",
+        "stream": "https://cast.zuperdns.net/8022/stream/;stream.mp3",
+        "genres": [
+            "mexican"
+        ],
+        "description": "Remembering the best Mexican regional music such as grupera, ranchera and tejano music.",
+        "discontinued": false
+    },
+    "Radio Caribbean International": {
+        "website": "https://rcistlucia.com",
+        "stream": "https://usa6.fastcast4u.com/proxy/vfzujvaw?mp=/1?",
+        "genres": [
+            "caribbean",
+            "top 40",
+            "news"
+        ],
+        "description": "The music and news of the Caribbean.",
+        "discontinued": false
+    },
+    "Navagia Internet Radio": {
+        "website": "https://www.navagia.gr",
+        "stream": "http://136.243.102.164:9996/;",
+        "genres": [
+            "greek",
+            "folk"
+        ],
+        "description": "Amateur radio station spreading the love of folk song.",
+        "discontinued": false
     }
 }
