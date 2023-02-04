@@ -1452,7 +1452,9 @@
         "website": "https://www.memphislibrary.org/wypl/",
         "stream": "https://ice64.securenetsystems.net/WYPL",
         "genres": [
-            ""
+            "reading",
+            "news",
+            "education"
         ],
         "description": "WYPL FM 89.3 is the Memphis Libraries' broadcast radio station, offering programming as a reading service.",
         "discontinued": false
@@ -1880,6 +1882,408 @@
             "world"
         ],
         "description": "The Bay Area’s Bollywood Station",
+        "discontinued": false
+    },
+    "102.1 & 105.3 The Shark": {
+        "website": "https://shark1053.com/",
+        "stream": "https://live.wostreaming.net/manifest/townsquare-wshkfmaac-ibc3",
+        "genres": [
+            "hits"
+        ],
+        "description": "A Classic Hits radio station serving Portsmouth",
+        "discontinued": false
+    },
+    "Atlanta Radio Korea AM 790": {
+        "website": "https://atlantaradiokorea.com/",
+        "stream": "https://s2.radio.co/s481a3f747/listen",
+        "genres": [
+            "korean",
+            "world"
+        ],
+        "description": "Korean radio from the Southeast USA.",
+        "discontinued": false
+    },
+    "Radio Korea 1540 AM": {
+        "website": "https://www.radiokorea.com",
+        "stream": "https://onairweb.radiokorea.com/live;stream/1",
+        "genres": [
+            "korean",
+            "world"
+        ],
+        "description": "Airs Korean–language programming, a blend of talk, news, information, and music.",
+        "discontinued": false
+    },
+    "Totally Country Radio": {
+        "website": "https://totallyhitsradiolive.com/totally-country-radio/",
+        "stream": "https://securestreams2.autopo.st:1281/stream",
+        "genres": [
+            "country"
+        ],
+        "description": "Non-Stop Country Music from the 80s, 90s, 00s, and Today!",
+        "discontinued": false
+    },
+    "Totally Hits Radio": {
+        "website": "https://totallyhitsradiolive.com",
+        "stream": "https://securestreams6.autopo.st:2216//stream",
+        "genres": [
+            "hits",
+            "pop"
+        ],
+        "description": "All The Hits",
+        "discontinued": false
+    },
+    "KWID 101.9 FM La Buena": {
+        "website": "https://www.labuenalv.com",
+        "stream": "https://13693.live.streamtheworld.com/KWIDFMAAC.aac",
+        "genres": [
+            "mexican",
+            "spanish",
+            "hits"
+        ],
+        "description": "Spanish Adult Hits",
+        "discontinued": false
+    },
+    "MetalRock.FM": {
+        "website": "http://www.metalrockradio.com",
+        "stream": "http://kathy.torontocast.com:2820/;?",
+        "genres": [
+            "metal",
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Salsa FM": {
+        "website": "http://lakariradio.wixsite.com/salsafm",
+        "stream": "http://stream.zenolive.com/tgzmw19rqrquv",
+        "genres": [
+            "salsa"
+        ],
+        "description": "Only the best of salsa IN THE WHOLE WORLD, SALSA OF TODAY AND YESTERDAY AND ALWAYS",
+        "discontinued": false
+    },
+    "POWER 106 FM": {
+        "website": "http://www.power106.com/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC",
+        "genres": [
+            "hip hop",
+            "R&B"
+        ],
+        "description": "#1 for Hip Hop",
+        "discontinued": false
+    },
+    "Happy Christmas Radio": {
+        "website": "https://www.happychristmasradio.net",
+        "stream": "https://radio1.streamserver.link/radio/8070/hcr-aac",
+        "genres": [
+            "holiday"
+        ],
+        "description": "The most musical gift under your Christmas tree.",
+        "discontinued": false
+    },
+    "That 70's Channel ": {
+        "website": "http://www.that70schannel.com/",
+        "stream": "https://streaming.live365.com/a09646?",
+        "genres": [
+            "70s",
+            "hits"
+        ],
+        "description": "The Biggest Hits of the 70's and More",
+        "discontinued": false
+    },
+    "98.7 Frank FM - Seacoast": {
+        "website": "https://frankfmradio.com",
+        "stream": "https://14553.live.streamtheworld.com/WFNQ_FMAAC.aac",
+        "genres": [
+            "variety",
+            "hits"
+        ],
+        "description": "New Hampshire's BIG Variety",
+        "discontinued": false
+    },
+    "Third Rock Radio": {
+        "website": "https://thirdrockradio.net",
+        "stream": "http://rfcmedia3.streamguys1.com/thirdrock.mp3",
+        "genres": [
+            "science",
+            "education"
+        ],
+        "description": "America's Space Station",
+        "discontinued": false
+    },
+    "NSF Science Zone Radio": {
+        "website": "https://www.nsf.gov/social/index.jsp",
+        "stream": "http://amber.streamguys1.com:4200/live",
+        "genres": [
+            "science",
+            "education"
+        ],
+        "description": "From the latest science news headlines to in-depth interviews and lively discussions, NSF's Science Zone Radio streams 100+ radio shows and podcasts, delivering engaging audio programming about all things STEM, 24/7.",
+        "discontinued": false
+    },
+    "The Time Machine": {
+        "website": "http://www.tmachineradio.com",
+        "stream": "http://janus.cdnstream.com:5426/;",
+        "genres": [
+            "hits",
+            "60s",
+            "70s",
+            "80s"
+        ],
+        "description": "Classic Hits of The 60s, 70s & 80s!",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Ambient": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8069/;",
+        "genres": [
+            "ambient"
+        ],
+        "description": "Commercial free, high definition ambient music radio",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Drum and Bass": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8061/;",
+        "genres": [
+            "drums",
+            "bass"
+        ],
+        "description": "Commercial free, high definition drums and bass music radio",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Dubstep": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8067/;",
+        "genres": [
+            "dubstep"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Jazz": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8064/;",
+        "genres": [
+            "jazz"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Pop": {
+        "website": "https://www.partyvibe.com",
+        "stream": "ttps://www.partyviberadio.com:8065/;",
+        "genres": [
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Psytrance": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8062/;",
+        "genres": [
+            "psychedelic",
+            "psychill"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Techno": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8068/;",
+        "genres": [
+            "techno"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Rap": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8063/;",
+        "genres": [
+            "rap"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Reggae": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8060/;",
+        "genres": [
+            "reggae"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Party Vibe Radio - Rock": {
+        "website": "https://www.partyvibe.com",
+        "stream": "https://www.partyviberadio.com:8066/;",
+        "genres": [
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "ROCK HARD RADIO Unplugged": {
+        "website": "https://lynx.prostreaming.net:2199/start/rhru/",
+        "stream": "https://lynx.prostreaming.net/proxy/rhru/stream",
+        "genres": [
+            "rock",
+            "acoustic"
+        ],
+        "description": "It's All Your Favorite Acoustic Rock Unplugged 24/7.",
+        "discontinued": false
+    },
+    "My 90's Radio": {
+        "website": "https://lynx.prostreaming.net:2199/start/my90s/",
+        "stream": "https://lynx.prostreaming.net/proxy/my90s/stream",
+        "genres": [
+            "90s",
+            "hits"
+        ],
+        "description": "Your Favorite Hits From The 90'S",
+        "discontinued": false
+    },
+    "Soul Cafe Radio": {
+        "website": "https://www.soulcaferadio.com",
+        "stream": "https://usa6.fastcast4u.com/proxy/nhhqucow2?mp=/1",
+        "genres": [
+            "R&B",
+            "indie"
+        ],
+        "description": "New York's #1 For Indie R&B",
+        "discontinued": false
+    },
+    "Northeast Public Radio WAMC": {
+        "website": "https://www.wamc.org",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFM.mp3",
+        "genres": [
+            "community",
+            "news"
+        ],
+        "description": "WAMC/Northeast Public Radio is a regional public radio network serving parts of seven northeastern states. These include New York, Massachusetts, Connecticut, Vermont, New Jersey, New Hampshire and Pennsylvania.",
+        "discontinued": false
+    },
+    "New England Public Radio WFCR": {
+        "website": "https://www.nepm.org",
+        "stream": "https://nepr.streamguys1.com/WFCR.mp3",
+        "genres": [
+            "community",
+            "news",
+            "classical",
+            "jazz"
+        ],
+        "description": "News, jazz, and classical music.",
+        "discontinued": false
+    },
+    "DC ROck Radio": {
+        "website": "https://dcrockradio.com",
+        "stream": "https://outpostradio.com/listen/st101",
+        "genres": [
+            "classic rock"
+        ],
+        "description": "DC Rock brings back all the songs that classic rock radio has forgotten.",
+        "discontinued": false
+    },
+    "WFCC 107.5 Cape Classical": {
+        "website": "http://www.wfcc.com",
+        "stream": "https://ice7.securenetsystems.net/WFCC",
+        "genres": [
+            "classical",
+            "news"
+        ],
+        "description": "WFCC Classical 107.5 FM is Cape Cod's premiere classical music radio station offering local news updates, up-to-the-minute weather forecasts and a wealth of community information.",
+        "discontinued": false
+    },
+    "Radio Puerto Rico 99.7 FM Y 95.9 FM": {
+        "website": "https://socialnewsnetworkcor.wixsite.com/radiopuertorico",
+        "stream": "https://server7.servistreaming.com/proxy/radiopuertorico?mp=/stream",
+        "genres": [
+            "caribbean",
+            "latin",
+            "salsa"
+        ],
+        "description": "Our programs emphasize music and demonstrating the best of Hispanics.",
+        "discontinued": false
+    },
+    "KHPR Hawaii Public Radio": {
+        "website": "https://www.hawaiipublicradio.org",
+        "stream": "https://khpr-ice.streamguys1.com/khpr2",
+        "genres": [
+            "community",
+            "news"
+        ],
+        "description": "KHPH in Kailua Hawaii is an educational or nonprofit radio station.",
+        "discontinued": false
+    },
+    "UKULELE ISLAND": {
+        "website": "http://ukulele-island.com",
+        "stream": "http://s3.voscast.com:8662/;stream1675516540823/1",
+        "genres": [
+            "ukulele",
+            "hawaiian"
+        ],
+        "description": "UKULELE ISLAND features artists from Hawaii and beyond.",
+        "discontinued": false
+    },
+    "Surf Shack Radio": {
+        "website": "https://www.surfshackradio.com/",
+        "stream": "https://streamer.radio.co/s74e0a4911/low",
+        "genres": [
+            "reggae",
+            "hits"
+        ],
+        "description": "The Best Mix of Music on the Beach",
+        "discontinued": false
+    },
+    "Hawaiian Music Live": {
+        "website": "https://www.hawaiianmusiclive.xyz",
+        "stream": "http://s6.voscast.com:10108/;",
+        "genres": [
+            "hawaiian"
+        ],
+        "description": "Globally engaging our communities through Live Hawaiian Music and Events",
+        "discontinued": false
+    },
+    "Totally Radio Hits": {
+        "website": "http://www.totallyradio.com.au/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_HITS_S01_SC",
+        "genres": [
+            "hits"
+        ],
+        "description": "Non-stop hit music.",
+        "discontinued": false
+    },
+    "702 ABC Radio Sydney": {
+        "website": "http://www.abc.net.au/sydney",
+        "stream": "http://live-radio01.mediahubaustralia.com/2LRW/aac/",
+        "genres": [
+            "news",
+            "talk",
+            "sports"
+        ],
+        "description": "News and information, current affairs and talkback. Sports and entertainment.",
+        "discontinued": false
+    },
+    "Sax4Love": {
+        "website": "http://www.sax4love.com",
+        "stream": "https://radio2.vip-radios.fm:18054/stream-128kmp3-Sax4love",
+        "genres": [
+            "saxophone",
+            "instrumental",
+            "ambient"
+        ],
+        "description": "100% Sax Music from MIAMI.",
+        "discontinued": false
+    },
+    "Real World Sounds": {
+        "website": "https://www.internet-radio.com/station/realworldsounds/",
+        "stream": "https://uk5.internet-radio.com/proxy/realworldsounds?mp=/stream;",
+        "genres": [
+            "ambient"
+        ],
+        "description": "Street noise.",
         "discontinued": false
     }
 }
