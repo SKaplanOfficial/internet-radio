@@ -1,0 +1,364 @@
+{
+    "Moon Phase Radio": {
+        "website": "",
+        "stream": "http://108.61.34.50:7317/stream/1/",
+        "genres": [
+            "ambient"
+        ]
+    },
+    "SCIFI.radio": {
+        "website": "https://scifi.radio",
+        "stream": "https://station.kryptonradio.com:8080/stream",
+        "genres": [
+            "soundtracks"
+        ]
+    },
+    "Streaming Soundtracks": {
+        "website": "http://www.streamingsoundtracks.com",
+        "stream": "http://hi5.streamingsoundtracks.com/;",
+        "genres": [
+            "soundtracks"
+        ]
+    },
+    "Newsmax": {
+        "website": "https://www.iheart.com/live/newsmax-8856/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/NEWSMAX_FM.aac",
+        "genres": [
+            "news",
+            "talk"
+        ]
+    },
+    "WRCW Crime Story": {
+        "website": "https://live365.com/station/WRCW-Crime-Story----a60381",
+        "stream": "https://streaming.live365.com/a60381",
+        "genres": [
+            "talk"
+        ]
+    },
+    "Majestic Jukebox Radio": {
+        "website": "https://www.majesticjukeboxradio.com/",
+        "stream": "https://uk3.internet-radio.com/proxy/majesticjukebox?mp=/live",
+        "genres": [
+            "rock",
+            "jazz",
+            "blues",
+            "country",
+            "soul",
+            "40s",
+            "50s",
+            "60s",
+            "70s",
+            "80s"
+        ]
+    },
+    "Radio X-MAS": {
+        "website": "http://www.radio-xmas.at",
+        "stream": "http://77.75.16.229:443/stream/1/",
+        "genres": [
+            "holiday"
+        ]
+    },
+    "Beethoven Channel": {
+        "website": "https://beethovenchannel.com/",
+        "stream": "https://classicalconnected.com:8012/stream",
+        "genres": [
+            "classical",
+            "symphony",
+            "romantic",
+            "piano"
+        ]
+    },
+    "Sleep Radio Stream": {
+        "website": "https://www.sleepradio.co.nz",
+        "stream": "http://149.56.234.138:8169/stream/1/",
+        "genres": [
+            "ambient",
+            "new age"
+        ]
+    },
+    "Joy Hits": {
+        "website": " https://joyhits.online",
+        "stream": "http://stream.joyhits.online:8880/joyhits.aac",
+        "genres": [
+            "top 40",
+            "pop"
+        ]
+    },
+    "ASMR Mix": {
+        "website": "https://www.getmeradio.com/stations/asmrmix-7014/",
+        "stream": "https://drive.uber.radio/uber/asmrmix/icecast.audio",
+        "genres": [
+            "ambient",
+            "ASMR"
+        ]
+    },
+    "C-Span Radio": {
+        "website": "https://www.c-span.org",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3",
+        "genres": [
+            "talk",
+            "politics"
+        ]
+    },
+    "Magic 80s Florida": {
+        "website": "http://www.magicoldiesflorida.com",
+        "stream": "http://airspectrum.cdnstream1.com:8018/1606_192",
+        "genres": [
+            "80s",
+            "oldies",
+            "top 40",
+            "pop",
+            "rock"
+        ]
+    },
+    "Metal Rock Radio": {
+        "website": "http://metalrockradio.com",
+        "stream": "https://kathy.torontocast.com:2800/stream/1/",
+        "genres": [
+            "metal",
+            "hard rock",
+            "classic rock"
+        ]
+    },
+    "Bloomberg Radio": {
+        "website": "https://tunein.com/radio/Bloomberg-Radio-s165740/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC.aac",
+        "genres": [
+            "news",
+            "talk"
+        ]
+    },
+    "Calm Piano": {
+        "website": "https://www.getmeradio.com/stations/calmpiano-4057/",
+        "stream": "https://drive.uber.radio/uber/calmpiano/icecast.audio",
+        "genres": [
+            "piano"
+        ]
+    },
+    "Horror and Halloween Radio": {
+        "website": "http://horrorandhalloweenradio.com/",
+        "stream": "http://s2.voscast.com:11034/;stream1674643361109/1",
+        "genres": [
+            "holiday"
+        ]
+    },
+    "Park Magic Radio": {
+        "website": "http://parkmagicradio.ca/",
+        "stream": "http://www.parkmagicradio.ca:8000/stream/1/;",
+        "genres": [
+            "soundtracks"
+        ]
+    },
+    "AmbientRadio": {
+        "website": "http://www.ambientradio.net",
+        "stream": "https://stream.rcast.net/13551.mp3",
+        "genres": [
+            "ambient",
+            "chillout"
+        ]
+    },
+    "PaganRadio": {
+        "website": "https://paganradio.org",
+        "stream": "https://radio.streemlion.com/paganradio",
+        "genres": [
+            "pagan",
+            "folk"
+        ]
+    },
+    "SonaFM Groove Salad": {
+        "website": "https://somafm.com/groovesalad/",
+        "stream": "https://ice6.somafm.com/groovesalad-128-mp3",
+        "genres": [
+            "ambient",
+            "downtempo"
+        ],
+        "description": "A nicely chilled plate of ambient/downtempo beats and grooves."
+    },
+    "SonaFM ThistleRadio": {
+        "website": "https://somafm.com/thistle/index.html",
+        "stream": "https://ice5.somafm.com/thistle-128-mp3",
+        "genres": [
+            "celtic"
+        ],
+        "description": "Exploring music from Celtic roots and branches."
+    },
+    "SonaFM SF 10-33": {
+        "website": "https://somafm.com/sf1033/",
+        "stream": "https://ice1.somafm.com/sf1033-128-mp3",
+        "genres": [
+            "ambient"
+        ],
+        "description": "Ambient music mixed with the sounds of San Francisco public safety radio traffic."
+    },
+    "SonaFM Mission Control": {
+        "website": "https://somafm.com/missioncontrol/",
+        "stream": "https://ice6.somafm.com/missioncontrol-128-mp3",
+        "genres": [
+            "ambient",
+            "experimental"
+        ],
+        "description": "Celebrating NASA and Space Explorers everywhere."
+    },
+    "SonaFM Dub Step Beyond": {
+        "website": "https://somafm.com/dubstep/",
+        "stream": "https://ice5.somafm.com/dubstep-128-mp3",
+        "genres": [
+            "dubstep"
+        ],
+        "description": "Dubstep, Dub and Deep Bass. May damage speakers at high volume."
+    },
+    "SonaFM The Dark Zone": {
+        "website": "https://somafm.com/darkzone/",
+        "stream": "https://ice5.somafm.com/darkzone-128-mp3",
+        "genres": [
+            ""
+        ],
+        "description": "The darker side of deep ambient. Music for staring into the Abyss."
+    },
+    "SonaFM Deep Space One": {
+        "website": "https://somafm.com/deepspaceone/",
+        "stream": "https://ice5.somafm.com/deepspaceone-128-mp3",
+        "genres": [
+            "ambient",
+            "electronic",
+            "experimental"
+        ],
+        "description": "Deep ambient electronic, experimental and space music. For inner and outer space exploration."
+    },
+    "SonaFM SF Police Scanner": {
+        "website": "https://somafm.com/scanner/",
+        "stream": "https://ice5.somafm.com/scanner-128-mp3",
+        "genres": [
+            "ambient",
+            "talk"
+        ],
+        "description": "San Francisco Public Safety Scanner Feed."
+    },
+    "SonaFM Secret Agent": {
+        "website": "https://somafm.com/secretagent/",
+        "stream": "https://ice5.somafm.com/secretagent-128-mp3",
+        "genres": [
+            "cinematic",
+            "downtempo",
+            "lounge",
+            "samba"
+        ],
+        "description": "The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!"
+    },
+    "SonaFM Heavyweight Reggae": {
+        "website": "https://somafm.com/reggae/",
+        "stream": "https://ice5.somafm.com/reggae-128-mp3",
+        "genres": [
+            "reggae"
+        ],
+        "description": "Reggae, Ska, Rocksteady classic and deep tracks."
+    },
+    "SonaFM Christmas Rocks!": {
+        "website": "https://somafm.com/xmasrocks/",
+        "stream": "https://ice5.somafm.com/xmasrocks-128-mp3",
+        "genres": [
+            "holiday",
+            "indie",
+            "alternative"
+        ],
+        "description": "Have your self an indie/alternative holiday season!"
+    },
+    "SonaFM Covers": {
+        "website": "https://somafm.com/covers/",
+        "stream": "https://ice5.somafm.com/covers-128-mp3",
+        "genres": [
+            "cover"
+        ],
+        "description": "Just covers. Songs you know by artists you don't."
+    },
+    "Los 40 Argentina": {
+        "website": "https://los40.com.ar/lista40/?o=VL40",
+        "stream": "https://24083.live.streamtheworld.com/LOS40_ARGENTINAAAC_SC",
+        "genres": [
+            "latin",
+            "top 40",
+            "pop",
+            "R&B",
+            "rock"
+        ],
+        "description": "40 Principales is a broadcast radio station in Buenos Aires, Argentina, providing Adult Contemporary, Top 40 Pop music as part of Los 40 Principales network of radio stations based in Latin America."
+    },
+    "Organlive": {
+        "website": "https://www.organlive.com",
+        "stream": "https://play.organlive.com:7010/;",
+        "genres": [
+            "organ",
+            "classical",
+            "baroque"
+        ],
+        "description": "Organlive is a listener-supported internet audio station with a focus on music of the classical organ."
+    },
+    "Baroque Sonatas Radio": {
+        "website": "https://laut.fm/baroque_sonatas_radio",
+        "stream": "https://stream.laut.fm/baroque_sonatas_radio",
+        "genres": [
+            "baroque",
+            "classical"
+        ],
+        "description": "Klassik Barockmusik."
+    },
+    "Pumpkin FM Crime Incorporated": {
+        "website": "https://pumpkinfm.com/live-stream/crime-inc/",
+        "stream": "http://65.21.202.84:8366/;",
+        "genres": [
+            "talk"
+        ],
+        "description": "The best Crime, Police and Detective shows 24/7."
+    },
+    "Pumpkin FM 1940s Radio": {
+        "website": "https://pumpkinfm.com/live-stream/1940s-radio/",
+        "stream": "65.21.202.84:8392/;",
+        "genres": [
+            "40s",
+            "hits"
+        ],
+        "description": "Home Service, the Best Mix of Old Time Radio shows and music 24/7."
+    },
+    "Pumpkin FM Radio Malvern International": {
+        "website": "https://pumpkinfm.com/live-stream/radio-malvern-int/",
+        "stream": "65.21.202.84:8403/;",
+        "genres": [
+            ""
+        ],
+        "description": "An Internet Radio station broadcasting from London, England, United Kingdom, providing Classical, Opera, Symphony, and Baroque music."
+    },
+    "Pumpkin FM BritCom 1": {
+        "website": "65.21.202.84:8175/;",
+        "stream": "https://pumpkinfm.com/live-stream/britcom-1/",
+        "genres": [
+            "comedy",
+            "talk"
+        ],
+        "description": "The Best Classic British Comedy Radio."
+    },
+    "Radio Online Smooth Jazz": {
+        "website": "http://cloud-jazz.com",
+        "stream": "https://stream.zeno.fm/w3phtkukfg8uv",
+        "genres": [
+            "jazz"
+        ],
+        "description": "24 hours a day of smooth jazz"
+    },
+    "Middle Eastern Classical": {
+        "website": "https://zeno.fm/radio/eastern-classical-music/",
+        "stream": "https://stream.zeno.fm/r8b9smty1a0uv",
+        "genres": [
+            "classical",
+            "middle eastern"
+        ],
+        "description": "Western Classical Music by Composers from Iran, Turkey, Azerbaijan, Armenia, Arab Countries, Israel, Central Asia, etc."
+    },
+    "Animal Radio": {
+        "website": "https://animalradio.com/top.php",
+        "stream": "https://streaming.radio.co/s86f73c38a/listen",
+        "genres": [
+            "talk"
+        ],
+        "description": "Come celebrate the connection with your pets. Animal Radio's experts will answer your pet-questions toll-free 1-866-405-8405."
+    }
+}
