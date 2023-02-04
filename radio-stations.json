@@ -585,9 +585,11 @@
         "website": "https://tunein.com/radio/BBC-Radio-1-988-s24939/",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
         "genres": [
-            "pop"
+            "pop",
+            "dance",
+            "rock"
         ],
-        "description": "",
+        "description": "You-orientated music, dance, and rock",
         "discontinued": false
     },
     "BBC World Service": {
@@ -2937,6 +2939,779 @@
             "electronic"
         ],
         "description": "Pride Radio is an inclusive radio station broadcasting across the North East on 89.2FM and throughout the UK.",
+        "discontinued": false
+    },
+    "Bongo Radio - African Grooves Channel": {
+        "website": "https://www.bongoradio.com/bongo-radio-african-grooves-channel/",
+        "stream": "http://www.bongoradio.com:8000/dance.mp3",
+        "genres": [
+            "dance",
+            "african",
+            "world",
+            "hip hop"
+        ],
+        "description": "A radio station specially dedicated to African Grooves style music.",
+        "discontinued": false
+    },
+    "Bongo Radio - Taarab & Mduara Channel": {
+        "website": "https://www.bongoradio.com/bongo-radio-taarab-mduara-channel/",
+        "stream": "http://www.bongoradio.com:8000/taarab.mp3",
+        "genres": [
+            "taarab",
+            "hip hop",
+            "swahili",
+            "african",
+            "world"
+        ],
+        "description": "A radio station specially dedicated to Taarab and Mduara music.",
+        "discontinued": false
+    },
+    "Bongo Randio - Zilipendwa Channel": {
+        "website": "https://www.bongoradio.com/bongo-radio-zilipendwa-channel/",
+        "stream": "http://www.bongoradio.com:8000/zilipendwa.mp3",
+        "genres": [
+            "zilipendwa",
+            "reggae",
+            "african",
+            "world",
+            "60s",
+            "70s",
+            "80s"
+        ],
+        "description": "Music representing freedom.",
+        "discontinued": false
+    },
+    "Bango Radio - East African Music Channel": {
+        "website": "https://www.bongoradio.com/bongo-radio-east-african-music-channel/",
+        "stream": "http://bongoradio.com:8000/african.mp3",
+        "genres": [
+            "hip hop",
+            "african",
+            "world",
+            "R&B"
+        ],
+        "description": "Music from East African cultures.",
+        "discontinued": false
+    },
+    "BBC Radio 2": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+        "genres": [
+            "jazz",
+            "world",
+            "drama"
+        ],
+        "description": "Adult-orientated music, jazz, world music, arts, culture, and drama.",
+        "discontinued": false
+    },
+    "BBC Radio 3": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+        "genres": [
+            "classical",
+            "jazz",
+            "world",
+            "drama"
+        ],
+        "description": "Classical music, jazz, world music, arts, culture, and drama.",
+        "discontinued": false
+    },
+    "BBC Radio 4": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Spoken-work programming and current affairs.",
+        "discontinued": false
+    },
+    "BBC Radio 5 Live": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk",
+        "genres": [
+            "news",
+            "sports",
+            "talk"
+        ],
+        "description": "News, sports, and current affairs.",
+        "discontinued": false
+    },
+    "BBC Radio 6 Music": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_6music",
+        "genres": [
+            "alternative",
+            "rock",
+            "reggae"
+        ],
+        "description": "Music of non-mainstream genres.",
+        "discontinued": false
+    },
+    "BBC Radio 1Xtra": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra",
+        "genres": [
+            "hip hop",
+            "R&B",
+            "dance"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio 4 Extra": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra",
+        "genres": [
+            "comedy",
+            "drama",
+            "documentary"
+        ],
+        "description": "Archive programming",
+        "discontinued": false
+    },
+    "BBC Asian Network": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network",
+        "genres": [
+            "asian"
+        ],
+        "description": "Music of the British Asian community",
+        "discontinued": false
+    },
+    "BBC Coventry and Warwickshire": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_coventry_warwickshire",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Coventry and Warwickshire.",
+        "discontinued": false
+    },
+    "BBC Essex": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_essex",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Hereford & Worcester": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_hereford_worcester",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Berkshire": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Berkshire and north Hampshire.",
+        "discontinued": false
+    },
+    "BBC Radio Bristol": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_bristol",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Bristol, Bath, North Somerset, and South Gloucestershire.",
+        "discontinued": false
+    },
+    "BBC Radio Cambridge": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cambridge",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Cornwall": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cornwall",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Cornwall and the Isles of Scilly.",
+        "discontinued": false
+    },
+    "BBC Radio Cumbria": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cumbria",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Cymru": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru",
+        "genres": [
+            "language",
+            "community"
+        ],
+        "description": "Welsh language radio station",
+        "discontinued": false
+    },
+    "BBC Radio Cymru 2": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru_2",
+        "genres": [
+            "language",
+            "community"
+        ],
+        "description": "Part-time Welsh language radio station which opts out at breakfast tiem from Radio Cymru.",
+        "discontinued": false
+    },
+    "BBC Radio Derby": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Radio station for all but the northern part of Derbyshire and eastern Staffordshire.",
+        "discontinued": false
+    },
+    "BBC Radio Devon": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Foyle": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Part-time station covering Derry which opts out of Radio Ulster.",
+        "discontinued": false
+    },
+    "BBC Radio Gloucestershire": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Guernsey": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_guernsey",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Guernsey, Alderney, Herm, and Sark.",
+        "discontinued": false
+    },
+    "BBC Radio Humberside": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_humberside",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Kingston-upon-Hull, the East Riding of Yorkshire, and north Lincolnshire",
+        "discontinued": false
+    },
+    "BBC Radio Jersey": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Kent": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_kent",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Lancashire": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Leeds": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leeds",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Leeds, Bradford, and West Yorkshire.",
+        "discontinued": false
+    },
+    "BBC Radio Leicester": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leicester",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Leicestershire and Rutland.",
+        "discontinued": false
+    },
+    "BBC Radio Lincolnshire": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lincolnshire",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio London": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_london",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Manchester": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Greater Manchester, north easter Chesire, and north west Derbyshire.",
+        "discontinued": false
+    },
+    "BBC Radio Merseyside": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_merseyside",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Merseyside and north/west Chesire.",
+        "discontinued": false
+    },
+    "BBC Radio nan Gaidheal": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal",
+        "genres": [
+            "language",
+            "community"
+        ],
+        "description": "A Scottish Gaelic language radio station",
+        "discontinued": false
+    },
+    "BBC Radio Newcastle": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_newcastle",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Tyne and Wear, Northumberland and the northern part of Country Durham.",
+        "discontinued": false
+    },
+    "BBC Radio Norfolk": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_norfolk",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Northampton": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_northampton",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Nottingham": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nottingham",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Orkney": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_orkney",
+        "genres": [
+            ""
+        ],
+        "description": "Part-time station for Orkney which opts out of Radio Scotland.",
+        "discontinued": false
+    },
+    "BBC Radio Oxford": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_oxford",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Scotland FM": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Primary radio station for all things Scotland.",
+        "discontinued": false
+    },
+    "BBC Radio Scotland Extra": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Secondary radio station for Scotland",
+        "discontinued": false
+    },
+    "BBC Radio Sheffield": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sheffield",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Sheffield, South Yorkshire, and north east Derbyshire",
+        "discontinued": false
+    },
+    "BBC Radio Shropshire": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_shropshire",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Solent": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for mid and south Hampshire, Dorset, and the Isle of Wight.",
+        "discontinued": false
+    },
+    "BBC Radio Solent West Dorset": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent_west_dorset",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Somerset Sound": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_somerset_sound",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Stoke": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_stoke",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for north and mid Staffordshire, north east Shropshire, and south Chesire.",
+        "discontinued": false
+    },
+    "BBC Radio Suffolk": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_suffolk",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio Surrey": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_surrey",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Surrey, northern West Sussex, and north east Hampshire.",
+        "discontinued": false
+    },
+    "BBC Radio Sussex": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sussex",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for East and West Sussex.",
+        "discontinued": false
+    },
+    "BBC Radio Tees": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_tees",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Teesside and the southern part of County Durham.",
+        "discontinued": false
+    },
+    "BBC Radio Ulster": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Radio station for all things Northern Ireland",
+        "discontinued": false
+    },
+    "BBC Radio Wales": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Radio station for all things Wales.",
+        "discontinued": false
+    },
+    "BBC Radio Wiltshire": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wiltshire",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "BBC Radio WM": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_wm",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for Birmingham, the West Midlands, and southern Staffordshire.",
+        "discontinued": false
+    },
+    "BBC Radio York": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_york",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Station for North Yorkshire",
+        "discontinued": false
+    },
+    "BBC Three Counties Radio": {
+        "website": "",
+        "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "Radio station for Bedfordshire, Buckinghamshire, and Hertfordshire.",
+        "discontinued": false
+    },
+    "Roswell UFO Radio": {
+        "website": "https://roswellbooks.com/?page_id=1262",
+        "stream": "http://65.108.120.179:8545/stream",
+        "genres": [
+            "sci-fi",
+            "drama"
+        ],
+        "description": "Featuring 24/7 audio streaming of some of our favorite sci-fi & thriller radio shows from the 1940s through 1960s",
+        "discontinued": false
+    },
+    "Radio Energy Boston": {
+        "website": "https://www.radioenergieboston.com",
+        "stream": "https://s3.voscast.com:8555/live",
+        "genres": [
+            "news",
+            "talk",
+            "religion"
+        ],
+        "description": "Radio Energy Boston is an internet radio station from Boston, MA, United States, providing Community news, education, culture and religious programs.",
+        "discontinued": false
+    },
+    "Radio Habana Cuba 106.9 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/internacional/radio-habana-cuba-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/McW3fLhs",
+        "genres": [
+            "spanish",
+            "news",
+            "talk",
+            "world"
+        ],
+        "description": "Radio Habana Cuba FM 106.9 is a broadcast radio station from La Habana, Cuba, providing National news and world events in multilanguage.",
+        "discontinued": false
+    },
+    "Radio Rebelde 96.7 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/nacionales/radio-rebelde-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/zrXXWK9F",
+        "genres": [
+            "spanish",
+            "hits",
+            "news",
+            "sports",
+            "variety"
+        ],
+        "description": "Provides a varied program of national and international music hits of the moment, news reports and live sport events",
+        "discontinued": false
+    },
+    "Radio Reloj 101.5 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/nacionales/radio-reloj-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/b3jbfThq",
+        "genres": [
+            "spanish",
+            "news",
+            "talk"
+        ],
+        "description": "All-news format with clock ticking sound in the background.",
+        "discontinued": false
+    },
+    "Radio Progreso 90.3 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/nacionales/radio-progreso-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/XjfW7qWN",
+        "genres": [
+            "spanish",
+            "pop",
+            "hits",
+            "news"
+        ],
+        "description": "Radio Progreso is one of the most famous online radio station on Cuba. Radio Progreso broadcast various kind of latest pop hits news talk etc. music.",
+        "discontinued": false
+    },
+    "CMBF 105.7 FM Radio Musical Nacional": {
+        "website": "https://www.radiocubana.cu/emisoras/nacionales/cmbf-radio-musical-nacional-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/Nbtz7HT3",
+        "genres": [
+            "spanish",
+            "classical"
+        ],
+        "description": "Radio Cuban cultural station, specialized in broadcasting classical music and spaces for analysis.",
+        "discontinued": false
+    },
+    "Radio Enciclopedia 94.1 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/nacionales/radio-enciclopedia-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/9Rnrbjzq",
+        "genres": [
+            "instrumental",
+            "news"
+        ],
+        "description": "Broadcasts soft instrumental music with occasional news and cultural programming.",
+        "discontinued": false
+    },
+    "Radio Taíno 93.3 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/nacionales/radio-taino-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/3MCwWg3V",
+        "genres": [
+            "travel"
+        ],
+        "description": "The tourism radio station of Cuba.",
+        "discontinued": false
+    },
+    "Radio Varadero 98.1 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/municipales/radio-varadero-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/jWCmP3Fj",
+        "genres": [
+            "travel"
+        ],
+        "description": "Radio station that broadcasts live for the main tourist destination in Cuba.",
+        "discontinued": false
+    },
+    "Radio Amanecer 96.9 FM": {
+        "website": "https://www.radiocubana.cu/emisoras/municipales/radio-amanecer-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/HpM9FCwR",
+        "genres": [
+            "spanish",
+            "news",
+            "hits",
+            "drama"
+        ],
+        "description": "Offers a multitude of current and interesting topics, as well as music, fun and interesting thematic reports.",
+        "discontinued": false
+    },
+    "NTS Channel 1": {
+        "website": "https://www.nts.live",
+        "stream": "https://stream-relay-geo.ntslive.net/stream",
+        "genres": [
+            "variety"
+        ],
+        "description": "NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers.",
+        "discontinued": false
+    },
+    "NTS Channel 2": {
+        "website": "https://www.nts.live",
+        "stream": "https://stream-relay-geo.ntslive.net/stream2",
+        "genres": [
+            "variety"
+        ],
+        "description": "NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers.",
         "discontinued": false
     }
 }
