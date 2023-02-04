@@ -437,7 +437,7 @@
     },
     "The Zone - Dublin": {
         "website": "https://www.thezonedublin.org",
-        "stream": "https://uk1.internet-radio.com/stream/thezone/stream.pls",
+        "stream": "http://uk1.internet-radio.com:8355/stream",
         "genres": [
             "alternative",
             "indie",
@@ -449,9 +449,9 @@
     },
     "Radio Bloodstream": {
         "website": "http://www.radiobloodstream.com/",
-        "stream": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://s8.myradiostream.com:58238/listen.pls?sid=1&t=.pls",
+        "stream": "http://s8.myradiostream.com:58238/listen",
         "genres": [
-            "rock",
+            "rock",---
             "metal",
             "heavy metal",
             "punk"
@@ -779,7 +779,7 @@
     },
     "Galgalatz": {
         "website": "https://glz.co.il/גלגלצ",
-        "stream": "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+        "stream": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE",
         "genres": [
             "hebrew",
             "world"
@@ -973,7 +973,7 @@
     },
     "Radio PARALAX": {
         "website": "https://www.radio-paralax.de",
-        "stream": "https://www.radio-paralax.de/listen.pls",
+        "stream": "http://radio-paralax.de:8000/;",
         "genres": [
             "video game music"
         ],
@@ -1338,7 +1338,7 @@
         "description": "A German national station for house, deep house, nu disco, dance and lounge music",
         "discontinued": false
     },
-    "Kassik Radio - Movie Radio": {
+    "Klassik Radio - Movie Radio": {
         "website": "https://www.klassikradio.de",
         "stream": "https://live.streams.klassikradio.de/klassikradio-movie",
         "genres": [
@@ -1347,7 +1347,7 @@
         "description": "A German national station for movie soundtracks.",
         "discontinued": false
     },
-    "Kassik Radio - Choir": {
+    "Klassik Radio - Choir": {
         "website": "https://www.klassikradio.de",
         "stream": "https://stream.klassikradio.de/chor/mp3-192",
         "genres": [
@@ -2284,6 +2284,659 @@
             "ambient"
         ],
         "description": "Street noise.",
+        "discontinued": false
+    },
+    "WMLL 96.5 The Mill": {
+        "website": "https://965themill.com",
+        "stream": "https://live.wostreaming.net/direct/saga-wmllfmmp3-ibc2",
+        "genres": [
+            "hits",
+            "classics"
+        ],
+        "description": "Manchester's Iconic Rock station",
+        "discontinued": false
+    },
+    "CBS Sports Radio 1270 AM & 101.9 FM WAIN": {
+        "website": "https://www.1019wain.com",
+        "stream": "https://forcht.streamguys1.com/wain-am",
+        "genres": [
+            "sports",
+            "news",
+            "talk"
+        ],
+        "description": "A radio station serving Columbia, KY and the Adair County, KY area with the best in sports news.",
+        "discontinued": false
+    },
+    "WBVX Classic Rock 92.1 FM": {
+        "website": "http://www.classicrock921fm.com/",
+        "stream": "https://ice9.securenetsystems.net/WBVX",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "description": "Lexington's Classic Rock",
+        "discontinued": false
+    },
+    "WKDO Classic Country 98.7": {
+        "website": "https://chasinthebuck.com/",
+        "stream": "https://ice64.securenetsystems.net/WKDO",
+        "genres": [
+            "country",
+            "hits",
+            "70s",
+            "80s"
+        ],
+        "description": "Featuring the top country songs of the past, with emphasis on the 1970s and 80s.",
+        "discontinued": false
+    },
+    "WXZO MeTV 96.7 FM": {
+        "website": "https://www.967me.com",
+        "stream": "http://ais-sa1.streamon.fm/7795_96k.mp3",
+        "genres": [
+            "hip hop",
+            "hits",
+            "60s",
+            "70s",
+            "80s"
+        ],
+        "description": "Burlington and Plattsburgh's home for timeless, memorable soft rock favorites spanning the decades.",
+        "discontinued": false
+    },
+    "WVMT 96.3 FM / 620 AM ": {
+        "website": "https://www.wvmtradio.com",
+        "stream": "https://crystalout.surfernetwork.com:8001/WVMT-AM_MP3",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Burlington and Plattsburgh's #1 News Talk Station",
+        "discontinued": false
+    },
+    "WINQ 98.7 WINK Country": {
+        "website": "https://987wink.com",
+        "stream": "https://live.wostreaming.net/direct/saga-winqfmaac-ibc2",
+        "genres": [
+            "country"
+        ],
+        "description": "Today's Hot New Country",
+        "discontinued": false
+    },
+    "WDEV Radio Vermont 550 AM / 96.1 FM": {
+        "website": "http://wdevradio.com/",
+        "stream": "https://24493.live.streamtheworld.com/WDEVFMAAC.aac",
+        "genres": [
+            "news",
+            "variety"
+        ],
+        "description": "Provides programming reflecting the diverse interests of Vermonters.",
+        "discontinued": false
+    },
+    "WTNN 97.5 Eagle Country": {
+        "website": "https://www.eaglecountry975.com",
+        "stream": "https://crystalout.surfernetwork.com:8001/WTNN_MP3",
+        "genres": [
+            "country",
+            "hits",
+            "classics"
+        ],
+        "description": "Today's Hits and Yesterday's Favorites",
+        "discontinued": false
+    },
+    "Vermont Public Radio": {
+        "website": "https://www.vermontpublic.org",
+        "stream": "https://vpr.streamguys1.com/vpr-web",
+        "genres": [
+            "community",
+            "news"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Vermont Public Classical": {
+        "website": "https://www.vermontpublic.org",
+        "stream": "https://vprclassical.streamguys1.com/vprclassical-web",
+        "genres": [
+            "classical"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Vermont House - Vermont Public Radio": {
+        "website": "https://www.vermontpublic.org",
+        "stream": "https://vprstate.streamguys1.com/vprhouse24.mp3",
+        "genres": [
+            "politcs",
+            "education"
+        ],
+        "description": "Live audio from the Vermont House of Representatives",
+        "discontinued": false
+    },
+    "Vermont Senate - Vermont Public Radio": {
+        "website": "https://www.vermontpublic.org",
+        "stream": "https://vprstate.streamguys1.com/vprsenate24.mp3",
+        "genres": [
+            "politcs",
+            "education"
+        ],
+        "description": "Live audio from the Vermont State Senate",
+        "discontinued": false
+    },
+    "WKPL Pickle 92.1 FM": {
+        "website": "https://www.foreverpittsburgh.com/pickle99-3/",
+        "stream": "https://24223.live.streamtheworld.com/WPKLFMAAC.aac",
+        "genres": [
+            "classic rock",
+            "60s",
+            "70s"
+        ],
+        "description": "Classic Rock and Roll from the 60's and 70's",
+        "discontinued": false
+    },
+    "WEZX Rock 107 FM": {
+        "website": "https://www.rock107.com",
+        "stream": "https://wezx.streamon.fm/WEZX-48k.aac",
+        "genres": [
+            "classic rock"
+        ],
+        "description": "Northeast PA's Home of Rock and Roll",
+        "discontinued": false
+    },
+    "WAMU 88.5 FM ": {
+        "website": "https://wamu.org",
+        "stream": "https://hd1.wamu.org/",
+        "genres": [
+            "news",
+            "college",
+            "community"
+        ],
+        "description": "WAMU is a radio station owned and operated by The American University in Washington D.C.",
+        "discontinued": false
+    },
+    "WAVA 105.1 FM ": {
+        "website": "https://wava.com",
+        "stream": "https://18073.live.streamtheworld.com/WAVAFMAAC.aac",
+        "genres": [
+            "christian",
+            "religious",
+            "talk"
+        ],
+        "description": "Christian Teaching Talk Radio",
+        "discontinued": false
+    },
+    "DC Gospel Online ": {
+        "website": "https://dcgospelonline.com",
+        "stream": "https://s2.radio.co/s2fde4bd85/listen",
+        "genres": [
+            "gospel"
+        ],
+        "description": "DC Gospel Online is an online streaming radio broadcast that exclusively showcases gospel music artists and groups from the Washington, DC metropolitan area.",
+        "discontinued": false
+    },
+    "Radio Margaritaville": {
+        "website": "https://www.margaritaville.com/radio-margaritaville",
+        "stream": "http://radmarg.ic.llnwd.net/stream/radmarg_razorback",
+        "genres": [
+            "reggae",
+            "rock",
+            "country"
+        ],
+        "description": "It's not just a destination...it's a state of mind!",
+        "discontinued": false
+    },
+    "WFED Federal News Radio 1500 AM": {
+        "website": "https://federalnewsnetwork.com",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAMAAC.aac",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Non-partisan, non-political information and analysis designed to help executives more clearly understand and make better decisions about issues affecting their agencies and their companies.",
+        "discontinued": false
+    },
+    "News Talk WMAL 105.9 FM & AM 630": {
+        "website": "https://www.wmal.com",
+        "stream": "https://22223.live.streamtheworld.com/WMALFMAAC.aac",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Where Washington Comes To Talk",
+        "discontinued": false
+    },
+    "Soul Radio Classics": {
+        "website": "https://soulradio.us",
+        "stream": "https://listen.soulradio.us/us",
+        "genres": [
+            "soul",
+            "60s",
+            "70s"
+        ],
+        "description": "#1 classic soul music station, focusing on soul music from the 1950s-1970s",
+        "discontinued": false
+    },
+    "93.1 The Lake WZMJ": {
+        "website": "https://931thelakefm.com",
+        "stream": "https://ice66.securenetsystems.net/WZMJ",
+        "genres": [
+            "classics",
+            "70s",
+            "80s",
+            "90s"
+        ],
+        "description": "Feel-Good Favorites",
+        "discontinued": false
+    },
+    "WPTQ 105.3 The Point": {
+        "website": "https://www.1053thepoint.com",
+        "stream": "https://14833.live.streamtheworld.com/WPTQFMAAC.aac",
+        "genres": [
+            "classic rock"
+        ],
+        "description": "Southern Kentucky's Rock Station",
+        "discontinued": false
+    },
+    "WMJM Magic 101.3 FM": {
+        "website": "https://www.1013online.com",
+        "stream": "https://prod-3-94-146-158.wostreaming.net/alphacorporate-wmjmfmaac-ibc2",
+        "genres": [
+            "R&B",
+            "hip hop"
+        ],
+        "description": "The R&B Station",
+        "discontinued": false
+    },
+    "WBTF The Beat 107.9 FM": {
+        "website": "https://www.1079thebeat.com",
+        "stream": "https://ice9.securenetsystems.net/WBTF",
+        "genres": [
+            "hip hop",
+            "R&B",
+            "electronic",
+            "dance",
+            "dubstep"
+        ],
+        "description": "Provides urban contemporary music comprising Hip Hop, R&B, Electronic & Dance, Dub Step, and more.",
+        "discontinued": false
+    },
+    "105.9 The Oasis": {
+        "website": "https://www.1059theoasis.com",
+        "stream": "https://wnkr.streamguys1.com/wnkn",
+        "genres": [
+            "hits",
+            "classics",
+            "pop"
+        ],
+        "description": "Playing pop music from the 1960s- mid 1980s. HUGE hit songs that have disappeared from local radio.",
+        "discontinued": false
+    },
+    "WFGS Froggy 103.7 FM": {
+        "website": "https://www.froggy103.com",
+        "stream": "https://live.wostreaming.net/direct/forevercomm-wfgsfmaac-ibc4",
+        "genres": [
+            "country"
+        ],
+        "description": "One of the most listened to radio stations in Western Kentucky and Northwest Tennessee for country music.",
+        "discontinued": false
+    },
+    "WNBS 97.9 FM / 1340 AM Classic Hits": {
+        "website": "https://wfgs-rd.itmwpb.com/wnbs/",
+        "stream": "https://live.wostreaming.net/direct/forevercomm-wfgsfmaac-ibc4",
+        "genres": [
+            "hits",
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "B104.5 FM WBZB": {
+        "website": "https://www.froggy103.com",
+        "stream": "https://stream.zeno.fm/zya0ep4sfa0uv",
+        "genres": [
+            "top 40"
+        ],
+        "description": "Today's Best Music for Murray, KY",
+        "discontinued": false
+    },
+    "IrishRadio.org": {
+        "website": "http://www.irishradio.org",
+        "stream": "https://securestreams4.autopo.st:1661/stream",
+        "genres": [
+            "irish",
+            "news",
+            "community"
+        ],
+        "description": "The Best Irish music, requests, news and community information and interviews every day with some of Ireland's best musical talent.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Instrumentals": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio",
+        "genres": [
+            "instrumental"
+        ],
+        "description": "The smoothest instrumentals from Easy Listening's biggest stars.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Classical": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easyclassical/icecast.audio",
+        "genres": [
+            "classical"
+        ],
+        "description": "The smoothest classical music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Country": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easycountry/icecast.audio",
+        "genres": [
+            "country"
+        ],
+        "description": "The smoothest country music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Folk": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easyfolk/icecast.audio",
+        "genres": [
+            "filk"
+        ],
+        "description": "The smoothest folk music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Crooners": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easycrooners/icecast.audio",
+        "genres": [
+            "40s",
+            "50s"
+        ],
+        "description": "The smoothest songs from the  artists of the 40s and 50s who came to be known as The Crooners.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Jazz": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easyjazz/icecast.audio",
+        "genres": [
+            "jazz"
+        ],
+        "description": "The smoothest jazz music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Motown": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easymotown/icecast.audio",
+        "genres": [
+            "motown"
+        ],
+        "description": "The smoothest motown music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Reggae": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easyreggae/icecast.audio",
+        "genres": [
+            "reggae"
+        ],
+        "description": "The smoothest reggae music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Rock": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easyrock/icecast.audio",
+        "genres": [
+            "rock"
+        ],
+        "description": "The smoothest rock music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy Soul": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easysoul/icecast.audio",
+        "genres": [
+            "soul"
+        ],
+        "description": "The smoothest soul music.",
+        "discontinued": false
+    },
+    "easy.radio - Easy 50s": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easy50/icecast.audio",
+        "genres": [
+            "50s"
+        ],
+        "description": "The 50's smoothest songs.",
+        "discontinued": false
+    },
+    "easy.radio - Easy 60s": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easy60/icecast.audio",
+        "genres": [
+            "60s"
+        ],
+        "description": "The 60's smoothest songs.",
+        "discontinued": false
+    },
+    "easy.radio - Easy 70s": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easy70/icecast.audio",
+        "genres": [
+            "70s"
+        ],
+        "description": "The 70's smoothest songs.",
+        "discontinued": false
+    },
+    "easy.radio - Easy 80s": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easy80/icecast.audio",
+        "genres": [
+            "80s"
+        ],
+        "description": "The 80's smoothest songs.",
+        "discontinued": false
+    },
+    "easy.radio - Easy 90s": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easy90/icecast.audio",
+        "genres": [
+            "90s"
+        ],
+        "description": "The 90's smoothest songs.",
+        "discontinued": false
+    },
+    "easy.radio - Easy 00s": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easy00/icecast.audio",
+        "genres": [
+            "2000s"
+        ],
+        "description": "The 00's smoothest songs.",
+        "discontinued": false
+    },
+    "easy.radio - Easy 10s": {
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easy2010/icecast.audio",
+        "genres": [
+            "2010s"
+        ],
+        "description": "The 2010's smoothest songs.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Blue": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodblue/icecast.audio",
+        "genres": [
+            "blue"
+        ],
+        "description": "Music for when you're feeling blue.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Angry": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodangry/icecast.audio",
+        "genres": [
+            "angry"
+        ],
+        "description": "Music for when you're feeling angry.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Sad": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodsad/icecast.audio",
+        "genres": [
+            "sad"
+        ],
+        "description": "Music for when you're feeling sad.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Heartbroken": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodheartbroken/icecast.audio",
+        "genres": [
+            "heartbroken"
+        ],
+        "description": "Music for when you're feeling heartbroken.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Reflective": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodreflective/icecast.audio",
+        "genres": [
+            "reflective"
+        ],
+        "description": "Music for when you're feeling reflective.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Energized": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodenergised/icecast.audio",
+        "genres": [
+            "energized"
+        ],
+        "description": "Music for when you're feeling energized.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Happy": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodhappy/icecast.audio",
+        "genres": [
+            "happy"
+        ],
+        "description": "Music for when you're feeling happy.",
+        "discontinued": false
+    },
+    "Mood Music Radio - Romantic": {
+        "website": "https://moodmusic.radio",
+        "stream": "https://drive.uber.radio/uber/moodromantic/icecast.audio",
+        "genres": [
+            "romantic"
+        ],
+        "description": "Music for when you're feeling romantic.",
+        "discontinued": false
+    },
+    "RadioArt - Solo Flute": {
+        "website": "https://www.radioart.com",
+        "stream": "https://live.radioart.com/fSolo_flute.mp3",
+        "genres": [
+            "instrumental",
+            "flute"
+        ],
+        "description": "Flute solos in various styles.",
+        "discontinued": false
+    },
+    "RadioArt - Solo Harp": {
+        "website": "https://www.radioart.com",
+        "stream": "https://live.radioart.com/fSolo_harp.mp3",
+        "genres": [
+            "instrumental",
+            "harp"
+        ],
+        "description": "Harp solos in various styles.",
+        "discontinued": false
+    },
+    "Beats Anonymous Radio": {
+        "website": "",
+        "stream": "https://streaming.radio.co/s24dcb60d4/listen",
+        "genres": [
+            "instrumental",
+            "hip hop",
+            "jazz",
+            "downtempo"
+        ],
+        "description": "User-submitted instrumentals",
+        "discontinued": false
+    },
+    "Radio Accordéon": {
+        "website": "https://www.radioaccordeon.com",
+        "stream": "https://live2.jupinfo.fr:8443/radioaccordeon",
+        "genres": [
+            "folk",
+            "instrumental",
+            "french"
+        ],
+        "description": "Plays Classic, Flamenco, Tango, Folkloric music.",
+        "discontinued": false
+    },
+    "Highlander Radio": {
+        "website": "https://celticradio.one",
+        "stream": "https://jenny.torontocast.com:8094/stream",
+        "genres": [
+            "celtic",
+            "scottish",
+            "irish"
+        ],
+        "description": "An award winning internet radio station broadcasting a wide range of Celtic Music 24 hours day!",
+        "discontinued": false
+    },
+    "Celtic Music Radio 95FM": {
+        "website": "https://www.celticmusicradio.net",
+        "stream": "https://uksoutha.streaming.broadcast.radio/celtic",
+        "genres": [
+            "celtic"
+        ],
+        "description": "Run by music-loving volunteers, we are a community station broadcasting round-the-clock to the Greater Glasgow area and, indeed, the world.",
+        "discontinued": false
+    },
+    "Radio Viking - 101.4 FM": {
+        "website": "https://www.radioviking.se",
+        "stream": "https://n09.rcs.revma.com/qp6w2wzrruhvv",
+        "genres": [
+            "ballad",
+            "musical",
+            "classical"
+        ],
+        "description": "Thematic programming with varying musical direction.",
+        "discontinued": false
+    },
+    "Synthetic FM Channel 1": {
+        "website": "https://syntheticfm.com",
+        "stream": "https://mediaserv38.live-streams.nl:18040/live",
+        "genres": [
+            "synthwave",
+            "electronic"
+        ],
+        "description": "The radio for Synth lovers",
+        "discontinued": false
+    },
+    "Synthetic FM Channel 2": {
+        "website": "https://syntheticfm.com",
+        "stream": "https://mediaserv38.live-streams.nl:18030/stream",
+        "genres": [
+            "disco",
+            "electronic"
+        ],
+        "description": "New Italo Disco Generations",
+        "discontinued": false
+    },
+    "Pride Radio 98.2 FM": {
+        "website": "https://prideradio.co.uk",
+        "stream": "https://richkell.radioca.st/stream.mp3",
+        "genres": [
+            "lgbtq+",
+            "dance",
+            "electronic"
+        ],
+        "description": "Pride Radio is an inclusive radio station broadcasting across the North East on 89.2FM and throughout the UK.",
         "discontinued": false
     }
 }
