@@ -1,6 +1,6 @@
 {
     "Moon Phase Radio": {
-        "website": "",
+        "website": "https://www.moonphaseradio.com/ambient.html",
         "stream": "http://108.61.34.50:7317/stream/1/",
         "genres": [
             "ambient"
@@ -95,7 +95,7 @@
         "discontinued": false
     },
     "Joy Hits": {
-        "website": " https://joyhits.online",
+        "website": "https://joyhits.online",
         "stream": "http://stream.joyhits.online:8880/joyhits.aac",
         "genres": [
             "top 40",
@@ -386,8 +386,8 @@
         "discontinued": false
     },
     "Pumpkin FM BritCom 1": {
-        "website": "65.21.202.84:8175/;",
-        "stream": "https://pumpkinfm.com/live-stream/britcom-1/",
+        "website": "https://pumpkinfm.com/live-stream/britcom-1/",
+        "stream": "65.21.202.84:8175/;",
         "genres": [
             "comedy",
             "talk"
@@ -1014,7 +1014,8 @@
         "website": "https://www.hawaiianrainbow.com",
         "stream": "https://fwd.autopo.st/hawaiianrainbow/;stream.mp3",
         "genres": [
-            "hawaiian"
+            "hawaiian",
+            "tropical"
         ],
         "description": "Your home for Hawaiian Music on the Internet.",
         "discontinued": false
@@ -1142,7 +1143,7 @@
         "description": "",
         "discontinued": false
     },
-    "Store Radio": {
+    "Snore Radio": {
         "website": "http://wsbj.com/snoring-radio.html",
         "stream": "http://104.167.4.67:8215/stream",
         "genres": [
@@ -1214,7 +1215,7 @@
         "discontinued": false
     },
     "Vive Radio Fm": {
-        "website": "",
+        "website": "https://www.viveradiofm.com",
         "stream": "https://antares.dribbcast.com/proxy/viveradiofm?mp=/stream",
         "genres": [
             "spanish",
@@ -1393,6 +1394,492 @@
             "folk"
         ],
         "description": "Amateur radio station spreading the love of folk song.",
+        "discontinued": false
+    },
+    "Dead Air Radio": {
+        "website": "https://deadair.co",
+        "stream": "https://streaming.live365.com/a43471",
+        "genres": [
+            "holiday"
+        ],
+        "description": "The sounds of Halloween.",
+        "discontinued": false
+    },
+    "Radio Panamericana - FM 101.1": {
+        "website": "https://www.radiopanamericana.com",
+        "stream": "https://streaming.gometri.com/stream/8000/stream",
+        "genres": [
+            "salsa",
+            "top 40",
+            "pop"
+        ],
+        "description": "Radio Panamericana is a broadcast radio station from Lima, Peru providing Salsa, Top 40/Pop music, live shows, concerts, information and entertainment.",
+        "discontinued": false
+    },
+    "Smooth Jazz Tampa Bay": {
+        "website": "http://smoothjazztampabay.com",
+        "stream": "https://ams-2.1radio.mk/1radio_smoothjazz_64",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Smooth Jazz Tampa Bay is an Internet Radio station broadcasting from Tampa, Florida, United States, providing the best programming & the best smooth jazz anywhere.",
+        "discontinued": false
+    },
+    "KPBS Radio Reading Service": {
+        "website": "https://www.kpbs.org/radio/reading-service/",
+        "stream": "https://kpbs-rrs.streamguys1.com/kpbs-rrs",
+        "genres": [
+            "reading",
+            "news",
+            "education",
+            "history"
+        ],
+        "description": "The KPBS Radio Reading Service broadcasts the readings of newspapers, books, and magazines to those with low vision, blindness, and other impairments. The Reading Service is available 24 hours a day over a private audio channel, and online via audio webstream.",
+        "discontinued": false
+    },
+    "WRBH Reading Radio": {
+        "website": "http://www.wrbh.org",
+        "stream": "http://184.188.96.244:8080/wrbh.mp3",
+        "genres": [
+            "reading",
+            "news",
+            "education"
+        ],
+        "description": "WRBH's mission is to turn the printed word into the spoken word so that the blind and print impaired can receive the same ease of access to current information as their sighted peers.",
+        "discontinued": false
+    },
+    "WYPL FM 89.3": {
+        "website": "https://www.memphislibrary.org/wypl/",
+        "stream": "https://ice64.securenetsystems.net/WYPL",
+        "genres": [
+            ""
+        ],
+        "description": "WYPL FM 89.3 is the Memphis Libraries' broadcast radio station, offering programming as a reading service.",
+        "discontinued": false
+    },
+    "95.7 FM WELT": {
+        "website": "www.weltfm.org",
+        "stream": "https://securestreams2.autopo.st:1069/WELT.mp3",
+        "genres": [
+            "community",
+            "news"
+        ],
+        "description": "95.7fm WELT is a non-commercial, listener-sponsored, member-controlled community radio station.",
+        "discontinued": false
+    },
+    "Writers Radio": {
+        "website": "https://writersradio.ca",
+        "stream": "https://stream.radiojar.com/kequvye1hd0uv",
+        "genres": [
+            "talk",
+            "instrumental",
+            "community"
+        ],
+        "description": "Stories by and about writers, past and present and anecdotes of those who live and work in the Arts.",
+        "discontinued": false
+    },
+    "Audio Journal": {
+        "website": "https://audiojournal.org",
+        "stream": "http://stream.zeno.fm/nvbenz3c19duv",
+        "genres": [
+            "reading",
+            "news",
+            "education"
+        ],
+        "description": "Audio Journal is a radio reading service for individuals who are blind, low vision, or cannot access print material due to a disability. Programming includes news, information, and entertainment.",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Smooth Guitar Place": {
+        "website": "https://www.radioguitarone.com/smoothguitarplace",
+        "stream": "https://login.webinternetradio.com/radioguitarone",
+        "genres": [
+            "guitar",
+            "instrumental"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Legendary Blues Place": {
+        "website": "https://www.radioguitarone.com/legendarybluesplace",
+        "stream": "https://login.webinternetradio.com/blueguitar",
+        "genres": [
+            "blues",
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Contemporary Blues Place": {
+        "website": "https://www.radioguitarone.com/contemporarybluesplace",
+        "stream": "https://login.webinternetradio.com/indie",
+        "genres": [
+            "indie",
+            "blues",
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Shred Guitar Place": {
+        "website": "https://www.radioguitarone.com/shredguitarplace",
+        "stream": "https://login.webinternetradio.com/shred",
+        "genres": [
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Folk Guitar Place": {
+        "website": "https://www.radioguitarone.com/folkguitarplace",
+        "stream": "https://login.webinternetradio.com/folk",
+        "genres": [
+            "folk",
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Acoustic Guitar Place": {
+        "website": "https://www.radioguitarone.com/acousticguitarplace",
+        "stream": "https://login.webinternetradio.com/acoustic",
+        "genres": [
+            "acoustic",
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Mellow Guitar Place": {
+        "website": "https://www.radioguitarone.com/mellowguitarplace",
+        "stream": "https://login.webinternetradio.com/mellow",
+        "genres": [
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Jazz Guitar Place": {
+        "website": "https://www.radioguitarone.com/jazzguitarplace",
+        "stream": "https://login.webinternetradio.com/jazzguitar",
+        "genres": [
+            "jazz",
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Vintage Guitar Place": {
+        "website": "https://www.radioguitarone.com/vintageguitarplace",
+        "stream": "https://login.webinternetradio.com/vintage",
+        "genres": [
+            "vintage",
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Fusion Guitar Place": {
+        "website": "https://www.radioguitarone.com/fusionguitarplace",
+        "stream": "https://login.webinternetradio.com/fusionguitar",
+        "genres": [
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Guitar One - The Roots Rock Guitar Place": {
+        "website": "https://www.radioguitarone.com/rootsrockguitarplace",
+        "stream": "https://login.webinternetradio.com/rootsrockguitar",
+        "genres": [
+            "rock",
+            "guitar"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Smoke The World": {
+        "website": "https://www.smoketheworldradio.com",
+        "stream": "https://stream.radio.co/sd321b8336/listen.m3u",
+        "genres": [
+            "hip hop",
+            "rap"
+        ],
+        "description": "24/7 NON STOP HIP HOP RADIO!",
+        "discontinued": false
+    },
+    "GotRadio - Soft Rock Radio": {
+        "website": "https://player.gotradio.com/?autoplay=18",
+        "stream": "https://pureplay.cdnstream1.com/6010_128.mp3",
+        "genres": [
+            ""
+        ],
+        "description": "Soft Rock Cafe offers up an office friendly blend of the best soft rock songs from singer songwriters and bands that were popular in the 60s, 70s and 80s.",
+        "discontinued": false
+    },
+    "Movie Soundtracks Hits Radio": {
+        "website": "https://www.1.fm/station/moviesoundtracks",
+        "stream": "https://strm112.1.fm/moviesoundtracks_mobile_mp3",
+        "genres": [
+            "soundtracks",
+            "hits"
+        ],
+        "description": "The magic of the big screen goes radio with the greatest songs of the best movies from blockbuster to art-house",
+        "discontinued": false
+    },
+    "Public Domain Classical": {
+        "website": "http://radio.publicdomainproject.org",
+        "stream": "http://relay.publicdomainradio.org/classical.mp3",
+        "genres": [
+            "classical",
+            "symphony"
+        ],
+        "description": "The Public Domain Radio broadcasts 24/7 non-stop free works on different channels.",
+        "discontinued": false
+    },
+    "Public Domain Jazz": {
+        "website": "http://radio.publicdomainproject.org",
+        "stream": "http://relay.publicdomainradio.org/jazz_swing.mp3",
+        "genres": [
+            "jazz",
+            "ragtime",
+            "swing"
+        ],
+        "description": "The Public Domain Radio broadcasts 24/7 non-stop free works on different channels.",
+        "discontinued": false
+    },
+    "Public Domain Folk": {
+        "website": "http://radio.publicdomainproject.org",
+        "stream": "http://relay.publicdomainradio.org/swiss_schlager.mp3",
+        "genres": [
+            "folk",
+            "swiss"
+        ],
+        "description": "The Public Domain Radio broadcasts 24/7 non-stop free works on different channels.",
+        "discontinued": false
+    },
+    "Rock 101 FM WGIR": {
+        "website": "https://rock101fm.iheart.com/",
+        "stream": "https://stream.revma.ihrhls.com/zc1349",
+        "genres": [
+            "rock"
+        ],
+        "description": "New Hampshire's Rock Station. Mainstream rock.",
+        "discontinued": false
+    },
+    "Kiss 108": {
+        "website": "https://kiss108.iheart.com/",
+        "stream": "https://stream.revma.ihrhls.com/zc1097",
+        "genres": [
+            "top 40"
+        ],
+        "description": "Boston's #1 Hit Music Station",
+        "discontinued": false
+    },
+    "RUSA": {
+        "website": "https://www.rusa.fm",
+        "stream": "https://stream.revma.ihrhls.com/zc6495",
+        "genres": [
+            "russian"
+        ],
+        "description": "The only syndicated Russian language HD radio station in the United States, also available on iHeart",
+        "discontinued": false
+    },
+    "98.5 The Sports Hub": {
+        "website": "https://985thesportshub.com",
+        "stream": "https://19013.live.streamtheworld.com/WBZFMAAC_SC",
+        "genres": [
+            "sports",
+            "news",
+            "talk"
+        ],
+        "description": "98.5 the Sports Hub is the flagship station for the Patriots, Bruins, Celtics and Revolution.",
+        "discontinued": false
+    },
+    "WGBH-89.7": {
+        "website": "https://www.wgbh.org/",
+        "stream": "https://streams.audio.wgbh.org:8200/wgbh-iheart",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Boston's Local NPR Station",
+        "discontinued": false
+    },
+    "100.3 WHED - The Rock Station": {
+        "website": "https://wheb.iheart.com/",
+        "stream": "https://stream.revma.ihrhls.com/zc1353",
+        "genres": [
+            "rock"
+        ],
+        "description": "Portsmouth's best rock radio station.",
+        "discontinued": false
+    },
+    "Little Saigon Radio 1480 AM": {
+        "website": "http://littlesaigonradio.com",
+        "stream": "https://stream-69.zeno.fm/kxynzu2qe7duv?zs=5LYUN-poRRmt9rBBwmJlpQ",
+        "genres": [
+            "world"
+        ],
+        "description": "Little Saigon Radio 1480 AM is a World Music radio station serving Los Angeles.",
+        "discontinued": false
+    },
+    "VIET Radio": {
+        "website": "http://vietradio.com/",
+        "stream": "http://hls.vietradio.com/live/VietRADIO/icecast.audio",
+        "genres": [
+            "world"
+        ],
+        "description": "VIET Radio and its well-known sister station VIETV Network combine entertainment sources, news and information to empower, entertain, celebrate and bring our Vietnamese communities together.",
+        "discontinued": false
+    },
+    "Funasia 104.9 FM": {
+        "website": "https://www.funasia.net",
+        "stream": "https://funasia.streamguys1.com/live-1",
+        "genres": [
+            "asian",
+            "indian",
+            "bollywood"
+        ],
+        "description": "South Asian music, Bollywood music, information, talks and entertainment.",
+        "discontinued": false
+    },
+    "102.7 The Beach": {
+        "website": "https://www.audacy.com/thebeachmiami",
+        "stream": "https://live.amperwave.net/manifest/audacy-wmxjfmaac-imc",
+        "genres": [
+            "hits"
+        ],
+        "description": "A Classic Hits radio station serving Miami. ",
+        "discontinued": false
+    },
+    "105.9 SUNNY FM": {
+        "website": "https://www.audacy.com/1059sunnyfm",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WOCLFMAAC_SC",
+        "genres": [
+            "hits"
+        ],
+        "description": "A Classic Hits radio station serving Orlando.",
+        "discontinued": false
+    },
+    "102.9 WBLM": {
+        "website": "https://wblm.com",
+        "stream": "https://live.wostreaming.net/manifest/townsquare-wblmfmaac-ibc3",
+        "genres": [
+            "classic rock"
+        ],
+        "description": "Maine's Classic Rock Station",
+        "discontinued": false
+    },
+    "Q97.9": {
+        "website": "https://wjbq.com/",
+        "stream": "https://live.wostreaming.net/manifest/townsquare-wjbqfmaac-ibc3",
+        "genres": [
+            "hits",
+            "top 40"
+        ],
+        "description": "A Top 40 radio station serving Portland, ME.",
+        "discontinued": false
+    },
+    "107.9 WJZP": {
+        "website": "https://www.wjzp.me",
+        "stream": "https://wjzp.streamguys1.com/live",
+        "genres": [
+            "jazz"
+        ],
+        "description": "A Jazz radio station serving Portland, ME.",
+        "discontinued": false
+    },
+    "Maine Public Radio": {
+        "website": "https://www.mainepublic.org",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEAFM.mp3",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Maine Public Broadcasting",
+        "discontinued": false
+    },
+    "Maine Public Classical": {
+        "website": "https://www.mainepublic.org",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEA_CLASSICAL.mp3",
+        "genres": [
+            "classical"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Italy Live New York": {
+        "website": "https://www.radioitalylive.com",
+        "stream": "https://streaming.radiostreamlive.com/radioitalylive_devices",
+        "genres": [
+            "italian",
+            "world"
+        ],
+        "description": "https://streaming.radiostreamlive.com/radioitalylive_devices",
+        "discontinued": false
+    },
+    "Pan African Allstars": {
+        "website": "https://www.panafricanallstarsradio.com",
+        "stream": "https://ic2663.c1738.fastserv.com:80/stream",
+        "genres": [
+            "african",
+            "world"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Bongo Radio - Channel One": {
+        "website": "https://www.bongoradio.com",
+        "stream": "http://www.bongoradio.com:8000/bongo.mp3",
+        "genres": [
+            "african",
+            "world",
+            "hip hop",
+            "R&B",
+            "reggae"
+        ],
+        "description": "Tanzania's Best Online Radio for Bongo Flava, Zilipendwa, Taarab, Mduara, Muziki wa Dansi, Hip-Hop, R&B, Old School, Dancehall, Reggae, Sebene, Soukous, Kwaito, East African Music and African Music.",
+        "discontinued": false
+    },
+    "Slavic Family Radio": {
+        "website": "https://slavicfamily.org",
+        "stream": "https://us3.streamingpulse.com/ssl/SlavicMediaHoldings",
+        "genres": [
+            "slavic",
+            "community"
+        ],
+        "description": "First Community Radio Station for the Slavic community.",
+        "discontinued": false
+    },
+    "KPOA 93.5 FM": {
+        "website": "https://kpoa.com",
+        "stream": "https://pacificmedia.cdnstream1.com/2794_64.aac",
+        "genres": [
+            "hawaiian",
+            "tropical"
+        ],
+        "description": "Hawaiian Music Maui Style",
+        "discontinued": false
+    },
+    "Global Irish Radio": {
+        "website": "http://www.globalirishradio.com",
+        "stream": "https://s3.radio.co/s05b500bb8/listen",
+        "genres": [
+            "irish",
+            "world"
+        ],
+        "description": "Global Irish Radio (GIR) is Irish radio by the diaspora for the diaspora featuring Irish Radio programs from Ireland and around the globe.",
+        "discontinued": false
+    },
+    "Bolly 92.3FM": {
+        "website": "https://bolly923fm.com",
+        "stream": "http://www.streamcontrol.net:12010/;",
+        "genres": [
+            "bollywood",
+            "indian",
+            "world"
+        ],
+        "description": "The Bay Area’s Bollywood Station",
         "discontinued": false
     }
 }
