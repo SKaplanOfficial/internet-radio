@@ -4280,7 +4280,7 @@
     },
     "Cinemusic": {
         "website": "https://www.cinemusicradio.com",
-        "stream": " https://listen.radioking.com/radio/422/stream/23",
+        "stream": "https://listen.radioking.com/radio/422/stream/23",
         "genres": [
             "soundtracks",
             "video game music"
@@ -4466,6 +4466,1708 @@
             "comedy"
         ],
         "description": "FunHouse Radio is a home for Novelty Records, Parodies, Weird Covers, Outsider Music, Oddities, Memes, Mashups, Comedy, Nonsense & Cringe - any genre. The live stream is intended for ages 13+.",
+        "discontinued": false
+    },
+    "Radio SCOOP - CINÉ": {
+        "website": "https://www.radioscoop.com/player/",
+        "stream": "https://scoopmusiquesdefilms.ice.infomaniak.ch/radioscoop-musiquesdefilms-64.aac",
+        "genres": [
+            "soundtracks",
+            "hits"
+        ],
+        "description": "Upbeat soundtracks with vocals",
+        "discontinued": false
+    },
+    "FILM RADIO Munich": {
+        "website": "https://laut.fm/filmradio",
+        "stream": "http://stream.laut.fm/filmradio",
+        "genres": [
+            "soundtracks",
+            "symphony",
+            "instrumental"
+        ],
+        "description": "Soundtracks and film music.",
+        "discontinued": false
+    },
+    "United Music - Cinema": {
+        "website": "https://www.unitedmusic.com/#304104-cinema",
+        "stream": "https://icy.unitedradio.it/um058.mp3",
+        "genres": [
+            "soundtracks",
+            "instrumental"
+        ],
+        "description": "Cinematic soundtracks",
+        "discontinued": false
+    },
+    "Soundtrack FM": {
+        "website": "https://soundtrackfm.be",
+        "stream": "https://mediaserv38.live-streams.nl:18033/stream",
+        "genres": [
+            "soundtracks",
+            "hits"
+        ],
+        "description": "Soundtrackfm brings a wide range of well known songs from popular movies and tv-shows. No \"heavy stuff\" for the real (symphonic) soundtrack lovers, but only easily accessible songs and tunes which are fun to listen to for the \"average\" cinema visitors and those who like to watch tv-shows.",
+        "discontinued": false
+    },
+    "EBS Radio - Movie Soundtracks": {
+        "website": "https://ebsradio.ro",
+        "stream": "https://azura.ebsmedia.ro/radio/8100/movies128.mp3",
+        "genres": [
+            "soundtracks",
+            "cinematic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "EBS Radio - Classical": {
+        "website": "https://ebsradio.ro",
+        "stream": "https://azura.ebsmedia.ro/radio/8090/classical128.mp3",
+        "genres": [
+            "classical"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "EBS Radio 90.4 FM": {
+        "website": "https://ebsradio.ro",
+        "stream": "https://azura.ebsmedia.ro/radio/8010/live128.mp3",
+        "genres": [
+            "pop",
+            "rock",
+            "talk",
+            "dance",
+            "electronic",
+            "variety"
+        ],
+        "description": "Broadcasts various kind of latest pop, rock, talk, culture, dance, electronic etc.",
+        "discontinued": false
+    },
+    "Hit Radio FFH Soundtrack": {
+        "website": "https://www.ffh.de/musik/webradio.html",
+        "stream": "https://mp3.ffh.de/ffhchannels/hqsoundtrack.aac",
+        "genres": [
+            "soundtracks",
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Soundtrack Radiostation": {
+        "website": "https://www.soundtrackradiostation.com",
+        "stream": "https://igor.torontocast.com:1795/stream",
+        "genres": [
+            "soundtracks",
+            "hits"
+        ],
+        "description": "Soundtrack Radiostation brings you the best soundtracks from the greatest movies. From famous tunes to the unknown beauties.",
+        "discontinued": false
+    },
+    "1.fm Movie Soundtrack Hits Radio": {
+        "website": "https://www.1.fm/station/moviesoundtracks",
+        "stream": "https://strm112.1.fm/moviesoundtracks_mobile_mp3",
+        "genres": [
+            "soundtracks",
+            "hits"
+        ],
+        "description": "The magic of the big screen goes radio with the greatest songs of the best movies from blockbuster to art-house.",
+        "discontinued": false
+    },
+    "United Music - Pop Hits 2000": {
+        "website": "https://www.unitedmusic.com/#304085-hits-2000",
+        "stream": "https://icy.unitedradio.it/um023.mp3",
+        "genres": [
+            "hits",
+            "pop",
+            "2000s"
+        ],
+        "description": "Pop hits of the 2000s",
+        "discontinued": false
+    },
+    "United Music - Pop Hits 90": {
+        "website": "https://www.unitedmusic.com/#304086-hits-90",
+        "stream": "https://icy.unitedradio.it/um045.mp3",
+        "genres": [
+            "hits",
+            "pop",
+            "90s"
+        ],
+        "description": "Pop hits of the 90s",
+        "discontinued": false
+    },
+    "United Music - Pop Hits 2010": {
+        "website": "https://www.unitedmusic.com/#1250228-hits-2010",
+        "stream": "https://icy.unitedradio.it/um091.mp3",
+        "genres": [
+            "hits",
+            "pop",
+            "2010s"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Pop Hits": {
+        "website": "https://www.unitedmusic.com/#304080-pop-hits",
+        "stream": "https://icy.unitedradio.it/um037.mp3",
+        "genres": [
+            "hits",
+            "pop"
+        ],
+        "description": "Contemporary pop hits",
+        "discontinued": false
+    },
+    "United Music - Pop Hits 80": {
+        "website": "https://www.unitedmusic.com/#304088-hits-80",
+        "stream": "https://icy.unitedradio.it/um028.mp3",
+        "genres": [
+            "hits",
+            "pop",
+            "80s"
+        ],
+        "description": "Pop hits of the 80s",
+        "discontinued": false
+    },
+    "United Music - Pop Hits 70": {
+        "website": "https://www.unitedmusic.com/#304089-hits-70",
+        "stream": "https://icy.unitedradio.it/um070.mp3",
+        "genres": [
+            "hits",
+            "pop",
+            "70s"
+        ],
+        "description": "Pop hits of the 70s",
+        "discontinued": false
+    },
+    "United Music - Pop Hits 60": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304090-hits-60",
+        "stream": "https://icy.unitedradio.it/um054.mp3",
+        "genres": [
+            "hits",
+            "pop",
+            "60s"
+        ],
+        "description": "Pop hits of the 60s",
+        "discontinued": false
+    },
+    "United Music - Pop Covers": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304094-cover",
+        "stream": "https://icy.unitedradio.it/um035.mp3",
+        "genres": [
+            "pop",
+            "cover"
+        ],
+        "description": "Covers of pop songs sung by unknown artists",
+        "discontinued": false
+    },
+    "United Music - British Pop": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304097-british-pop",
+        "stream": "https://icy.unitedradio.it/um041.mp3",
+        "genres": [
+            "pop",
+            "british"
+        ],
+        "description": "New music by British artists",
+        "discontinued": false
+    },
+    "United Music - Rock": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304232-rock",
+        "stream": "https://icy.unitedradio.it/um066.mp3",
+        "genres": [
+            "rock",
+            "classic rock"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Metal": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1261484-metal",
+        "stream": "https://icy.unitedradio.it/um099.mp3",
+        "genres": [
+            "metal",
+            "heavy metal"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Hipster": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304100-hipster",
+        "stream": "https://icy.unitedradio.it/um074.mp3",
+        "genres": [
+            "hipster",
+            "punk",
+            "alternative",
+            "indie",
+            "emo"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Virgin Radio - Rock 2k": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1343159-virgin-radio-rock-2k",
+        "stream": "https://icy.unitedradio.it/Virgin_02.mp3",
+        "genres": [
+            "rock",
+            "2000s"
+        ],
+        "description": "Rock music of the 2000s",
+        "discontinued": false
+    },
+    "Virgin Radio - Rock 90": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1343160-virgin-radio-rock-90",
+        "stream": "https://icy.unitedradio.it/Virgin_03.mp3",
+        "genres": [
+            "rock",
+            "90s"
+        ],
+        "description": "Rock music of the 90s",
+        "discontinued": false
+    },
+    "Virgin Radio - Rock 80": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1343163-virgin-radio-rock-80",
+        "stream": "https://icy.unitedradio.it/VirginRock80.mp3",
+        "genres": [
+            "rock",
+            "classic rock",
+            "80s"
+        ],
+        "description": "Rock music of the 80s",
+        "discontinued": false
+    },
+    "Virgin Radio - Rock 70": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1343164-virgin-radio-rock-70",
+        "stream": "https://icy.unitedradio.it/VirginRock70.mp3",
+        "genres": [
+            "rock",
+            "classic rock",
+            "70s"
+        ],
+        "description": "Rock music of the 70s",
+        "discontinued": false
+    },
+    "United Music - Rock 60": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304229-rock-60",
+        "stream": "https://icy.unitedradio.it/um064.mp3",
+        "genres": [
+            "rock",
+            "classic rock",
+            "60s"
+        ],
+        "description": "Rock music of the 60s",
+        "discontinued": false
+    },
+    "United Music - 50s Rock n' Roll": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304228-50-rock-n-roll",
+        "stream": "https://icy.unitedradio.it/um050.mp3",
+        "genres": [
+            "rock"
+        ],
+        "description": "Rock music of the 50s",
+        "discontinued": false
+    },
+    "United Music - Rock Italiano": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1252398-rock-italiano",
+        "stream": "https://icy.unitedradio.it/um076.mp3",
+        "genres": [
+            "rock",
+            "italian"
+        ],
+        "description": "Discover the artists of Italian rock",
+        "discontinued": false
+    },
+    "United Music Radio Amici": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1344076-radio-amici",
+        "stream": "https://icy.unitedradio.it/um094.mp3",
+        "genres": [
+            "pop",
+            "hip hop",
+            "italian"
+        ],
+        "description": "Italian pop favorites",
+        "discontinued": false
+    },
+    "United Music Radio Festival": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304237-radio-festival",
+        "stream": "https://icy.unitedradio.it/um073.mp3",
+        "genres": [
+            "italian",
+            "classics",
+            "pop"
+        ],
+        "description": "Station for music from the Sanremo Italian Song Festival, all years.",
+        "discontinued": false
+    },
+    "United Music Radio Festival - Le Canzoni Vincitrici": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1303063-le-canzoni-vincitrici",
+        "stream": "https://icy.unitedradio.it/um059.mp3",
+        "genres": [
+            "italian",
+        ],
+        "description": "The winning songs of the Sanremo Italian Song Festival, all years.",
+        "discontinued": false
+    },
+    "United Music Radio Festival - Anni 1951-1999": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1303064-anni-1951---1999",
+        "stream": "https://icy.unitedradio.it/um075.mp3",
+        "genres": [
+            "italian",
+            "60s",
+            "70s",
+            "80s",
+            "90s"
+        ],
+        "description": "Winning songs of the Sanremo Italian Song Festival between 1951 and 1999.",
+        "discontinued": false
+    },
+    "United Music Radio Festival - Anni 2000-2021": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1303065-anni-2000---2021",
+        "stream": "https://icy.unitedradio.it/um112.mp3",
+        "genres": [
+            "italian",
+            "2000s",
+            "2010s",
+            "2020s"
+        ],
+        "description": "Winning songs of the Sanremo Italian Song Festival between 2000 and 2021.",
+        "discontinued": false
+    },
+    "United Music - Reggae": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304105-reggae",
+        "stream": "https://icy.unitedradio.it/um043.mp3",
+        "genres": [
+            "reggae"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music Radio Bau": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304099-radio-bau--co-",
+        "stream": "https://icy.unitedradio.it/RadioBAU.mp3",
+        "genres": [
+            "news",
+            "pop",
+            "animals",
+            "talk"
+        ],
+        "description": "Information, music, and discussion on the animal world",
+        "discontinued": false
+    },
+    "Radio Milano International": {
+        "website": "https://www.radiomilano.international",
+        "stream": "https://sr14.inmystream.it/stream/rmifm",
+        "genres": [
+            "pop",
+            "top 40",
+            "hip hop",
+            "soul",
+            "classics",
+            "variety",
+            "italian"
+        ],
+        "description": "The first Italian private radio. Streams a variety of genres.",
+        "discontinued": false
+    },
+    "United Music Radio Kia": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1289526-radio-kia",
+        "stream": "https://icecast.unitedradio.it/105Store_service.mp3",
+        "genres": [
+            "top 40",
+            "pop"
+        ],
+        "description": "Kia's radio station",
+        "discontinued": false
+    },
+    "Radio 105 Diretta": {
+        "website": "https://www.105.net/sezioni/733/radio-105-diretta",
+        "stream": "https://icecast.unitedradio.it/Radio105.mp3",
+        "genres": [
+            "variety"
+        ],
+        "description": "The best of contemporary music",
+        "discontinued": false
+    },
+    "Radio 105 BSMT": {
+        "website": "https://www.105.net/sezioni/12181/bsmnt-10512181",
+        "stream": "https://icy.unitedradio.it/105_525.mp3",
+        "genres": [
+            "trap",
+            "rap",
+            "R&B"
+        ],
+        "description": "The most powerful music, trap, rap, drill, r&b, the stories of the urban tour and much more!",
+        "discontinued": false
+    },
+    "Radio 105 Indie": {
+        "website": "https://www.105.net/sezioni/12148/105-indie",
+        "stream": "https://icy.unitedradio.it/105_524.mp3",
+        "genres": [
+            "indie",
+            "classics"
+        ],
+        "description": "The novelties and classics of the indie phenomenon that is influencing the rankings of the Italian panorama of the moment.",
+        "discontinued": false
+    },
+    "Radio 105 Trap": {
+        "website": "https://www.105.net/sezioni/1948/105-trap",
+        "stream": "https://icecast.unitedradio.it/105Trap.mp3",
+        "genres": [
+            "trap"
+        ],
+        "description": "The reference point for Trap music lovers.",
+        "discontinued": false
+    },
+    "Radio 105 Hits": {
+        "website": "https://www.105.net/sezioni/741/105-hits",
+        "stream": "https://icy.unitedradio.it/105Hits.mp3",
+        "genres": [
+            "hits",
+            "variety"
+        ],
+        "description": "Hits of the moment",
+        "discontinued": false
+    },
+    "Radio 105 Classics": {
+        "website": "https://www.105.net/sezioni/755/105-classics",
+        "stream": "https://icy.unitedradio.it/105Classics.mp3",
+        "genres": [
+            "classics",
+            "vintage",
+            "hits"
+        ],
+        "description": "Past hits and other vintage songs",
+        "discontinued": false
+    },
+    "Radio 105 Miami": {
+        "website": "https://www.105.net/sezioni/748/105-miami",
+        "stream": "https://icy.unitedradio.it/105Miami.mp3",
+        "genres": [
+            "dance",
+            "house",
+            "rap"
+        ],
+        "description": "Music from the clubs of Miami",
+        "discontinued": false
+    },
+    "Radio 105 Dance 90": {
+        "website": "https://www.105.net/sezioni/1281/105-dance-90",
+        "stream": "https://icy.unitedradio.it/105Dance90.mp3",
+        "genres": [
+            "dance",
+            "90s",
+            "house"
+        ],
+        "description": "A mix of dance and 90s house music",
+        "discontinued": false
+    },
+    "Radio 105 Rap Italia": {
+        "website": "https://www.105.net/sezioni/1082/105-rap-italia",
+        "stream": "https://icy.unitedradio.it/105RapItalia.mp3",
+        "genres": [
+            "rap",
+            "hip hop"
+        ],
+        "description": "Dedicated exclusively to our hip-hop scene, of yesterday, today and tomorrow.",
+        "discontinued": false
+    },
+    "Radio 105 Story": {
+        "website": "https://www.105.net/sezioni/739/105-story",
+        "stream": "https://icy.unitedradio.it/105Story.mp3",
+        "genres": [
+            "vintage",
+            "italian"
+        ],
+        "description": "Original vintage music, from 1976 to 2015, on honors of Radio 105's history.",
+        "discontinued": false
+    },
+    "Radio 105 Hip Hop & R'N'B": {
+        "website": "https://www.105.net/sezioni/742/105-hiphop-rnb",
+        "stream": "https://icy.unitedradio.it/105HipHopRnB.mp3",
+        "genres": [
+            "rap",
+            "hip hop",
+            "soul"
+        ],
+        "description": "Online 24/7 non-stop: preview hot-tracks, today's and yesterday's hits, Old School masterpieces, vibes from 105 Miami and the best vintage soul. ",
+        "discontinued": false
+    },
+    "Radio 105 2k & More!": {
+        "website": "https://www.105.net/sezioni/754/105-2k-more",
+        "stream": "https://icy.unitedradio.it/1052kandMore.mp3",
+        "genres": [
+            "hits",
+            "2000s",
+            "2010s",
+            "2020s"
+        ],
+        "description": "The big hits of the new millennium",
+        "discontinued": false
+    },
+    "Radio 105 InDaKlubb": {
+        "website": "https://www.105.net/sezioni/743/105-indaklubb",
+        "stream": "https://icy.unitedradio.it/105InDaKlubb.mp3",
+        "genres": [
+            "electronic",
+            "dance"
+        ],
+        "description": "Music above 120 BPM",
+        "discontinued": false
+    },
+    "Radio 105 Mamacita": {
+        "website": "https://www.105.net/sezioni/12075/105-mamacita",
+        "stream": "http://icy.unitedradio.it/105_522.mp3",
+        "genres": [
+            "reggae",
+            "dance",
+            "hip hop",
+            "R&B"
+        ],
+        "description": "The music of the Mamacita Radio Show selected for Radio 105. The best of hiphop, r&b, dance, reggaeton and moombahton.",
+        "discontinued": false
+    },
+    "Radio 105 Music Star Michael Jackson": {
+        "website": "https://www.105.net/sezioni/2032/music-star-michael-jackson",
+        "stream": "https://icy.unitedradio.it/um2908.mp3",
+        "genres": [
+            "pop"
+        ],
+        "description": "Web radio entirely dedicated to Michael Jackson.",
+        "discontinued": false
+    },
+    "Radio 105 Music Star Coldplay": {
+        "website": "https://www.105.net/sezioni/735/music-star-coldplay",
+        "stream": "https://icy.unitedradio.it/ColdPlay.mp3?",
+        "genres": [
+            "british",
+            "pop"
+        ],
+        "description": "Web radio dedicated to the music of Coldplay.",
+        "discontinued": false
+    },
+    "R101 Diretta": {
+        "website": "https://www.r101.it/sezioni/2192/r101-diretta",
+        "stream": "https://icecast.unitedradio.it/r101",
+        "genres": [
+            "variety"
+        ],
+        "description": "Ascolta la radio e partecipa con un sms/whatsapp al 331.80.90.101",
+        "discontinued": false
+    },
+    "R101 Enjoy The Music": {
+        "website": "https://www.r101.it/sezioni/2186/r101-enjoy-the-music",
+        "stream": "https://icy.unitedradio.it/101Legend.aac",
+        "genres": [
+            "hits",
+            "90s",
+            "2000s",
+            "2010s",
+            "2020s"
+        ],
+        "description": "Hits of the 90s and today",
+        "discontinued": false
+    },
+    "R101 Today's Hits": {
+        "website": "https://www.r101.it/sezioni/2194/r101-today-s-hits",
+        "stream": "https://icy.unitedradio.it/101SpecialArtist.aac",
+        "genres": [
+            "hits"
+        ],
+        "description": "Today's hit music",
+        "discontinued": false
+    },
+    "R101 Made In Italy": {
+        "website": "https://www.r101.it/sezioni/2198/r101-made-in-italy",
+        "stream": "https://icy.unitedradio.it/R101MadeInItaly.aac",
+        "genres": [
+            "italian"
+        ],
+        "description": "A playlist selected to keep you company at any time of the day with songs from great Italian artists.",
+        "discontinued": false
+    },
+    "La Banda di R101": {
+        "website": "https://www.r101.it/sezioni/2199/la-banda-di-r1012199",
+        "stream": "",
+        "genres": [
+            "talk",
+            "pop",
+            "rock"
+        ],
+        "description": "La Banda di R101 is the web radio that allows you to tune in to the most delightful intercessions of the radio Morning Show that stirs Italy consistently. Chiara Tortorella, Riccardo Russo, Paolo Dini, Lester, Cristiano Militello and the characters of Leonardo Fiaschi stay with you 24 hours per day, alongside the most wonderful melodies from the 90s to the present time.",
+        "discontinued": false
+    },
+    "R101 Baila Baila": {
+        "website": "https://www.r101.it/sezioni/2189/r101-baila-baila",
+        "stream": "https://icy.unitedradio.it/R101NewMusicFriday.aac",
+        "genres": [
+            "latin",
+            "urban",
+            "reggae",
+            "caribbean"
+        ],
+        "description": "R101 Baila Baila is the web radio that makes you dance with the great reggaeton and Latin urban hits.",
+        "discontinued": false
+    },
+    "R101 Urban Night": {
+        "website": "https://www.r101.it/sezioni/2193/r101-urban-night",
+        "stream": "https://icy.unitedradio.it/101UrbanNight.aac",
+        "genres": [
+            "world",
+            "hip hop",
+            "R&B",
+            "electronic"
+        ],
+        "description": "R101 Urban Night is the web radio that lets you discover the sounds and musical trends of the great world cities such as: London, Paris, Moscow, New York, Los Angeles, Miami, and Tokyo.",
+        "discontinued": false
+    },
+    "R101 2k": {
+        "website": "https://www.r101.it/sezioni/2188/r101-2k",
+        "stream": "https://icy.unitedradio.it/R1012000.aac",
+        "genres": [
+            "2000s",
+            "hits"
+        ],
+        "description": "The best of 2000s music",
+        "discontinued": false
+    },
+    "R101 Your Love": {
+        "website": "https://www.r101.it/sezioni/2196/r101-your-love",
+        "stream": "https://icy.unitedradio.it/R101YourLove.aac",
+        "genres": [
+            "romantic"
+        ],
+        "description": "R101 Your Love is the web radio that excites you with the most beautiful love songs ever.",
+        "discontinued": false
+    },
+    "R101 90": {
+        "website": "https://www.r101.it/sezioni/2195/r101-90",
+        "stream": "https://icy.unitedradio.it/R10190.aac",
+        "genres": [
+            "90s",
+            "hits"
+        ],
+        "description": "The best of 90s music",
+        "discontinued": false
+    },
+    "R101 80": {
+        "website": "https://www.r101.it/sezioni/2191/r101-80",
+        "stream": "https://icy.unitedradio.it/R10180.aac",
+        "genres": [
+            "80s",
+            "hits"
+        ],
+        "description": "The best of 80s music",
+        "discontinued": false
+    },
+    "R101 70": {
+        "website": "https://www.r101.it/sezioni/2190/r101-70",
+        "stream": "https://icy.unitedradio.it/R10170.aac",
+        "genres": [
+            "70s",
+            "hits"
+        ],
+        "description": "The best of 70s music",
+        "discontinued": false
+    },
+    "Radio Subasio": {
+        "website": "https://www.radiosubasio.it/",
+        "stream": "https://icy.unitedradio.it/Subasio.mp3",
+        "genres": [
+            "news",
+            "hits",
+            "talk",
+            "classics"
+        ],
+        "description": "Hit Radio with Italian and foreign news and great classics of the past.",
+        "discontinued": false
+    },
+    "Radio Subasio+": {
+        "website": "https://www.radiosubasio.it/",
+        "stream": "https://icy.unitedradio.it/SubasioPiu.mp3",
+        "genres": [
+            "hits",
+            "classics",
+            "italian",
+            "world"
+        ],
+        "description": "International and Italian hit music.",
+        "discontinued": false
+    },
+    "Radio Suby": {
+        "website": "https://www.radiosubasio.it/",
+        "stream": "https://icecast.unitedradio.it/Suby.mp3",
+        "genres": [
+            "hits",
+            "2000s",
+            "2010s",
+            "2020s"
+        ],
+        "description": "Past and current hits",
+        "discontinued": false
+    },
+    "Radio Sabasio Collection": {
+        "website": "https://www.radiosubasio.it/",
+        "stream": "https://icy.unitedradio.it/SubasioCollection.mp3",
+        "genres": [
+            "hits"
+        ],
+        "description": "An exclusive selection of the greatest hits by Radio Subasio: each song, a memory.",
+        "discontinued": false
+    },
+    "Radio Subasio Per Un'Ora D'Amore": {
+        "website": "https://www.radiosubasio.it/",
+        "stream": "https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3",
+        "genres": [
+            "romantic"
+        ],
+        "description": "Offers the most beautiful love songs chosen by Radio Subasio. Each song, an emotion.",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Classic Rock": {
+        "website": "https://www.virginradio.it/sezioni/1219/virgin-radio-rock-classic",
+        "stream": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+        "genres": [
+            "classic rock",
+        ],
+        "description": "From the 60s to the 80s the best of CLASSIC ROCK.",
+        "discontinued": false
+    },
+    "Virgiin Radio Italy - Rock Hits": {
+        "website": "https://www.virginradio.it/sezioni/1239/virgin-radio-rock-hits",
+        "stream": "https://icy.unitedradio.it/VirginRockHits.mp3",
+        "genres": [
+            "rock",
+            "hits"
+        ],
+        "description": "The best rock music of today",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rock Ballads": {
+        "website": "https://www.virginradio.it/sezioni/2015/virgin-radio-rock-ballads",
+        "stream": "https://icy.unitedradio.it/Virgin_06.mp3",
+        "genres": [
+            "rock",
+            "ballad"
+        ],
+        "description": "The best of the great ballads in rock history",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rock '70": {
+        "website": "https://www.virginradio.it/sezioni/1162/virgin-radio-rock-70",
+        "stream": "https://icy.unitedradio.it/VirginRock70.mp3",
+        "genres": [
+            "rock",
+            "70s"
+        ],
+        "description": "The best rock music of the 70s",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rock '80": {
+        "website": "https://www.virginradio.it/sezioni/1163/virgin-radio-rock-80",
+        "stream": "https://icy.unitedradio.it/VirginRock80.mp3",
+        "genres": [
+            "rock",
+            "80s"
+        ],
+        "description": "The best rock music of the 80s",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rock '90": {
+        "website": "https://www.virginradio.it/sezioni/1992/virgin-radio-rock-90",
+        "stream": "https://icy.unitedradio.it/Virgin_03.mp3",
+        "genres": [
+            "rock",
+            "90s"
+        ],
+        "description": "The best rock music of the 90s",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rock 2K": {
+        "website": "https://www.virginradio.it/sezioni/1986/virgin-radio-rock-2k",
+        "stream": "https://icy.unitedradio.it/Virgin_02.mp3",
+        "genres": [
+            "rock",
+            "2000s"
+        ],
+        "description": "The best rock music of the 2000s",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Hard Rock": {
+        "website": "https://www.virginradio.it/sezioni/1218/virgin-radio-hard-rock",
+        "stream": "https://icy.unitedradio.it/VirginHardRock.mp3",
+        "genres": [
+            "hard rock"
+        ],
+        "description": "The best of hard rock music",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rock Party": {
+        "website": "https://www.virginradio.it/sezioni/1240/virgin-radio-rock-party",
+        "stream": "https://icy.unitedradio.it/VirginRockParty.mp3",
+        "genres": [
+            "indie",
+            "alternative",
+            "psychedelic",
+            "rock",
+            "punk"
+        ],
+        "description": "All the great rock music to dance to for a true Rock Party.",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Alternative Rock": {
+        "website": "https://www.virginradio.it/sezioni/1220/virgin-radio-rock-alternative",
+        "stream": "https://icy.unitedradio.it/VirginRockAlternative.mp3",
+        "genres": [
+            "alternative",
+            "rock",
+            "80s",
+            "90s"
+        ],
+        "description": "The unmistakable sound that the evolution of rock has put in place from the 80s to its peak popularity in the 90s.",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: AC/DC": {
+        "website": "https://www.virginradio.it/sezioni/12079/rockstar-ac-dc",
+        "stream": " https://icy.unitedradio.it/um1026.mp3",
+        "genres": [
+            "hard rock",
+            "heavy metal",
+            "rock"
+        ],
+        "description": "The music of AC/DC",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: Rolling Stones": {
+        "website": "https://www.virginradio.it/sezioni/1855/Music-Star-Rolling-Stones",
+        "stream": "https://icy.unitedradio.it/VirginSpecialEvent.mp3",
+        "genres": [
+            "rock",
+            "hard rock",
+            "british",
+            "psychedelic",
+            "blues",
+            "classic rock"
+        ],
+        "description": "The music of the Rolling Stones",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: Pink Floyd": {
+        "website": "https://www.virginradio.it/sezioni/1926/music-star-roger-waters-pink-floyd",
+        "stream": "https://icy.unitedradio.it/VirginRogerWaters.mp3",
+        "genres": [
+            "psychedelic",
+            "rock"
+        ],
+        "description": "The music of Pink Floyd",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: Guns N' Roses": {
+        "website": "https://www.virginradio.it/sezioni/1824/music-star-guns-n-roses1824",
+        "stream": "https://icy.unitedradio.it/um1029.mp3",
+        "genres": [
+            "hard rock",
+            "metal"
+        ],
+        "description": "The music of Guns N' Roses",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: Queen": {
+        "website": "https://www.virginradio.it/sezioni/1981/music-star-queen",
+        "stream": "https://icecast.unitedradio.it/Virgin_05.mp3",
+        "genres": [
+            "rock",
+            "hard rock",
+            "heavy metal"
+        ],
+        "description": "The music of Queen",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: Bon Jovi": {
+        "website": "https://www.virginradio.it/sezioni/12080/rockstar-bon-jovi",
+        "stream": "https://icy.unitedradio.it/um1027.mp3",
+        "genres": [
+            "rock",
+            "metal"
+        ],
+        "description": "The music of Bon Jovi",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: Aerosmith": {
+        "website": "https://www.virginradio.it/sezioni/12081/rockstar-aerosmith",
+        "stream": "https://icy.unitedradio.it/um1028.mp3",
+        "genres": [
+            "hard rock",
+            "rock",
+            "classic rock"
+        ],
+        "description": "The music of Aerosmith",
+        "discontinued": false
+    },
+    "Virgin Radio Italy - Rockstar: Oasis": {
+        "website": "https://www.virginradio.it/sezioni/12082/rockstar-oasis",
+        "stream": "https://icy.unitedradio.it/um1030.mp3",
+        "genres": [
+            "rock",
+            "british",
+            "indie"
+        ],
+        "description": "The music of Oasis",
+        "discontinued": false
+    },
+    "United Music - Lullaby": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304101-lullaby",
+        "stream": "https://icy.unitedradio.it/um055.mp3",
+        "genres": [
+            "lullabies"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Jazz Classics": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304109-jazz-classics",
+        "stream": "https://icy.unitedradio.it/um053.mp3",
+        "genres": [
+            "jazz",
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Cool Jazz": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304110-cool-jazz",
+        "stream": "https://icy.unitedradio.it/um039.mp3",
+        "genres": [
+            "jazz",
+            "chillout"
+        ],
+        "description": "Pleasant jazz",
+        "discontinued": false
+    },
+    "United Music - E Swing": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304108-e-swing",
+        "stream": "https://icy.unitedradio.it/um062.mp3",
+        "genres": [
+            "swing",
+            "jazz",
+            "electronic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Blues": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304112-blues",
+        "stream": "https://icy.unitedradio.it/um068.mp3",
+        "genres": [
+            "blues"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Street Style Rap": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1260740-rap",
+        "stream": "https://icy.unitedradio.it/um079.mp3",
+        "genres": [
+            "street",
+            "rap"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Street World Trap": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1250222-world-trap",
+        "stream": "https://icy.unitedradio.it/um083.mp3",
+        "genres": [
+            "trap",
+            "street",
+            "world"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - Street Hip-Hop": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304190-hip-hop",
+        "stream": "https://icy.unitedradio.it/um049.mp3",
+        "genres": [
+            "street",
+            "hip hop"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - R&B Hits": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304224-r-b-hits",
+        "stream": "https://icy.unitedradio.it/um034.mp3",
+        "genres": [
+            "R&B",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "United Music - R&B Heart": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304223-r-b-heart",
+        "stream": "https://icy.unitedradio.it/um047.mp3",
+        "genres": [
+            "R&B"
+        ],
+        "description": "R&B music for love",
+        "discontinued": false
+    },
+    "United Music - R&B 2010": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1250229-r-b-2010",
+        "stream": "https://icy.unitedradio.it/um092.mp3",
+        "genres": [
+            "R&B",
+            "2010s",
+            "hits"
+        ],
+        "description": "R&B hits of the 2010s",
+        "discontinued": false
+    },
+    "United Music - R&B 2000": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304215-r-b-2000",
+        "stream": "https://icy.unitedradio.it/um044.mp3",
+        "genres": [
+            "R&B",
+            "2000s",
+            "hits"
+        ],
+        "description": "R&B hits of the 2000s",
+        "discontinued": false
+    },
+    "United Music - R&B 90": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304214-r-b-90",
+        "stream": "https://icy.unitedradio.it/um027.mp3",
+        "genres": [
+            "R&B",
+            "90s",
+            "hits"
+        ],
+        "description": "R&B hits of the 90s",
+        "discontinued": false
+    },
+    "United Music - R&b 80": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304213-r-b-80",
+        "stream": "https://icy.unitedradio.it/um038.mp3",
+        "genres": [
+            "R&B",
+            "80s",
+            "hits"
+        ],
+        "description": "R&B hits of the 80s",
+        "discontinued": false
+    },
+    "United Music - R&B 70": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304192-r-b-70",
+        "stream": "https://icy.unitedradio.it/um042.mp3",
+        "genres": [
+            "R&B",
+            "70s",
+            "hits"
+        ],
+        "description": "R&B hits of the 70s",
+        "discontinued": false
+    },
+    "United Music - Motown 60": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304191-motown-60",
+        "stream": "https://icy.unitedradio.it/um024.mp3",
+        "genres": [
+            "motown",
+            "60s"
+        ],
+        "description": "The radio dedicated to the iconic record label of the 60s.",
+        "discontinued": false
+    },
+    "United Music - Hits Italia": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304155-hits-italia",
+        "stream": "https://icy.unitedradio.it/um011.mp3",
+        "genres": [
+            "italian",
+            "hits"
+        ],
+        "description": "The greatest Italian hits of the contemporary music scene.",
+        "discontinued": false
+    },
+    "United Music - Italia 2010": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304235-italia-2010",
+        "stream": "https://icy.unitedradio.it/um021.mp3",
+        "genres": [
+            "italian",
+            "hits",
+            "2010s"
+        ],
+        "description": "Italian hits of the 2010s",
+        "discontinued": false
+    },
+    "United Music - Italia 2000": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304157-italia-2000",
+        "stream": "https://icy.unitedradio.it/um013.mp3",
+        "genres": [
+            "italian",
+            "hits",
+            "2000s"
+        ],
+        "description": "Italian hits of the 2000s",
+        "discontinued": false
+    },
+    "United Music - Italia 90": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304159-italia-90",
+        "stream": "https://icy.unitedradio.it/um018.mp3",
+        "genres": [
+            "italian",
+            "hits",
+            "90s"
+        ],
+        "description": "Italian hits of the 90s",
+        "discontinued": false
+    },
+    "United Music - Italia 80": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304240-italia-80",
+        "stream": "https://icy.unitedradio.it/um016.mp3",
+        "genres": [
+            "italian",
+            "hits",
+            "80s"
+        ],
+        "description": "Italian hits of the 80s",
+        "discontinued": false
+    },
+    "United Music - Italia 70": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304239-italia-70",
+        "stream": "https://icy.unitedradio.it/um020.mp3",
+        "genres": [
+            "italian",
+            "hits",
+            "70s"
+        ],
+        "description": "Italian hits of the 70s",
+        "discontinued": false
+    },
+    "United Music - Italia 60": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304238-italia-60",
+        "stream": "https://icy.unitedradio.it/um014.mp3",
+        "genres": [
+            "italian",
+            "hits",
+            "60s"
+        ],
+        "description": "Italian hits of the 60s",
+        "discontinued": false
+    },
+    "United Music - Viva Napoli": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304233-viva-napoli",
+        "stream": "https://icy.unitedradio.it/um017.mp3",
+        "genres": [
+            "italian"
+        ],
+        "description": "The thousand colors and sounds of Neapolitan song.",
+        "discontinued": false
+    },
+    "United Music - Dance": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304123-main-room",
+        "stream": "https://icy.unitedradio.it/um052.mp3",
+        "genres": [
+            "dance",
+            "disco",
+            "techno",
+            "electronic"
+        ],
+        "description": "Dance and disco hits",
+        "discontinued": false
+    },
+    "United Music - Club 90": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304127-club-90",
+        "stream": "https://icy.unitedradio.it/um029.mp3",
+        "genres": [
+            "dance",
+            "hits",
+            "90s"
+        ],
+        "description": "Dance hits of the 90s",
+        "discontinued": false
+    },
+    "United Music - Club 2000": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304125-club-2000",
+        "stream": "https://icy.unitedradio.it/um071.mp3",
+        "genres": [
+            "dance",
+            "hits",
+            "2000s"
+        ],
+        "description": "Dance hits of the 2000s",
+        "discontinued": false
+    },
+    "United Music - Club 80": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304128-club-80",
+        "stream": "https://icy.unitedradio.it/um040.mp3",
+        "genres": [
+            "dance",
+            "hits",
+            "80s"
+        ],
+        "description": "Dance hits of the 80s",
+        "discontinued": false
+    },
+    "United Music - Disco 70": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304129-disco-70",
+        "stream": "https://icy.unitedradio.it/um048.mp3",
+        "genres": [
+            "disco",
+            "hits",
+            "70s"
+        ],
+        "description": "Disco hits of the 70s",
+        "discontinued": false
+    },
+    "United Music - New Groove": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304146-new-groove",
+        "stream": "https://icy.unitedradio.it/um056.mp3",
+        "genres": [
+            "funk",
+            "groove"
+        ],
+        "description": "The best of groove music",
+        "discontinued": false
+    },
+    "United Music - Dance Minimal": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304136-minimal",
+        "stream": "https://icy.unitedradio.it/um061.mp3",
+        "genres": [
+            "dance",
+            "disco",
+            "techno"
+        ],
+        "description": "Offers an overview of the evolution of techno.",
+        "discontinued": false
+    },
+    "United Music - Afro House": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304147-afro-house",
+        "stream": "https://icy.unitedradio.it/um063.mp3",
+        "genres": [
+            "african",
+            "beat",
+            "house"
+        ],
+        "description": "Rhythms and vocal elements that mainly originate in South African popular music.",
+        "discontinued": false
+    },
+    "United Music - Progressive House": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304131-progressive-house",
+        "stream": "https://icy.unitedradio.it/um067.mp3",
+        "genres": [
+            "house",
+            "progressive"
+        ],
+        "description": "Fast-paced beats, vocals, melodic drops, and bright leads",
+        "discontinued": false
+    },
+    "United Music - Soulful House": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304134-soulful-house",
+        "stream": "https://icy.unitedradio.it/um036.mp3",
+        "genres": [
+            "house",
+            "soul"
+        ],
+        "description": "The most melodic House sound",
+        "discontinued": false
+    },
+    "Tech House": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304139-tech-house",
+        "stream": "https://icy.unitedradio.it/um065.mp3",
+        "genres": [
+            "house",
+            "techno"
+        ],
+        "description": "Techno + House",
+        "discontinued": false
+    },
+    "United Music - Techno": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304142-techno",
+        "stream": "https://icy.unitedradio.it/um069.mp3",
+        "genres": [
+            "techno"
+        ],
+        "description": "Maximum sound pressure",
+        "discontinued": false
+    },
+    "United Music - Tropical House": {
+        "website": "https://www.unitedmusic.com/sezioni/2266/webradio#304144-tropical-house",
+        "stream": "https://icy.unitedradio.it/um060.mp3",
+        "genres": [
+            "house",
+            "tropical"
+        ],
+        "description": "Electronic tropical music",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10476/radio-monte-carlo-fm",
+        "stream": "https://icy.unitedradio.it/RMC.aac",
+        "genres": [
+            "top 40",
+            "pop"
+        ],
+        "description": "The Italian radio of the Principality of Monaco.",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - BlueMoon": {
+        "website": "https://www.radiomontecarlo.net/sezioni/12222/radio-monte-carlo-bluemoon",
+        "stream": "https://icy.unitedradio.it/rmcweb017",
+        "genres": [
+            "world",
+            "variety"
+        ],
+        "description": "Music from around the world",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Hits": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11238/rmc-hits",
+        "stream": "https://icy.unitedradio.it/rmcweb001",
+        "genres": [
+            "hits"
+        ],
+        "description": "Contemporary hit music",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Buddha-Bar": {
+        "website": "",
+        "stream": "https://icy.unitedradio.it/rmcweb002",
+        "genres": [
+            "lounge",
+            "variety"
+        ],
+        "description": "Music from the famous Buddha Bar in Monte Carlo",
+        "discontinued": false
+    },
+    "Randio Monte Carlo Italia - Jazz": {
+        "website": "https://www.radiomontecarlo.net/sezioni/12179/radio-monte-carlo-jazz",
+        "stream": "https://icy.unitedradio.it/rmcweb019",
+        "genres": [
+            "jazz"
+        ],
+        "description": "International and Italian jazz music",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - VIP Lounge": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11926/rmc-vip-lounge",
+        "stream": "https://icy.unitedradio.it/rmcweb020",
+        "genres": [
+            "house"
+        ],
+        "description": "The best of House and Deep House music",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Italia": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10478/rmc-italia",
+        "stream": "https://icy.unitedradio.it/rmcweb005",
+        "genres": [
+            "italian"
+        ],
+        "description": "Classy Italian music",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Nights Story": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10479/monte-carlo-nights-story",
+        "stream": "https://icy.unitedradio.it/rmcweb012",
+        "genres": [
+            "soul",
+            "jazz",
+            "world"
+        ],
+        "description": "Sounds and atmospheres of the famous Nick The Nightfly program",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - R&B": {
+        "website": "https://www.radiomontecarlo.net/sezioni/12052/radio-monte-carlo-r-b",
+        "stream": "https://icy.unitedradio.it/rmcweb003",
+        "genres": [
+            "R&B"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Love Songs": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10483/rmc-love-songs",
+        "stream": "https://icy.unitedradio.it/rmcweb006",
+        "genres": [
+            "romantic"
+        ],
+        "description": "The most beautiful love songs",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Great Artists": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10480/rmc-great-artists",
+        "stream": "https://icy.unitedradio.it/rmcweb007",
+        "genres": [
+            "pop",
+            "variety",
+            "world"
+        ],
+        "description": "The big names in international music",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - 90": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10485/rmc-90",
+        "stream": "https://icy.unitedradio.it/rmcweb009",
+        "genres": [
+            "90s"
+        ],
+        "description": "The best music of the 90s",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - 80": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10484/rmc-80",
+        "stream": "https://icy.unitedradio.it/rmcweb008",
+        "genres": [
+            "80s"
+        ],
+        "description": "The best music of the 80s",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Marine": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10486/rmc-marine",
+        "stream": "https://icy.unitedradio.it/rmcweb010",
+        "genres": [
+            "soul",
+            "chillout",
+            "latin",
+            "electronic",
+            "lounge"
+        ],
+        "description": "Dedicata agli amanti del mare e della navigazione",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Cool": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11960/rmc-cool",
+        "stream": "https://icy.unitedradio.it/rmcweb004",
+        "genres": [
+            "soul",
+            "house"
+        ],
+        "description": "Sounds and atmospheres of Soulful House",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Acoustic": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11911/radio-monte-carlo-acoustic",
+        "stream": "https://icy.unitedradio.it/rmcweb016",
+        "genres": [
+            "acoustic",
+            "variety"
+        ],
+        "description": "The more intimate side of songs",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - New Classics": {
+        "website": "https://www.radiomontecarlo.net/sezioni/10481/rmc-new-classics",
+        "stream": "https://icy.unitedradio.it/rmcweb011",
+        "genres": [
+            "classics",
+            "cover"
+        ],
+        "description": "New versions of great classics",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Voyage Voyage": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11978/radio-monte-carlo-voyage-voyage",
+        "stream": "https://icy.unitedradio.it/rmcweb022",
+        "genres": [
+            "travel",
+            "world",
+            "variety"
+        ],
+        "description": "The most beautiful sounds from all over the world.",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Disco Funk": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11979/radio-monte-carlo-disco-funk",
+        "stream": "https://icy.unitedradio.it/rmcweb025",
+        "genres": [
+            "disco",
+            "funk"
+        ],
+        "description": "All the great classics from the golden age of funk music.",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Running": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11947/running-radio",
+        "stream": "https://icy.unitedradio.it/rmcweb021",
+        "genres": [
+            "energized"
+        ],
+        "description": "Music to boost your desire for competition",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Romantic Rock": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11898/romantic-rock",
+        "stream": "https://icy.unitedradio.it/rmcweb015",
+        "genres": [
+            "rock",
+            "romantic"
+        ],
+        "description": "The most beautiful rock love songs",
+        "discontinued": false
+    },
+    "Ratio Monte Carlo Italia - Party": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11923/rmc-party",
+        "stream": "https://icy.unitedradio.it/rmcweb018",
+        "genres": [
+            "party"
+        ],
+        "description": "Music to ignite your desire to party",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Fitness": {
+        "website": "https://www.radiomontecarlo.net/sezioni/11949/gym-radio",
+        "stream": "https://icy.unitedradio.it/rmcweb023",
+        "genres": [
+            "energized"
+        ],
+        "description": "Music for your workout",
+        "discontinued": false
+    },
+    "Radio Monte Carlo Italia - Planet": {
+        "website": "https://www.radiomontecarlo.net/sezioni/12207/planet",
+        "stream": "https://icy.unitedradio.it/rmcweb026",
+        "genres": [
+            "world",
+            "ambient"
+        ],
+        "description": "The radio that celebrates the beauty of our planet and promotes its preservation.",
+        "discontinued": false
+    },
+    "NPO Radio 1": {
+        "website": "http://www.radio1.nl/",
+        "stream": "https://icecast.omroep.nl/radio1-bb-mp3",
+        "genres": [
+            "news",
+            "sports",
+            "talk",
+            "dutch"
+        ],
+        "description": "A public-service radio channel in the Netherlands, broadcasting mainly news and sport.",
+        "discontinued": false
+    },
+    "NPO Radio 2": {
+        "website": "http://www.radio2.nl/",
+        "stream": "https://icecast.omroep.nl/radio2-bb-mp3",
+        "genres": [
+            "classics",
+            "hits",
+            "dtuch"
+        ],
+        "description": "A public-service radio station in the Netherlands, broadcasting chiefly classic hits.",
+        "discontinued": false
+    },
+    "NPO Radio 3FM": {
+        "website": "http://www.3fm.nl/",
+        "stream": "https://icecast.omroep.nl/3fm-sb-mp3",
+        "genres": [
+            "hits",
+            "alternative",
+            "rock",
+            "dutch"
+        ],
+        "description": "A public-service radio station in the Netherlands whose format is a combination of contemporary hit radio, alternative and rock.",
+        "discontinued": false
+    },
+    "NPO Radio 4": {
+        "website": "http://www.radio4.nl/",
+        "stream": "https://icecast.omroep.nl/radio4-bb-mp3",
+        "genres": [
+            "classical",
+            "dutch"
+        ],
+        "description": "A public-service radio channel in the Netherlands, broadcasting chiefly classical music",
+        "discontinued": false
+    },
+    "NPO Radio 5": {
+        "website": "https://www.nporadio5.nl",
+        "stream": "http://icecast.omroep.nl/radio5-sb-mp3",
+        "genres": [
+            "easy listening",
+            "news",
+            "talk",
+            "games",
+            "dutch"
+        ],
+        "description": "A public-service radio channel in the Netherlands, broadcasting easy listening music, interviews, news, and audience participation segments.",
+        "discontinued": false
+    },
+    "FunX": {
+        "website": "https://www.funx.nl",
+        "stream": "http://icecast.omroep.nl/funx-bb-mp3",
+        "genres": [
+            "urban",
+            "dutch"
+        ],
+        "description": "Urban and world music, aimed at youth market.",
+        "discontinued": false
+    },
+    "NPO Sterren": {
+        "website": "https://www.nporadio5.nl/sterrennl",
+        "stream": "http://icecast.omroep.nl/radio2-sterrennl-mp3",
+        "genres": [
+            "dutch"
+        ],
+        "description": "Music from Dutch artists",
+        "discontinued": false
+    },
+    "NPO Soul & Jazz": {
+        "website": "https://www.nporadio2.nl/soulenjazz",
+        "stream": "https://icecast.omroep.nl/radio6-bb-mp3",
+        "genres": [
+            "soul",
+            "jazz",
+            "blues",
+            "blues"
+        ],
+        "description": "Swinging, high-quality music 24 hours a day. Tune in if you're looking for the best funk, rhythm & blues, Jazz and Soul.",
+        "discontinued": false
+    },
+    "classicnl": {
+        "website": "https://www.classic.nl",
+        "stream": "https://22543.live.streamtheworld.com/CLASSICFMAAC.aac",
+        "genres": [
+            "classical",
+            "opera",
+            "soundtracks"
+        ],
+        "description": "Radio station for anyone who likes light classical music, but other quiet music is also covered, such as opera and film music.",
+        "discontinued": false
+    },
+    "classicnl Mind Radio": {
+        "website": "",
+        "stream": "https://25323.live.streamtheworld.com/SRGSTR25AAC.aac",
+        "genres": [
+            "classical",
+            "opera",
+            "soundtracks",
+            "calm"
+        ],
+        "description": " A mix of classical music styles that have one thing in common: they are soothing.",
+        "discontinued": false
+    },
+    "classicnl Opera": {
+        "website": "",
+        "stream": "https://22613.live.streamtheworld.com/CLASSICFMAAC.aac",
+        "genres": [
+            "opera"
+        ],
+        "description": "The most famous arias and choral works from operas by Puccini, Mozart and Verdi, among others.",
+        "discontinued": false
+    },
+    "classicnl Soundtracks": {
+        "website": "",
+        "stream": "https://25323.live.streamtheworld.com/SRGSTR26AAC.aac",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "Modern film scores by composers such as Hans Zimmer, James Horner and Howard Shore.",
+        "discontinued": false
+    },
+    "NPO 3FM KX": {
+        "website": "https://www.npo3fm.nl/kx",
+        "stream": "https://icecast.omroep.nl/3fm-serioustalent-mp3",
+        "genres": [
+            "experimental",
+            "variety"
+        ],
+        "description": "A public-service radio channel in the Netherlands where all presenters receive their training for the big jobs with the big brothers.",
         "discontinued": false
     }
 }
