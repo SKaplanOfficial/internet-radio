@@ -4546,7 +4546,7 @@
         "website": "https://www.ffh.de/musik/webradio.html",
         "stream": "https://mp3.ffh.de/ffhchannels/hqsoundtrack.aac",
         "genres": [
-            "soundtracks",
+            "soundtracks"
         ],
         "description": "",
         "discontinued": false
@@ -4798,7 +4798,7 @@
         "website": "https://www.unitedmusic.com/sezioni/2266/webradio#1303063-le-canzoni-vincitrici",
         "stream": "https://icy.unitedradio.it/um059.mp3",
         "genres": [
-            "italian",
+            "italian"
         ],
         "description": "The winning songs of the Sanremo Italian Song Festival, all years.",
         "discontinued": false
@@ -5222,7 +5222,7 @@
         "website": "https://www.virginradio.it/sezioni/1219/virgin-radio-rock-classic",
         "stream": "https://icy.unitedradio.it/VirginRockClassics.mp3",
         "genres": [
-            "classic rock",
+            "classic rock"
         ],
         "description": "From the 60s to the 80s the best of CLASSIC ROCK.",
         "discontinued": false
