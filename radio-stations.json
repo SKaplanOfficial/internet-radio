@@ -380,7 +380,7 @@
         "website": "https://pumpkinfm.com/live-stream/radio-malvern-int/",
         "stream": "65.21.202.84:8403/;",
         "genres": [
-            ""
+            "classical"
         ],
         "description": "An Internet Radio station broadcasting from London, England, United Kingdom, providing Classical, Opera, Symphony, and Baroque music.",
         "discontinued": false
@@ -722,6 +722,7 @@
         "website": "https://www.musicaltheatreradio.com",
         "stream": "https://streaming.live365.com/a99840",
         "genres": [
+            "musical",
             "soundtracks"
         ],
         "description": "",
@@ -2994,7 +2995,7 @@
         "discontinued": false
     },
     "BBC Radio 2": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_two",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
         "genres": [
             "jazz",
@@ -3005,7 +3006,7 @@
         "discontinued": false
     },
     "BBC Radio 3": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_three",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
         "genres": [
             "classical",
@@ -3017,7 +3018,7 @@
         "discontinued": false
     },
     "BBC Radio 4": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
         "genres": [
             "news",
@@ -3027,7 +3028,7 @@
         "discontinued": false
     },
     "BBC Radio 5 Live": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk",
         "genres": [
             "news",
@@ -3038,7 +3039,7 @@
         "discontinued": false
     },
     "BBC Radio 6 Music": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_6music",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_6music",
         "genres": [
             "alternative",
@@ -3049,7 +3050,7 @@
         "discontinued": false
     },
     "BBC Radio 1Xtra": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_1xtra",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra",
         "genres": [
             "hip hop",
@@ -3060,7 +3061,7 @@
         "discontinued": false
     },
     "BBC Radio 4 Extra": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_four_extra",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra",
         "genres": [
             "comedy",
@@ -3071,7 +3072,7 @@
         "discontinued": false
     },
     "BBC Asian Network": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_asian_network",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network",
         "genres": [
             "asian"
@@ -3080,7 +3081,7 @@
         "discontinued": false
     },
     "BBC Coventry and Warwickshire": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_coventry_warwickshire",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_coventry_warwickshire",
         "genres": [
             "community",
@@ -3090,7 +3091,7 @@
         "discontinued": false
     },
     "BBC Essex": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_essex",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_essex",
         "genres": [
             "community",
@@ -3100,7 +3101,7 @@
         "discontinued": false
     },
     "BBC Hereford & Worcester": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_hereford_worcester",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_hereford_worcester",
         "genres": [
             "community",
@@ -3110,7 +3111,7 @@
         "discontinued": false
     },
     "BBC Radio Berkshire": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_berkshire",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire",
         "genres": [
             "community",
@@ -3120,7 +3121,7 @@
         "discontinued": false
     },
     "BBC Radio Bristol": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_bristol",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_bristol",
         "genres": [
             "community",
@@ -3130,7 +3131,7 @@
         "discontinued": false
     },
     "BBC Radio Cambridge": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_cambridge",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cambridge",
         "genres": [
             "community",
@@ -3140,7 +3141,7 @@
         "discontinued": false
     },
     "BBC Radio Cornwall": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_cornwall",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cornwall",
         "genres": [
             "community",
@@ -3150,7 +3151,7 @@
         "discontinued": false
     },
     "BBC Radio Cumbria": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_cumbria",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cumbria",
         "genres": [
             "community",
@@ -3160,7 +3161,7 @@
         "discontinued": false
     },
     "BBC Radio Cymru": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_cymru",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru",
         "genres": [
             "language",
@@ -3170,7 +3171,7 @@
         "discontinued": false
     },
     "BBC Radio Cymru 2": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_cymru_2",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru_2",
         "genres": [
             "language",
@@ -3180,7 +3181,7 @@
         "discontinued": false
     },
     "BBC Radio Derby": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_derby",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby",
         "genres": [
             "community",
@@ -3190,7 +3191,7 @@
         "discontinued": false
     },
     "BBC Radio Devon": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_devon",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon",
         "genres": [
             "community",
@@ -3200,7 +3201,7 @@
         "discontinued": false
     },
     "BBC Radio Foyle": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_foyle",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle",
         "genres": [
             "community",
@@ -3210,7 +3211,7 @@
         "discontinued": false
     },
     "BBC Radio Gloucestershire": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_gloucestershire",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire",
         "genres": [
             "community",
@@ -3230,7 +3231,7 @@
         "discontinued": false
     },
     "BBC Radio Humberside": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_humberside",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_humberside",
         "genres": [
             "community",
@@ -3240,7 +3241,7 @@
         "discontinued": false
     },
     "BBC Radio Jersey": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_jersey",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_jersey",
         "genres": [
             "community",
@@ -3250,7 +3251,7 @@
         "discontinued": false
     },
     "BBC Radio Kent": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_kent",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_kent",
         "genres": [
             "community",
@@ -3260,7 +3261,7 @@
         "discontinued": false
     },
     "BBC Radio Lancashire": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_lancashire",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire",
         "genres": [
             "community",
@@ -3270,7 +3271,7 @@
         "discontinued": false
     },
     "BBC Radio Leeds": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_leeds",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leeds",
         "genres": [
             "community",
@@ -3280,7 +3281,7 @@
         "discontinued": false
     },
     "BBC Radio Leicester": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_leicester",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_leicester",
         "genres": [
             "community",
@@ -3300,7 +3301,7 @@
         "discontinued": false
     },
     "BBC Radio London": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_london",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_london",
         "genres": [
             "community",
@@ -3310,7 +3311,7 @@
         "discontinued": false
     },
     "BBC Radio Manchester": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_manchester",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester",
         "genres": [
             "community",
@@ -3320,7 +3321,7 @@
         "discontinued": false
     },
     "BBC Radio Merseyside": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_merseyside",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_merseyside",
         "genres": [
             "community",
@@ -3330,7 +3331,7 @@
         "discontinued": false
     },
     "BBC Radio nan Gaidheal": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_nan_gaidheal",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal",
         "genres": [
             "language",
@@ -3340,7 +3341,7 @@
         "discontinued": false
     },
     "BBC Radio Newcastle": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_newcastle?at_bbc_team=editorial&at_link_type=web_link&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_origin=bbcnewcastle&at_medium=social&at_format=image&at_link_id=2D1931DA-88D6-11ED-A0DE-E6122152A482&at_campaign_type=owned",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_newcastle",
         "genres": [
             "community",
@@ -3350,7 +3351,7 @@
         "discontinued": false
     },
     "BBC Radio Norfolk": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_norfolk",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_norfolk",
         "genres": [
             "community",
@@ -3360,7 +3361,7 @@
         "discontinued": false
     },
     "BBC Radio Northampton": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_northampton",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_northampton",
         "genres": [
             "community",
@@ -3370,7 +3371,7 @@
         "discontinued": false
     },
     "BBC Radio Nottingham": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_nottingham",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_nottingham",
         "genres": [
             "community",
@@ -3380,7 +3381,7 @@
         "discontinued": false
     },
     "BBC Radio Orkney": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_orkney",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_orkney",
         "genres": [
             ""
@@ -3389,7 +3390,7 @@
         "discontinued": false
     },
     "BBC Radio Oxford": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_oxford",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_oxford",
         "genres": [
             "community",
@@ -3399,7 +3400,7 @@
         "discontinued": false
     },
     "BBC Radio Scotland FM": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm",
         "genres": [
             "community",
@@ -3409,7 +3410,7 @@
         "discontinued": false
     },
     "BBC Radio Scotland Extra": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_mw",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw",
         "genres": [
             "community",
@@ -3419,7 +3420,7 @@
         "discontinued": false
     },
     "BBC Radio Sheffield": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_sheffield",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sheffield",
         "genres": [
             "community",
@@ -3429,7 +3430,7 @@
         "discontinued": false
     },
     "BBC Radio Shropshire": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_shropshire",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_shropshire",
         "genres": [
             "community",
@@ -3439,7 +3440,7 @@
         "discontinued": false
     },
     "BBC Radio Solent": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_solent",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent",
         "genres": [
             "community",
@@ -3449,16 +3450,17 @@
         "discontinued": false
     },
     "BBC Radio Solent West Dorset": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_solent_west_dorset",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent_west_dorset",
         "genres": [
-            ""
+            "community",
+            "variety"
         ],
         "description": "",
         "discontinued": false
     },
     "BBC Radio Somerset Sound": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_somerset_sound",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_somerset_sound",
         "genres": [
             "community",
@@ -3468,7 +3470,7 @@
         "discontinued": false
     },
     "BBC Radio Stoke": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_stoke",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_stoke",
         "genres": [
             "community",
@@ -3478,7 +3480,7 @@
         "discontinued": false
     },
     "BBC Radio Suffolk": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_suffolk",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_suffolk",
         "genres": [
             "community",
@@ -3488,7 +3490,7 @@
         "discontinued": false
     },
     "BBC Radio Surrey": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_surrey",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_surrey",
         "genres": [
             "community",
@@ -3498,7 +3500,7 @@
         "discontinued": false
     },
     "BBC Radio Sussex": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_sussex",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_sussex",
         "genres": [
             "community",
@@ -3508,7 +3510,7 @@
         "discontinued": false
     },
     "BBC Radio Tees": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_tees",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_tees",
         "genres": [
             "community",
@@ -3518,7 +3520,7 @@
         "discontinued": false
     },
     "BBC Radio Ulster": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_ulster",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster",
         "genres": [
             "community",
@@ -3528,7 +3530,7 @@
         "discontinued": false
     },
     "BBC Radio Wales": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_wales_fm",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm",
         "genres": [
             "community",
@@ -3538,7 +3540,7 @@
         "discontinued": false
     },
     "BBC Radio Wiltshire": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_wiltshire",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_wiltshire",
         "genres": [
             "community",
@@ -3548,7 +3550,7 @@
         "discontinued": false
     },
     "BBC Radio WM": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_wm",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_wm",
         "genres": [
             "community",
@@ -3558,7 +3560,7 @@
         "discontinued": false
     },
     "BBC Radio York": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_york",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_york",
         "genres": [
             "community",
@@ -3568,7 +3570,7 @@
         "discontinued": false
     },
     "BBC Three Counties Radio": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_three_counties_radio",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio",
         "genres": [
             "community",
@@ -3712,6 +3714,758 @@
             "variety"
         ],
         "description": "NTS provides curious minds with a home for music discovery. Built by music lovers, for music lovers.",
+        "discontinued": false
+    },
+    "Trek Radio": {
+        "website": "",
+        "stream": "https://streaming.live365.com/a33289",
+        "genres": [
+            "sci-fi",
+            "science",
+            "drama",
+            "talk"
+        ],
+        "description": "Star Trek and Sci-Fi themed programming, interviews, radio dramas, and fanmade content.",
+        "discontinued": false
+    },
+    "SCI FI OTR": {
+        "website": "http://scifi-otr.weebly.com",
+        "stream": "http://s1.voscast.com:8652/;stream1675552435188/1",
+        "genres": [
+            "sci-fi",
+            "classics",
+            "drama"
+        ],
+        "description": "Science Fiction Radio. Dedicated to airing the best Old Time Radio science fiction",
+        "discontinued": false
+    },
+    "90.9 FM WMPG": {
+        "website": "https://www.wmpg.org",
+        "stream": "http://quarrel.str3am.com:7270/",
+        "genres": [
+            "variety",
+            "jazz",
+            "rock",
+            "news"
+        ],
+        "description": "Features diverse programming ranging from rock to jazz to foreign to local or global issues, and more.",
+        "discontinued": false
+    },
+    "Global Urban Radio": {
+        "website": "https://globalurbanradio.com",
+        "stream": "https://stream.radiojar.com/q1fqvmprqwzuv.m4a",
+        "genres": [
+            "urban",
+            "R&B",
+            "rap",
+            "pop",
+            "hip hop",
+            "latin"
+        ],
+        "description": "Bringing you the best in Global Urban Music! From throwback American hip-hop to current hits from England, France, Thailand, Japan and beyond!",
+        "discontinued": false
+    },
+    "Global EDM Radio": {
+        "website": "https://www.globaledmradio1.com",
+        "stream": "https://stream-50.zeno.fm/f30r4u6n7x8uv",
+        "genres": [
+            "EDM",
+            "dance",
+            "electronic",
+            "house"
+        ],
+        "description": "Global EDM Radio challenges the status quo by providing a variety of EDM genres featuring emerging artists and the mainstream artists most people may be familiar with.",
+        "discontinued": false
+    },
+    "Sorcerer Radio - Main": {
+        "website": "https://srsounds.com/wp/",
+        "stream": "https://13683.live.streamtheworld.com/SAM05AAC015_SC",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "An internet radio station from Orlando, Florida, United States, providing music from all four Disney theme parks, as well as audio from the water parks, the monorail and the resorts.",
+        "discontinued": false
+    },
+    "Sorcerer Radio - Atmospheres": {
+        "website": "https://srsounds.com/wp/",
+        "stream": "http://19293.live.streamtheworld.com/SP_R3956612_SC",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "Disney Park Music. The perfect channel for getting that ultimate feeling of walking around the Disney Parks.",
+        "discontinued": false
+    },
+    "Sorcerer Radio - Spa Day": {
+        "website": "https://srsounds.com/wp/",
+        "stream": "http://17563.live.streamtheworld.com/SP_R3956254_SC",
+        "genres": [
+            "soundtracks",
+            "relaxing",
+            "chillout"
+        ],
+        "description": "Relaxing Disney Music. The perfect blend of Disney radio that will help you chill out while studying, sleeping, meditating or just relaxing.",
+        "discontinued": false
+    },
+    "Sorcerer Radio - Ropedrop": {
+        "website": "",
+        "stream": "http://18123.live.streamtheworld.com/SP_R3956488_SC",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "Disney Rides & Shows; Disney ride and attraction audio.",
+        "discontinued": false
+    },
+    "Sorcerer Radio - Seasons": {
+        "website": "https://srsounds.com/wp/",
+        "stream": "http://19293.live.streamtheworld.com/SP_R2809833_SC",
+        "genres": [
+            "soundtracks",
+            "holiday"
+        ],
+        "description": "Seasonal Audio. Christmas Disney music, Halloween park tunes, Disney Cruise music and much more.",
+        "discontinued": false
+    },
+    "Sorcerer Radio - Mocha": {
+        "website": "https://srsounds.com/wp/",
+        "stream": "http://18123.live.streamtheworld.com/SP_R2670862_SC",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "Coffeehouse Music. The perfect channel for your background study music, while at work or just chilling out after a long day.",
+        "discontinued": false
+    },
+    "95.9 The Rocket": {
+        "website": "https://www.959therocket.com",
+        "stream": "https://15313.live.streamtheworld.com/WROKFMAAC.aac",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "description": "95.9 The Rocket is the Space Coast Classic Rock Station! ",
+        "discontinued": false
+    },
+    "Leo's Casino Radio": {
+        "website": "https://www.leoscasinoradio.com",
+        "stream": "http://ais-edge104-live365-dal02.cdnstream.com/a45657",
+        "genres": [
+            "motown",
+            "blues",
+            "jazz",
+            "R&B",
+            "60s",
+            "70s",
+            "80s"
+        ],
+        "description": "Providing Motown sound, blues, jazz and R&B of the 60's, 70's and 80's",
+        "discontinued": false
+    },
+    "Virginia Sports Radio": {
+        "website": "https://virginiasports.com",
+        "stream": "https://live.wostreaming.net/direct/saga-winaammp3-ibc1",
+        "genres": [
+            "sports",
+            "talk"
+        ],
+        "description": "Covering UVA Football, Basketbal, and special content.",
+        "discontinued": false
+    },
+    "Anchorage International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/13556",
+        "stream": "https://broadcastify.cdnstream1.com/13556",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "Live feed of Anchorage International Airport (PANC). Stereo feed with tower on the left channel and ground, app/dep and clearance delivery on the right channel.",
+        "discontinued": false
+    },
+    "Crime Radio UK": {
+        "website": "https://onlineradiobox.com/uk/crimeuk/?cs=uk.crimeuk",
+        "stream": "https://onlineradiobox.com/json/uk/crimeuk/play",
+        "genres": [
+            "talk",
+            "drama"
+        ],
+        "description": "Streaming thousands of fantastic episodes from such classics as Dragnet, This is Your FBI, Boston Blackie, The Whistler, The Shadow, The Green Hornet, Sam Spade, Suspense, Calling All Cars and many many more.",
+        "discontinued": false
+    },
+    "Nóta FM - Magyarország mulatós rádiója": {
+        "website": "http://notafm.hu",
+        "stream": "http://live.notafm.hu:8000/notafm.mp3?_=1",
+        "genres": [
+            "folk",
+            "community"
+        ],
+        "description": "Hungary's Entertainment Radio",
+        "discontinued": false
+    },
+    "Box Radio - J-POP": {
+        "website": "https://boxradioplayer.vercel.app/jpop",
+        "stream": "https://boxradio-edge-00.streamafrica.net/jpop",
+        "genres": [
+            "jpop"
+        ],
+        "description": "Japanese pop, rock, and more.",
+        "discontinued": false
+    },
+    "Box Radio - K-POP": {
+        "website": "https://boxradioplayer.vercel.app/kpop",
+        "stream": "https://boxradio-edge-08.streamafrica.net/kpop",
+        "genres": [
+            "kpop"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Box Radio - Laugh Network": {
+        "website": "https://boxradioplayer.vercel.app/laugh",
+        "stream": "https://boxradio-edge-10.streamafrica.net/laugh",
+        "genres": [
+            "comedy",
+            "talk"
+        ],
+        "description": "Stand-up comedy.",
+        "discontinued": false
+    },
+    "DASH Radio - The Blue Spot": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH59",
+        "genres": [
+            "blues"
+        ],
+        "description": "Home of the blues.",
+        "discontinued": false
+    },
+    "Box Radio - LoFi": {
+        "website": "https://boxradioplayer.vercel.app/lofi",
+        "stream": "https://boxradio-edge-00.streamafrica.net/lofi",
+        "genres": [
+            "lofi"
+        ],
+        "description": "Lo-fi, chillhop, chillpop, sleep, relax.",
+        "discontinued": false
+    },
+    "Box Radio - Weeb Anime Radio": {
+        "website": "https://boxradioplayer.vercel.app/anime",
+        "stream": "https://boxradio-edge-15.streamafrica.net/anime",
+        "genres": [
+            "anime",
+            "soundtracks"
+        ],
+        "description": "Anime music",
+        "discontinued": false
+    },
+    "DASH Radio - Nothin' But Net": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH96",
+        "genres": [
+            "sports",
+            "talk"
+        ],
+        "description": "All things Basketball",
+        "discontinued": false
+    },
+    "DASH Radio - Laungh Factory": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH92",
+        "genres": [
+            "comedy"
+        ],
+        "description": "Stand-up comedy.",
+        "discontinued": false
+    },
+    "DASH Radio - La Isla": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH10",
+        "genres": [
+            "tropical"
+        ],
+        "description": "Pure tropical music",
+        "discontinued": false
+    },
+    "DASH Radio - Indie": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH32",
+        "genres": [
+            "indie",
+            "rock"
+        ],
+        "description": "Indie & indie rock",
+        "discontinued": false
+    },
+    "DASH Radio - Cinescore": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH29",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "Movie soundtracks.",
+        "discontinued": false
+    },
+    "DASH Radio - Broadway Records Radio": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH75",
+        "genres": [
+            "musical",
+            "soundtracks"
+        ],
+        "description": "Showtunes and Broadway Stars",
+        "discontinued": false
+    },
+    "DASH Radio - BPM Supreme Radio": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH4",
+        "genres": [
+            "electronic",
+            "energized"
+        ],
+        "description": "Fast-paced beats",
+        "discontinued": false
+    },
+    "DASH Radio - Afrobeats": {
+        "website": "https://dashradio.com",
+        "stream": "https://ice55.securenetsystems.net/DASH64",
+        "genres": [
+            "african",
+            "reggae",
+            "hip hop"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Fame FM Qatar": {
+        "website": "https://famefmqatar.com",
+        "stream": "https://13683.live.streamtheworld.com/SAM03AAC389.aac",
+        "genres": [
+            "top 40",
+            "pop",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio Free Brooklyn 1": {
+        "website": "https://www.radiofreebrooklyn.org",
+        "stream": "http://192.111.140.6:9300/stream",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "A freeform radio platform for the diverse cultures that comprise the borough of Brooklyn.",
+        "discontinued": false
+    },
+    "Radio Free Brooklyn 2 - Localchord": {
+        "website": "https://www.radiofreebrooklyn.org",
+        "stream": "http://159.203.70.187:9736/stream",
+        "genres": [
+            "community",
+            "variety"
+        ],
+        "description": "a freeform radio platform for the diverse cultures that comprise the borough of Brooklyn.",
+        "discontinued": false
+    },
+    "KUSF 90.3 FM": {
+        "website": "http://www.kusf.org",
+        "stream": "https://kusf.stream.creek.fm/stream",
+        "genres": [
+            "blues",
+            "alternative",
+            "rock",
+            "news",
+            "talk",
+            "community"
+        ],
+        "description": "The University of San Francisco’s radio station. Explored the varied sounds of the Bay Area.",
+        "discontinued": false
+    },
+    "WQXR 105.9 FM": {
+        "website": "https://www.wqxr.org",
+        "stream": "https://stream.wqxr.org/wqxr-web",
+        "genres": [
+            "classical"
+        ],
+        "description": "One of the oldest and most well-known FM stations in the world. Streaming classical music.",
+        "discontinued": false
+    },
+    "WWOZ 90.7 FM": {
+        "website": "https://www.wwoz.org",
+        "stream": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+        "genres": [
+            "jazz",
+            "soul",
+            "R&B"
+        ],
+        "description": "Provides programming centered largely around the jazz tradition.",
+        "discontinued": false
+    },
+    "WFMU 91.9": {
+        "website": "https://wfmu.org",
+        "stream": "https://stream0.wfmu.org/freeform-128k.mp3",
+        "genres": [
+            "variety"
+        ],
+        "description": "Independent freeform radio broadcasting. The longest running indepedent radio station in the U.S.",
+        "discontinued": false
+    },
+    "WMFU Rock n' Soul Radio": {
+        "website": "https://wfmu.org/rocknsoulradio",
+        "stream": "https://stream0.wfmu.org/rocknsoul",
+        "genres": [
+            "rock",
+            "soul",
+            "variety",
+            "experimental"
+        ],
+        "description": "Reliably rock and soul.",
+        "discontinued": false
+    },
+    "WFMU Give The Drummer Radio": {
+        "website": "https://wfmu.org/drummer",
+        "stream": "https://stream0.wfmu.org/drummer",
+        "genres": [
+            "drums",
+            "rock",
+            "variety",
+            "experimental"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KUTX 98.9 FM": {
+        "website": "https://kutx.org",
+        "stream": "https://kut.streamguys1.com/kutx-free.aac",
+        "genres": [
+            "indie",
+            "pop",
+            "disco",
+            "latin",
+            "variety",
+            "experimental"
+        ],
+        "description": "Operated by the University of Texas in Austin. Showcases a range of genres from indie to pop, disco, and latin, and more.",
+        "discontinued": false
+    },
+    "dublab": {
+        "website": "https://www.dublab.com",
+        "stream": "https://dublab.out.airtime.pro/dublab_a",
+        "genres": [
+            "indie",
+            "electronic"
+        ],
+        "description": "dublab is a non-profit, radio station based in Los Angeles. Since 1999, we have been broadcasting wide-spectrum music from around the world. dublab's programming has expanded to include the production of original art exhibits, films, events and record releases. dublab is a platform for discovery and the cultivation of next-wave music, arts and culture.",
+        "discontinued": false
+    },
+    "WMOT 98.5 FM": {
+        "website": "https://www.wmot.org",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMOTFM.mp3",
+        "genres": [
+            "jazz",
+            "community"
+        ],
+        "description": "Listener-powered independent jazz radio",
+        "discontinued": false
+    },
+    "dublab DE": {
+        "website": "https://dublab.de",
+        "stream": "https://dublabde.out.airtime.pro/dublabde_a?",
+        "genres": [
+            "reggae",
+            "jazz",
+            "R&B",
+            "folk",
+            "experimental"
+        ],
+        "description": "dublab DE is the German branch of dublab.com and has been broadcasting from Cologne since 2015.",
+        "discontinued": false
+    },
+    "dublab bcn": {
+        "website": "https://dublab.es",
+        "stream": "https://dublabbcn.out.airtime.pro/dublabbcn_b",
+        "genres": [
+            "blues",
+            "house",
+            "lofi",
+            "techno",
+            "disco",
+            "experimental"
+        ],
+        "description": "dublab bcn is the Spanish branch of dublab.com and has been broadcasting from Barcelona since 2015.",
+        "discontinued": false
+    },
+    "XRAY.FM 91.1 / 107.1 FM": {
+        "website": "https://xray.fm",
+        "stream": "https://listen.xray.fm/stream",
+        "genres": [
+            "indie",
+            "hip hop",
+            "metal",
+            "soul",
+            "talk",
+            "variety",
+            "experimental"
+        ],
+        "description": "Programming ranges from indie to hip hop to metal to soul to psych and beyond, with a dual focus on curation and discovery.",
+        "discontinued": false
+    },
+    "WWPR Power 105.1 FM": {
+        "website": "https://power1051.iheart.com/",
+        "stream": "https://stream.revma.ihrhls.com/zc1481",
+        "genres": [
+            "urban",
+            "hip hop",
+            "R&B"
+        ],
+        "description": "New York's Hip-Hop and R&B",
+        "discontinued": false
+    },
+    "KCRW 89.9 FM": {
+        "website": "https://www.kcrw.com",
+        "stream": "https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air",
+        "genres": [
+            "indie",
+            "news",
+            "talk"
+        ],
+        "description": "KCRW, a community service of Santa Monica College, is Southern California's leading National Public Radio affiliate, featuring an eclectic mix of music, news, information and cultural programming.",
+        "discontinued": false
+    },
+    "KCRW News 24": {
+        "website": "https://www.kcrw.com",
+        "stream": "https://kcrw.streamguys1.com/kcrw_192k_mp3_news",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "News at both local and global scopes.",
+        "discontinued": false
+    },
+    "MTSU Jazz Network": {
+        "website": "https://www.wmot.org",
+        "stream": "http://ice64.securenetsystems.net/WMOT",
+        "genres": [
+            "jazz",
+            "community"
+        ],
+        "description": "Listener-powered independent jazz radio",
+        "discontinued": false
+    },
+    "Operavore": {
+        "website": "https://www.wqxr.org/shows/operavorestream/",
+        "stream": "https://opera-stream.wqxr.org/operavore-web",
+        "genres": [
+            "opera"
+        ],
+        "description": "WQXR's 24-hour stream dedicated to opera. Enjoy this continuous, carefully programmed mix of opera arias, duets, scenes choruses and instrumental numbers.",
+        "discontinued": false
+    },
+    "New Sounds": {
+        "website": "https://www.newsounds.org/",
+        "stream": "https://q2stream.wqxr.org/q2-web",
+        "genres": [
+            "variety"
+        ],
+        "description": "Hand-picked music, genre free. 24/7 radio from New York City.",
+        "discontinued": false
+    },
+    "CINÉMARADIO": {
+        "website": "http://www.cinemaradio.net",
+        "stream": "https://listen.radioking.com/radio/378967/stream/429868",
+        "genres": [
+            "soundtracks",
+            "french"
+        ],
+        "description": "Dedicated to films and series.",
+        "discontinued": false
+    },
+    "Cinemusic": {
+        "website": "https://www.cinemusicradio.com",
+        "stream": " https://listen.radioking.com/radio/422/stream/23",
+        "genres": [
+            "soundtracks",
+            "video game music"
+        ],
+        "description": "The first French digital radio entirely dedicated to cinema, film music, series, video games, entertainment and arts",
+        "discontinued": false
+    },
+    "Kalaallit Nunaata Radioa": {
+        "website": "https://knr.gl/kl/knr-radio",
+        "stream": "https://i2.cdn.jetstre.am:8000/sz=knr=audio192",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Operated by the Greenlandic Broadcasting Corporation. Covers a wide variety of topics.",
+        "discontinued": false
+    },
+    "KISS FM 104.5": {
+        "website": "https://www.kissfm.is",
+        "stream": "http://ice-11.spilarinn.is/kissfm",
+        "genres": [
+            "top 40",
+            "pop"
+        ],
+        "description": "Iceland's #1 Hit Music Station",
+        "discontinued": false
+    },
+    "RÚV Rás 1": {
+        "website": "https://www.ruv.is/utvarp/beint/ras1",
+        "stream": "http://ice-11.spilarinn.is/xruv1",
+        "genres": [
+            "news",
+            "history",
+            "education",
+            "science",
+            "talk"
+        ],
+        "description": "Rás 1 is for people interested in history, the present and the future. It echoes life in the country, world literature, the arts, science and scholarship.",
+        "discontinued": false
+    },
+    "RÚV Rás 2": {
+        "website": "https://www.ruv.is/utvarp/beint/ras2",
+        "stream": "http://ice-11.spilarinn.is/xruv2",
+        "genres": [
+            "icelandic"
+        ],
+        "description": "Icelandic music is the heart of Rás 2.",
+        "discontinued": false
+    },
+    "FlashBack 91.9 FM": {
+        "website": "http://spilarinn.is/",
+        "stream": "http://ice-11.spilarinn.is/flashback",
+        "genres": [
+            "top 40",
+            "pop",
+            "90s",
+            "2000s"
+        ],
+        "description": "Hits from the 90s and 2000s.",
+        "discontinued": false
+    },
+    "Bylgjan 98.9 FM": {
+        "website": "https://bylgjan.visir.is",
+        "stream": "http://ice-11.spilarinn.is/tbylgjan",
+        "genres": [
+            "pop",
+            "pop",
+            "news",
+            "sports"
+        ],
+        "description": "A mix of music and talk news.",
+        "discontinued": false
+    },
+    "Bylgjan Islenska 103.9 FM": {
+        "website": "https://vefutvarp.visir.is/islenska/",
+        "stream": "http://ice-11.spilarinn.is/tfmx",
+        "genres": [
+            "dance",
+            "hip hop"
+        ],
+        "description": "Iceland's best dance music.",
+        "discontinued": false
+    },
+    "Gullbylgjan 90.9 FM": {
+        "website": "https://vefutvarp.visir.is/gullbylgjan/",
+        "stream": "http://ice-11.spilarinn.is/tgullbylgjan",
+        "genres": [
+            "80s",
+            "90s",
+            "hits",
+            "pop"
+        ],
+        "description": "Airing hits of the 80s and 90s",
+        "discontinued": false
+    },
+    "X977": {
+        "website": "https://x977.visir.is",
+        "stream": "http://icecast.365net.is:8000/orbXid.aac",
+        "genres": [
+            "rock",
+            "alternative",
+            "talk"
+        ],
+        "description": "Varied music genres with talk shows sprinkled between.",
+        "discontinued": false
+    },
+    "FM957 95.7 FM": {
+        "website": "",
+        "stream": "http://ice-11.spilarinn.is/tfm957",
+        "genres": [
+            "top 40",
+            "pop"
+        ],
+        "description": "Plays the latest in pop music.",
+        "discontinued": false
+    },
+    "Hits 93 Toronto": {
+        "website": "https://linktr.ee/H93",
+        "stream": "https://www.radioking.com/play/hits-93-toronto/405799",
+        "genres": [
+            "indie",
+            "alternative",
+            "pop",
+            "top 40",
+            "variety"
+        ],
+        "description": "Canada's Biggest Radio Station. Runs numerous programs throughout the day that zero-in on different music genres.",
+        "discontinued": false
+    },
+    "Radio WOOT": {
+        "website": "http://radiowoot.com",
+        "stream": "https://www.radioking.com/play/cws/79888",
+        "genres": [
+            "indie",
+            "rock",
+            "electronic",
+            "lofi"
+        ],
+        "description": "RADIO WOOT is a french webradio located in Marseille. Indie, Pop, Rock, electronic music are our blood.",
+        "discontinued": false
+    },
+    "Middle East Radio-International": {
+        "website": "https://www.middleeastradio.net",
+        "stream": "https://www.radioking.com/play/middle-east-radio-international/447619",
+        "genres": [
+            "middle eastern",
+            "hits",
+            "pop",
+            "romantic",
+            "variety"
+        ],
+        "description": "Broadcasts a variety of genres alongside the biggest hits.",
+        "discontinued": false
+    },
+    "Salseo Radio": {
+        "website": "https://play.radioking.com/radio/salseo-radio",
+        "stream": "https://listen.radioking.com/radio/399811/stream/452110",
+        "genres": [
+            "salsa",
+            "latin"
+        ],
+        "description": "Dedicated to modern and traditional Salsa.",
+        "discontinued": false
+    },
+    "Tropiques 92.6 FM": {
+        "website": "https://www.tropiquesfm.com",
+        "stream": "https://listen.radioking.com/radio/8916/stream/19088",
+        "genres": [
+            "reggae",
+            "hip hop",
+            "hits",
+            "african",
+            "tropical"
+        ],
+        "description": "Sun and hits",
+        "discontinued": false
+    },
+    "FunHouse Radio": {
+        "website": "https://funhouseradio.com",
+        "stream": "https://ais-edge105-live365-dal02.cdnstream.com/a02627?filetype=.mp3&_=1",
+        "genres": [
+            "parody",
+            "comedy"
+        ],
+        "description": "FunHouse Radio is a home for Novelty Records, Parodies, Weird Covers, Outsider Music, Oddities, Memes, Mashups, Comedy, Nonsense & Cringe - any genre. The live stream is intended for ages 13+.",
         "discontinued": false
     }
 }
