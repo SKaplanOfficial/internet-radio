@@ -602,6 +602,15 @@
         "description": "",
         "discontinued": false
     },
+    "BBC Arabic": {
+        "website": "https://www.bbc.com/arabic/bbc_arabic_radio/liveradio",
+        "stream": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
+        "genres": [
+            "arabic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
     "Associated Press": {
         "website": "https://tunein.com/radio/Associated-Press-s249264/",
         "stream": "http://apnews.streamguys1.com/apnews",
@@ -3221,7 +3230,7 @@
         "discontinued": false
     },
     "BBC Radio Guernsey": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_guernsey",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_guernsey",
         "genres": [
             "community",
@@ -3291,7 +3300,7 @@
         "discontinued": false
     },
     "BBC Radio Lincolnshire": {
-        "website": "",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_lincolnshire",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_lincolnshire",
         "genres": [
             "community",
@@ -3717,7 +3726,7 @@
         "discontinued": false
     },
     "Trek Radio": {
-        "website": "",
+        "website": "https://www.trekradio.net",
         "stream": "https://streaming.live365.com/a33289",
         "genres": [
             "sci-fi",
@@ -3778,7 +3787,7 @@
         "discontinued": false
     },
     "Sorcerer Radio - Main": {
-        "website": "https://srsounds.com/wp/",
+        "website": "https://srsounds.com/popperSR.php",
         "stream": "https://13683.live.streamtheworld.com/SAM05AAC015_SC",
         "genres": [
             "soundtracks"
@@ -3787,7 +3796,7 @@
         "discontinued": false
     },
     "Sorcerer Radio - Atmospheres": {
-        "website": "https://srsounds.com/wp/",
+        "website": "https://srsounds.com/popperSRloops.php",
         "stream": "http://19293.live.streamtheworld.com/SP_R3956612_SC",
         "genres": [
             "soundtracks",
@@ -3797,7 +3806,7 @@
         "discontinued": false
     },
     "Sorcerer Radio - Spa Day": {
-        "website": "https://srsounds.com/wp/",
+        "website": "https://srsounds.com/popperSRspaday.php",
         "stream": "http://17563.live.streamtheworld.com/SP_R3956254_SC",
         "genres": [
             "soundtracks",
@@ -3807,8 +3816,8 @@
         "description": "Relaxing Disney Music. The perfect blend of Disney radio that will help you chill out while studying, sleeping, meditating or just relaxing.",
         "discontinued": false
     },
-    "Sorcerer Radio - Ropedrop": {
-        "website": "",
+    "Sorcerer Radio - Rope Drop": {
+        "website": "https://srsounds.com/popperSRropedrop.php",
         "stream": "http://18123.live.streamtheworld.com/SP_R3956488_SC",
         "genres": [
             "soundtracks"
@@ -3817,7 +3826,7 @@
         "discontinued": false
     },
     "Sorcerer Radio - Seasons": {
-        "website": "https://srsounds.com/wp/",
+        "website": "https://srsounds.com/popperSRseasons.php",
         "stream": "http://19293.live.streamtheworld.com/SP_R2809833_SC",
         "genres": [
             "soundtracks",
@@ -3827,7 +3836,7 @@
         "discontinued": false
     },
     "Sorcerer Radio - Mocha": {
-        "website": "https://srsounds.com/wp/",
+        "website": "https://srsounds.com/popperSRmocha.php",
         "stream": "http://18123.live.streamtheworld.com/SP_R2670862_SC",
         "genres": [
             "soundtracks",
@@ -4387,8 +4396,8 @@
         "description": "Varied music genres with talk shows sprinkled between.",
         "discontinued": false
     },
-    "FM957 95.7 FM": {
-        "website": "",
+    "FM957": {
+        "website": "https://fm957.visir.is",
         "stream": "http://ice-11.spilarinn.is/tfm957",
         "genres": [
             "top 40",
@@ -5082,7 +5091,7 @@
     },
     "La Banda di R101": {
         "website": "https://www.r101.it/sezioni/2199/la-banda-di-r1012199",
-        "stream": "",
+        "stream": "https://icy.unitedradio.it/R101LaBanda.aac",
         "genres": [
             "talk",
             "pop",
@@ -5323,7 +5332,7 @@
     },
     "Virgin Radio Italy - Rockstar: AC/DC": {
         "website": "https://www.virginradio.it/sezioni/12079/rockstar-ac-dc",
-        "stream": " https://icy.unitedradio.it/um1026.mp3",
+        "stream": "https://icy.unitedradio.it/um1026.mp3",
         "genres": [
             "hard rock",
             "heavy metal",
@@ -5825,7 +5834,7 @@
         "discontinued": false
     },
     "Radio Monte Carlo Italia - Buddha-Bar": {
-        "website": "",
+        "website": "https://www.radiomontecarlo.net/sezioni/11020/rmc-buddha-bar-monte-carlo-radio",
         "stream": "https://icy.unitedradio.it/rmcweb002",
         "genres": [
             "lounge",
@@ -6131,7 +6140,7 @@
         "discontinued": false
     },
     "classicnl Mind Radio": {
-        "website": "",
+        "website": "https://www.classic.nl",
         "stream": "https://25323.live.streamtheworld.com/SRGSTR25AAC.aac",
         "genres": [
             "classical",
@@ -6139,11 +6148,11 @@
             "soundtracks",
             "calm"
         ],
-        "description": " A mix of classical music styles that have one thing in common: they are soothing.",
+        "description": "A mix of classical music styles that have one thing in common: they are soothing.",
         "discontinued": false
     },
     "classicnl Opera": {
-        "website": "",
+        "website": "https://www.classic.nl",
         "stream": "https://22613.live.streamtheworld.com/CLASSICFMAAC.aac",
         "genres": [
             "opera"
@@ -6152,7 +6161,7 @@
         "discontinued": false
     },
     "classicnl Soundtracks": {
-        "website": "",
+        "website": "https://www.classic.nl",
         "stream": "https://25323.live.streamtheworld.com/SRGSTR26AAC.aac",
         "genres": [
             "soundtracks"
@@ -6168,6 +6177,975 @@
             "variety"
         ],
         "description": "A public-service radio channel in the Netherlands where all presenters receive their training for the big jobs with the big brothers.",
+        "discontinued": false
+    },
+    "Classic FM": {
+        "website": "https://www.classicfm.com",
+        "stream": "http://vis.media-ice.musicradio.com/ClassicFMMP3",
+        "genres": [
+            "classical"
+        ],
+        "description": "The UK’s favourite classical music station.",
+        "discontinued": false
+    },
+    "Radio Swiss Pop": {
+        "website": "https://www.radioswisspop.ch",
+        "stream": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
+        "genres": [
+            "pop",
+            "hits"
+        ],
+        "description": "A mix of sounds from the past decades and the latest chart hits.",
+        "discontinued": false
+    },
+    "Radio Swiss Jazz": {
+        "website": "https://www.radioswissjazz.ch/en",
+        "stream": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Radio Swiss Jazz is the perfect musical companion: swinging standards from the «Great American Songbook» as well as gems of innovative bebop instrumentalists, supplemented with Black and World Music, result in the ideal non-stop mix for any time of day or night.",
+        "discontinued": false
+    },
+    "Radio SRF 1": {
+        "website": "https://www.srf.ch/audio/radio-srf-1-live-hoeren",
+        "stream": "http://stream.srg-ssr.ch/m/drs1/mp3_128",
+        "genres": [
+            "news",
+            "talk",
+            "variety",
+            "swiss",
+            "german"
+        ],
+        "description": "Current news, weather and traffic information, background programs and a diverse music program make Radio SRF 1 number 1 in Switzerland.",
+        "discontinued": false
+    },
+    "Radio SRF 2": {
+        "website": "https://www.srf.ch/radio-srf-2-kultur",
+        "stream": "http://stream.srg-ssr.ch/m/drs2/mp3_128",
+        "genres": [
+            "classical",
+            "jazz",
+            "culture",
+            "swiss",
+            "german"
+        ],
+        "description": "Switch public radio with programming focused on culture and also the best Jazz and Classical music hits.",
+        "discontinued": false
+    },
+    "Radio SRF 3": {
+        "website": "https://www.srf.ch/radio-srf-3",
+        "stream": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+        "genres": [
+            "pop",
+            "rock",
+            "hits",
+            "news",
+            "swiss",
+            "german"
+        ],
+        "description": "Swiss public radio offering a varied program of pop and rock music, news and entertainment.",
+        "discontinued": false
+    },
+    "Radio SRF 4": {
+        "website": "https://www.srf.ch/radio-srf-4-news",
+        "stream": "http://stream.srg-ssr.ch/m/drs4news/mp3_128",
+        "genres": [
+            "news",
+            "talk",
+            "swiss",
+            "german"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "Radio SRF Musikwelle": {
+        "website": "https://www.srf.ch/radio-srf-musikwelle",
+        "stream": "http://stream.srg-ssr.ch/m/drsmw/mp3_128",
+        "genres": [
+            "folk",
+            "hits",
+            "pop"
+        ],
+        "description": "Swiss public radio for folk music, hits and popular music!",
+        "discontinued": false
+    },
+    "Radio SRF Virus": {
+        "website": "https://www.srf.ch/radio-srf-virus",
+        "stream": "http://stream.srg-ssr.ch/m/drsvirus/mp3_128",
+        "genres": [
+            "dance",
+            "electronic"
+        ],
+        "description": "Swiss public radio targetted toward youth",
+        "discontinued": false
+    },
+    "95.7 FM WZID": {
+        "website": "https://wzid.com",
+        "stream": "https://live.wostreaming.net/direct/saga-wzidfmaac-ibc2",
+        "genres": [
+            "variety"
+        ],
+        "description": "New Hampshire's Best Variety from Yesterday and Today!",
+        "discontinued": false
+    },
+    "Magic 104.5 WVMJ": {
+        "website": "https://www.conwaymagic.com",
+        "stream": "https://crystalout.surfernetwork.com:8001/WVMJ-FM_MP3",
+        "genres": [
+            "hits",
+            "variety"
+        ],
+        "description": "Today's hits",
+        "discontinued": false
+    },
+    "105.5 WJYY": {
+        "website": "https://wjyy.com",
+        "stream": "https://14553.live.streamtheworld.com/WJYY_FMAAC.aac",
+        "genres": [
+            "top 40",
+            "hits",
+            "classics"
+        ],
+        "description": "105.5 JYY is New Hampshire' #1 For Throwbacks And The Hits. Home of Elvis Duran and the JYY Morning Show.",
+        "discontinued": false
+    },
+    "93.5 WMWV": {
+        "website": "http://www.wmwv.com/",
+        "stream": "https://crystalout.surfernetwork.com:8001/WMWV_MP3",
+        "genres": [
+            "blues",
+            "folk",
+            "funk",
+            "rock",
+            "acoustic",
+            "news"
+        ],
+        "description": "Conway New Hampshire's alternative radio",
+        "discontinued": false
+    },
+    "WNTK 99.7 FM": {
+        "website": "https://www.wntk.com/",
+        "stream": "https://mcdn.podbean.com/mf/web/6wpi8r/SST2423.mp3",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Providing local news and information to the greater Dartmouth Lake Sunapee Region of NH & VT.",
+        "discontinued": false
+    },
+    "New Hampshire Public Radio - WEVO 89.1 FM": {
+        "website": "https://www.nhpr.org",
+        "stream": "https://nhpr.streamguys1.com/nhpr",
+        "genres": [
+            "news",
+            "talk",
+            "community"
+        ],
+        "description": "New Hampshire's statewide public news network. Multi-platform journalism, NPR programs, and local shows",
+        "discontinued": false
+    },
+    "ClassicalNH": {
+        "website": "https://www.nhpr.org",
+        "stream": "https://nhpr.streamguys1.com/classical",
+        "genres": [
+            "classical"
+        ],
+        "description": "New Hampshire's public classical radio.",
+        "discontinued": false
+    },
+    "WBNH-LPFM Bedford 105.1": {
+        "website": "https://www.bedfordnh.org/436/WBNH-LP",
+        "stream": "http://209.95.50.189:8178/stream",
+        "genres": [
+            "alternative",
+            "rock",
+            "news",
+            "sports"
+        ],
+        "description": "Alternative rock with local sports and town information mixed in.",
+        "discontinued": false
+    },
+    "103.1 The Outlaw": {
+        "website": "https://outlawnh.com",
+        "stream": "https://live.wostreaming.net/manifest/saga-wzidhd3aac-ibc2",
+        "genres": [
+            "country",
+            "classics"
+        ],
+        "description": "Manchester's classic country station!",
+        "discontinued": false
+    },
+    "WUMB 88.7 FM": {
+        "website": "https://wumb.org",
+        "stream": "http://wumb.streamguys1.com/wumb919fast",
+        "genres": [
+            "folk",
+            "acoustic",
+            "celtic",
+            "blues",
+            "world"
+        ],
+        "description": "Broadcasts a folk and acoustic mix hosted by its staff weekdays. On weekends the station concentrates on traditional folk, Celtic, blues, afropop and world music including syndicated programs.",
+        "discontinued": false
+    },
+    "WDER 1320 AM / 92.1 FM": {
+        "website": "http://lifechangingradio.com/wder/",
+        "stream": "https://ic1.sslstream.com/wder-fm",
+        "genres": [
+            "christian",
+            "gospel",
+            "talk"
+        ],
+        "description": "Radio station from Derry, New Hampshire providing Christian Education, Talk and Entertainment.",
+        "discontinued": false
+    },
+    "92.4 The River": {
+        "website": "https://theriverboston.com",
+        "stream": "https://live.wostreaming.net/manifest/saga-wzidhd3aac-ibc2",
+        "genres": [
+            "variety"
+        ],
+        "description": "Boston's Independent Radio. Programming includes elements of alternative, acoustic, blues, folk, reggae, and other forms of music. You'll hear a blend of current releases from today's artists, your favorites from the '80s and '90s, and a few deep album cuts from the '60s and '70s.",
+        "discontinued": false
+    },
+    "WUNH 91.3 FM": {
+        "website": "https://www.unh.edu/wunh/",
+        "stream": "https://vobook.ru/s9.viastreaming.net:9000/;",
+        "genres": [
+            "alternative",
+            "sports",
+            "college"
+        ],
+        "description": "WUNH is a student-run radio station at the University of New Hampshire in Durham, New Hampshire. The station broadcasts alternative music, sports, and more to the community and surrounding area on 6000 watts.",
+        "discontinued": false
+    },
+    "Classical 90.9 WSCS": {
+        "website": "http://www.classicalwscs.org/wscs/",
+        "stream": "http://natrix.sugarrivermedia.com:8000/wscs",
+        "genres": [
+            "classical",
+            "community"
+        ],
+        "description": "Providing the Lake Sunapee region with the finest classical and community arts programming.",
+        "discontinued": false
+    },
+    "The Branch 96.1 WBUB-LP": {
+        "website": "https://www.facebook.com/thebranch961",
+        "stream": "http://96.31.83.94:8180/;",
+        "genres": [
+            "christian",
+            "religion",
+            "community"
+        ],
+        "description": "A Christian community radio station broadcasting contemporary Christian music from its tower in Portsmouth, New Hampshire.",
+        "discontinued": false
+    },
+    "WFEA 1370 AM / 99.9 FM": {
+        "website": "https://1370wfea.com",
+        "stream": "https://live.wostreaming.net/manifest/saga-wfeaamaac-ibc2",
+        "genres": [
+            "hits"
+        ],
+        "description": "WFEA has all the unforgettable hits from the world's best artists, all your favorites from the 50's, 60's, and 70's, and hand-selected favorites from the 80's through today.",
+        "discontinued": false
+    },
+    "WDCR": {
+        "website": "https://webdcr.com",
+        "stream": "https://wdcr.dartmouth.edu:8000/;",
+        "genres": [
+            "freeform",
+            "college"
+        ],
+        "description": "Dartmouth's freeform online radio, produced by and for students!",
+        "discontinued": false
+    },
+    "WKNH Keene 91.3": {
+        "website": "https://www.wknh.rocks",
+        "stream": "https://cast3.asurahosting.com/proxy/wknh/stream",
+        "genres": [
+            "variety",
+            "alternative",
+            "jazz",
+            "hip hop",
+            "metal",
+            "folk"
+        ],
+        "description": "WKNH is Keene State College's official radio station since 1971, featuring some of today's (and yesterday's) best alternative, jazz, world, hip-hop, metal, folk, & god-knows-what-else.",
+        "discontinued": false
+    },
+    "93.3 The Wolf": {
+        "website": "https://933thewolf.com",
+        "stream": "https://24493.live.streamtheworld.com/WNHW_FMAAC.aac",
+        "genres": [
+            "country"
+        ],
+        "description": "Concord and The Lakes Region's number one station for new country & the legends!",
+        "discontinued": false
+    },
+    "WNHN 94.7 FM": {
+        "website": "http://www.wnhnfm.org",
+        "stream": "https://seahorse.juststreamwith.us:8008/stream",
+        "genres": [
+            "talk",
+            "politics",
+            "jazz",
+            "blues"
+        ],
+        "description": "WNHN 94.7 is New Hampshire's source for entertaining progressive talk and music you won't hear anywhere else.",
+        "discontinued": false
+    },
+    "WKXL 103.9 FM/1450 AM": {
+        "website": "https://www.nhtalkradio.com",
+        "stream": "https://stream.rcast.net/65201",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "New Hampshire's Talk Radio Station",
+        "discontinued": false
+    },
+    "Sunny 97.7": {
+        "website": "https://sunnykeene.com",
+        "stream": "https://live.wostreaming.net/direct/saga-wsnifmaac-ibc2",
+        "genres": [
+            "variety"
+        ],
+        "description": "Sunny 97.7 plays Great Variety from Yesterday and Today for Central New England!",
+        "discontinued": false
+    },
+    "103.7 KNE-FM": {
+        "website": "https://wkne.com",
+        "stream": "https://live.wostreaming.net/direct/saga-wknefmaac-ibc2",
+        "genres": [
+            "pop",
+            "hits",
+            "variety"
+        ],
+        "description": "Today's Best Variety",
+        "discontinued": false
+    },
+    "99 Rock WFRD": {
+        "website": "https://www.wfrd.com",
+        "stream": "https://live.wostreaming.net/direct/homeslice-kfxsfmaac-ibc4",
+        "genres": [
+            "rock",
+            "alternative",
+            "classic rock"
+        ],
+        "description": "The Rock Station",
+        "discontinued": false
+    },
+    "renew FM - WYDI 90.5 FM": {
+        "website": "https://renewfm.org",
+        "stream": "https://ice24.securenetsystems.net/RENEWFM",
+        "genres": [
+            "christian",
+            "gospel",
+            "religion"
+        ],
+        "description": "The vision of RenewFM is to bring a message of life and hope to New England. We use contemporary, vertical, Christian music and simple, straightforward Bible teaching to further that vision.",
+        "discontinued": false
+    },
+    "WKBK 1290 AM / 94.1 FM": {
+        "website": "https://wkbkradio.com",
+        "stream": "https://live.wostreaming.net/direct/saga-wkbkamaac-ibc2",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Keene's News Station #1 for News and Talk.",
+        "discontinued": false
+    },
+    "97.5 WOKQ": {
+        "website": "https://wokq.com",
+        "stream": "https://live.wostreaming.net/manifest/townsquare-wokqfmaac-ibc3",
+        "genres": [
+            "country"
+        ],
+        "description": "#1 For New Country Hits",
+        "discontinued": false
+    },
+    "107.7 The Pulse": {
+        "website": "https://thepulseofnh.com",
+        "stream": "https://ice64.securenetsystems.net/WTSN",
+        "genres": [
+            "news",
+            "talk",
+            "sports"
+        ],
+        "description": "New Hampshire's News-Talk-Sports station",
+        "discontinued": false
+    },
+    "94 WEEI Upper Valley": {
+        "website": "https://www.weeinh.com",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEEIFMAAC.aac",
+        "genres": [
+            "sports",
+            "news",
+            "talk"
+        ],
+        "description": "Coverage on Boston Celtics Basketball, New England Patriots Football, and Boston Bruins Hockey",
+        "discontinued": false
+    },
+    "94.3 WCYY / 103.7 WPKQ": {
+        "website": "https://wcyy.com",
+        "stream": "https://live.wostreaming.net/direct/townsquare-wcyyfmaac-ibc3",
+        "genres": [
+            "rock",
+            "alternative",
+            "hard rock",
+            "metal"
+        ],
+        "description": "Broadcasts an alternative rock format",
+        "discontinued": false
+    },
+    "Q106 WHDQ": {
+        "website": "http://www.theqrocks.com",
+        "stream": "https://ice8.securenetsystems.net/WHDQ",
+        "genres": [
+            "rock",
+            "classic rock"
+        ],
+        "description": "The Valley's Best Rock",
+        "discontinued": false
+    },
+    "92.3 GXL": {
+        "website": "http://www.wgxl.com",
+        "stream": "https://ice5.securenetsystems.net/WGXL",
+        "genres": [
+            "top 40",
+            "hits"
+        ],
+        "description": "The Valley’s #1 Hit Music Station",
+        "discontinued": false
+    },
+    "Kool 106.7 & 96.3 FM": {
+        "website": "http://river1067.com",
+        "stream": "https://ice23.securenetsystems.net/WHDQHD",
+        "genres": [
+            "oldies",
+            "sports"
+        ],
+        "description": "The Twin States Home for True Oldies with Scott Shannon! Dartmouth Men's and Women's Basketball, Casey Kasem's Top 40, Retromix, and more!",
+        "discontinued": false
+    },
+    "WLKZ 104.9 The Hawk": {
+        "website": "https://www.thehawkrocks.com",
+        "stream": "https://ice7.securenetsystems.net/WLKZ",
+        "genres": [
+            "rock",
+            "classic rock"
+        ],
+        "description": "Rockin' the Lakes and Mountains",
+        "discontinued": false
+    },
+    "Classical 89": {
+        "website": "https://www.classical89.org",
+        "stream": "https://radio.byub.org/classical89/classical89_aac",
+        "genres": [
+            "classical"
+        ],
+        "description": "Programming includes an extensive classical CD library, Classical 89 productions, concerts and performances by or from Utah Symphony and Utah Opera, BYU School of Music, and the Gina Bachauer International Piano Competition and Foundation. Other local performances are also regularly featured, as well as nationally and internationally syndicated concerts, operas, and other programs.",
+        "discontinued": false
+    },
+    "105.1 THE KAT ": {
+        "website": "https://guamkat.com",
+        "stream": "https://ice2.securenetsystems.net/KGUMFM",
+        "genres": [
+            "hits",
+            "70s",
+            "80s",
+            "90s",
+            "2000s"
+        ],
+        "description": "Guam's all-time greatest hits station. Playing the Best of the 70s, 80s, 90s & 2000!",
+        "discontinued": false
+    },
+    "Power 98 97.5 FM": {
+        "website": "https://power98.com",
+        "stream": "https://ice3.securenetsystems.net/KZGZ",
+        "genres": [
+            "top 40",
+            "hits"
+        ],
+        "description": "Playing the best in TOP40 as well as Guam-exclusive hits.",
+        "discontinued": false
+    },
+    "Newstalk K57": {
+        "website": "https://k57.com",
+        "stream": "https://ice2.securenetsystems.net/KGUM2",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Tune in and stay on top of all the news on Guam!",
+        "discontinued": false
+    },
+    "Isla63-AM": {
+        "website": "https://www.kuam.com/story/11095354/isla63-am-your-island-pride-station",
+        "stream": "https://www.ophanim.net:8444/s/9010",
+        "genres": [
+            "community",
+            "variety",
+            "new artists"
+        ],
+        "description": "As Guam's first radio station, Isla63AM has seen many changes to Guam and her people. With much change, Isla63 still serves as Guam's #1 AM radio station in supporting local artists.",
+        "discontinued": false
+    },
+    "Breeze 93.9FM": {
+        "website": "https://www.kuam.com/story/11095346/the-breeze",
+        "stream": "https://www.ophanim.net:8444/s/8370",
+        "genres": [
+            "hits",
+            "70s",
+            "80s",
+            "90s",
+            "2000s"
+        ],
+        "description": "Guam's source of popular adult contemporary music from the 70s through popular hits of the 2000s. ",
+        "discontinued": false
+    },
+    "KPRG-FM 89.3 ": {
+        "website": "http://www.kprgfm.com/main/index.php",
+        "stream": "http://peridot.streamguys.com:5090/live",
+        "genres": [
+            "news",
+            "talk",
+            "culture",
+            "entertainment"
+        ],
+        "description": "Public radio broadcast station of the Guam Educational Radio Foundation. ",
+        "discontinued": false
+    },
+    "KHMG 88.1 Harvest Family Radio": {
+        "website": "https://khmg.org",
+        "stream": "https://ic1.sslstream.com/khmg-fm?rnd=240",
+        "genres": [
+            "christian",
+            "gospel"
+        ],
+        "description": "Local Christian Radio for Guam",
+        "discontinued": false
+    },
+    "99.5 FM The Shark": {
+        "website": "https://guamshark.com",
+        "stream": "https://ice8.securenetsystems.net/KRSI",
+        "genres": [
+            "caribbean",
+            "reggae"
+        ],
+        "description": "The Mariana Islands' #1 Island Music Station ",
+        "discontinued": false
+    },
+    "SIBC News": {
+        "website": "https://sibconline.com.sb",
+        "stream": "https://listen.mixlr.com/f636c93207ee4d2705de634d3ef2111b",
+        "genres": [
+            "news",
+            "talk",
+            "education",
+            "community"
+        ],
+        "description": "Radio station of the Solomon Islands Broadcasting Corporation. A public service broadcast which facilitates educational programs, recording and promotion.",
+        "discontinued": false
+    },
+    "Magic 100.3 KWAW": {
+        "website": "https://kwawfm.wixsite.com/kwaw",
+        "stream": "https://s3.radio.co/s8f738b862/listen",
+        "genres": [
+            "urban",
+            "variety"
+        ],
+        "description": "A radio station broadcasting an Urban Contemporary music format",
+        "discontinued": false
+    },
+    "103.9 KZMI": {
+        "website": "https://kzmi1039.com",
+        "stream": "http://streaming.radionomy.com/JamendoLounge",
+        "genres": [
+            "pop",
+            "hits"
+        ],
+        "description": "Broadcasting live out of Saipan, Northern Marianas Islands",
+        "discontinued": false
+    },
+    "Power 99 Saipan CNMI": {
+        "website": "https://power99saipan.com",
+        "stream": "http://ice7.securenetsystems.net/KPXP",
+        "genres": [
+            "top 40",
+            "pop",
+            "rock",
+            "hits"
+        ],
+        "description": "A broadcast radio station in Garapan, Northern Mariana Islands, Guam, providing Top 40 Adult Contemporary Pop and Rock music to the Saipan area.",
+        "discontinued": false
+    },
+    "Buzz 96.3 FM": {
+        "website": "https://www.buzzfm.vu",
+        "stream": "https://streamer.dailypost.vu/live",
+        "genres": [
+            "news",
+            "classic rock",
+            "pop",
+            "reggae"
+        ],
+        "description": "Today's best music and Vanuatu news",
+        "discontinued": false
+    },
+    "BOSS 104.3": {
+        "website": "https://boss104.gu",
+        "stream": "https://ice10.securenetsystems.net:80/KIJI",
+        "genres": [
+            "hits",
+            "classics",
+            "70s",
+            "80s",
+            "90s"
+        ],
+        "description": "Guam's ONLY choice for Classic Hits of the 70s, 80s, and 90s.",
+        "discontinued": false
+    },
+    "The Point 93.3 FM / 1350 AM": {
+        "website": "https://thepoint.gu",
+        "stream": "http://ice10.securenetsystems.net/KUSG",
+        "genres": [
+            "news",
+            "talk"
+        ],
+        "description": "Headquarters for news and information on Guam.",
+        "discontinued": false
+    },
+    "ABC Radio Australia": {
+        "website": "https://www.abc.net.au/pacific/live",
+        "stream": "http://live-radio01.mediahubaustralia.com/RAEW/mp3/;",
+        "genres": [
+            "news",
+            "talk",
+            "community",
+            "education"
+        ],
+        "description": "Radio station of the Australian Broadcasting Corporation. Radio Australia provides educational, informative and entertaining content that expands your understanding of the world. We reflect the diversity of opinions and attitudes of the many nations in Asia and the Pacific while also exploring Australian attitudes and culture.",
+        "discontinued": false
+    },
+    "104.7 The Beat": {
+        "website": "https://southseasbroadcasting.com/1047beat/",
+        "stream": "http://ice5.securenetsystems.net/KKBT",
+        "genres": [
+            "top 40",
+            "rap",
+            "hip hop"
+        ],
+        "description": "Plays Top 40, Rap, Hip Hop, and all the music of the younger generation. 104.7 The Beat is American Samoa's exclusive station for the under-35 crowd.",
+        "discontinued": false
+    },
+    "93KHJ": {
+        "website": "https://www.facebook.com/KKHJ.FM/",
+        "stream": "https://ice9.securenetsystems.net/KKHJ",
+        "genres": [
+            "top 40",
+            "hits",
+            "pop",
+            "R&B",
+            "rock"
+        ],
+        "description": "American Somoa's #1 Hit Music Station",
+        "discontinued": false
+    },
+    "V103 WVUV-FM": {
+        "website": "https://www.facebook.com/WVUV.FM/",
+        "stream": "https://ice10.securenetsystems.net/WVUV",
+        "genres": [
+            "polynesian",
+            "samoan"
+        ],
+        "description": "V103 is American Samoa's home for Samoan and Polynesian music.  Launched in 2008 as South Seas Broadcasting second station, V103 features daily local news broadcasts in both English and Samoan, up-to-date weather forecasts, and the best Polynesian and Samoan music on the planet.",
+        "discontinued": false
+    },
+    "Radio Rishtey Fiji": {
+        "website": "http://radiorishtey.website2.me",
+        "stream": "https://onlineradiobox.com/json/fj/rishtey/play",
+        "genres": [
+            "hindi",
+            "bollywood",
+            "news",
+            "sports",
+            "culture"
+        ],
+        "description": "Broadcasts a variety of radio programs ranging from Bollywood updates and songs, current affairs, sports, culture, religion and health to best serve our listeners and viewers.",
+        "discontinued": false
+    },
+    "2DayFM": {
+        "website": "https://www.fbcnews.com.fj",
+        "stream": "https://peridot.streamguys1.com:7155/2Day",
+        "genres": [
+            "variety",
+            "hits",
+            "news"
+        ],
+        "description": "2dayFM is a young dynamic station that caters to a young adult audience in Fiji and across the globe. Programming ranges from Hip Hop, Reggae, Pop, Rock, R&B and EDM hits to homegrown artists and local/national/international news.",
+        "discontinued": false
+    },
+    "Bula FM Fiji": {
+        "website": "http://bulafm.com.fj",
+        "stream": "https://peridot.streamguys1.com:7155/Bula",
+        "genres": [
+            "pop",
+            "dance",
+            "news",
+            "top 40"
+        ],
+        "description": "Bula FM is a broadcast radio station in Suva, Fiji, providing Community News, Information and Entertainment to the Fijian speaking audience. The focus is less talk and more music.",
+        "discontinued": false
+    },
+    "Gold FM Fiji": {
+        "website": "https://www.facebook.com/goldfmfiji/",
+        "stream": "https://peridot.streamguys1.com:7155/Gold",
+        "genres": [
+            "hits",
+            "70s",
+            "80s",
+            "90s",
+            "rock",
+            "disco",
+            "R&B",
+            "soul",
+            "reggae"
+        ],
+        "description": "Gold FM is Fiji's first and longest running English radio station. Broadcasts the biggest hits from the 70's, 80's and 90's and across the various genres from rock to disco, R&B/soul to reggae.",
+        "discontinued": false
+    },
+    "Mirchi FM Fiji": {
+        "website": "http://mirchifm.com.fj",
+        "stream": "https://peridot.streamguys1.com:7155/Mirchi",
+        "genres": [
+            "hindi",
+            "bollywood",
+            "hits",
+            "90s"
+        ],
+        "description": "MIRCHI FM's music is from latest releases of Bollywood to Albums and Hits of 90's.",
+        "discontinued": false
+    },
+    "Radio Fiji One": {
+        "website": "https://www.facebook.com/radiofijione/",
+        "stream": "https://peridot.streamguys1.com:7155/RFOne",
+        "genres": [
+            "news",
+            "talk",
+            "community"
+        ],
+        "description": "Radio Fiji One (Domoiviti) is the National Broadcaster in Fiji for the iTaukei (Fijian) language broadcasting",
+        "discontinued": false
+    },
+    "Radio Fiji Two": {
+        "website": "https://www.facebook.com/RadioFijiTwo/",
+        "stream": "https://peridot.streamguys1.com:7155/RFTwo",
+        "genres": [
+            "news",
+            "hindi",
+            "folk",
+            "community"
+        ],
+        "description": "Broadcasts Hindi news, information, and entertainment.",
+        "discontinued": false
+    },
+    "Radio Maria Sierra Leone": {
+        "website": "https://www.radiomaria.sl",
+        "stream": "https://dreamsiteradiocp2.com/proxy/rmsierraleone?mp=/stream",
+        "genres": [
+            "christian",
+            "gospel",
+            "religion"
+        ],
+        "description": "The main purpose of the radio is to preach the Word of God and make His love for humanity known to all. This is done mainly using the Holy Scriptures as a point of reference in all the radio programs and also by fostering Prayer and teaching catechesis.",
+        "discontinued": false
+    },
+    "Capital Radio Sierra Leone": {
+        "website": "https://www.capitalradio.sl",
+        "stream": "https://edge-audio-03-gos2.sharp-stream.com/capitalradiosl.mp3",
+        "genres": [
+            "top 40",
+            "pop",
+            "news"
+        ],
+        "description": "Capital Radio Sierra Leone is the country's premier commercial radio station.  Broadcasting since 2006, Capital has provided the best in international music, news and entertainment.  The station broadcasts exclusively in English and our music is international.  Capital Radio is proud to be a BBC World Service Partner station and is able to provide the very best programmes from the BBC World Service.",
+        "discontinued": false
+    },
+    "KSDA 91.9 / 89.9 Joy FM": {
+        "website": "https://joyfmradio.net",
+        "stream": "https://ice5.securenetsystems.net/JOYFM",
+        "genres": [
+            "christian",
+            "gospel",
+            "talk",
+            "acapella"
+        ],
+        "description": "AWESOME STORIES, JOYFUL MUSIC, BIBLE TRUTH... JOY FM covers the islands of Guam & Rota at 91.9 FM and Tinian & Saipan at 89.9 FM. We offer a unique blend of music including inspiring A Capella and island music from across Micronesia and beyond! We also carry a wonderful selection of audio dramas, children's programs & preaching and teaching programs that bless the whole family!",
+        "discontinued": false
+    },
+    "Radio Tonga": {
+        "website": "http://www.tonga-broadcasting.net",
+        "stream": "http://162.244.80.32:8142/;stream.mp3",
+        "genres": [
+            "news",
+            "talk",
+            "entertainment",
+            "community"
+        ],
+        "description": "Radio Tonga is a broadcast radio station in Nuku'alofa, Tonga, providing Community News, Talk and Entertainment. Also known as Radio 1, Radio Tonga is the public broadcaster for the Kingdom of Tonga.",
+        "discontinued": false
+    },
+    "Radio Kiribati MW 1440Khz": {
+        "website": "http://right-click.com.au/rcPlayer2/index.php?c=kiribati_bpa",
+        "stream": "http://streamer5.rightclickitservices.com:9790/stream",
+        "genres": [
+            "news",
+            "talk",
+            "pop"
+        ],
+        "description": "Broadcasting news and entertainment across all islands of Kiribati.",
+        "discontinued": false
+    },
+    "Radio Sans Pub": {
+        "website": "https://www.radiosanspub.fr",
+        "stream": "https://live.jupinfo.fr/play",
+        "genres": [
+            "hits",
+            "pop",
+            "french"
+        ],
+        "description": "The best of French and international hits, without ads.",
+        "discontinued": false
+    },
+    "Radio Noel": {
+        "website": "http://www.radionoel.com",
+        "stream": "https://live.jupinfo.fr/radiodenoel",
+        "genres": [
+            "holiday"
+        ],
+        "description": "100% Christmas Songs",
+        "discontinued": false
+    },
+    "In Love Radio": {
+        "website": "https://www.inloveradio.fr",
+        "stream": "https://live2.jupinfo.fr:8443/inloveradio",
+        "genres": [
+            "relaxing",
+            "chillout",
+            "jazz",
+            "lounge",
+            "romantic"
+        ],
+        "description": "100% Relaxation Without Ads",
+        "discontinued": false
+    },
+    "Radio Enfant": {
+        "website": "https://www.radioenfant.fr",
+        "stream": "https://live.jupinfo.fr/radiobebe",
+        "genres": [
+            "lullabies"
+        ],
+        "description": "100% Nursery Rhymes & Melodies Without Ads",
+        "discontinued": false
+    },
+    "Success D'Hier": {
+        "website": "https://www.succesdhier.fr",
+        "stream": "https://live2.jupinfo.fr:8443/succesdhier",
+        "genres": [
+            "60s",
+            "70s",
+            "80s",
+            "90s"
+        ],
+        "description": "Hits of the past, without ads",
+        "discontinued": false
+    },
+    "WPNA 103.1 FM": {
+        "website": "https://wpna.fm",
+        "stream": "https://s4.yesstreaming.net:17078/stream",
+        "genres": [
+            "hits",
+            "world",
+            "news",
+            "comedy"
+        ],
+        "description": "Worldwide hits (Polish American Mix), local and national news, and more",
+        "discontinued": false
+    },
+    "1640 AM America Old Time Radio": {
+        "website": "http://www.1640radio.com",
+        "stream": "http://kea.cdnstream.com/1893_128",
+        "genres": [
+            "drama",
+            "talk",
+            "olides"
+        ],
+        "description": "The Best In Mystery and Horror Of Old Time Radio",
+        "discontinued": false
+    },
+    "1640 AM Crime Fighter Detectives Channel": {
+        "website": "http://live.mystreamplayer.com/crimefighterdetectives",
+        "stream": "http://hemnos.cdnstream.com/1665_32?",
+        "genres": [
+            "drama",
+            "talk"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "1640 AM America's Old Time Radio Comedy Channel": {
+        "website": "http://live.mystreamplayer.com/oldtimeradiocomedy",
+        "stream": "http://hemnos.cdnstream.com/1666_32",
+        "genres": [
+            "comedy",
+            "talk",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "1640 AM Mystery And Suspense Radio Network": {
+        "website": "http://live.mystreamplayer.com/mysteryandsuspense",
+        "stream": "http://hemnos.cdnstream.com/1667_32",
+        "genres": [
+            "drama",
+            "talk",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "1640 AM Wild West OTR Channel": {
+        "website": "http://live.mystreamplayer.com/wildwestotr",
+        "stream": "http://kea.cdnstream.com/1838_32",
+        "genres": [
+            "drama",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "1640 AM Old Time Tales Channel": {
+        "website": "https://www.1640radio.com",
+        "stream": "https://strw1.openstream.co/903",
+        "genres": [
+            "sci-fi",
+            "drama",
+            "oldies"
+        ],
+        "description": "Focuses on Adventure Shows, Mystery and Sci FI.",
+        "discontinued": false
+    },
+    "1640 AM Game Show OTR Channel": {
+        "website": "https://www.1640radio.com",
+        "stream": "https://strw1.openstream.co/928",
+        "genres": [
+            "games",
+            "oldies"
+        ],
+        "description": "The best in Game Shows from the Golden Age of radio.",
         "discontinued": false
     }
 }
