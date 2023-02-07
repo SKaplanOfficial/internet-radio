@@ -256,7 +256,7 @@
         "website": "https://somafm.com/darkzone/",
         "stream": "https://ice5.somafm.com/darkzone-128-mp3",
         "genres": [
-            ""
+            "ambient"
         ],
         "description": "The darker side of deep ambient. Music for staring into the Abyss.",
         "discontinued": false
@@ -1625,7 +1625,10 @@
         "website": "https://player.gotradio.com/?autoplay=18",
         "stream": "https://pureplay.cdnstream1.com/6010_128.mp3",
         "genres": [
-            ""
+            "rock",
+            "60s",
+            "70s",
+            "80s"
         ],
         "description": "Soft Rock Cafe offers up an office friendly blend of the best soft rock songs from singer songwriters and bands that were popular in the 60s, 70s and 80s.",
         "discontinued": false
@@ -3393,7 +3396,8 @@
         "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_orkney",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_orkney",
         "genres": [
-            ""
+            "community",
+            "variety"
         ],
         "description": "Part-time station for Orkney which opts out of Radio Scotland.",
         "discontinued": false
@@ -7146,6 +7150,1239 @@
             "oldies"
         ],
         "description": "The best in Game Shows from the Golden Age of radio.",
+        "discontinued": false
+    },
+    "Instrumentals Forever": {
+        "website": "https://instrumentalsforever.eu/portals/",
+        "stream": "https://quincy.torontocast.com:1925/stream",
+        "genres": [
+            "instrumental",
+            "easy listening"
+        ],
+        "description": "The greatest orchestras, bigbands and instrumentalists non-stop on Instrumentals Forever, your internet-only radiostation with instrumental music.",
+        "discontinued": false
+    },
+    "Classic Praha": {
+        "website": "https://www.classicpraha.cz",
+        "stream": "http://icecast8.play.cz/classic128.mp3",
+        "genres": [
+            "classical",
+            "soundtracks",
+            "jazz",
+            "swing",
+            "musical"
+        ],
+        "description": "Classic Praha (formerly Classic FM) plays classical and film music supplemented by programs with jazz, swing and musical music.",
+        "discontinued": false
+    },
+    "Clásica FM Radio": {
+        "website": "https://clasicafmradio.es",
+        "stream": "https://listen.mixlr.com/ca4e1719e96bdc62de398c9f638447f4",
+        "genres": [
+            "classical"
+        ],
+        "description": "Clasica FM Radio is the most listened-to classical music podcast platform. New daily content and a 24-hour online broadcast that offers you the best music in the world as you've never heard it before. Listen to the quality tune on this radio to accompany your day.",
+        "discontinued": false
+    },
+    "WWFM JazzOn2 89.5 FM": {
+        "website": "https://www.wwfm.org/wwfm-jazzon2",
+        "stream": "https://ice8.securenetsystems.net/media/JAZZON2/preroll/AC61DA89-C0EE-4BF7-F33FF55B3F792FA4-PRA.m4a",
+        "genres": [
+            "jazz"
+        ],
+        "description": "JazzOn2 is a mission-driven project. Our vision is for JazzOn2 to be a voice for Trenton's jazz heritage...and a way for Mercer County Community College to encourage students to do two things: stay in school and stick with music.",
+        "discontinued": false
+    },
+    "WWFM The Classical Network 89.1 FM": {
+        "website": "https://www.wwfm.org",
+        "stream": "https://wwfm.streamguys1.com/live",
+        "genres": [
+            "classical"
+        ],
+        "description": "The Classical Network is New Jersey's only full-time classical music station providing programming 24-hours each day.",
+        "discontinued": false
+    },
+    "Indianapolis Metropolitan Police": {
+        "website": "https://www.broadcastify.com/listen/feed/32602",
+        "stream": "https://broadcastify.cdnstream1.com/32602",
+        "genres": [
+            "police",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWF53 Winfield, Alamaba NOAA Weather Radio": {
+        "website": "https://nwr.bobc.io",
+        "stream": "https://nwr.bobc.io/stream/WWF53",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIH54 Birmingham, Alabama NOAA Weather Radio": {
+        "website": "https://nwr.bobc.io",
+        "stream": "https://nwr.bobc.io/stream/KIH54",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC61 Mobile, Alabama NOAA Weather Radio": {
+        "website": "https://fairhopeweather.com",
+        "stream": "https://radio.weatherusa.net/NWR/KEC61_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KXI97 Mena, Arkansas NOAA Weather Radio": {
+        "website": "https://radio.securenetsystems.net/v5/index.cfm?stationCallSign=NOAA",
+        "stream": "https://ice41.securenetsystems.net/NOAA",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KWO37 Los Angeles, California NOAA Weather Radio": {
+        "website": "http://www.westphalfamily.com/wxdata2.html",
+        "stream": "http://wxradio.dyndns.org:8000/wb6ypf/Altadena.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC57 Sacramento, California NOAA Weather Radio": {
+        "website": "https://www.eldoradoweather.com/wxradio/index.html",
+        "stream": "https://radio.weatherusa.net/NWR/KEC57.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC49 San Francisco, California NOAA Weather Radio": {
+        "website": "https://saratoga-weather.org/index.php",
+        "stream": "https://radio.weatherusa.net/NWR/KEC49.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ41 Hartford, Connecticut NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxstream.org:8443/NWR/WXJ41",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ42 Meriden, Connecticut NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://streaming.satelliteguys.us:8000/weather",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK97 Dover, Delaware NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK97.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK83 Cape Coral, Florida NOAA Weather Radio": {
+        "website": "https://capeweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WXK83.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIH24 Tallahassee, Florida NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/FL-Tallahassee-KIH24",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK56 Athens, Georgia NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/GA-Athens-WXK56",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWG75 Maui, Hawaii NOAA Weather Radio": {
+        "website": "http://www.ah6gr.net/",
+        "stream": "https://radio.weatherusa.net/NWR/WWG75.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL57 Des Moines, Iowa NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXL57.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KZZ80 Milford, Iowa NOAA Weather Radio": {
+        "website": "https://www.dcem.us/",
+        "stream": "https://wxradio.org/IA-Milford-KZZ80",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL62 Sioux City, Iowa NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/IA-Sioux_City-WXL62",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWF58 McCall, Idaho NOAA Weather Radio": {
+        "website": "https://www.boisestatepublicradio.org/",
+        "stream": "https://icy3.boisestatepublicradio.org:9018/WWF58_McCall",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KPS509 Salmon, Idaho NOAA Weather Radio": {
+        "website": "https://www.boisestatepublicradio.org/",
+        "stream": "https://icy3.boisestatepublicradio.org:9018/KPS509_Salmon",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL35 Twin Falls, Idaho NOAA Weather Radio": {
+        "website": "https://www.boisestatepublicradio.org/",
+        "stream": "https://icy3.boisestatepublicradio.org:9018/WXL35_Twin_Falls",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ76 Champaign, Illinois NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/IL-Champaign-WXJ76",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KZZ55 Dixon, Illinois NOAA Weather Radio": {
+        "website": "http://dixonweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/KZZ55.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KZZ66 Galesburg, Illinois NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/IL-Galesburg-KZZ66",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXM49 Marion, Illinois NOAA Weather Radio": {
+        "website": "http://www.wb0vtm.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WXM49.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KXI58 Plano, Illinois NOAA Weather Radio": {
+        "website": "http://gooselakeweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/KXI58.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ73 Quad Cities, Illinois NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXJ73.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIG76 Evansville, Indiana NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/IN-Evansville-KIG76",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC74 Indianapolis, Indiana NOAA Weather Radio": {
+        "website": "http://frontlineweather.com/template/indexDesktop.php",
+        "stream": "https://wxradio.org/IN-Indianapolis-KEC74",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ57 South Bend, Indiana NOAA Weather Radio": {
+        "website": "https://www.mymishawakaweather.com/",
+        "stream": "https://www.mymishawakaweather.com:8443/stream",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK91 Topeka, Kansas NOAA Weather Radio": {
+        "website": "https://www.wxstation.net/",
+        "stream": "https://wxradio.org/KS-Topeka-WXK91-alt1",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WZ2523 Frankfort, Kentucky NOAA Weather Radio": {
+        "website": "http://frankfortweather.us/",
+        "stream": "https://radio.weatherusa.net/NWR/WZ2523.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KZZ48 Owenton, Kentucky NOAA Weather Radio": {
+        "website": "http://frankfortweather.us/",
+        "stream": "https://radio.weatherusa.net/NWR/KZZ48.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHB46 Baton Rouge, Louisiana NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KHB46.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ96 Monroe, Louisiana NOAA Weather Radio": {
+        "website": "https://www.bayoustateweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WXJ96_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHB35 Boston, Massachusetts NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KHB35_3.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC73 Bourne, Massachusetts NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/MA-Bourne/Hyannis-KEC73",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG574 Gloucester, Massachusetts NOAA Weather Radio": {
+        "website": "https://gloucesterscanner.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WNG574.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL93 Worcester, Massachusetts NOAA Weather Radio": {
+        "website": "http://www.auburnweatherlive.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WXL93.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXM42 Hagerstown, Maryland NOAA Weather Radio": {
+        "website": "https://cliftonvaweather.com/",
+        "stream": "https://noaa-manassas-radio.from-va.com/Hagerstown.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KDO95 Falmouth, Maine NOAA Weather Radio": {
+        "website": "http://scarboroughweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/KDO95.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC63 Detroit, Michigan NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KEC63.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWF36 Hesperia, Michigan NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/MI-Hesperia-WWF36",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWF34 Kalamazoo, Michigan NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://icecast.wxstream.org:8443/NWR/WWF34",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KZZ33 Mount Pleasant, Michigan NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/MI-MountPleasant-KZZ33",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK81 Onondaga, Michigan NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://icecast.wxstream.org:8443/NWR/WXK81",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG572 Petoskey, Michigan NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/MI-Petoskey-WNG572",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG672 Wolf Lake, Michigan NOAA Weather Radio": {
+        "website": "http://www.herseyweather.com/",
+        "stream": "https://herseynoaaradio.freeddns.org/MI-WolfLake-WNG672-alt1",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG676 Clearwater, Minnesota NOAA Weather Radio": {
+        "website": "http://www.mbei.com/broadcasting/noaa/",
+        "stream": "https://radio.weatherusa.net/NWR/WNG676.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ86 La Crescent, Minnesota NOAA Weather Radio": {
+        "website": "http://www.desotowiwx.com/",
+        "stream": "https://wxradio.org/MN-LaCrescent-WXJ86",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC65 Minneapolis, Minnesota NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KEC65.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG648 Dixon, Missouri NOAA Weather Radio": {
+        "website": "http://www.dixonweather.org/",
+        "stream": "https://radio.weatherusa.net/NWR/WNG648.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK82 Hannibal, Missouri NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK82.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL46 Springfield, Missouri NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/MO-Springfield-WXL46",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL78 Bismarck, North Dakota NOAA Weather Radio": {
+        "website": "https://bismarckweather.net/",
+        "stream": "https://wxradio.org/ND-Bismarck-WLX78",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KZZ69 Beatrice, Nebaska NOAA Weather Radio": {
+        "website": "http://friendweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/KZZ69.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXM20 Lincoln, Nebraska NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/NE-Lincoln-WXM20-alt1",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIH61 Omaha, Nebraska NOAA Weather Radio": {
+        "website": "http://chappelleweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/KIH61.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG575 Peterborough, New Hampshire NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/NH-PackMonadnock-WNG575",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWG20 Fernley, Nevada NOAA Weather Radio": {
+        "website": "http://www.rollernet.us/wxradio.html",
+        "stream": "https://radio.weatherusa.net/NWR/WWG20.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK58 Reno, Nevada NOAA Weather Radio": {
+        "website": "http://www.rollernet.us/wxradio.html",
+        "stream": "https://radio.weatherusa.net/NWR/WXK58.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL34 Albany, New York NOAA Weather Radio": {
+        "website": "https://www.colonieweatheronline.com/nwr/",
+        "stream": "https://wxradio.org/NY-Albany-WXL34",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEB98 Buffalo, New York NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KEB98.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL37 Highland, New York NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXL37.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXM45 Middleville, New York NOAA Weather Radio": {
+        "website": "http://indianatrailweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WXM45.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXM80 Riverhead, New York NOAA Weather Radio": {
+        "website": "http://www.crabmeadow-weather.org/",
+        "stream": "https://radio.weatherusa.net/NWR/WXM80.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHA53 Rochester, New York NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KHA53.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL31 Rochester, New York NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXL31_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIG86 Columbus, Ohio NOAA Weather Radio": {
+        "website": "http://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KIG86.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWG57 Manfield, Ohio NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/OH-Mansfield-WWG57",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG644 Bartlesville, Oklahoma NOAA Weather Radio": {
+        "website": "https://bartlesvilleweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WNG644.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK86 Lawton, Oklahoma NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK86.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK85 Oklahoma City, Oklahoma NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK85.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG654 Stillwater, Oklahoma NOAA Weather Radio": {
+        "website": "https://stillwaterweather.com/wxradio",
+        "stream": "https://radio.weatherusa.net/NWR/WNG654.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL40 Harrisburg, Pennsylvania NOAA Weather Radio": {
+        "website": "http://cvweather.org/",
+        "stream": "https://radio.weatherusa.net/NWR/WXL40.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL43 Wilkes-Barre, Pennsylvania NOAA Weather Radio": {
+        "website": "http://www.mikeymsweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WXL43.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ21 Greer, South Carolina NOAA Weather Radio": {
+        "website": "https://www.upstateweather.com/",
+        "stream": "https://wxradio.org/SC-Greenville-WXJ21",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXL23 Lead, South Dakota NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXL23.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXM63 Rapid City, South Dakota NOAA Weather Radio": {
+        "website": "http://www.sdsmt.edu/ATM/",
+        "stream": "https://radio.weatherusa.net/NWR/WXM63.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK49 Memphis, Tennessee NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/TN-Memphis-WXK49",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIG79 Nashville, Tennessee NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KIG79.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK63 Shelbyville, Tennessee NOAA Weather Radio": {
+        "website": "http://www.cannonseverewx.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WXK63.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK38 Amarillo, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK38_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK27 Austin, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK27.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK30 College Station, Texas NOAA Weather Radio": {
+        "website": "https://atmo.tamu.edu/",
+        "stream": "https://radio.weatherusa.net/NWR/WXK30.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHB41 Corpus Christi, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KHB41_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC56 Dallas, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/TX-Dallas-KEC56",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KGG68 Houstin, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KGG68.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK23 Lufkin, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK23.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KWN34 Palestine, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KWN34.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK33 San Angelo, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radiostream.kd5hia.net/WXK33.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK36 Tyler, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK36_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXK35 Waco, Texas NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXK35.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHB37 Hampton, Virginia NOAA Weather Radio": {
+        "website": "https://www.blackmoreweatherstation.com/",
+        "stream": "https://radio.weatherusa.net/NWR/KHB37_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHB36 Manassas, Virginia NOAA Weather Radio": {
+        "website": "https://mikev.com/home/noaa-weather-radio-feed-khb36/",
+        "stream": "https://stream.mikev.com/khb36.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWG24 Puget Sound, Washington NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://wxradio.org/WA-PugetSoundMarine-WWG24",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WWF56 Richland, Washinton NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WWF56_2.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHB60 Seattle, Washington NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.gabrielsmcmillan.me/sew-khb60",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KHA47 Baraboo, Wisconsin NOAA Weather Radio": {
+        "website": "http://jcweather.us/index.php",
+        "stream": "https://radio.weatherusa.net/NWR/KHA47.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIG65 Green Bar, Wisconsin NOAA Weather Radio": {
+        "website": "http://depereweather.com/",
+        "stream": "https://radio.weatherusa.net/NWR/KIG65.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ88 Menomonie, Wisconsin NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXJ88.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC60 Milwaukee, Wisconsin NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/KEC60.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG553 Wausauke, Wisconsin NOAA Weather Radio": {
+        "website": "http://weather.athelstanewi.com/",
+        "stream": "https://radio.weatherusa.net/NWR/WNG553.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KGG95 Winona, Wisconsin NOAA Weather Radio": {
+        "website": "http://thecoldfront.com/weather/wxradio.html",
+        "stream": "https://radio.weatherusa.net/NWR/KGG95.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXM61 Lander, Wyoming NOAA Weather Radio": {
+        "website": "https://www.weatherusa.net/radio",
+        "stream": "https://radio.weatherusa.net/NWR/WXM61.mp3",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIH28 Philadelphia, Pennsylvania NOAA Weather Radio": {
+        "website": "https://www.mikeymsweather.com/wxradio.php",
+        "stream": "https://wxradio.org/PA-Philadelphia-KIH28",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG642 Arab, Alabama NOAA Weather Radio": {
+        "website": "https://www.mikeymsweather.com/wxradio.php",
+        "stream": "https://wxradio.org/AL-ARAB-WNG642",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WXJ52 Fayetteville, Arkansas NOAA Weather Radio": {
+        "website": "https://www.mikeymsweather.com/wxradio.php",
+        "stream": "https://wxradio.org/AR-Fayetteville-WXJ52",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WNG655 Contra Costa, California NOAA Weather Radio": {
+        "website": "https://www.mikeymsweather.com/wxradio.php",
+        "stream": "https://wxradio.org/CA-ContraCostaCounty-WNG655",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KIH62 Fresno, California NOAA Weather Radio": {
+        "website": "https://www.mikeymsweather.com/wxradio.php",
+        "stream": "https://wxradio.org/CA-Fresno-KIH62",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KEC49 Monterey, California NOAA Weather Radio": {
+        "website": "https://saratoga-weather.org/",
+        "stream": "https://wxradio.org/CA-Monterey-KEC49",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "WSM60 Dresden, Maine NOAA Weather Radio": {
+        "website": "https://www.mikeymsweather.com/wxradio.php",
+        "stream": "https://wxradio.org/ME-Dresden-WSM60",
+        "genres": [
+            "weather",
+            "public safety"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KMSY New Orleans International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/31362",
+        "stream": "https://broadcastify.cdnstream1.com/31362",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KROC Greater Rochester International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/16051",
+        "stream": "https://broadcastify.cdnstream1.com/16051",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KFAT Fresno-Yosemite International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/32203",
+        "stream": "https://broadcastify.cdnstream1.com/32203",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KSAT San Antonio International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/20904",
+        "stream": "https://broadcastify.cdnstream1.com/20904",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KMCO Orlando International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/37204",
+        "stream": "https://broadcastify.cdnstream1.com/37204",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "KTPA Tamp International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/39188",
+        "stream": "https://broadcastify.cdnstream1.com/39188",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "",
+        "discontinued": false
+    },
+    "PAJN Juneau International Airport ATC": {
+        "website": "https://www.broadcastify.com/listen/feed/31716",
+        "stream": "https://broadcastify.cdnstream1.com/31716",
+        "genres": [
+            "air traffic"
+        ],
+        "description": "",
         "discontinued": false
     }
 }
