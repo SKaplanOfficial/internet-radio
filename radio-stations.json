@@ -1811,7 +1811,8 @@
         "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEAFM.mp3",
         "genres": [
             "news",
-            "talk"
+            "talk",
+            "public"
         ],
         "description": "Maine Public Broadcasting",
         "discontinued": false
@@ -1820,7 +1821,8 @@
         "website": "https://www.mainepublic.org",
         "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEA_CLASSICAL.mp3",
         "genres": [
-            "classical"
+            "classical",
+            "public"
         ],
         "description": "",
         "discontinued": false
@@ -2175,7 +2177,8 @@
         "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFM.mp3",
         "genres": [
             "community",
-            "news"
+            "news",
+            "public"
         ],
         "description": "WAMC/Northeast Public Radio is a regional public radio network serving parts of seven northeastern states. These include New York, Massachusetts, Connecticut, Vermont, New Jersey, New Hampshire and Pennsylvania.",
         "discontinued": false
@@ -2187,7 +2190,8 @@
             "community",
             "news",
             "classical",
-            "jazz"
+            "jazz",
+            "public"
         ],
         "description": "News, jazz, and classical music.",
         "discontinued": false
@@ -2220,16 +2224,6 @@
             "salsa"
         ],
         "description": "Our programs emphasize music and demonstrating the best of Hispanics.",
-        "discontinued": false
-    },
-    "KHPR Hawaii Public Radio": {
-        "website": "https://www.hawaiipublicradio.org",
-        "stream": "https://khpr-ice.streamguys1.com/khpr2",
-        "genres": [
-            "community",
-            "news"
-        ],
-        "description": "KHPH in Kailua Hawaii is an educational or nonprofit radio station.",
         "discontinued": false
     },
     "UKULELE ISLAND": {
@@ -2402,7 +2396,8 @@
         "stream": "https://vpr.streamguys1.com/vpr-web",
         "genres": [
             "community",
-            "news"
+            "news",
+            "public"
         ],
         "description": "",
         "discontinued": false
@@ -2411,7 +2406,8 @@
         "website": "https://www.vermontpublic.org",
         "stream": "https://vprclassical.streamguys1.com/vprclassical-web",
         "genres": [
-            "classical"
+            "classical",
+            "public"
         ],
         "description": "",
         "discontinued": false
@@ -2421,7 +2417,8 @@
         "stream": "https://vprstate.streamguys1.com/vprhouse24.mp3",
         "genres": [
             "politcs",
-            "education"
+            "education",
+            "public"
         ],
         "description": "Live audio from the Vermont House of Representatives",
         "discontinued": false
@@ -2431,7 +2428,8 @@
         "stream": "https://vprstate.streamguys1.com/vprsenate24.mp3",
         "genres": [
             "politcs",
-            "education"
+            "education",
+            "public"
         ],
         "description": "Live audio from the Vermont State Senate",
         "discontinued": false
@@ -2994,7 +2992,7 @@
         "description": "Music representing freedom.",
         "discontinued": false
     },
-    "Bango Radio - East African Music Channel": {
+    "Bongo Radio - East African Music Channel": {
         "website": "https://www.bongoradio.com/bongo-radio-east-african-music-channel/",
         "stream": "http://bongoradio.com:8000/african.mp3",
         "genres": [
@@ -4238,7 +4236,8 @@
         "genres": [
             "indie",
             "news",
-            "talk"
+            "talk",
+            "public"
         ],
         "description": "KCRW, a community service of Santa Monica College, is Southern California's leading National Public Radio affiliate, featuring an eclectic mix of music, news, information and cultural programming.",
         "discontinued": false
@@ -6050,7 +6049,8 @@
             "news",
             "sports",
             "talk",
-            "dutch"
+            "dutch",
+            "public"
         ],
         "description": "A public-service radio channel in the Netherlands, broadcasting mainly news and sport.",
         "discontinued": false
@@ -6061,7 +6061,8 @@
         "genres": [
             "classics",
             "hits",
-            "dtuch"
+            "dtuch",
+            "public"
         ],
         "description": "A public-service radio station in the Netherlands, broadcasting chiefly classic hits.",
         "discontinued": false
@@ -6073,7 +6074,8 @@
             "hits",
             "alternative",
             "rock",
-            "dutch"
+            "dutch",
+            "public"
         ],
         "description": "A public-service radio station in the Netherlands whose format is a combination of contemporary hit radio, alternative and rock.",
         "discontinued": false
@@ -6083,7 +6085,8 @@
         "stream": "https://icecast.omroep.nl/radio4-bb-mp3",
         "genres": [
             "classical",
-            "dutch"
+            "dutch",
+            "public"
         ],
         "description": "A public-service radio channel in the Netherlands, broadcasting chiefly classical music",
         "discontinued": false
@@ -6096,7 +6099,8 @@
             "news",
             "talk",
             "games",
-            "dutch"
+            "dutch",
+            "public"
         ],
         "description": "A public-service radio channel in the Netherlands, broadcasting easy listening music, interviews, news, and audience participation segments.",
         "discontinued": false
@@ -6178,7 +6182,8 @@
         "stream": "https://icecast.omroep.nl/3fm-serioustalent-mp3",
         "genres": [
             "experimental",
-            "variety"
+            "variety",
+            "public"
         ],
         "description": "A public-service radio channel in the Netherlands where all presenters receive their training for the big jobs with the big brothers.",
         "discontinued": false
@@ -6189,7 +6194,7 @@
         "genres": [
             "classical"
         ],
-        "description": "The UK’s favourite classical music station.",
+        "description": "The UK's favourite classical music station.",
         "discontinued": false
     },
     "Radio Swiss Pop": {
@@ -6232,7 +6237,8 @@
             "jazz",
             "culture",
             "swiss",
-            "german"
+            "german",
+            "public"
         ],
         "description": "Switch public radio with programming focused on culture and also the best Jazz and Classical music hits.",
         "discontinued": false
@@ -6246,7 +6252,8 @@
             "hits",
             "news",
             "swiss",
-            "german"
+            "german",
+            "public"
         ],
         "description": "Swiss public radio offering a varied program of pop and rock music, news and entertainment.",
         "discontinued": false
@@ -6269,7 +6276,8 @@
         "genres": [
             "folk",
             "hits",
-            "pop"
+            "pop",
+            "public"
         ],
         "description": "Swiss public radio for folk music, hits and popular music!",
         "discontinued": false
@@ -6279,7 +6287,8 @@
         "stream": "http://stream.srg-ssr.ch/m/drsvirus/mp3_128",
         "genres": [
             "dance",
-            "electronic"
+            "electronic",
+            "public"
         ],
         "description": "Swiss public radio targetted toward youth",
         "discontinued": false
@@ -6344,7 +6353,8 @@
         "genres": [
             "news",
             "talk",
-            "community"
+            "community",
+            "public"
         ],
         "description": "New Hampshire's statewide public news network. Multi-platform journalism, NPR programs, and local shows",
         "discontinued": false
@@ -6353,7 +6363,8 @@
         "website": "https://www.nhpr.org",
         "stream": "https://nhpr.streamguys1.com/classical",
         "genres": [
-            "classical"
+            "classical",
+            "public"
         ],
         "description": "New Hampshire's public classical radio.",
         "discontinued": false
@@ -6717,7 +6728,8 @@
             "news",
             "talk",
             "culture",
-            "entertainment"
+            "entertainment",
+            "public"
         ],
         "description": "Public radio broadcast station of the Guam Educational Radio Foundation. ",
         "discontinued": false
@@ -6749,7 +6761,8 @@
             "news",
             "talk",
             "education",
-            "community"
+            "community",
+            "public"
         ],
         "description": "Radio station of the Solomon Islands Broadcasting Corporation. A public service broadcast which facilitates educational programs, recording and promotion.",
         "discontinued": false
@@ -6996,7 +7009,8 @@
             "news",
             "talk",
             "entertainment",
-            "community"
+            "community",
+            "public"
         ],
         "description": "Radio Tonga is a broadcast radio station in Nuku'alofa, Tonga, providing Community News, Talk and Entertainment. Also known as Radio 1, Radio Tonga is the public broadcaster for the Kingdom of Tonga.",
         "discontinued": false
@@ -7272,26 +7286,6 @@
         "description": "",
         "discontinued": false
     },
-    "KEC49 San Francisco, California NOAA Weather Radio": {
-        "website": "https://saratoga-weather.org/index.php",
-        "stream": "https://radio.weatherusa.net/NWR/KEC49.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXJ41 Hartford, Connecticut NOAA Weather Radio": {
-        "website": "https://www.weatherusa.net/radio",
-        "stream": "https://wxstream.org:8443/NWR/WXJ41",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "WXJ42 Meriden, Connecticut NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://streaming.satelliteguys.us:8000/weather",
@@ -7312,16 +7306,6 @@
         "description": "",
         "discontinued": false
     },
-    "WXK83 Cape Coral, Florida NOAA Weather Radio": {
-        "website": "https://capeweather.com/",
-        "stream": "https://radio.weatherusa.net/NWR/WXK83.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "KIH24 Tallahassee, Florida NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://wxradio.org/FL-Tallahassee-KIH24",
@@ -7335,16 +7319,6 @@
     "WXK56 Athens, Georgia NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://wxradio.org/GA-Athens-WXK56",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WWG75 Maui, Hawaii NOAA Weather Radio": {
-        "website": "http://www.ah6gr.net/",
-        "stream": "https://radio.weatherusa.net/NWR/WWG75.mp3",
         "genres": [
             "weather",
             "public safety"
@@ -7382,36 +7356,6 @@
         "description": "",
         "discontinued": false
     },
-    "WWF58 McCall, Idaho NOAA Weather Radio": {
-        "website": "https://www.boisestatepublicradio.org/",
-        "stream": "https://icy3.boisestatepublicradio.org:9018/WWF58_McCall",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "KPS509 Salmon, Idaho NOAA Weather Radio": {
-        "website": "https://www.boisestatepublicradio.org/",
-        "stream": "https://icy3.boisestatepublicradio.org:9018/KPS509_Salmon",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXL35 Twin Falls, Idaho NOAA Weather Radio": {
-        "website": "https://www.boisestatepublicradio.org/",
-        "stream": "https://icy3.boisestatepublicradio.org:9018/WXL35_Twin_Falls",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "WXJ76 Champaign, Illinois NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://wxradio.org/IL-Champaign-WXJ76",
@@ -7442,29 +7386,9 @@
         "description": "",
         "discontinued": false
     },
-    "WXM49 Marion, Illinois NOAA Weather Radio": {
-        "website": "http://www.wb0vtm.com/",
-        "stream": "https://radio.weatherusa.net/NWR/WXM49.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "KXI58 Plano, Illinois NOAA Weather Radio": {
         "website": "http://gooselakeweather.com/",
         "stream": "https://radio.weatherusa.net/NWR/KXI58.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXJ73 Quad Cities, Illinois NOAA Weather Radio": {
-        "website": "https://www.weatherusa.net/radio",
-        "stream": "https://radio.weatherusa.net/NWR/WXJ73.mp3",
         "genres": [
             "weather",
             "public safety"
@@ -7505,36 +7429,6 @@
     "WXK91 Topeka, Kansas NOAA Weather Radio": {
         "website": "https://www.wxstation.net/",
         "stream": "https://wxradio.org/KS-Topeka-WXK91-alt1",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WZ2523 Frankfort, Kentucky NOAA Weather Radio": {
-        "website": "http://frankfortweather.us/",
-        "stream": "https://radio.weatherusa.net/NWR/WZ2523.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "KZZ48 Owenton, Kentucky NOAA Weather Radio": {
-        "website": "http://frankfortweather.us/",
-        "stream": "https://radio.weatherusa.net/NWR/KZZ48.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "KHB46 Baton Rouge, Louisiana NOAA Weather Radio": {
-        "website": "https://www.weatherusa.net/radio",
-        "stream": "https://radio.weatherusa.net/NWR/KHB46.mp3",
         "genres": [
             "weather",
             "public safety"
@@ -7672,16 +7566,6 @@
         "description": "",
         "discontinued": false
     },
-    "WNG672 Wolf Lake, Michigan NOAA Weather Radio": {
-        "website": "http://www.herseyweather.com/",
-        "stream": "https://herseynoaaradio.freeddns.org/MI-WolfLake-WNG672-alt1",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "WNG676 Clearwater, Minnesota NOAA Weather Radio": {
         "website": "http://www.mbei.com/broadcasting/noaa/",
         "stream": "https://radio.weatherusa.net/NWR/WNG676.mp3",
@@ -7705,26 +7589,6 @@
     "KEC65 Minneapolis, Minnesota NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://radio.weatherusa.net/NWR/KEC65.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WNG648 Dixon, Missouri NOAA Weather Radio": {
-        "website": "http://www.dixonweather.org/",
-        "stream": "https://radio.weatherusa.net/NWR/WNG648.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXK82 Hannibal, Missouri NOAA Weather Radio": {
-        "website": "https://www.weatherusa.net/radio",
-        "stream": "https://radio.weatherusa.net/NWR/WXK82.mp3",
         "genres": [
             "weather",
             "public safety"
@@ -7792,16 +7656,6 @@
         "description": "",
         "discontinued": false
     },
-    "WWG20 Fernley, Nevada NOAA Weather Radio": {
-        "website": "http://www.rollernet.us/wxradio.html",
-        "stream": "https://radio.weatherusa.net/NWR/WWG20.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "WXK58 Reno, Nevada NOAA Weather Radio": {
         "website": "http://www.rollernet.us/wxradio.html",
         "stream": "https://radio.weatherusa.net/NWR/WXK58.mp3",
@@ -7842,16 +7696,6 @@
         "description": "",
         "discontinued": false
     },
-    "WXM45 Middleville, New York NOAA Weather Radio": {
-        "website": "http://indianatrailweather.com/",
-        "stream": "https://radio.weatherusa.net/NWR/WXM45.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "WXM80 Riverhead, New York NOAA Weather Radio": {
         "website": "http://www.crabmeadow-weather.org/",
         "stream": "https://radio.weatherusa.net/NWR/WXM80.mp3",
@@ -7862,17 +7706,7 @@
         "description": "",
         "discontinued": false
     },
-    "KHA53 Rochester, New York NOAA Weather Radio": {
-        "website": "https://www.weatherusa.net/radio",
-        "stream": "https://radio.weatherusa.net/NWR/KHA53.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXL31 Rochester, New York NOAA Weather Radio": {
+    "WXL31 Syracuse, New York NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://radio.weatherusa.net/NWR/WXL31_2.mp3",
         "genres": [
@@ -7902,16 +7736,6 @@
         "description": "",
         "discontinued": false
     },
-    "WNG644 Bartlesville, Oklahoma NOAA Weather Radio": {
-        "website": "https://bartlesvilleweather.com/",
-        "stream": "https://radio.weatherusa.net/NWR/WNG644.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "WXK86 Lawton, Oklahoma NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://radio.weatherusa.net/NWR/WXK86.mp3",
@@ -7925,36 +7749,6 @@
     "WXK85 Oklahoma City, Oklahoma NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://radio.weatherusa.net/NWR/WXK85.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WNG654 Stillwater, Oklahoma NOAA Weather Radio": {
-        "website": "https://stillwaterweather.com/wxradio",
-        "stream": "https://radio.weatherusa.net/NWR/WNG654.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXL40 Harrisburg, Pennsylvania NOAA Weather Radio": {
-        "website": "http://cvweather.org/",
-        "stream": "https://radio.weatherusa.net/NWR/WXL40.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXL43 Wilkes-Barre, Pennsylvania NOAA Weather Radio": {
-        "website": "http://www.mikeymsweather.com/",
-        "stream": "https://radio.weatherusa.net/NWR/WXL43.mp3",
         "genres": [
             "weather",
             "public safety"
@@ -8025,16 +7819,6 @@
     "WXK38 Amarillo, Texas NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://radio.weatherusa.net/NWR/WXK38_2.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WXK27 Austin, Texas NOAA Weather Radio": {
-        "website": "https://www.weatherusa.net/radio",
-        "stream": "https://radio.weatherusa.net/NWR/WXK27.mp3",
         "genres": [
             "weather",
             "public safety"
@@ -8182,49 +7966,9 @@
         "description": "",
         "discontinued": false
     },
-    "KHA47 Baraboo, Wisconsin NOAA Weather Radio": {
-        "website": "http://jcweather.us/index.php",
-        "stream": "https://radio.weatherusa.net/NWR/KHA47.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "KIG65 Green Bar, Wisconsin NOAA Weather Radio": {
-        "website": "http://depereweather.com/",
-        "stream": "https://radio.weatherusa.net/NWR/KIG65.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
     "WXJ88 Menomonie, Wisconsin NOAA Weather Radio": {
         "website": "https://www.weatherusa.net/radio",
         "stream": "https://radio.weatherusa.net/NWR/WXJ88.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "KEC60 Milwaukee, Wisconsin NOAA Weather Radio": {
-        "website": "https://www.weatherusa.net/radio",
-        "stream": "https://radio.weatherusa.net/NWR/KEC60.mp3",
-        "genres": [
-            "weather",
-            "public safety"
-        ],
-        "description": "",
-        "discontinued": false
-    },
-    "WNG553 Wausauke, Wisconsin NOAA Weather Radio": {
-        "website": "http://weather.athelstanewi.com/",
-        "stream": "https://radio.weatherusa.net/NWR/WNG553.mp3",
         "genres": [
             "weather",
             "public safety"
@@ -8384,5 +8128,629 @@
         ],
         "description": "",
         "discontinued": false
+    },
+    "Abiding Radio - Sacred": {
+        "website": "https://www.abidingradio.org/listen/",
+        "stream": "https://www.abidingradio.org/radio/sacred",
+        "genres": [
+            "religious",
+            "christian"
+        ],
+        "description": "AbidingRadio airs classic hymns of the faith and the best of today's conservative, sacred, and traditional Christan music.",
+        "discontinued": false
+    },
+    "Abiding Radio - Instrumental": {
+        "website": "https://www.abidingradio.org/listen/",
+        "stream": "https://www.abidingradio.org/radio/instrumental",
+        "genres": [
+            "instrumental",
+            "religious",
+            "christian"
+        ],
+        "description": "AbidingRadio airs classic hymns of the faith and the best of today's conservative, sacred, and traditional Christan instrumental music.",
+        "discontinued": false
+    },
+    "Abiding Radio - Bluegrass Hymns": {
+        "website": "https://www.abidingradio.org/listen/",
+        "stream": "https://www.abidingradio.org/radio/bluegrass",
+        "genres": [
+            "country",
+            "bluegrass",
+            "religious",
+            "christian"
+        ],
+        "description": "Bluegrass style hymns of the faith",
+        "discontinued": false
+    },
+    "Abiding Radio - Seasonal": {
+        "website": "https://www.abidingradio.org/listen/",
+        "stream": "https://www.abidingradio.org/radio/seasonal",
+        "genres": [
+            "holiday",
+            "religious",
+            "christian"
+        ],
+        "description": "AbidingRadio airs classic hymns of the faith and the best of today's conservative, sacred, and traditional Christan, Christmas and Easter music.",
+        "discontinued": false
+    },
+    "Abiding Radio - Kids": {
+        "website": "https://www.abidingradio.org/listen/",
+        "stream": "https://www.abidingradio.org/radio/kids",
+        "genres": [
+            "kids",
+            "religious",
+            "christian"
+        ],
+        "description": "AbidingRadio airs classic hymns of the faith and the best of today's conservative, sacred, and traditional kids music.",
+        "discontinued": false
+    },
+    "KCND Prairie Public Radio FM1": {
+        "website": "https://www.prairiepublic.org/radio/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2.mp3",
+        "genres": [
+            "classical",
+            "news",
+            "talk",
+            "public"
+        ],
+        "description": "Prairie Public's classical music plus \"Morning Edition\" and \"All Things Considered,\" “Marketplace” interviews and discussion on \"Main Street.\"",
+        "discontinued": false
+    },
+    "KCND Prairie Public Radio FM2": {
+        "website": "https://www.prairiepublic.org/radio/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2.mp3",
+        "genres": [
+            "rock",
+            "jazz",
+            "acoustic",
+            "talk",
+            "public"
+        ],
+        "description": "Prairie Public's roots, rock and jazz featuring \"Into the Music\" with Mike Olson and \"World Café,\" plus two hours of NPR's \"Morning Edition\" on weekdays and \"Sounds Eclectic,\" \"Mountain Stage,\" and \"Acoustic Café\" on the weekends.",
+        "discontinued": false
+    },
+    "KCND Prairie Public Radio FM3": {
+        "website": "https://www.prairiepublic.org/radio/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD3.mp3",
+        "genres": [
+            "rock",
+            "jazz",
+            "alternative",
+            "talk",
+            "public"
+        ],
+        "description": "Prairie Public's roots, rock and jazz featuring \"Into the Music\" with Mike Olson and \"World Cafe.\" Also includes \"Morning Edition\" and \"All Things Considered,\" \"Marketplace,\" and interviews and discussion on \"Main Street.\"",
+        "discontinued": false
+    },
+    "KANO Hawaii Public Radio 1": {
+        "website": "https://www.hawaiipublicradio.org",
+        "stream": "https://khpr-ice.streamguys1.com/khpr2",
+        "genres": [
+            "news",
+            "talk",
+            "jazz",
+            "blues",
+            "world",
+            "community",
+            "public"
+        ],
+        "description": "Hawaii Public Radio, HPR for short, is a network of four non-commercial, listener-supported stations serving the state of Hawaii. The stations originate from the studios of The Hawaii Public Radio Plaza, located at 738 Kaheka Street, near the Ala Moana Shopping Center in Honolulu.",
+        "discontinued": false
+    },
+    "KANO Hawaii Public Radio 2": {
+        "website": "https://www.hawaiipublicradio.org",
+        "stream": "https://khpr-ice.streamguys1.com/kipo2",
+        "genres": [
+            "classical",
+            "public"
+        ],
+        "description": "Your home for classical music.",
+        "discontinued": false
+    },
+    "Colorado Public Radio": {
+        "website": "https://www.cpr.org",
+        "stream": "https://stream1.cprnetwork.org/cpr1_lo",
+        "genres": [
+            "news",
+            "talk",
+            "community",
+            "public"
+        ],
+        "description": "CPR News delivers in-depth, insightful and impartial news and information from around the world, across the nation and throughout Colorado, examining its relevance to our state and connecting it to our community.",
+        "discontinued": false
+    },
+    "Colorado Public Radio Classical": {
+        "website": "https://www.cpr.org",
+        "stream": "https://stream1.cprnetwork.org/cpr2_lo",
+        "genres": [
+            "classical",
+            "public"
+        ],
+        "description": "CPR Classical takes listeners on an in-depth exploration of thoughtfully curated music — with an emphasis on Colorado's classical community — providing context to a broad range of meaningful and compelling works from past to present.",
+        "discontinued": false
+    },
+    "Indie 102.3 FM": {
+        "website": "https://www.cpr.org",
+        "stream": "https://stream1.cprnetwork.org/cpr3_lo",
+        "genres": [
+            "indie",
+            "new artists",
+            "public"
+        ],
+        "description": "Indie 102.3 is an independent music discovery platform that elevates Colorado-based music, musicians and experiences. We connect audiences with artists — guiding them to the discovery of new music from emerging artists and from those they know and love. We are committed to showcasing the work of women and diverse artists who are not yet receiving the attention they deserve.",
+        "discontinued": false
+    },
+    "KRCC 91.5 FM": {
+        "website": "https://www.cpr.org/krcc/",
+        "stream": "https://streams.krcc.org/krcc_mp3",
+        "genres": [
+            "news",
+            "talk",
+            "community",
+            "public"
+        ],
+        "description": "KRCC is a public radio station in Colorado Springs, affiliated with, and operated by, Colorado Public Radio. KRCC broadcasts non-commercial News/Talk programming, mostly from NPR and American Public Media during the daytime hours. KRCC is a member-supported, non-commercial community service of Colorado College.",
+        "discontinued": false
+    },
+    "Yellowstone Yellowstone Public Radio": {
+        "website": "https://www.ypradio.org",
+        "stream": "https://ypr.streamguys1.com/live",
+        "genres": [
+            "public",
+            "news",
+            "talk",
+            "culture",
+            "classical",
+            "jazz"
+        ],
+        "description": "Yellowstone Public Radio provides in-depth news, public affairs, and cultural programming to a general adult audience in Montana and northern Wyoming--more specifically, news which focuses on meaning and detail; public affairs which offers complete expression of ideas and the opportunity for listener discussion; and cultural programming expressing heritage and innovation in the arts and humanities.",
+        "discontinued": false
+    },
+    "Yellowstone Public Radio Jazz": {
+        "website": "https://www.ypradio.org",
+        "stream": "https://ypr.streamguys1.com/live-3?",
+        "genres": [
+            "public",
+            "jazz"
+        ],
+        "description": "Jazz YPR is our 24-hour jazz music streaming service. Through a nationally syndicated service called PubMedia Jazz, Jazz YPR features some of the all-time greatest artists, like Miles Davis, Billie Holiday and Dave Brubeck; as well as today's top talents, like Wynton Marsalis, Diana Krall and Pat Metheny.",
+        "discontinued": false
+    },
+    "Yellowstone Public Radio Classical": {
+        "website": "https://www.ypradio.org",
+        "stream": "https://ypr.streamguys1.com/live-2",
+        "genres": [
+            "public",
+            "classical"
+        ],
+        "description": "Classical YPR is our 24-hour classical music streaming service, available to our listeners through our website and our smartphone and tablet app. Through a nationally syndicated service called Classical24, Classical YPR brings you some of the most beautiful music in the world.",
+        "discontinued": false
+    },
+    "Yellowstone Public Radio 2": {
+        "website": "https://www.ypradio.org",
+        "stream": "https://ypr.streamguys1.com/live-4",
+        "genres": [
+            "public",
+            "news",
+            "talk"
+        ],
+        "description": "YPR2 is a streaming channel bringing you a number of nationally syndicated news, talk, and entertainment programs not available on our main broadcast channel, and a few that we do air on the radio, but airing in different time slots.",
+        "discontinued": false
+    },
+    "Minnesota Public Radio News": {
+        "website": "https://www.mprnews.org",
+        "stream": "https://nis.stream.publicradio.org/nis.aac",
+        "genres": [
+            "news",
+            "talk",
+            "public"
+        ],
+        "description": "MPR News has long been recognized as one of the foremost journalistic organizations in the Upper Midwest, reaching news consumers across all platforms. Reaching more than 500,000 listeners each week, the MPR News radio signal can be heard by 95 percent of Minnesotans, it distributes stories daily to 35 newspapers statewide, shares news coverage with KARE 11 — Minnesota's largest television station — and has news bureaus around the state and in Washington, D.C.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "Minnesota Public Radio YourClassical": {
+        "website": "https://www.yourclassical.org/playlist/classical-mpr",
+        "stream": "https://cms.stream.publicradio.org/cms.aac",
+        "genres": [
+            "classical",
+            "public"
+        ],
+        "description": "YourClassical MPR provides lively classical music and good company to listeners throughout the day.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "Minnesota Public Radio Choral Classical": {
+        "website": "https://www.yourclassical.org/playlist/choral-stream",
+        "stream": "https://choral.stream.publicradio.org/choral.aac",
+        "genres": [
+            "choral",
+            "classical",
+            "public"
+        ],
+        "description": "Launched in 2012, YourClassical Minnesota Public Radio's Choral Stream is a pioneering 24/7 stream, originating in Minnesota, the home of one of the country's most robust choral cultures.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "Minnesota Public Radio The Current": {
+        "website": "https://www.thecurrent.org",
+        "stream": "https://current.stream.publicradio.org/current.aac",
+        "genres": [
+            "variety",
+            "public"
+        ],
+        "description": "The Current brings listeners the best authentic new music alongside the music that inspired it, from local to legendary, indie to influential, new to nostalgic.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "Minnesota Public Radio Local Current": {
+        "website": "https://www.thecurrent.org/playlist/local-current",
+        "stream": "https://localcurrent.stream.publicradio.org/localcurrent.aac",
+        "genres": [
+            "local",
+            "variety",
+            "public"
+        ],
+        "description": "Because Minnesota music is vital to The Current and our fair state, we created Local Current, a 24/7 stream of music dedicated entirely to musicians from Minnesota.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "Minnesota Public Radio Rock The Cradle": {
+        "website": "https://www.thecurrent.org/playlist/rockthecradle",
+        "stream": "https://rockthecradle.stream.publicradio.org/rockthecradle.aac",
+        "genres": [
+            "kids",
+            "variety",
+            "public"
+        ],
+        "description": "Rock The Cradle offers the best music for kids and adults to enjoy together: Sesame Street to the Rolling Stones, Bunny Clogs to the Beach Boys, Laurie Berkner to Belle and Sebastian. Great kids music brought to you by The Current.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "Minnesota Public Radio Radio Heartland": {
+        "website": "https://www.thecurrent.org/playlist/radio-heartland",
+        "stream": "https://radioheartland.stream.publicradio.org/radioheartland.aac",
+        "genres": [
+            "acoustic",
+            "americana",
+            "roots",
+            "public"
+        ],
+        "description": "Radio Heartland is a 24-hour service featuring acoustic, Americana and roots music.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "89.3 The Current - Purple Current": {
+        "website": "https://www.thecurrent.org/playlist/purple-current",
+        "stream": "https://purplecurrent.stream.publicradio.org/purplecurrent.aac",
+        "genres": [
+            "soul",
+            "funk",
+            "R&B",
+            "rock",
+            "jazz",
+            "pop",
+            "hip hop",
+            "public"
+        ],
+        "description": "Exploring the musical legacy of Prince and beyond.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "89.3 The Current - Carbon Sound": {
+        "website": "https://www.carbonsound.fm",
+        "stream": "https://carbonsound.stream.publicradio.org/carbonsound.aac",
+        "genres": [
+            "black",
+            "variety",
+            "public"
+        ],
+        "description": "Carbon Sound celebrates the depth, breadth, and influence of Black musical expression and honors the foundational role of Black music throughout all genres of music.",
+        "discontinued": false,
+        "location": "Minneapolis, Minnesota, USA"
+    },
+    "Northwest Public Radio News": {
+        "website": "https://www.nwpb.org",
+        "stream": "https://streams.nwpr.org:8443/NWPRNEWS",
+        "genres": [
+            "public",
+            "news",
+            "talk"
+        ],
+        "description": "The mission of Northwest Public Broadcasting is to be a trusted source of quality content. We are dedicated to enriching our community by sharing and creating distinctive programs which engage, enlighten and entertain.",
+        "discontinued": false,
+        "location": "Olympia, Washington, USA"
+    },
+    "Northwest Public Radio Classical": {
+        "website": "https://www.nwpb.org",
+        "stream": "https://streams.nwpr.org:8443/NWPRCLASSICAL",
+        "genres": [
+            "public",
+            "classical",
+            "news"
+        ],
+        "description": "A combined news and classical music public service.",
+        "discontinued": false,
+        "location": "Olympia, Washington, USA"
+    },
+    "Northwest Public Radio Jazz": {
+        "website": "https://www.nwpb.org",
+        "stream": "https://streams.nwpr.org:8443/NWPRKJEM",
+        "genres": [
+            "public",
+            "jazz"
+        ],
+        "description": "Lrgely student-run station broadcasting jazz music 24 hours a day.",
+        "discontinued": false,
+        "location": "Olympia, Washington, USA"
+    },
+    "Arion Christmas Radio": {
+        "website": "https://www.arionradio.com/arionchristmas/player",
+        "stream": "https://ice.onestreaming.com/arionchristmas",
+        "genres": [
+            "holiday"
+        ],
+        "description": "100% Christmas songs - Ad free!",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "ATHENS PⱯRTY": {
+        "website": "https://www.athensparty.com/athensparty/player",
+        "stream": "https://live.athensparty.com/athensparty",
+        "genres": [
+            "greek",
+            "pop",
+            "top 40",
+            "world"
+        ],
+        "description": "LOUD + HAPPY RADIO. The most popular Greek web radio, with thousands of listeners every day, exclusives, djs from all over the world and only good foreign music.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "ATHENS PⱯRTY R&B": {
+        "website": "https://www.athensparty.com/athenspartyrnb/player",
+        "stream": "https://live.athensparty.com/athenspartyrnb",
+        "genres": [
+            "R&B",
+            "dance",
+            "hip hop",
+            "soul"
+        ],
+        "description": "This is the best foreign musical genre based radio station of Greece and is one of the most popular one. Athens Party RNB plays r n' b, soul, hip hop and other forms of music non stop to keep the radio full of party based radio songs.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "ATHENS PⱯRTY Velvet.Fm": {
+        "website": "https://www.athensparty.com/velvetfm/player",
+        "stream": "https://live.athensparty.com/velvetfm",
+        "genres": [
+            "80s",
+            "90s",
+            "pop",
+            "rock",
+            "ballad"
+        ],
+        "description": "Velvet.fm is a channel on the internet radio station Arion Radio from Lesbos, Greece, providing adult contemporary, 80s, 90s, Pop, Rock, Ballads Music.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "ATHENS PⱯRTY Wonder Radio": {
+        "website": "https://www.athensparty.com/wonder/player",
+        "stream": "https://live.athensparty.com/wonder",
+        "genres": [
+            "indie",
+            "world",
+            "news",
+            "top 40"
+        ],
+        "description": "Indie hits from around the world",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "Arion Radio": {
+        "website": "http://www.arionradio.com/arionradio/player",
+        "stream": "https://live.arionradio.com/arion",
+        "genres": [
+            "greek",
+            "pop",
+            "hits",
+            "top 40"
+        ],
+        "description": "Arion Laikos broadcasts live around the clock from Greece as one of the most popular FM radios in the country, featuring the best Greek pop music.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "Arion Λαϊκός": {
+        "website": "https://www.arionradio.com/arionlaikos/player",
+        "stream": "https://live.arionradio.com/arionlaikos",
+        "genres": [
+            "folk",
+            "hits"
+        ],
+        "description": "A \"brother\" of Arion Radio that plays all the great folk hits.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "Arion Στιγμές": {
+        "website": "https://www.arionradio.com/arionstigmes/player",
+        "stream": "https://live.arionradio.com/arionstigmes",
+        "genres": [
+            "greek"
+        ],
+        "description": "Let yourself go to the Greek lyrics and get carried away by the melodies.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "Arion Kids": {
+        "website": "https://www.arionradio.com/arionkids/player",
+        "stream": "https://live.arionradio.com/arionkids",
+        "genres": [
+            "kids",
+            "entertainment"
+        ],
+        "description": "Arion Kids is a radio channel on the Arion Radio internet radio station from Athens, Greece providing Kids music, information and entertainment.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "Αρμονία 103.2 FM": {
+        "website": "http://onradio.gr/player/?id=525",
+        "stream": "http://s5.onweb.gr:8844/;",
+        "genres": [
+            "ballad",
+            "news",
+            "greek"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Samos, Greece"
+    },
+    "Reporter724": {
+        "website": "https://www.reporter724.com/radio-reporter724/",
+        "stream": " https://radio.webmonster.gr:8010/reporterhi",
+        "genres": [
+            "greek",
+            "news",
+            "contemporary",
+            "variety"
+        ],
+        "description": "Information, news, and contemporary music",
+        "discontinued": false,
+        "location": "Thessaloniki, Greece"
+    },
+    "Dentalradio": {
+        "website": "https://dentalradio.gr",
+        "stream": "https://sh.onweb.gr/8524/stream",
+        "genres": [
+            "top 100",
+            "ballad",
+            "relaxing",
+            "calm"
+        ],
+        "description": "Music for every doctor's office - clinic of every medical - dental specialty and specialization, but also in every medical - paramedical - diagnostic - dental laboratory",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "102.9 KBLX": {
+        "website": "https://kblx.com",
+        "stream": "https://bonneville.cdnstream1.com/2621_48.aac",
+        "genres": [
+            "R&B",
+            "oldies"
+        ],
+        "description": "The Best Throwbacks and R&B",
+        "discontinued": false,
+        "location": "Berkeley, California, USA"
+    },
+    "Real Radio 104.1": {
+        "website": "www.wtks.co",
+        "stream": "",
+        "genres": [
+            "classic rock",
+            "alternative",
+            "rock",
+            "talk"
+        ],
+        "description": "Real Radio 104.1 is the hottest station on the market, with the best talk show hosts and some of the greatest music on nights & weekends.",
+        "discontinued": false,
+        "location": "Cocoa Beach, Florida, USA"
+    },
+    "DR P1 Kulturen": {
+        "website": "https://www.dr.dk/lyd/p1",
+        "stream": "http://live-icy.gss.dr.dk:8000/A/A03L.mp3",
+        "genres": [
+            "danish",
+            "news",
+            "talk",
+            "community",
+            "public"
+        ],
+        "description": "DR P1 is a not-for-profit, culture-focused community online and FM radio station of Denmark.",
+        "discontinued": false,
+        "location": "Denmark"
+    },
+    "DR P2 Klassik": {
+        "website": "https://www.dr.dk/lyd/p2",
+        "stream": "http://live-icy.gss.dr.dk:8000/A/A04L.mp3",
+        "genres": [
+            "danish",
+            "classical",
+            "public"
+        ],
+        "description": "P2 is Denmark's inspiring music channel for everyone who likes classical music.",
+        "discontinued": false,
+        "location": "Copenhagen, Denmark"
+    },
+    "DR P3 Natradio": {
+        "website": "https://www.dr.dk/lyd/p3",
+        "stream": "http://live-icy.gss.dr.dk/A/A05L.mp3",
+        "genres": [
+            "danish",
+            "new artists",
+            "pop",
+            "talk",
+            "public"
+        ],
+        "description": "P3 focuses on both the new and emerging artists as well as the more established ones. The annual \"Career Cannon\" gives unknown musicians the opportunity to break through and be played on the channel.",
+        "discontinued": false,
+        "location": "Copenhagen, Denmark"
+    },
+    "DR P4 Natradio": {
+        "website": "https://www.dr.dk/lyd/p4",
+        "stream": "http://live-icy.gss.dr.dk:8000/A/A08L.mp3",
+        "genres": [
+            "danish",
+            "news",
+            "pop",
+            "talk",
+            "local",
+            "public"
+        ],
+        "description": "The regional radio channel of Denmark's national public broadcasting corporation, DR. P4's programming is a mixture of popular music, traffic announcements, national and regional news.",
+        "discontinued": false,
+        "location": "Copenhagen, Denmark"
+    },
+    "DR P5 Natradio": {
+        "website": "https://www.dr.dk/lyd/p5",
+        "stream": "http://live-icy.gss.dr.dk/A/A25L.mp3",
+        "genres": [
+            "danish",
+            "news",
+            "talk",
+            "folk",
+            "classics",
+            "country",
+            "oldies",
+            "public"
+        ],
+        "description": "DR P5 is a radio channel that is aimed at the slightly older and mature audience and those who would like to be updated on what is happening today and what has happened in the past that made today what it is.",
+        "discontinued": false,
+        "location": "Copenhagen, Denmark"
+    },
+    "DR P6 Beatet": {
+        "website": "https://www.dr.dk/lyd/p6beat",
+        "stream": "",
+        "genres": [
+            "danish",
+            "local",
+            "public",
+            "variety",
+            "alternative"
+        ],
+        "description": "DR P6 brings you the friendly voices of the Denmark community as well as a wide range of music.",
+        "discontinued": false,
+        "location": "Frederiksberg, Denmark"
+    },
+    "DR P8 Jazz": {
+        "website": "https://www.dr.dk/lyd/p8jazz",
+        "stream": "http://live-icy.gss.dr.dk:8000/A/A22L.mp3",
+        "genres": [
+            "jazz",
+            "blues",
+            "danish",
+            "public"
+        ],
+        "description": "For those who love jazz - and those who might be able to get into it.",
+        "discontinued": false,
+        "location": "Copenhagen, Denmark"
     }
 }
