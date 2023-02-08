@@ -1,0 +1,605 @@
+{
+    "New England Public Radio WFCR": {
+        "name": "New England Public Radio WFCR",
+        "website": "https://www.nepm.org",
+        "stream": "https://nepr.streamguys1.com/WFCR.mp3",
+        "genres": [
+            "community",
+            "news",
+            "classical",
+            "jazz",
+            "public",
+            ""
+        ],
+        "description": [
+            "News",
+            " jazz",
+            " and classical music."
+        ],
+        "discontinued": "false"
+    },
+    "Venice Classic Radio": {
+        "name": "Venice Classic Radio",
+        "website": "https://www.veniceclassicradio.eu",
+        "stream": "https://uk2.streamingpulse.com/ssl/vcr2",
+        "genres": [
+            "classical",
+            "baroque",
+            "opera",
+            "italian",
+            ""
+        ],
+        "description": [
+            "A repertoire of early",
+            " baroque",
+            " classical and romantic music!"
+        ],
+        "discontinued": "false"
+    },
+    "Minnesota Public Radio YourClassical": {
+        "name": "Minnesota Public Radio YourClassical",
+        "website": "https://www.yourclassical.org/playlist/classical-mpr",
+        "stream": "https://cms.stream.publicradio.org/cms.aac",
+        "genres": [
+            "classical",
+            "public",
+            ""
+        ],
+        "description": "YourClassical MPR provides lively classical music and good company to listeners throughout the day.",
+        "discontinued": "false",
+        "location": [
+            "Minneapolis",
+            " Minnesota",
+            " USA"
+        ]
+    },
+    "Classic Praha": {
+        "name": "Classic Praha",
+        "website": "https://www.classicpraha.cz",
+        "stream": "http://icecast8.play.cz/classic128.mp3",
+        "genres": [
+            "classical",
+            "soundtracks",
+            "jazz",
+            "swing",
+            "musical",
+            ""
+        ],
+        "description": [
+            "Classic Praha (formerly Classic FM) plays classical and film music supplemented by programs with jazz",
+            " swing and musical music."
+        ],
+        "discontinued": "false"
+    },
+    "Beethoven Channel": {
+        "name": "Beethoven Channel",
+        "website": "https://beethovenchannel.com/",
+        "stream": "https://classicalconnected.com:8012/stream",
+        "genres": [
+            "classical",
+            "symphony",
+            "romantic",
+            "piano",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "Klassik Radio - Classic Radio Live": {
+        "name": "Klassik Radio - Classic Radio Live",
+        "website": "https://www.klassikradio.de",
+        "stream": "https://live.streams.klassikradio.de/klassikradio-deutschland",
+        "genres": [
+            "classical",
+            "soundtracks",
+            ""
+        ],
+        "description": [
+            "The largest classical music station in the EU with a unique program recipe for Germany",
+            " Austria and German-speaking Switzerland."
+        ],
+        "discontinued": "false"
+    },
+    "NPO Radio 4": {
+        "name": "NPO Radio 4",
+        "website": "http://www.radio4.nl/",
+        "stream": "https://icecast.omroep.nl/radio4-bb-mp3",
+        "genres": [
+            "classical",
+            "dutch",
+            "public",
+            ""
+        ],
+        "description": [
+            "A public-service radio channel in the Netherlands",
+            " broadcasting chiefly classical music"
+        ],
+        "discontinued": "false"
+    },
+    "Pumpkin FM Radio Malvern International": {
+        "name": "Pumpkin FM Radio Malvern International",
+        "website": "https://pumpkinfm.com/live-stream/radio-malvern-int/",
+        "stream": "65.21.202.84:8403/;",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": [
+            "An Internet Radio station broadcasting from London",
+            " England",
+            " United Kingdom",
+            " providing Classical",
+            " Opera",
+            " Symphony",
+            " and Baroque music."
+        ],
+        "discontinued": "false"
+    },
+    "Classical Radio Stream": {
+        "name": "Classical Radio Stream",
+        "website": "https://classicalradiostream.com/",
+        "stream": "http://classicalconnected.com:8020/stream",
+        "genres": [
+            "classical",
+            "symphony",
+            "romantic",
+            "piano",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "Clásica FM Radio": {
+        "name": "Clásica FM Radio",
+        "website": "https://clasicafmradio.es",
+        "stream": "https://listen.mixlr.com/ca4e1719e96bdc62de398c9f638447f4",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": "Clasica FM Radio is the most listened-to classical music podcast platform. New daily content and a 24-hour online broadcast that offers you the best music in the world as you've never heard it before. Listen to the quality tune on this radio to accompany your day.",
+        "discontinued": "false"
+    },
+    "WWFM The Classical Network 89.1 FM": {
+        "name": "WWFM The Classical Network 89.1 FM",
+        "website": "https://www.wwfm.org",
+        "stream": "https://wwfm.streamguys1.com/live",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": "The Classical Network is New Jersey's only full-time classical music station providing programming 24-hours each day.",
+        "discontinued": "false"
+    },
+    "WFCC 107.5 Cape Classical": {
+        "name": "WFCC 107.5 Cape Classical",
+        "website": "http://www.wfcc.com",
+        "stream": "https://ice7.securenetsystems.net/WFCC",
+        "genres": [
+            "classical",
+            "news",
+            ""
+        ],
+        "description": [
+            "WFCC Classical 107.5 FM is Cape Cod's premiere classical music radio station offering local news updates",
+            " up-to-the-minute weather forecasts and a wealth of community information."
+        ],
+        "discontinued": "false"
+    },
+    "Colorado Public Radio Classical": {
+        "name": "Colorado Public Radio Classical",
+        "website": "https://www.cpr.org",
+        "stream": "https://stream1.cprnetwork.org/cpr2_lo",
+        "genres": [
+            "classical",
+            "public",
+            ""
+        ],
+        "description": "CPR Classical takes listeners on an in-depth exploration of thoughtfully curated music — with an emphasis on Colorado's classical community — providing context to a broad range of meaningful and compelling works from past to present.",
+        "discontinued": "false"
+    },
+    "Northwest Public Radio Classical": {
+        "name": "Northwest Public Radio Classical",
+        "website": "https://www.nwpb.org",
+        "stream": "https://streams.nwpr.org:8443/NWPRCLASSICAL",
+        "genres": [
+            "public",
+            "classical",
+            "news",
+            ""
+        ],
+        "description": "A combined news and classical music public service.",
+        "discontinued": "false",
+        "location": [
+            "Olympia",
+            " Washington",
+            " USA"
+        ]
+    },
+    "Radio Caprice - Cello": {
+        "name": "Radio Caprice - Cello",
+        "website": "http://radcap.ru/cello.html",
+        "stream": "http://79.120.12.130:8002/cello",
+        "genres": [
+            "instrumental",
+            "classical",
+            ""
+        ],
+        "description": "Nonstop cello pieces.",
+        "discontinued": "false"
+    },
+    "Public Domain Classical": {
+        "name": "Public Domain Classical",
+        "website": "http://radio.publicdomainproject.org",
+        "stream": "http://relay.publicdomainradio.org/classical.mp3",
+        "genres": [
+            "classical",
+            "symphony",
+            ""
+        ],
+        "description": "The Public Domain Radio broadcasts 24/7 non-stop free works on different channels.",
+        "discontinued": "false"
+    },
+    "Classic FM": {
+        "name": "Classic FM",
+        "website": "https://www.classicfm.com",
+        "stream": "http://vis.media-ice.musicradio.com/ClassicFMMP3",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": "The UK's favourite classical music station.",
+        "discontinued": "false"
+    },
+    "EBS Radio - Classical": {
+        "name": "EBS Radio - Classical",
+        "website": "https://ebsradio.ro",
+        "stream": "https://azura.ebsmedia.ro/radio/8090/classical128.mp3",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "Radio Swiss Classic": {
+        "name": "Radio Swiss Classic",
+        "website": "https://www.radioswissclassic.ch",
+        "stream": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+        "genres": [
+            "classical",
+            "baroque",
+            "opera",
+            ""
+        ],
+        "description": "A broad cross-section from different eras and different styles of classical music.",
+        "discontinued": "false"
+    },
+    "Radio SRF 2": {
+        "name": "Radio SRF 2",
+        "website": "https://www.srf.ch/radio-srf-2-kultur",
+        "stream": "http://stream.srg-ssr.ch/m/drs2/mp3_128",
+        "genres": [
+            "classical",
+            "jazz",
+            "culture",
+            "swiss",
+            "german",
+            "public",
+            ""
+        ],
+        "description": "Switch public radio with programming focused on culture and also the best Jazz and Classical music hits.",
+        "discontinued": "false"
+    },
+    "classicnl": {
+        "name": "classicnl",
+        "website": "https://www.classic.nl",
+        "stream": "https://22543.live.streamtheworld.com/CLASSICFMAAC.aac",
+        "genres": [
+            "classical",
+            "opera",
+            "soundtracks",
+            ""
+        ],
+        "description": [
+            "Radio station for anyone who likes light classical music",
+            " but other quiet music is also covered",
+            " such as opera and film music."
+        ],
+        "discontinued": "false"
+    },
+    "easy.radio - Easy Classical": {
+        "name": "easy.radio - Easy Classical",
+        "website": "https://play.easy.radio",
+        "stream": "https://streaming.exclusive.radio/uber/easyclassical/icecast.audio",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": "The smoothest classical music.",
+        "discontinued": "false"
+    },
+    "Maine Public Classical": {
+        "name": "Maine Public Classical",
+        "website": "https://www.mainepublic.org",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEA_CLASSICAL.mp3",
+        "genres": [
+            "classical",
+            "public",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "KANO Hawaii Public Radio 2": {
+        "name": "KANO Hawaii Public Radio 2",
+        "website": "https://www.hawaiipublicradio.org",
+        "stream": "https://khpr-ice.streamguys1.com/kipo2",
+        "genres": [
+            "classical",
+            "public",
+            ""
+        ],
+        "description": "Your home for classical music.",
+        "discontinued": "false"
+    },
+    "Yellowstone Public Radio Classical": {
+        "name": "Yellowstone Public Radio Classical",
+        "website": "https://www.ypradio.org",
+        "stream": "https://ypr.streamguys1.com/live-2",
+        "genres": [
+            "public",
+            "classical",
+            ""
+        ],
+        "description": [
+            "Classical YPR is our 24-hour classical music streaming service",
+            " available to our listeners through our website and our smartphone and tablet app. Through a nationally syndicated service called Classical24",
+            " Classical YPR brings you some of the most beautiful music in the world."
+        ],
+        "discontinued": "false"
+    },
+    "Baroque Sonatas Radio": {
+        "name": "Baroque Sonatas Radio",
+        "website": "https://laut.fm/baroque_sonatas_radio",
+        "stream": "https://stream.laut.fm/baroque_sonatas_radio",
+        "genres": [
+            "baroque",
+            "classical",
+            ""
+        ],
+        "description": "Klassik Barockmusik.",
+        "discontinued": "false"
+    },
+    "Minnesota Public Radio Choral Classical": {
+        "name": "Minnesota Public Radio Choral Classical",
+        "website": "https://www.yourclassical.org/playlist/choral-stream",
+        "stream": "https://choral.stream.publicradio.org/choral.aac",
+        "genres": [
+            "choral",
+            "classical",
+            "public",
+            ""
+        ],
+        "description": [
+            "Launched in 2012",
+            " YourClassical Minnesota Public Radio's Choral Stream is a pioneering 24/7 stream",
+            " originating in Minnesota",
+            " the home of one of the country's most robust choral cultures."
+        ],
+        "discontinued": "false",
+        "location": [
+            "Minneapolis",
+            " Minnesota",
+            " USA"
+        ]
+    },
+    "KCND Prairie Public Radio FM1": {
+        "name": "KCND Prairie Public Radio FM1",
+        "website": "https://www.prairiepublic.org/radio/",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2.mp3",
+        "genres": [
+            "classical",
+            "news",
+            "talk",
+            "public",
+            ""
+        ],
+        "description": [
+            "Prairie Public's classical music plus \"Morning Edition\" and \"All Things Considered",
+            "\" “Marketplace” interviews and discussion on \"Main Street.\""
+        ],
+        "discontinued": "false"
+    },
+    "Middle Eastern Classical": {
+        "name": "Middle Eastern Classical",
+        "website": "https://zeno.fm/radio/eastern-classical-music/",
+        "stream": "https://stream.zeno.fm/r8b9smty1a0uv",
+        "genres": [
+            "classical",
+            "middle eastern",
+            ""
+        ],
+        "description": [
+            "Western Classical Music by Composers from Iran",
+            " Turkey",
+            " Azerbaijan",
+            " Armenia",
+            " Arab Countries",
+            " Israel",
+            " Central Asia",
+            " etc."
+        ],
+        "discontinued": "false"
+    },
+    "WQXR 105.9 FM": {
+        "name": "WQXR 105.9 FM",
+        "website": "https://www.wqxr.org",
+        "stream": "https://stream.wqxr.org/wqxr-web",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": "One of the oldest and most well-known FM stations in the world. Streaming classical music.",
+        "discontinued": "false"
+    },
+    "Yellowstone Yellowstone Public Radio": {
+        "name": "Yellowstone Yellowstone Public Radio",
+        "website": "https://www.ypradio.org",
+        "stream": "https://ypr.streamguys1.com/live",
+        "genres": [
+            "public",
+            "news",
+            "talk",
+            "culture",
+            "classical",
+            "jazz",
+            ""
+        ],
+        "description": [
+            "Yellowstone Public Radio provides in-depth news",
+            " public affairs",
+            " and cultural programming to a general adult audience in Montana and northern Wyoming--more specifically",
+            " news which focuses on meaning and detail; public affairs which offers complete expression of ideas and the opportunity for listener discussion; and cultural programming expressing heritage and innovation in the arts and humanities."
+        ],
+        "discontinued": "false"
+    },
+    "CMBF 105.7 FM Radio Musical Nacional": {
+        "name": "CMBF 105.7 FM Radio Musical Nacional",
+        "website": "https://www.radiocubana.cu/emisoras/nacionales/cmbf-radio-musical-nacional-audio-en-vivo/",
+        "stream": "https://icecast.teveo.cu/Nbtz7HT3",
+        "genres": [
+            "spanish",
+            "classical",
+            ""
+        ],
+        "description": [
+            "Radio Cuban cultural station",
+            " specialized in broadcasting classical music and spaces for analysis."
+        ],
+        "discontinued": "false"
+    },
+    "Sonatica": {
+        "name": "Sonatica",
+        "website": "http://sonatica.fm",
+        "stream": "http://148.251.43.231:8742/160;.mp3",
+        "genres": [
+            "classical",
+            "baroque",
+            ""
+        ],
+        "description": "Hundreds of hours of the best classical music.",
+        "discontinued": "false"
+    },
+    "classicnl Mind Radio": {
+        "name": "classicnl Mind Radio",
+        "website": "https://www.classic.nl",
+        "stream": "https://25323.live.streamtheworld.com/SRGSTR25AAC.aac",
+        "genres": [
+            "classical",
+            "opera",
+            "soundtracks",
+            "calm",
+            ""
+        ],
+        "description": "A mix of classical music styles that have one thing in common: they are soothing.",
+        "discontinued": "false"
+    },
+    "Adagio.FM": {
+        "name": "Adagio.FM",
+        "website": "http://adagio.fm",
+        "stream": "http://hi5.adagio.fm/;",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "DR P2 Klassik": {
+        "name": "DR P2 Klassik",
+        "website": "https://www.dr.dk/lyd/p2",
+        "stream": "http://live-icy.gss.dr.dk:8000/A/A04L.mp3",
+        "genres": [
+            "danish",
+            "classical",
+            "public",
+            ""
+        ],
+        "description": "P2 is Denmark's inspiring music channel for everyone who likes classical music.",
+        "discontinued": "false",
+        "location": [
+            "Copenhagen",
+            " Denmark"
+        ]
+    },
+    "Radio Viking - 101.4 FM": {
+        "name": "Radio Viking - 101.4 FM",
+        "website": "https://www.radioviking.se",
+        "stream": "https://n09.rcs.revma.com/qp6w2wzrruhvv",
+        "genres": [
+            "ballad",
+            "musical",
+            "classical",
+            ""
+        ],
+        "description": "Thematic programming with varying musical direction.",
+        "discontinued": "false"
+    },
+    "Classical 90.9 WSCS": {
+        "name": "Classical 90.9 WSCS",
+        "website": "http://www.classicalwscs.org/wscs/",
+        "stream": "http://natrix.sugarrivermedia.com:8000/wscs",
+        "genres": [
+            "classical",
+            "community",
+            ""
+        ],
+        "description": "Providing the Lake Sunapee region with the finest classical and community arts programming.",
+        "discontinued": "false"
+    },
+    "Classical 89": {
+        "name": "Classical 89",
+        "website": "https://www.classical89.org",
+        "stream": "https://radio.byub.org/classical89/classical89_aac",
+        "genres": [
+            "classical",
+            ""
+        ],
+        "description": [
+            "Programming includes an extensive classical CD library",
+            " Classical 89 productions",
+            " concerts and performances by or from Utah Symphony and Utah Opera",
+            " BYU School of Music",
+            " and the Gina Bachauer International Piano Competition and Foundation. Other local performances are also regularly featured",
+            " as well as nationally and internationally syndicated concerts",
+            " operas",
+            " and other programs."
+        ],
+        "discontinued": "false"
+    },
+    "Vermont Public Classical": {
+        "name": "Vermont Public Classical",
+        "website": "https://www.vermontpublic.org",
+        "stream": "https://vprclassical.streamguys1.com/vprclassical-web",
+        "genres": [
+            "classical",
+            "public",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "ClassicalNH": {
+        "name": "ClassicalNH",
+        "website": "https://www.nhpr.org",
+        "stream": "https://nhpr.streamguys1.com/classical",
+        "genres": [
+            "classical",
+            "public",
+            ""
+        ],
+        "description": "New Hampshire's public classical radio.",
+        "discontinued": "false"
+    }
+}

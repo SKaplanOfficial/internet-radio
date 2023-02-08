@@ -4359,7 +4359,6 @@
         "stream": "http://ice-11.spilarinn.is/tbylgjan",
         "genres": [
             "pop",
-            "pop",
             "news",
             "sports"
         ],
@@ -8621,7 +8620,7 @@
         "website": "https://dentalradio.gr",
         "stream": "https://sh.onweb.gr/8524/stream",
         "genres": [
-            "top 100",
+            "top 40",
             "ballad",
             "relaxing",
             "calm"
@@ -8640,19 +8639,6 @@
         "description": "The Best Throwbacks and R&B",
         "discontinued": false,
         "location": "Berkeley, California, USA"
-    },
-    "Real Radio 104.1": {
-        "website": "www.wtks.co",
-        "stream": "",
-        "genres": [
-            "classic rock",
-            "alternative",
-            "rock",
-            "talk"
-        ],
-        "description": "Real Radio 104.1 is the hottest station on the market, with the best talk show hosts and some of the greatest music on nights & weekends.",
-        "discontinued": false,
-        "location": "Cocoa Beach, Florida, USA"
     },
     "DR P1 Kulturen": {
         "website": "https://www.dr.dk/lyd/p1",
@@ -8728,7 +8714,7 @@
     },
     "DR P6 Beatet": {
         "website": "https://www.dr.dk/lyd/p6beat",
-        "stream": "",
+        "stream": "http://live-icy.gss.dr.dk:8000/A/A29H.mp3",
         "genres": [
             "danish",
             "local",
@@ -8752,5 +8738,478 @@
         "description": "For those who love jazz - and those who might be able to get into it.",
         "discontinued": false,
         "location": "Copenhagen, Denmark"
+    },
+    "94.9 KLTY": {
+        "website": "https://klty.com",
+        "stream": "https://23243.live.streamtheworld.com/KLTYFMAAC.aac",
+        "genres": [
+            "religious",
+            "christian",
+            "contemporary",
+            "talk"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "WVIA 89.9 FM": {
+        "website": "https://www.wvia.org",
+        "stream": "https://24363.live.streamtheworld.com/WVIAFM.mp3?",
+        "genres": [
+            "public",
+            "news",
+            "classical",
+            "jazz",
+            "contemporary"
+        ],
+        "description": "WVIA-FM (HD-1) brings you Morning Edition each weekday, classical music through the midday, All Things Considered and Fresh Air in the afternoon, and jazz and contemporary music in the evening, along with many favorite weekend programs.",
+        "discontinued": false,
+        "location": ""
+    },
+    "WVIA HD2": {
+        "website": "https://www.wvia.org",
+        "stream": "https://26343.live.streamtheworld.com/WVIAHD2.mp3",
+        "genres": [
+            "public",
+            "news",
+            "talk"
+        ],
+        "description": "WVIA HD-2 features more of the best programs public radio has to offer, from the music of World Cafe (weekday mornings), to 1A, NPR's Daily national conversation with host Joshua Johnson and NPR's afternoon news magazine Here and Now (middays).",
+        "discontinued": false,
+        "location": ""
+    },
+    "WVIA The Chiaroscuro Channel": {
+        "website": "https://www.wvia.org",
+        "stream": "https://wvia.streamguys1.com/WVIAHD3.mp3",
+        "genres": [
+            "public",
+            "jazz"
+        ],
+        "description": "WVIA HD-3 features fine Jazz recordings from the library of Chiaroscuro Records, one of the world's riches sources of mainstream Jazz music.",
+        "discontinued": false,
+        "location": "Scranton, Pennsylvania, USA"
+    },
+    "101.1 WNOE": {
+        "website": "http://wnoe.iheart.com/",
+        "stream": "https://n29b-e2.revma.ihrhls.com/zc1045",
+        "genres": [
+            "country",
+            "contemporary",
+            "new artists"
+        ],
+        "description": "New Orleans' #1 station for new country.",
+        "discontinued": false,
+        "location": "New Orleans, Louisiana, USA"
+    },
+    "CIRV 88.9 FM": {
+        "website": "https://redfm.ca/cirv/",
+        "stream": "https://ice5.securenetsystems.net/CIRV",
+        "genres": [
+            "portuguese",
+            "news",
+            "sports",
+            "talk",
+            "jazz",
+            "blues",
+            "world",
+            "classical"
+        ],
+        "description": "CIRV broadcasts the news, interviews from artists, sports news and great music for the Portuguese Community. 24/7 in Portuguese, enjoy!!",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada"
+    },
+    "REDFM 89.1 / 93.1 Vancouver": {
+        "website": "https://vancouver.redfm.ca",
+        "stream": "https://ice24.securenetsystems.net/CKYE",
+        "genres": [
+            "world",
+            "asian",
+            "news",
+            "multicultural",
+            "talk"
+        ],
+        "description": "Vancouver's Number #1 South Asian - Multi-Cultural Radio Station",
+        "discontinued": false,
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "REDFM 106.7 Calgary": {
+        "website": "https://calgary.redfm.ca",
+        "stream": "https://ice10.securenetsystems.net/CKYR",
+        "genres": [
+            "multicultural",
+            "news",
+            "talk",
+            "asian",
+            "world"
+        ],
+        "description": "Calgary's Top Multicultural Radio Station!",
+        "discontinued": false,
+        "location": "Calgary, Alberta, Canada"
+    },
+    "REDFM 88.9 Toronto": {
+        "website": "https://toronto.redfm.ca",
+        "stream": "https://ice9.securenetsystems.net/CIRVFM",
+        "genres": [
+            "news",
+            "talk",
+            "asian",
+            "world",
+            "multicultural"
+        ],
+        "description": "Toronto's #1 South Asian radio station",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada"
+    },
+    "97.9 The BIG 98": {
+        "website": "http://thebig98.iheart.com/",
+        "stream": "https://n20b-e2.revma.ihrhls.com/zc2157",
+        "genres": [
+            "country",
+            "contemporary",
+            "new artists"
+        ],
+        "description": "Nashville's #1 station for new country from Nashville TN's world famous Music Row.",
+        "discontinued": false,
+        "location": "Nashville, Tennessee, USA"
+    },
+    "KPFK 90.7 FM": {
+        "website": "https://www.kpfk.org",
+        "stream": "https://streams.pacifica.org:9000/kpfk_128",
+        "genres": [
+            "talk",
+            "news",
+            "sports",
+            "pop"
+        ],
+        "description": "KPFK is a broadcast radio station providing World music, Talk shows, Political news and commentary, interviews and public affairs programming as part of the Pacifica Radio Network, a chain of listener-supported, non-commercial radio stations",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA"
+    },
+    "Wisconsin Public Radio - The Ideas Network": {
+        "website": "https://www.wpr.org/listen-live",
+        "stream": "https://wpr-ice.streamguys1.com/wpr-ideas-mp3-64",
+        "genres": [
+            "public"
+        ],
+        "description": "The Ideas Network fosters lifelong learning and community engagement through regional, statewide and national call-in shows that focus on everything from current events to practical advice to pop culture.",
+        "discontinued": false,
+        "location": "Madison, Wisconsin, USA"
+    },
+    "Wisconsin Public Radio News & Music": {
+        "website": "https://www.wpr.org/listen-live",
+        "stream": "https://wpr-ice.streamguys1.com/wpr-music-mp3-96",
+        "genres": [
+            "news",
+            "talk",
+            "public",
+            "culture",
+            "variety",
+            "classical",
+            "folk",
+            "world"
+        ],
+        "description": "WPR's trusted and timely news programs include \"Morning Edition,\" \"All Things Considered\" and the best of NPR, the BBC and APM plus state and local news every weekday. Classical music soothes the soul days, evenings and overnight with programs like \"Morning Classics,\" \"The Midday,\" \"Afternoon Classics\" and \"Classics by Request.\" Listeners can enjoy World music on \"The Road to Higher Ground with Jonathan Overby\" and folk from \"Simply Folk\" on the weekend.",
+        "discontinued": false,
+        "location": "Madison, Wisconsin, USA"
+    },
+    "Wisconsin Public Radio All Classical": {
+        "website": "https://www.wpr.org/listen-live",
+        "stream": "https://wpr-ice.streamguys1.com/wpr-hd2-mp3-96",
+        "genres": [
+            "classical",
+            "public"
+        ],
+        "description": "A mix of locally and nationally hosted classical music programs",
+        "discontinued": false,
+        "location": "Madison, Wisconsin, USA"
+    },
+    "KBON 101.1": {
+        "website": "https://www.kbon.com",
+        "stream": "https://ice64.securenetsystems.net/KBON",
+        "genres": [
+            "variety",
+            "blues",
+            "oldies",
+            "cajun",
+            "news",
+            "local"
+        ],
+        "description": "Your Variety Music Station with a Louisiana Flavor",
+        "discontinued": false,
+        "location": "Lafayette, Louisiana, USA"
+    },
+    "94.5 WPST": {
+        "website": "https://wpst.com/",
+        "stream": "https://live.wostreaming.net/direct/townsquare-wpstfmaac-ibc3",
+        "genres": [
+            "top 40",
+            "pop",
+            "hits"
+        ],
+        "description": "Playing hit music for Trenton, Philadelphia, New Jersey & PA.",
+        "discontinued": false,
+        "location": "Trenton, New Jersey, USA"
+    },
+    "102.7 KIIS FM": {
+        "website": "https://kiisfm.iheart.com/?pname=www.kiisfm.com&sc=dnsredirect",
+        "stream": "https://stream.revma.ihrhls.com/zc185",
+        "genres": [
+            "hits",
+            "top 40",
+            "pop",
+            "news"
+        ],
+        "description": "L.A.'s #1 Hit Music Station with the latest news, celebrity gossip, entertainment on artists like Selena Gomez, Miley Cyrus, Justin Bieber, Katy Perry, Ariana Grande and more! Home of Ryan Seacrest, KIIS Jingle Ball and Wango Tango.",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA"
+    },
+    "Ibiza Sound Radio": {
+        "website": "https://ibizasoundradio.com",
+        "stream": "https://stm1.mestrestream.xyz:8366/;",
+        "genres": [
+            "electronic",
+            "techno",
+            "house",
+            "chillout"
+        ],
+        "description": "Ibiza Sound Radio plays the best mix of electronic music. From the latest chart hits and anthems to a wide underground techno, house and chill music through to today.",
+        "discontinued": false,
+        "location": "Barcelona, Spain"
+    },
+    "Sonica": {
+        "website": "http://sonica.live",
+        "stream": "https://radios2.tecnosoul.com.ar:8001/sonica",
+        "genres": [
+            "electronic",
+            "techno"
+        ],
+        "description": "Sonica is an online Radio Station dedicated to the dissemination of Electronic Music. A station for those listeners who need something different and above all, with love for music.",
+        "discontinued": false,
+        "location": "Salta, Argentina "
+    },
+    "Classical KING FM 98.1": {
+        "website": "https://www.king.org",
+        "stream": "https://classicalking.streamguys1.com/king-fm-aac-128k",
+        "genres": [
+            "classical"
+        ],
+        "description": "Listener-Supported Classical from the Pacific Northwest.",
+        "discontinued": false,
+        "location": "Seattle, Washington, USA"
+    },
+    "Classical KING Evergreen Channel": {
+        "website": "https://www.king.org",
+        "stream": "https://classicalking.streamguys1.com/evergreen-aac-128k",
+        "genres": [
+            "classical"
+        ],
+        "description": "Relaxing Classical Favorites, 24/7.",
+        "discontinued": false,
+        "location": "Seattle, Washington, USA"
+    },
+    "All Classical Portland": {
+        "website": "https://www.allclassical.org",
+        "stream": "https://allclassical-ice.streamguys.com/ac96kmp3",
+        "genres": [
+            "classical"
+        ],
+        "description": "All Classical Portland is an independent and community-funded radio station, providing access to classical music, outstanding performances, information about the arts, and more since 1983.",
+        "discontinued": false,
+        "location": "Portland, Oregon, USA"
+    },
+    "ICAN Radio": {
+        "website": "https://icanradio.org",
+        "stream": "https://allclassical-ord.streamguys1.com/ICAN",
+        "genres": [
+            "kids",
+            "education",
+            "poetry"
+        ],
+        "description": "ICAN is a 24-hour arts and music HD radio station for children, their families, caregivers, and educators. ICAN removes barriers to music and the arts through thoughtful programming that inspires children to play, express emotions, and dream.",
+        "discontinued": false,
+        "location": "Portland, Oregon, USA"
+    },
+    "Vintage FM": {
+        "website": "https://vintagefm.com.au",
+        "stream": "https://stream.radio.co:80/sd60e90ab1/listen",
+        "genres": [
+            "vintage",
+            "variety",
+            "50s",
+            "60s",
+            "70s"
+        ],
+        "description": "Vintage FM is a local radio station, entertaining you 24 hours a day, 7 days a week. We play music that is 40+ years old and was originally released on Vinyl. We broadcast on 88.7FM to Camden and surrounding areas, and also online around the world. ",
+        "discontinued": false,
+        "location": "Penrith, New South Wales, Australia"
+    },
+    "KVRX 91.7": {
+        "website": "https://kvrx.org",
+        "stream": "https://kvrx.org/now_playing/stream",
+        "genres": [
+            "college",
+            "variety",
+            "new artists"
+        ],
+        "description": "Your Independent Music Authority. We are Austin, Texas' only student-run radio station, broadcasting from the University of Texas at Austin 24 hours a day, seven days a week. We play human-curated music that most stations would never dare play, focusing on genre diversity and up-and-coming artists.",
+        "discontinued": false,
+        "location": "Austin, Texas, USA"
+    },
+    "91.7 WSUM": {
+        "website": "",
+        "stream": "https://ice23.securenetsystems.net/WSUMFM",
+        "genres": [
+            "college",
+            "variety",
+            "news",
+            "talk",
+            "sports"
+        ],
+        "description": "WSUM, the University of Wisconsin-Madison's licensed student radio station, is an award-winning station with over 200 members. WSUM is a proud and active member of the Wisconsin Broadcasters Association and College Broadcasters, Inc., and has won myriad statewide and national awards for its dynamic music and talk programming, live sports broadcasts, and news coverage.",
+        "discontinued": false,
+        "location": "Madison, Wisconsin, USA"
+    },
+    "91.7 WSUM FreeFlow": {
+        "website": "",
+        "stream": "https://ice23.securenetsystems.net/FREEFLOW",
+        "genres": [
+            "college",
+            "variety",
+            "experimental",
+            "new artists"
+        ],
+        "description": "Student radio station for the University of Wisconsin-Madison focused on creative self-expression, experimental formats, and new artists.",
+        "discontinued": false,
+        "location": "Madison, Wisconsin, USA"
+    },
+    "Somehow Jazz": {
+        "website": "https://somehowjazz.com",
+        "stream": "https://443-1.autopo.st/36/192K/;&type=mp3",
+        "genres": [
+            "jazz",
+            "funk",
+            "soul",
+            "rock"
+        ],
+        "description": "We love 70's when jazz was blended with funk, soul and rock. SomehowJazz is an online jazz radio that keeps the spirit of those times alive.",
+        "discontinued": false,
+        "location": "Irvine, California, USA"
+    },
+    "Worldwide Jazz Radio": {
+        "website": "https://www.worldwidejazzradio.com",
+        "stream": "https://streaming.radio.co/s75106fdac/listen",
+        "genres": [
+            "jazz",
+            "chillout"
+        ],
+        "description": "All jazz. All the time.",
+        "discontinued": false,
+        "location": "Las Vegas, Nevada, USA"
+    },
+    "95.5 WNUA Smooth Jazz": {
+        "website": "https://smoothjazzwnua.com",
+        "stream": "https://streaming.live365.com/a63182",
+        "genres": [
+            "jazz",
+            "contemporary"
+        ],
+        "description": "Smooth Jazz Chicago Style - WMUA 95.5 Chicago Contemporary Jazz 24/7 from the Windy City",
+        "discontinued": false,
+        "location": "Chicago, Illinois, USA"
+    },
+    "JAZZ.FM91": {
+        "website": "https://jazz.fm",
+        "stream": "https://jazzfm91.streamb.live/SB00009",
+        "genres": [
+            "jazz",
+            "local",
+            "live",
+            "education",
+            "culture"
+        ],
+        "description": "As Canada's only 24/7 jazz radio broadcaster and listener-supported charitable organization, JAZZ.FM91 is committed to entertaining, inspiring and uniting our local community and the global jazz community we serve through programming, live performance, education and storytelling.",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada"
+    },
+    "Europa Radio Jazz": {
+        "website": "https://europaradiojazz.org",
+        "stream": "https://onair.europaradiojazz.org/radio/8000/hd",
+        "genres": [
+            "jazz",
+            "live",
+            "contemporary"
+        ],
+        "description": "Europa Radio Jazz programs includes live programs and live events on jazz music which also includes the great American songbook. The radio is a non profit organization.",
+        "discontinued": false,
+        "location": "Tourrettes sur Loup, French Riviera, France"
+    },
+    "Best Smooth Jazz": {
+        "website": "https://bsj.fm",
+        "stream": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
+        "genres": [
+            "jazz",
+            "instrumental",
+            "soul"
+        ],
+        "description": "BSJ.FM is London's Smooth Jazz Groove. Day host Rod Lucas brings you a fun, exciting and refreshingly new feel to the Smooth Jazz genre. Best Smooth Jazz radio is all instrumental soulful Smooth Jazz 24/7",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "KZSU 90.1 Stanford": {
+        "website": "http://kzsu.stanford.edu",
+        "stream": "http://kzsu-streams.stanford.edu/kzsu-1-128.mp3",
+        "genres": [
+            "college",
+            "news",
+            "sports",
+            "talk",
+            "pop",
+            "community",
+            "variety"
+        ],
+        "description": "KZSU is Stanford University's FM radio station, broadcasting across the Bay Area on 90.1 FM and across the world at kzsulive.stanford.edu. We exist to serve the Stanford community with quality radio broadcasts, including music, sports, news, and public affairs programming.",
+        "discontinued": false,
+        "location": "Stanford, California, USA"
+    },
+    "KALX 90.7 Berkely": {
+        "website": "https://www.kalx.berkeley.edu",
+        "stream": "https://stream.kalx.berkeley.edu:8443/kalx-128.mp3",
+        "genres": [
+            "college",
+            "pop",
+            "news",
+            "talk",
+            "community"
+        ],
+        "description": "UC Berkeley's student and community radio station, licensed to the University of California, and proudly broadcasting at 90.7 FM with 500 Watts of power and on the web at kalx.berkeley.edu.",
+        "discontinued": false,
+        "location": "Berkeley, California, USA"
+    },
+    "WXYC 89.3": {
+        "website": "https://wxyc.org",
+        "stream": "https://audio-mp3.ibiblio.org/wxyc.mp3",
+        "genres": [
+            "college",
+            "top 40",
+            "contemporary",
+            "hits",
+            "variety",
+            "local"
+        ],
+        "description": "The student-run radio station of the University of North Carolina at Chapel Hill. Programming includes a wide variety of genres, local artists, news, sports, and more.",
+        "discontinued": false,
+        "location": "Chapel Hill, North Carolina, USA"
+    },
+    "Daybreak Star Radio": {
+        "website": "https://daybreakstarradio.com",
+        "stream": "https://ice9.securenetsystems.net/DSR",
+        "genres": [
+            "native american",
+            "tribal",
+            "variety"
+        ],
+        "description": "Native American Music.  First Nations Music.  Indigenous Music.  International Tribal Music.  We support and honor all indigenous peoples and the art that binds us — music.  Daybreak Star Radio is not tied to one genre of music.  Playing everything from traditional drums, Pow Wow, Native flute, and rattles to R&B, Hip Hop, Rock & Roll, Metal, Funk, and more.  This radio station is for all the Nations and all the music the people produce, write, create, and play.  We will also hold space for those who give respect through study and appreciation of Native instruments.",
+        "discontinued": false,
+        "location": "Seattle, Washington, USA"
     }
 }

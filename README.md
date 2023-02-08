@@ -93,6 +93,21 @@
 - [RadioFMonline](https://radiofmonline.nl)
 - [The Radio Directory](http://radiodirectory.com/Stations/index.html)
 - [Radios.com.br](https://www.radios.com.br)
+- [my-radios.com](http://www.my-radios.com/en)
+- [SecondLife Music Streams Wiki](https://wiki.secondlife.com/wiki/Music_streams#Latin)
+- [radio.live.nU](http://radio.live.nu)
+- [High Bit Rate Internet Radio](http://radiobit.50webs.com)
+- [Radio Browser](https://www.radio-browser.info)
+- [AudioRealm](http://audiorealm.com)
+- [AudiRadio](https://www.audiradio.com/search/radioxsearch.php)
+- [RetroRADIO](http://www.atomicmag.com/links/radio/index.shtml)
+- [Internet Radio Broadcasts](https://www.broadcast-live.com/languages.html)
+- [fmstream.org](http://fmstream.org/index.php?c=FT)
+- [RadioBOSS](https://stations.radioboss.fm)
+- [Internet Webradio](https://internet-webradio.com/directory/)
+- [FunCast4U](https://fastcast4u.com/radio-directory)
+- [Truck Simulator Radio Stations Wiki](https://truck-simulator.fandom.com/wiki/Radio_Stations)
+- [GTA Radio Stations Wiki](https://gta.fandom.com/wiki/Radio_Stations)
 
 ## Region-Specific Directories
 ### Arabia
@@ -100,6 +115,9 @@
 
 ### Balkans
 - [Radio Uzivo](http://www.radio-uzivo.com)
+
+### British Isles
+- [UK and Irish Radio Stations broadcasting on the Internet](http://www.radiofeeds.co.uk)
 
 ### Caribbean
 - [basilachill](https://www.basilachill.com)
@@ -251,6 +269,7 @@
 - [Ellatha.com](https://www.ellatha.com/greekradiostations/GreekRadioStationslist.asp)
 - [e Radio Greek](https://e-radio-greek.blogspot.com)
 - [Greeks Radios](https://greeksradios.com)
+- [OnRadio](https://onradio.gr/county/netradios/)
 
 ### Guatemala
 - [Radio Guatemala](https://www.radios-guatemala.com)
@@ -282,7 +301,6 @@
 - [Radio Ireland](https://www.radio-ireland.com)
 - [IrishRadioLive](https://irishradiolive.com)
 - [LiveRadio.ie](https://www.liveradio.ie)
-- [RADIOFEEDS.co.uk](http://www.radiofeeds.co.uk)
 
 ### Israel
 - [Radio Israel](https://www.radio-israel.org)
@@ -456,7 +474,6 @@
 - [UK Online Radio](https://www.ukonlineradio.com)
 - [Listen Radio Live](https://listenradio.live)
 - [UK Radio](https://uk-radio.com)
-- [RADIOFEEDS.co.uk](http://www.radiofeeds.co.uk)
 - [Radio Live UK](https://radio-live-uk.com)
 - [UK Radio Online](https://ukradioonline.com)
 
@@ -464,6 +481,8 @@
 - [Radio United States](https://www.fmradiofree.com)
 - [StreamingRadioGuide](https://streamingradioguide.com)
 - [RadioStationUSA](https://radiostationusa.fm)
+- [NADB](https://thenadb.org/nadb-directory)
+- [Internet Radio Callsign Search](https://iruc.org/public_db/search.shtml)
 
 #### Puerto Rico
 - [Radio Puerto Rico](https://www.emisoras-puertorico.com)
@@ -481,3 +500,40 @@
 - [Radio Venezuela](https://www.radios-venezuela.com)
 - [Radio En Vivo](https://radios-de-venezuela.com)
 - [Emisoras Venezuela Online](http://emisorasvenezolanasonline.com)
+
+## Genre-Specific Directories
+
+### Classical
+- [Classical.Net](http://www.classical.net/music/links/radio.php)
+- [classicalwebcast.com](http://classicalwebcast.com/onepage.htm)
+- [Favorite Classical Composers](http://www.favorite-classical-composers.com/classical-music-radio.html)
+- [Classical Music Rising](https://classicalmusicrising.org/stations/)
+
+### College
+- [CampusFM](https://www.campus-fm.com)
+
+### Grassroots
+- [Grassroots Music Network](https://grassrootsmusicnetwork.org/topics/list-of-radio-stations-and-shows-supporting-independent-music-and-emerging-artists/)
+
+### Holiday
+
+#### Christmas
+- [WebRadio.fm](https://webradio.fm)
+
+### Jazz
+- [The Jazz Directory](https://thejazz.directory/directory/?zoom=15&is_mile=0&directory_radius=0&keywords=&address=&directory_radius=0&center=&address_type=&category=72)
+- [JazzWeek Station Directory](https://www.jazzweek.com/station-directory/)
+- [Jazz Oasis](http://www.jazzoasis.com/listen.htm)
+- [Smooth Jazz Florida](https://smoothjazzflorida.com)
+
+### Opera
+- [Operacast](http://www.operacast.com/opstations.htm)
+
+## Public
+- [Public Radio Fan](http://www.publicradiofan.com)
+
+### Underground
+- [Underground Radio Directory](https://www.undergroundradiodirectory.com/stations)
+
+## Other
+- [World Flute Society](https://www.worldflutesociety.org/online-radio-programs)

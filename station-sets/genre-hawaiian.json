@@ -1,0 +1,78 @@
+{
+    "HI95 Kauai": {
+        "name": "HI95 Kauai",
+        "website": "http://www.hi95kauai.com/",
+        "stream": "https://pacificmedia.cdnstream1.com/2789_64.aac",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "KPOA 93.5 FM": {
+        "name": "KPOA 93.5 FM",
+        "website": "https://kpoa.com",
+        "stream": "https://pacificmedia.cdnstream1.com/2794_64.aac",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            ""
+        ],
+        "description": "Hawaiian Music Maui Style",
+        "discontinued": "false"
+    },
+    "UKULELE ISLAND": {
+        "name": "UKULELE ISLAND",
+        "website": "http://ukulele-island.com",
+        "stream": "http://s3.voscast.com:8662/;stream1675516540823/1",
+        "genres": [
+            "ukulele",
+            "hawaiian",
+            ""
+        ],
+        "description": "UKULELE ISLAND features artists from Hawaii and beyond.",
+        "discontinued": "false"
+    },
+    "Hawaiian Music Live": {
+        "name": "Hawaiian Music Live",
+        "website": "https://www.hawaiianmusiclive.xyz",
+        "stream": "http://s6.voscast.com:10108/;",
+        "genres": [
+            "hawaiian",
+            ""
+        ],
+        "description": "Globally engaging our communities through Live Hawaiian Music and Events",
+        "discontinued": "false"
+    },
+    "Hawaiian 105 - KINE": {
+        "name": "Hawaiian 105 - KINE",
+        "website": "https://www.hawaiian105.com",
+        "stream": "https://ais-sa1.streamon.fm/7694_128k.aac",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            ""
+        ],
+        "description": [
+            "Hawaiian105 - KINE is a broadcast radio station in Honolulu",
+            " Hawaii",
+            " United States",
+            " providing Tropical and Hawaiian music."
+        ],
+        "discontinued": "false"
+    },
+    "Hawaiian Rainbow Radio": {
+        "name": "Hawaiian Rainbow Radio",
+        "website": "https://www.hawaiianrainbow.com",
+        "stream": "https://fwd.autopo.st/hawaiianrainbow/;stream.mp3",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            ""
+        ],
+        "description": "Your home for Hawaiian Music on the Internet.",
+        "discontinued": "false"
+    }
+}
