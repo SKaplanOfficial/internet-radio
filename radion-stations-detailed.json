@@ -1,0 +1,242 @@
+{
+    "WMLL 96.5 The Mill": {
+        "website": "https://965themill.com",
+        "alternateSites": [
+            "https://mytuner-radio.com/radio/wmll-965-the-mill-400112/",
+            "https://tunein.com/radio/The-Mill-965-s22199",
+            "https://onlineradiobox.com/us/themill965fm/",
+            "https://soundcloud.com/965themill",
+            "https://radiostationusa.fm/online/965-the-mill"
+        ],
+        "stream": "https://live.wostreaming.net/direct/saga-wmllfmmp3-ibc2",
+        "previousStreamURLs": [
+            ""
+        ],
+        "genres": [
+            "hits",
+            "classics"
+        ],
+        "description": "Manchester's Iconic Rock station",
+        "discontinued": false,
+        "images": [
+            "https://965themill.com/wp-content/themes/wmll/img/logo.png"
+        ],
+        "location": "Manchester, NH, USA",
+        "people": [
+            {
+                "name": "Lucy Lange",
+                "role": "President/General Manager",
+                "contactEmail": "LLange@manchesterrg.com",
+                "contactPhone": ""
+            },
+            {
+                "name": "Peter Stohrer",
+                "role": "Director of Engineering",
+                "contactEmail": "PStohrer@manchesterrg.com",
+                "contactPhone": ""
+            },
+            {
+                "name": "Pat McKay",
+                "role": "Operations Manager & Brand Manager",
+                "contactEmail": "PMckay@manchesterrg.com",
+                "contactPhone": ""
+            }
+        ],
+        "contactEmail": "ClassicHits@965themill.com",
+        "contactPhone": "603-669-9650",
+        "address": "500 Commercial Street, Manchester, NH 03101",
+        "socials": {
+            "facebook": "https://facebook.com/965TheMill",
+            "instagram": "https://instagram.com/965themill/"
+        },
+        "wikipedia": "https://en.wikipedia.org/wiki/WMLL",
+        "privacyPolicy": "https://965themill.com/privacy-policy/",
+        "termsOfUse": "https://965themill.com/terms-of-use/",
+        "contestRules": "https://965themill.com/contests"
+    },
+    "CBS Sports Radio 1270 AM & 101.9 FM WAIN": {
+        "website": "https://www.1019wain.com",
+        "alternateSites": [
+            "https://mytuner-radio.com/radio/wain-cbs-sports-radio-1270-am-433422/",
+            "https://soundcloud.com/user-547251643",
+            "https://onlineradiobox.com/us/wainam/",
+            "https://tunein.com/radio/WAIN-1019-s307133/"
+        ],
+        "stream": "https://forcht.streamguys1.com/wain-am",
+        "genres": [
+            "sports",
+            "news",
+            "talk"
+        ],
+        "description": "A radio station serving Columbia, KY and the Adair County, KY area with the best in sports news.",
+        "discontinued": false,
+        "images": [
+            "https://media.socastsrm.com/uploads/station/1316/site_header_logo-5df7a984ab828.png"
+        ],
+        "location": "Columbia, KY, USA",
+        "people": [
+            {
+                "name": "LeAnna Bennett",
+                "role": "General Manager",
+                "contactEmail": "",
+                "contactPhone": ""
+            },
+            {
+                "name": "Josh McKinney",
+                "role": "Host, McKinney in the Mornings on WAIN FM Hot Country 93.5; Program Director",
+                "contactEmail": "",
+                "contactPhone": ""
+            },
+            {
+                "name": "Austin Armstrong",
+                "role": "On-Air and Operations",
+                "contactEmail": "",
+                "contactPhone": ""
+            }
+        ],
+        "contactEmail": "wain@forchtbroadcasting.com",
+        "contactPhone": "270-384-2135",
+        "address": "P.O. Box 69, Columbia, KY  42728",
+        "socials": {
+            "facebook": "https://www.facebook.com/wainsportsradio/",
+            "twitter": "https://twitter.com/WAINSportsTalk"
+        },
+        "wikipedia": "",
+        "privacyPolicy": "https://www.1019wain.com/privacy",
+        "termsOfUse": "https://www.1019wain.com/terms",
+        "contestRules": ""
+    },
+    "WBVX Classic Rock 92.1 FM": {
+        "website": "http://www.classicrock921fm.com/",
+        "alternateSites": [
+            "https://mytuner-radio.com/radio/wbvx-classic-rock-921-fm-402864/",
+            "https://tunein.com/radio/Classic-Rock-921-s27669/",
+            "https://radiostationusa.fm/online/classic-rock-921-wbvx",
+            "https://onlineradiobox.com/us/wbvx/",
+            "https://streema.com/radios/B_92_WBVX"
+        ],
+        "stream": "https://ice9.securenetsystems.net/WBVX",
+        "previousStreamURLs": [
+            ""
+        ],
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "description": "Lexington's Classic Rock",
+        "discontinued": false,
+        "images": [
+            "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1673/2021/09/10160208/logo%402x.png"
+        ],
+        "location": "Lexington, KY, USA",
+        "people": [
+            {
+                "name": "",
+                "role": "",
+                "contactEmail": "",
+                "contactPhone": ""
+            }
+        ],
+        "contactEmail": "info@classicrock921fm.com",
+        "contactPhone": "(859) 657-9210",
+        "address": "LM Communications, 401 West Main Street, Suite 301, Lexington, Kentucky 40507",
+        "socials": {
+            "facebook": "https://www.facebook.com/92.1ClassicRock",
+            "twitter": "https://twitter.com/ClassicRockWBVX",
+            "instagram": "https://www.instagram.com/classicrock921fm/",
+            "youtube": "https://www.youtube.com/@wbvxclassicrock92.14"
+        },
+        "wikipedia": "https://en.wikipedia.org/wiki/WBVX",
+        "privacyPolicy": "https://www.classicrock921fm.com/privacy-policy/",
+        "termsOfUse": "https://www.classicrock921fm.com/general-contest-rules/",
+        "contestRules": ""
+    },
+    "WKDO Classic Country 98.7": {
+        "website": "https://chasinthebuck.com/",
+        "alternateSites": [
+            "https://mytuner-radio.com/radio/wkdo-987-fm-1560-am-433573/",
+            "https://tunein.com/radio/WKDO-FM-987-s30138/",
+            "https://streema.com/radios/WKDO_FM_2",
+            "https://radiolive.online/98-7-the-buck-wkdo/"
+        ],
+        "stream": "https://ice64.securenetsystems.net/WKDO",
+        "previousStreamURLs": [
+            ""
+        ],
+        "genres": [
+            "country",
+            "hits",
+            "70s",
+            "80s"
+        ],
+        "description": "Featuring the top country songs of the past, with emphasis on the 1970s and 80s.",
+        "discontinued": false,
+        "images": [
+            "https://chasinthebuck.com/assets/images/logo/header-logo4.png"
+        ],
+        "location": "Liberty, KY, USA",
+        "people": [
+            {
+                "name": "",
+                "role": "",
+                "contactEmail": "",
+                "contactPhone": ""
+            }
+        ],
+        "contactEmail": "thebuck@chasinthebuck.com",
+        "contactPhone": "(606) 787-7838",
+        "address": "29 Dry Ridge Spur Rd Liberty, KY 42539",
+        "socials": {
+            "facebook": "https://www.facebook.com/Classic-Country-987-The-Buck-WKDO-610411902307145/"
+        },
+        "wikipedia": "https://en.wikipedia.org/wiki/WKDO-FM",
+        "privacyPolicy": "",
+        "termsOfUse": "",
+        "contestRules": "https://chasinthebuck.com/contests/contest-rules"
+    },
+    "WXZO MeTV 96.7 FM": {
+        "website": "https://www.967me.com",
+        "alternateSites": [
+            "https://mytuner-radio.com/radio/wxzo-metv-967-fm-402653/",
+            "https://radiostationusa.fm/online/967-metv-fm",
+            "https://onlineradiobox.com/us/wxzo/",
+            "https://tunein.com/radio/967-WXZO-963-s77905/",
+            "https://fmradio.live/station/96-7-metv-fm-wxzo/"
+        ],
+        "stream": "http://ais-sa1.streamon.fm/7795_96k.mp3",
+        "previousStreamURLs": [
+            ""
+        ],
+        "genres": [
+            "hip hop",
+            "hits",
+            "60s",
+            "70s",
+            "80s"
+        ],
+        "description": "Burlington and Plattsburgh's home for timeless, memorable soft rock favorites spanning the decades.",
+        "discontinued": false,
+        "images": [
+            "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1433/2020/05/29135058/logo%402x.png"
+        ],
+        "location": "Colchester, VT, USA",
+        "people": [
+            {
+                "name": "",
+                "role": "",
+                "contactEmail": "",
+                "contactPhone": ""
+            }
+        ],
+        "contactEmail": "jamiedennis@star929.com",
+        "contactPhone": "802-655-0093",
+        "address": "96.7 MeTV FM, 265 Hegeman Avenue, Colchester, VT 05446",
+        "socials": {
+            "facebook": "https://www.facebook.com/967metvfm/"
+        },
+        "wikipedia": "https://en.wikipedia.org/wiki/WXZO",
+        "privacyPolicy": "",
+        "termsOfUse": "",
+        "contestRules": ""
+    }
+}

@@ -1084,7 +1084,7 @@
         "description": "Radio promoting and advancing the wonderful music of our Polish heritage.",
         "discontinued": false
     },
-    "24/7 Poka Heaven": {
+    "24/7 Polka Heaven": {
         "website": "http://www.247polkaheaven.com",
         "stream": "http://192.99.83.149:8046/stream",
         "genres": [
@@ -2226,7 +2226,7 @@
         "description": "Our programs emphasize music and demonstrating the best of Hispanics.",
         "discontinued": false
     },
-    "UKULELE ISLAND": {
+    "UKULELE ISLAND Radio": {
         "website": "http://ukulele-island.com",
         "stream": "http://s3.voscast.com:8662/;stream1675516540823/1",
         "genres": [
@@ -9211,5 +9211,771 @@
         "description": "Native American Music.  First Nations Music.  Indigenous Music.  International Tribal Music.  We support and honor all indigenous peoples and the art that binds us — music.  Daybreak Star Radio is not tied to one genre of music.  Playing everything from traditional drums, Pow Wow, Native flute, and rattles to R&B, Hip Hop, Rock & Roll, Metal, Funk, and more.  This radio station is for all the Nations and all the music the people produce, write, create, and play.  We will also hold space for those who give respect through study and appreciation of Native instruments.",
         "discontinued": false,
         "location": "Seattle, Washington, USA"
+    },
+    "GBR gamebytesradio": {
+        "website": "http://gamebytesradio.net",
+        "stream": "http://99.198.118.250:8084/;",
+        "genres": [
+            "video game music"
+        ],
+        "description": "LIVE Video Game Music!",
+        "discontinued": false,
+        "location": "San Luis, Guanajuato, Mexico"
+    },
+    "VGM Radio": {
+        "website": "https://vgmradio.com",
+        "stream": "http://radio.vgmradio.com:8040/stream",
+        "genres": [
+            "video game music",
+            "soundtracks"
+        ],
+        "description": "Free video game music streaming. Come take a listen!",
+        "discontinued": false,
+        "location": "Brooklyn, New York, USA"
+    },
+    "Gamesboro Radio": {
+        "website": "",
+        "stream": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
+        "genres": [
+            "video game music",
+            "80s",
+            "90s"
+        ],
+        "description": "Gamesboro Radio is an internet radio station that broadcasts video game music 24/7. All games, all the time!",
+        "discontinued": false,
+        "location": "Palm Bay, Florida, USA"
+    },
+    "Rainwave Radio - Game": {
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/game.mp3",
+        "genres": [
+            "video game music"
+        ],
+        "description": "Music, straight out of the games.",
+        "discontinued": false,
+        "location": "Berlin, Germany"
+    },
+    "Rainwave Radio - Chiptune": {
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/chiptune.mp3",
+        "genres": [
+            "video game music",
+            "electronic"
+        ],
+        "description": "Bleeps and bloops, from games and more.",
+        "discontinued": false,
+        "location": "Berlin, Germany"
+    },
+    "Rainwave Radio - OC Remix": {
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/ocremix.mp3",
+        "genres": [
+            "video game music",
+            "remix"
+        ],
+        "description": "Overclocked remixes and albums.",
+        "discontinued": false,
+        "location": "Berlin, Germany"
+    },
+    "Rainwave Radio - Covers": {
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/covers.mp3",
+        "genres": [
+            "video game music",
+            "cover",
+            "remix"
+        ],
+        "description": "Official and fan-made remixes.",
+        "discontinued": false,
+        "location": "Berlin, Germany"
+    },
+    "Rainwave Radio - All": {
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/all.mp3",
+        "genres": [
+            "video game music"
+        ],
+        "description": "All games and remixes from our library.",
+        "discontinued": false,
+        "location": "Berlin, Germany"
+    },
+    "Kohina Radio": {
+        "website": "https://kohina.duckdns.org/streamplayer/",
+        "stream": "https://kohina.duckdns.org/icecast/stream.aac",
+        "genres": [
+            "video game music",
+            "oldies",
+            "electronic"
+        ],
+        "description": "Old school game and demo music stream",
+        "discontinued": false,
+        "location": "Helås, Västra Götaland, Sweden"
+    },
+    "RPGN Game Music Radio": {
+        "website": "http://www.rpgamers.net/radio/index.php",
+        "stream": "http://stream.rpgamers.net:8000/rpgn",
+        "genres": [
+            "video game music"
+        ],
+        "description": "Playing only the best video game music tunes! You'll find all of your favorites from 8-bit games to the latest releases. Our music database is being expanded, so new tunes are added often.",
+        "discontinued": false,
+        "location": "Hamilton, Ontario, Canada"
+    },
+    "Radio Rivendell": {
+        "website": "https://www.radiorivendell.com",
+        "stream": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+        "genres": [
+            "soundtracks",
+            "video game music",
+            "fantasy",
+            "new artists"
+        ],
+        "description": "Radio Rivendell is the one and only fantasy radio station in the world playing fantasy music 24-7! We like to promote young and unknown artists and bands to the broader audience.",
+        "discontinued": false,
+        "location": "Imladris, Middle-Earth"
+    },
+    "sfSoundRadio": {
+        "website": "http://sfsound.org/radio.html",
+        "stream": "http://sfsound.org:8000/;?type=http&nocache=2",
+        "genres": [
+            "experimental",
+            "electronic",
+            "contemporary",
+            "variety"
+        ],
+        "description": "sfSoundRadio is an internet radio station that showcases experimental, improvised, electronic, contemporary composition, and other forms of new music heard in the San Francisco Bay area",
+        "discontinued": false,
+        "location": "San Francisco, California, USA"
+    },
+    "Radio 8 bit / 16 bit": {
+        "website": "http://www.16bitfm.com/#Pro",
+        "stream": "http://16bitfm.com:8000/main_mp3_192",
+        "genres": [
+            "electronic",
+            "groove"
+        ],
+        "description": "Mixed electronic styles, groove & intelligent sound + featured shows",
+        "discontinued": false,
+        "location": "Russia"
+    },
+    "16Bit.FM Cafe Channel": {
+        "website": "http://www.16bitfm.com/#Cafe",
+        "stream": "http://16bitfm.com:8000/cafe_mp3_192",
+        "genres": [
+            "ambient",
+            "chillout"
+        ],
+        "description": "Music for relaxation & conversation, nice background for work or creative activities",
+        "discontinued": false,
+        "location": "Russia"
+    },
+    "16Bit.FM I.D.E.A. Channel": {
+        "website": "http://www.16bitfm.com/#Idea",
+        "stream": "http://16bitfm.com:8000/idea_mp3_192",
+        "genres": [
+            "experimental",
+            "chillout",
+            "house"
+        ],
+        "description": "Electronic music for experienced ears activities. Intelligent digital experimental sound.",
+        "discontinued": false,
+        "location": "Russia"
+    },
+    "16Bit.FM EXTRA Channel": {
+        "website": "http://www.16bitfm.com/#Extra",
+        "stream": "http://16bitfm.com:8000/extra_mp3_128",
+        "genres": [
+            "electronic",
+            "chillout",
+            "house"
+        ],
+        "description": "Music that doesn't quite fit into the other 16bit stations, but nonetheless deserves to be heard.",
+        "discontinued": false,
+        "location": "Russia"
+    },
+    "16Bit.FM Back to Mine Channel": {
+        "website": "http://www.16bitfm.com/#Btm",
+        "stream": "http://16bitfm.com:8000/btm_mp3_192",
+        "genres": [
+            "electronic",
+            "classics",
+            "70s",
+            "80s",
+            "90s"
+        ],
+        "description": "Classic of electronic music from '70 to '90. ",
+        "discontinued": false,
+        "location": "Russia"
+    },
+    "8Beats Radio": {
+        "website": "https://8beats.co",
+        "stream": "https://n0d.radiojar.com/2fa4wbch308uv",
+        "genres": [
+            "video game music"
+        ],
+        "description": "8Beats is an internet radio dedicated to video game music, live 24-7 from Lyon, France.",
+        "discontinued": false,
+        "location": "Lyon, France"
+    },
+    "Nerds and Geeks: The Station": {
+        "website": "https://the.nag.zone/audio/nag-the-station/",
+        "stream": "http://136.243.156.30:2808/;",
+        "genres": [
+            "variety",
+            "classics",
+            "80s",
+            "90s",
+            "contemporary",
+            "chiptune",
+            "chillout",
+            "rock",
+            "electronic"
+        ],
+        "description": "The web radio of nerds and geeks. Playing the best from the 80s, 90s, and today!",
+        "discontinued": false,
+        "location": "Essen, Germany"
+    },
+    "Slay Radio": {
+        "website": "http://slayradio.org",
+        "stream": "http://relay4.slayradio.org:8000/",
+        "genres": [
+            "chiptune",
+            "80s",
+            "90s",
+            "remix"
+        ],
+        "description": "SLAY Radio is a 24/7 internet-only radio station dedicated to playing remixes and tunes based on music from the Commodore 64 computer, as well as the Amiga, popular in the 1980s and 1990s.",
+        "discontinued": false,
+        "location": "Gothenburg, Sweden"
+    },
+    "Tropicalísima Urbana": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=856",
+        "stream": "http://tropicalisima.org:8060/;",
+        "genres": [
+            "hits",
+            "spanish",
+            "contemporary",
+            "latin"
+        ],
+        "description": "Today's Latin Music",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Tropical": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=854",
+        "stream": "http://tropicalisima.org:8000/;",
+        "genres": [
+            "dance",
+            "latin",
+            "caribbean"
+        ],
+        "description": "Tropicalisima FM: bringing tropical sounds closer to you.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Salsa": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=853",
+        "stream": "http://tropicalisima.org:8020/;",
+        "genres": [
+            "salsa",
+            "latin",
+            "tropical",
+            "spanish",
+            "caribbean"
+        ],
+        "description": "TropicalisimaFM - salsa channel.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Navidad": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=852",
+        "stream": "http://tropicalisima.org:8090/;",
+        "genres": [
+            "holiday",
+            "spanish"
+        ],
+        "description": "The home of Latin Christmas music.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Merengue": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=851",
+        "stream": "http://tropicalisima.org:8004/;",
+        "genres": [
+            "latin",
+            "hip hop",
+            "rap",
+            "dance",
+            "spanish"
+        ],
+        "description": "Merengue is a channel on the internet radio station Tropicalisima.fm from Ridgewood, New York, providing Merengue, Spanish and dance Music.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Instrumental": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=850",
+        "stream": "http://tropicalisima.org:9000/;",
+        "genres": [
+            "instrumental",
+            "classical"
+        ],
+        "description": "A channel on the internet radio station Tropicalisima.fm from Ridgewood, New York, United States, providing Instrumental music.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Boleros": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=849",
+        "stream": "http://tropicalisima.org:8030/;",
+        "genres": [
+            "bolero",
+            "latin"
+        ],
+        "description": "The station of the great Boleros.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Cumbia": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=848",
+        "stream": "http://tropicalisima.org:8040/;",
+        "genres": [
+            "dance",
+            "folk",
+            "spanish"
+        ],
+        "description": "Cumbia is a channel on the internet radio station Tropicalisima.fm from Ridgewood, New York, providing Cumbia, Spanish, Dance and Folk Music.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Cristiana": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=847",
+        "stream": "http://tropicalisima.org:8070/;",
+        "genres": [
+            "religious",
+            "christian",
+            "spanish"
+        ],
+        "description": "The spiritual station.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Baladas": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=846",
+        "stream": "http://tropicalisima.org:8012/;",
+        "genres": [
+            "ballad",
+            "latin",
+            "spanish"
+        ],
+        "description": "The romantic super station. 24 hours with the best selection of Latin music on the Internet, covering the 5 continents with digital sound.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Tropicalísima Bachata": {
+        "website": "http://www.tropicalisimafm.org/index.php?option=com_wrapper&view=wrapper&Itemid=845",
+        "stream": "http://tropicalisima.org:8024/;",
+        "genres": [
+            "bachata",
+            "latin",
+            "dance",
+            "spanish"
+        ],
+        "description": "The Best Bachata Station on the Planet.",
+        "discontinued": false,
+        "location": "Ridgewood, New York, USA"
+    },
+    "Technicolor Web of Sound": {
+        "website": "https://techwebsound.com",
+        "stream": "https://streaming.live365.com/a01650",
+        "genres": [
+            "60s",
+            "rock",
+            "psychedelic"
+        ],
+        "description": "Playing late 60s and early 70s psychedelic rock",
+        "discontinued": false,
+        "location": "Greendale, Wisconsin, USA"
+    },
+    "Latina Stereo 100.9 FM": {
+        "website": "https://latinastereo.com",
+        "stream": "https://centova12.instainternet.com/proxy/cohetene?mp=/stream",
+        "genres": [
+            "salsa",
+            "latin",
+            "spanish"
+        ],
+        "description": "Latina stereo, pioneers in salsa brava since 1985. From Medellín to the whole world!!!",
+        "discontinued": false,
+        "location": "Medellín, Colombia"
+    },
+    "At Work 104": {
+        "website": "https://radiostorm.com/home/listen-now/",
+        "stream": "https://streaming.live365.com/b30572_128mp3",
+        "genres": [
+            "pop",
+            "hits",
+            "top 40",
+            "classics"
+        ],
+        "description": "At Work 104's focus is on music so that you stay up-to-date and don't miss a hit.",
+        "discontinued": false,
+        "location": "Topeka, Kansas, USA"
+    },
+    "Rock 104 Classic Rock": {
+        "website": "https://radiostorm.com/home/listen-now/",
+        "stream": "https://streaming.live365.com/b47785_128mp3",
+        "genres": [
+            "rock",
+            "classic rock",
+            "hits",
+            "80s",
+            "classics",
+            "contemporary"
+        ],
+        "description": "From the oldies and first rate 80s to brand new pinnacle rock and roll hits, all of our stations are broadcast live, not simply set playlists. Real online radio lives right here.",
+        "discontinued": false,
+        "location": "Topeka, Kansas, USA"
+    },
+    "Comedy 104": {
+        "website": "https://radiostorm.com/home/listen-now/",
+        "stream": "https://streaming.live365.com/b42761_64mp3",
+        "genres": [
+            "comedy",
+            "talk"
+        ],
+        "description": "Playing your favorite stand up comedy sketches.",
+        "discontinued": false,
+        "location": "Topeka, Kansas, USA"
+    },
+    "Oldies 104": {
+        "website": "https://radiostorm.com/home/listen-now/",
+        "stream": "https://streaming.live365.com/b09584_128mp3",
+        "genres": [
+            "oldies",
+            "60s",
+            "70s",
+            "classics",
+            "variety"
+        ],
+        "description": "Evergreens for everybody! Cant get enough of Oldies? Listen to this online radio, giving you the greatest from the 60s and 70s.",
+        "discontinued": false,
+        "location": "Topeka, Kansas, USA"
+    },
+    "Monocle 24": {
+        "website": "https://monocle.com",
+        "stream": "https://23543.live.streamtheworld.com/MONOCLE_24.mp3",
+        "genres": [
+            "culture",
+            "news",
+            "talk",
+            "variety"
+        ],
+        "description": "M24 is the radio station of Monocle magazine, with news and shows on foreign affairs, business, culture, urbanism, food & drink, design, print media and more.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Megaton Cafe Radio": {
+        "website": "",
+        "stream": "https://us2.internet-radio.com/proxy/megatoncafe?mp=/stream;",
+        "genres": [
+            "swing",
+            "jazz",
+            "blue",
+            "oldies",
+            "20s",
+            "30s",
+            "40s",
+            "50s"
+        ],
+        "description": "Megaton Cafe Radio is playing original recordings from their original eras, which means all the original artists, commercials, PSAs, Radio Theaters and their original sound, as close as possible to the core of the songs and the way they were originally recorded back then. All songs mostly captured from vinyl records with few or no electric instruments used.",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "UCCS Radio": {
+        "website": "https://radio.uccs.edu",
+        "stream": "https://18123.live.streamtheworld.com/SP_R4204760.aac",
+        "genres": [
+            "college",
+            "top 40",
+            "pop",
+            "alternative",
+            "rock",
+            "talk"
+        ],
+        "description": "The official radio station of the University of Colorado Colorado Springs! Broadcasting programming by students for students. We are your college radio station, giving you a variety of what you want!",
+        "discontinued": false,
+        "location": "Colorada Springs, Colorada, USA"
+    },
+    "Good Life Radio": {
+        "website": "https://goodliferadiostation.com",
+        "stream": "https://edge.iono.fm/xice/230_medium.aac",
+        "genres": [
+            "news",
+            "local",
+            "world",
+            "south african"
+        ],
+        "description": "Good Life Radio is a multilingual station that offers entertainment, information and inspiration to the upper LSM Metropolitan audience of South Africa. The format is 40% music, 60% talk. Our music, is the best mix of local and international music that consists of 50% international and 50% South African songs. Talk comprises 50% English and 50% Vernacular (IsiNdebele 10%, SePedi 10%, SeTswana 10%, Afrikaans 10% & IsiZulu 10%).",
+        "discontinued": false,
+        "location": "Montana Gardens, Pretoria, South Africa"
+    },
+    "Radio Heritage Foundation Radio": {
+        "website": "https://www.radioheritage.com",
+        "stream": "https://www.radioheritage.com:8000/rhfradio.aac",
+        "genres": [
+            "history",
+            "education"
+        ],
+        "description": "RHF Radio features audio recordings from our archives along with sample streams from radio stations around the globe. RHF Radio is made possible with the assistance of our anchor partner World FM.",
+        "discontinued": false,
+        "location": "Nelson, New Zealand"
+    },
+    "Quiet Village Radio": {
+        "website": "https://www.digitiki.com/radio.html",
+        "stream": "https://cp3.shoutcheap.com:18380/stream",
+        "genres": [
+            "tropical",
+            "hawaiian",
+            "easy listening",
+            "lounge"
+        ],
+        "description": "Exotica and Tiki music from yesterday and today.",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA"
+    },
+    "NIO 106.3 LA Island Radio": {
+        "website": "https://www.laislandradio.com",
+        "stream": "https://s4.radio.co/sda83dbfc5/low",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            "reggae"
+        ],
+        "description": "Streaming the best in Hawaiian/Island/Reggae music",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA"
+    },
+    "Hula Radio": {
+        "website": "https://hawaiianfm.com",
+        "stream": "https://ais-edge104-live365-dal02.cdnstream.com/a20797",
+        "genres": [
+            "hits",
+            "contemporary",
+            "hawaiian",
+            "tropical"
+        ],
+        "description": "The Breath Of Aloha (HULA) is a Internet Radio Station programming light adult contemporary hits and the beauty of Hawaii for our listeners throughout the world.",
+        "discontinued": false,
+        "location": ""
+    },
+    "Aloha Joe Radio": {
+        "website": "http://player.warpradio.com/alohajoe/",
+        "stream": "http://64.78.234.165:8000/ALOHAJOE?type=http&nocache=11679",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            "jazz"
+        ],
+        "description": "Aloha Joe Radio presents \"The Music & Spirit of Hawaii\" 24/7/365! The station has been on-line since 1994 and plays a wide-variety of island music and artists. Join us for a \"virtual trip\" to the islands!",
+        "discontinued": false,
+        "location": "Lakewood, California, USA"
+    },
+    "Relxation Island Radio": {
+        "website": "http://relaxation-island.com",
+        "stream": "http://s2.voscast.com:7932/;stream1675906907278/1",
+        "genres": [
+            "relaxing",
+            "hawaiian",
+            "ambient"
+        ],
+        "description": "Relaxation Island features natural sounds from Hawaii and beyond. It's always a SPA DAY on our Island.",
+        "discontinued": false,
+        "location": "Lakewood, California, USA"
+    },
+    "Cord Radio": {
+        "website": "https://www.cordinternational.com/RADIO.html",
+        "stream": "https://s8.voscast.com:8917/stream",
+        "genres": [
+            "hawaiian",
+            "vintage",
+            "oldies"
+        ],
+        "description": "Hana Ola ~ The FIRST name in VINTAGE HAWAIIAN MUSIC.",
+        "discontinued": false,
+        "location": "Ventura, California, USA"
+    },
+    "Pacific Jazz Radio": {
+        "website": "http://pacificjaz.com",
+        "stream": "http://s8.voscast.com:8032/;stream1675906839785/1",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Exotic Jazz from the Islands and Beyond. We play a wide-variety of jazz artists from the world stage.",
+        "discontinued": false,
+        "location": "Lakewood, California, USA"
+    },
+    "Tiki Radio": {
+        "website": "http://tikiradio.com",
+        "stream": "http://s2.voscast.com:9120/;stream1675906842025/1",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            "reggae"
+        ],
+        "description": "Aloha Joe]s TIKI RADIO featuring the music that transports you to a time when TIKI BARS & this style of music proliferated Hawaii... Places like; The Hawaiian Village - The Kon Tiki & Don the Beachcombers were filled with these EXOTIC SOUNDS",
+        "discontinued": false,
+        "location": "Lakewood, California, USA"
+    },
+    "Aloha Joe's Christmas Radio": {
+        "website": "http://alohajoechristmas.com",
+        "stream": "http://s9.voscast.com:8322/;stream1675906843202/1",
+        "genres": [
+            "holiday",
+            "hawaiian",
+            "local"
+        ],
+        "description": "Aloha Joe's Christmas Radio features seasonal favorites performed in English & Hawaiian by artists from Hawaii! - MELE KALIKIMAKA",
+        "discontinued": false,
+        "location": "Lakewood, California, USA"
+    },
+    "Slack Key Island Radio": {
+        "website": "http://slackkeyisland.com",
+        "stream": "http://s3.voscast.com:8144/;stream1675906844950/1",
+        "genres": [
+            "guitar",
+            "instrumental",
+            "relaxing",
+            "hawaiian",
+            "tropical"
+        ],
+        "description": "Slack Key Island features Hawaii's best guitar virtusos. RELAX & ENJOY the sounds of the Islands.",
+        "discontinued": false,
+        "location": "Lakewood, California, USA"
+    },
+    "Steel Guitar Island Radio": {
+        "website": "http://steelguitarisland.com",
+        "stream": "http://s10.voscast.com:8324/;stream1675906845403/1",
+        "genres": [
+            "guitar",
+            "oldies",
+            "hawaiian",
+            "tropical"
+        ],
+        "description": "Aloha Joe's Steel Guitar Island features Hawaiian steel players doing what they do best - playing the sounds of \"old Hawaii.\"",
+        "discontinued": false,
+        "location": "Lakewood, California, USA"
+    },
+    "Code Radio": {
+        "website": "https://coderadio.freecodecamp.org",
+        "stream": "https://coderadio-admin.freecodecamp.org/radio/8010/radio.mp3",
+        "genres": [
+            "ambient"
+        ],
+        "description": "24/7 music designed for coding.",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA"
+    },
+    "Geek Life Radio": {
+        "website": "https://www.geekliferadio.com",
+        "stream": "https://stream.radiojar.com/4qe8m62pa8zuv",
+        "genres": [
+            "geek",
+            "rock",
+            "variety",
+            "video game music",
+            "talk"
+        ],
+        "description": "#1 Source for \"Geek Life\" audio. We bring you the best in Geek audio from around the world! Geek Life Radio stream consists of independent nerdcore and geeks rock music and two talk shows daily.",
+        "discontinued": false,
+        "location": "Racine, Ohio, USA"
+    },
+    "90.7 WMFE Classical": {
+        "website": "https://www.wmfe.org",
+        "stream": "https://wmfe-iad.streamguys1.com/wmfe2",
+        "genres": [
+            "classical",
+            "public"
+        ],
+        "description": "Classical music for Central FL",
+        "discontinued": false,
+        "location": "Orlando, Florida, USA"
+    },
+    "90.7 WMFE News": {
+        "website": "https://www.wmfe.org",
+        "stream": "https://wmfe-iad.streamguys1.com/wmfe",
+        "genres": [
+            "news",
+            "talk",
+            "public"
+        ],
+        "description": "90.7 WMFE is a non-profit, member-supported, community-based public broadcasting company that operates 90.7 News WMFE-FM, metro Orlando's primary provider of NPR programming; and 90.7-2 Classical. Part of the community since 1965, WMFE focuses on providing quality national and local news and programming.",
+        "discontinued": false,
+        "location": "Orlando, Florida, USA"
+    },
+    "89.5 WMFV News": {
+        "website": "https://www.wmfe.org",
+        "stream": "https://wmfe-iad.streamguys1.com/wmfv",
+        "genres": [
+            "news",
+            "talk",
+            "public"
+        ],
+        "description": "Trusted news for The Villages, Ocala and surrounding counties.",
+        "discontinued": false,
+        "location": "The Villages, Florida, USA"
+    },
+    "Red River Radio HD2 All Classical": {
+        "website": "https://www.redriverradio.org",
+        "stream": "https://26303.live.streamtheworld.com/KDAQHD2.mp3",
+        "genres": [
+            "classical",
+            "news",
+            "talk",
+            "public"
+        ],
+        "description": "24 hours a day of classical music.",
+        "discontinued": false,
+        "location": "Shreveport, Louisiana, USA"
+    },
+    "Red River Radio Main Channel": {
+        "website": "https://www.redriverradio.org",
+        "stream": "https://26303.live.streamtheworld.com/KDAQFM.mp3",
+        "genres": [
+            "news",
+            "talk",
+            "public",
+            "jazz",
+            "entertainment",
+            "classical",
+            "blues"
+        ],
+        "description": "Red River Radio is a community-supported service of LSU-Shreveport and is the non-commercial source for NPR News, classical music, jazz, blues and more for East Texas, Louisiana, Arkansas and parts of Mississippi.",
+        "discontinued": false,
+        "location": "Shreveport, Louisiana, USA"
+    },
+    "Red River Radio HD3 News/Talk": {
+        "website": "https://www.redriverradio.org",
+        "stream": "https://26303.live.streamtheworld.com/KDAQHD3.mp3",
+        "genres": [
+            "news",
+            "talk",
+            "public"
+        ],
+        "description": "24 hours a day of news and talk.",
+        "discontinued": false,
+        "location": "Shreveport, Louisiana, USA"
+    },
+    "All Piano Radio": {
+        "website": "https://allpianoradio.jimdofree.com",
+        "stream": "http://streamingp.shoutcast.com/JamendoLounge",
+        "genres": [
+            "piano",
+            "instrumental",
+            "classical",
+            "french",
+            "variety"
+        ],
+        "description": "A radio that broadcasts songs on the piano 24 hours a day. Genres includes rock, jazz, slam, soul, ballad, etc. We scan as many styles as possible, without any talk!",
+        "discontinued": false,
+        "location": "Grenoble, France"
     }
 }

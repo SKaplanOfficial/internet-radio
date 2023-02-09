@@ -108,6 +108,14 @@
 - [FunCast4U](https://fastcast4u.com/radio-directory)
 - [Truck Simulator Radio Stations Wiki](https://truck-simulator.fandom.com/wiki/Radio_Stations)
 - [GTA Radio Stations Wiki](https://gta.fandom.com/wiki/Radio_Stations)
+- [High Resolution Audio Streams](https://www.hiresaudio.online/cd-quality-internet-radio/)
+- [List of Internet Radio Stations](http://www.93coolfm.com/List_Internet_Radio_Stations.htm)
+- [iTunes Internet Radio Stations](https://samsoft.org.uk/iTunes/InternetRadio.asp)
+- [Truck Simulator Internet Radio Stations List](https://steamcommunity.com/app/270880/discussions/0/412447331648857631?l=turkish)
+- [All Online Radio](https://www.allonlineradio.com)
+- [Best Radio](https://bestradio.fm)
+- [PEA.FM](https://pea.fm)
+- [CLOVER.FM](http://clover.fm)
 
 ## Region-Specific Directories
 ### Arabia
@@ -124,6 +132,9 @@
 - [Brien's Caribbean Radio Guide](https://caribbean-radio.com)
 - [CARIBBEAN CHRISTIAN RADIO](https://caribbean.injesushands.org/list-of-islands/anguilla/)
 
+### Europe
+- [internetradio streams & webadressen](https://www.hendrikjansen.nl/henk/streaming.html)
+
 ### ExYu
 - [Radio Stanice](http://www.radiostanice.org)
 
@@ -131,6 +142,9 @@
 - [CXRadio](https://cxradio.com.br)
 - [Rádios Online](http://radiosonline.com.br)
 - [Zona Latina](http://www.zonalatina.com/Radio.htm)
+
+### Pacific
+- [Pacific-Asian Radio Log](https://www.radioheritage.com/palsearch/)
 
 ## Country-Specific Directories
 
@@ -146,6 +160,8 @@
 - [Live Radio AU](https://liveradioau.com)
 - [Australian Radio](https://australian-radio.com)
 - [Australia FM](https://australiafm.net)
+- [The Australian Radio Guide](https://www.radioheritage.com/ozrg/)
+- [Australian Radio Station Lists](https://www.radioheritage.com/australian-radio-station-lists/)
 
 ### Austria
 - [Radio Austria](https://www.radio-osterreich.at)
@@ -183,6 +199,7 @@
 - [Radio Canada](https://www.radio-canada-online.com)
 - [Online Radio Canada](https://online-radio-canada.com)
 - [All Radio Canada](https://allradiocanada.com)
+- [All Canada Radio Station](http://allcanadaradiostation.e-monsite.com)
 
 ### Chile
 - [Radio Chile](https://www.radios-chilenas.com)
@@ -223,6 +240,7 @@
 
 ### Dominican Republic
 - [Radio Dominican Republic](https://www.radio-dominicana.com)
+- [Dominican Republic Directory News and Media Dominican Radio Online Radio](https://www.dd.com.do/news-and-media/dominican-radio/online-radio/index5.html)
 
 ### Ecuador
 - [Radio-Ecuador.org](https://www.radio-ecuador.org)
@@ -339,6 +357,9 @@
 ### Morocco
 - [Radio Morocco](https://www.radio-maroc.org)
 
+### Nepal
+- [Directory of FM and Radio Stations](https://www.directoryofnepal.com/category.php?minorid=682&minorname=FM+and+Radio+Stations&submajorid=207&submajorname=Media+%26+Entertainment#show)
+
 ### Netherlands
 - [Radio Netherlands](https://www.radio-nederland.nl)
 - [Radio Luisteren Live](https://radioluisteren.live)
@@ -359,6 +380,7 @@
 
 ### New Zealand
 - [Radio New Zealand](https://www.radio-new-zealand.co.nz)
+- [The New Zealand Radio Guide](https://www.radioheritage.com/nzrg/)
 
 ### Nicaragua
 - [Radio Nicaragua](https://www.radiosdenicaragua.org)
@@ -483,13 +505,18 @@
 - [RadioStationUSA](https://radiostationusa.fm)
 - [NADB](https://thenadb.org/nadb-directory)
 - [Internet Radio Callsign Search](https://iruc.org/public_db/search.shtml)
+- [Radio Stations Online Only In Texas](https://gov.texas.gov/Apps/Music/Directory/results/online-radio-stations-streaming-stations/p1)
+- [All USA Radio Station](http://allusaradiostation.e-monsite.com)
 
 #### Puerto Rico
 - [Radio Puerto Rico](https://www.emisoras-puertorico.com)
 - [Radio En Puerto Rico](http://radioenpuertorico.com)
 
 #### Topic-Specific
+
+##### Weather
 - [NOAA Weather Radio](https://noaaweatherradio.org)
+- [Radio2way Weather](http://www.radio2way.net/wxradio.php)
 
 ### Uruguay
 - [Radio Uruguay](https://www.radios-uruguay.com)
@@ -515,6 +542,10 @@
 ### Grassroots
 - [Grassroots Music Network](https://grassrootsmusicnetwork.org/topics/list-of-radio-stations-and-shows-supporting-independent-music-and-emerging-artists/)
 
+### Haitian
+- [Haitian Radio Stations by Country](https://www.bonpounou.com/radioguide.html)
+- [List of Haitian Radio Program](http://www.publitel.com/misc/radio.htm)
+
 ### Holiday
 
 #### Christmas
@@ -525,6 +556,7 @@
 - [JazzWeek Station Directory](https://www.jazzweek.com/station-directory/)
 - [Jazz Oasis](http://www.jazzoasis.com/listen.htm)
 - [Smooth Jazz Florida](https://smoothjazzflorida.com)
+- [Nighttown’s List of Jazz on Radio & the Internet](https://web.archive.org/web/20210223153348/http://www.jwpjazz.com/Nighttown_Radio_List.pdf)
 
 ### Opera
 - [Operacast](http://www.operacast.com/opstations.htm)
@@ -532,8 +564,14 @@
 ## Public
 - [Public Radio Fan](http://www.publicradiofan.com)
 
+## Rock
+- [Classic Rock Radio Station Directory](https://www.liveabout.com/radio-station-directory-748186)
+
 ### Underground
 - [Underground Radio Directory](https://www.undergroundradiodirectory.com/stations)
+
+## GitHub Repositories
+- [yunusdgntr/radio-online-json-url](https://github.com/yunusdgntr/radio-online-json-url)
 
 ## Other
 - [World Flute Society](https://www.worldflutesociety.org/online-radio-programs)
