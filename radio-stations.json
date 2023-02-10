@@ -6950,7 +6950,8 @@
         "genres": [
             "news",
             "talk",
-            "community"
+            "community",
+            "itaukei"
         ],
         "description": "Radio Fiji One (Domoiviti) is the National Broadcaster in Fiji for the iTaukei (Fijian) language broadcasting",
         "discontinued": false
@@ -9765,7 +9766,7 @@
         ],
         "description": "The Breath Of Aloha (HULA) is a Internet Radio Station programming light adult contemporary hits and the beauty of Hawaii for our listeners throughout the world.",
         "discontinued": false,
-        "location": ""
+        "location": "Hilo, Hawaii, United States"
     },
     "Aloha Joe Radio": {
         "website": "http://player.warpradio.com/alohajoe/",
@@ -9779,7 +9780,7 @@
         "discontinued": false,
         "location": "Lakewood, California, USA"
     },
-    "Relxation Island Radio": {
+    "Aloha Joe's Relxation Island Radio": {
         "website": "http://relaxation-island.com",
         "stream": "http://s2.voscast.com:7932/;stream1675906907278/1",
         "genres": [
@@ -9803,7 +9804,7 @@
         "discontinued": false,
         "location": "Ventura, California, USA"
     },
-    "Pacific Jazz Radio": {
+    "Aloha Joe's Pacific Jazz Radio": {
         "website": "http://pacificjaz.com",
         "stream": "http://s8.voscast.com:8032/;stream1675906839785/1",
         "genres": [
@@ -9813,7 +9814,7 @@
         "discontinued": false,
         "location": "Lakewood, California, USA"
     },
-    "Tiki Radio": {
+    "Aloha Joe's Tiki Radio": {
         "website": "http://tikiradio.com",
         "stream": "http://s2.voscast.com:9120/;stream1675906842025/1",
         "genres": [
@@ -9837,7 +9838,7 @@
         "discontinued": false,
         "location": "Lakewood, California, USA"
     },
-    "Slack Key Island Radio": {
+    "Aloha Joe's Slack Key Island Radio": {
         "website": "http://slackkeyisland.com",
         "stream": "http://s3.voscast.com:8144/;stream1675906844950/1",
         "genres": [
@@ -9851,7 +9852,7 @@
         "discontinued": false,
         "location": "Lakewood, California, USA"
     },
-    "Steel Guitar Island Radio": {
+    "Aloha Joe's Steel Guitar Island Radio": {
         "website": "http://steelguitarisland.com",
         "stream": "http://s10.voscast.com:8324/;stream1675906845403/1",
         "genres": [
@@ -9923,7 +9924,7 @@
         "discontinued": false,
         "location": "The Villages, Florida, USA"
     },
-    "Red River Radio HD2 All Classical": {
+    "KDAQ Red River Radio HD2 All Classical": {
         "website": "https://www.redriverradio.org",
         "stream": "https://26303.live.streamtheworld.com/KDAQHD2.mp3",
         "genres": [
@@ -9936,7 +9937,7 @@
         "discontinued": false,
         "location": "Shreveport, Louisiana, USA"
     },
-    "Red River Radio Main Channel": {
+    "KDAQ Red River Radio Main Channel": {
         "website": "https://www.redriverradio.org",
         "stream": "https://26303.live.streamtheworld.com/KDAQFM.mp3",
         "genres": [
@@ -9952,7 +9953,7 @@
         "discontinued": false,
         "location": "Shreveport, Louisiana, USA"
     },
-    "Red River Radio HD3 News/Talk": {
+    "KDAQ Red River Radio HD3 News/Talk": {
         "website": "https://www.redriverradio.org",
         "stream": "https://26303.live.streamtheworld.com/KDAQHD3.mp3",
         "genres": [
@@ -9977,5 +9978,699 @@
         "description": "A radio that broadcasts songs on the piano 24 hours a day. Genres includes rock, jazz, slam, soul, ballad, etc. We scan as many styles as possible, without any talk!",
         "discontinued": false,
         "location": "Grenoble, France"
+    },
+    "CJPX Radio Classique Montreal 99.5 FM": {
+        "website": "https://www.radioclassique.ca",
+        "stream": "https://listen.radioking.com/radio/228241/stream/271810",
+        "genres": [
+            "classical",
+            "french"
+        ],
+        "description": "Broadcasting classical music 24 hours a day.",
+        "discontinued": false,
+        "location": "Montreal, Quebec, Canada"
+    },
+    "CJPX Radio Classique Québec 92.7 FM": {
+        "website": "https://www.radioclassique.ca",
+        "stream": "https://listen.radioking.com/radio/256885/stream/301510",
+        "genres": [
+            "classical",
+            "french"
+        ],
+        "description": "Broadcasting classical music 24 hours a day.",
+        "discontinued": false,
+        "location": "Quebec City, Quebec, Canada"
+    },
+    "Radio Canal Tropical": {
+        "website": "https://radiocanaltropical.blogspot.com",
+        "stream": "https://canaltropical.radioca.st/stream",
+        "genres": [
+            "tropical",
+            "latin",
+            "salsa",
+            "variety",
+            "world",
+            "spanish"
+        ],
+        "description": "Music from Ecuador and the world",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Coral FM 96.7": {
+        "website": "https://radiocoralfm967.blogspot.com",
+        "stream": "https://stream.zeno.fm/7yetzvv8sm0uv",
+        "genres": [
+            "latin",
+            "folk",
+            "local",
+            "spanish",
+            "top 40"
+        ],
+        "description": "This radio is very entertaining and are you looking for a radio that will start your day and night with masterfully produced musical programs where each and every tracks are chosen according to the time and preference of their listeners. Coral FM 96.7 is that radio for you that will make you happy everyday.",
+        "discontinued": false,
+        "location": "Viacha, La Paz, Bolivia"
+    },
+    "ElectroDanceWorld Radio": {
+        "website": "https://beacons.ai/electrodanceworldradio",
+        "stream": "https://stream-55.zeno.fm/s70bvdgqks8uv",
+        "genres": [
+            "electronic",
+            "new artists",
+            "dance",
+            "house",
+            "experimental",
+            "dubstep"
+        ],
+        "description": "Enjoy the best electronic music. We are an independent Radio in operation since 2014, with more than +11,000 followers and with the main mission of making known and bringing electronic music in all its variants to the largest number of people internationally and supporting new artists, emerging talents, record labels and producers. ",
+        "discontinued": false,
+        "location": "Madrid, Spain"
+    },
+    "Shonan Beach FM 78.9": {
+        "website": "https://www.beachfm.co.jp",
+        "stream": "http://150.95.174.29:8000/by_the_sea",
+        "genres": [
+            "jazz",
+            "oldies",
+            "hits",
+            "contemporary",
+            "tropical",
+            "variety"
+        ],
+        "description": "A community broadcasting station covering the Shonan area, centered on Hayama Town, Zushi City, and Kamakura City in Kanagawa Prefecture. With a music-centered programming that mixes oldies, island music, etc., with a focus on jazz, you can leave it on with confidence. The representative of the station is Mr. Taro Kimura, an international journalist.",
+        "discontinued": false,
+        "location": "Zushi, Kanagawa, Japan"
+    },
+    "KOKO 96.3 FM": {
+        "website": "https://www.kokolp.org",
+        "stream": "https://s2.yesstreaming.net:17031/stream",
+        "genres": [
+            "hawaiian",
+            "local",
+            "culture"
+        ],
+        "description": "Hana's Own Hawaiian Music Radio Station. Broadcasting in Hana Town and Streaming Worldwide. Commercial-Free Hawaiian Music 24/7",
+        "discontinued": false,
+        "location": "Hana Town, Mauai, Hawaii, USA"
+    },
+    "KFMN 96.9": {
+        "website": "https://kauaifm97.com",
+        "stream": "http://crystalout.surfernetwork.com:8001/KFMN-FM_MP3",
+        "genres": [
+            "local",
+            "hawaiian",
+            "hits",
+            "contemporary",
+            "community"
+        ],
+        "description": "FM97 is locally owned and operated by residents who live on the island and broadcasts 100,000 watts of power at 96.9 on the FM dial. It is the only station with island-wide coverage, heard in every community on Kaua'i plus several areas of greater Oahu.",
+        "discontinued": false,
+        "location": "Lihue, Kaua'i, Hawaii, USA"
+    },
+    "KKCR Kaua'i Community Radio": {
+        "website": "https://www.kkcr.org",
+        "stream": "https://s8.phx.icastcenter.com:9000/stream#.mp3",
+        "genres": [
+            "hawaiian",
+            "reggae",
+            "rock",
+            "jazz",
+            "community"
+        ],
+        "description": "KKCR is Kaua'i's independent, non-commercial, listener-supported community radio station.",
+        "discontinued": false,
+        "location": "Hanalei, Kaua'i, Hawaii, USA"
+    },
+    "TikiPod Radio": {
+        "website": "http://tikipod.net",
+        "stream": "https://igor.torontocast.com:1265/stream",
+        "genres": [
+            "tropical",
+            "reggae",
+            "caribbean",
+            "hawaiian"
+        ],
+        "description": "TikiPod Radio is an online radio station that features a unique blend of island music, including Jimmy Buffett, Trop Rock, Reggae, Hawaiian, Soca and more. Make TikiPod Radio your destination for a tropical escape and \"Get Away To The Island Side Of Life.\"",
+        "discontinued": false,
+        "location": "Chicago, Illinois, USA"
+    },
+    "KCNE Nebraska Public Media HD 1": {
+        "website": "https://nebraskapublicmedia.org/en/listen/live/",
+        "stream": "https://25053.live.streamtheworld.com/KUCVFM.mp3",
+        "genres": [
+            "classical",
+            "news",
+            "talk",
+            "public",
+            "community",
+            "sports"
+        ],
+        "description": "Nebraska Public Media has been dedicated to connecting Nebraskans through news, sports, education and entertainment for nearly 70 years. Providing global news and compelling stories from PBS and NPR, Nebraska Public Media also produces award-winning original content. Its programs and services reach 1 million people each month across the state on television, radio, online and mobile platforms.",
+        "discontinued": false,
+        "location": "Chadron, Nebraska, USA"
+    },
+    "KCNE Nebraska Public Media HD 2": {
+        "website": "https://nebraskapublicmedia.org/en/listen/live-hd2/",
+        "stream": "https://25053.live.streamtheworld.com/KUCVHD2.mp3",
+        "genres": [
+            "jazz",
+            "news",
+            "talk",
+            "public",
+            "community",
+            "sports"
+        ],
+        "description": "Nebraska Public Media has been dedicated to connecting Nebraskans through news, sports, education and entertainment for nearly 70 years. Providing global news and compelling stories from PBS and NPR, Nebraska Public Media also produces award-winning original content. Its programs and services reach 1 million people each month across the state on television, radio, online and mobile platforms.",
+        "discontinued": false,
+        "location": "Chadron, Nebraska, USA"
+    },
+    "Linn Radio": {
+        "website": "https://www.linn.co.uk/linn-radio",
+        "stream": "http://radio.linn.co.uk:8003/autodj",
+        "genres": [
+            "classical",
+            "jazz",
+            "hits"
+        ],
+        "description": "Linn radio will get the latest tracks from the best jazz and classical pieces from its Label Linn Records into its program.",
+        "discontinued": false,
+        "location": "Glasgow, Scotland, United Kingdom"
+    },
+    "Linn Radio Classical": {
+        "website": "https://www.linn.co.uk/linn-radio",
+        "stream": "http://radio.linn.co.uk:8004/autodj",
+        "genres": [
+            "classical"
+        ],
+        "description": "The Linn Classical radio station collects and celebrates award winning musical pieces by the label Linn Records to share with the web.",
+        "discontinued": false,
+        "location": "Glasgow, Scotland, United Kingdom"
+    },
+    "Linn Radio Jazz": {
+        "website": "https://www.linn.co.uk/linn-radio",
+        "stream": "http://radio.linn.co.uk:8000/autodj",
+        "genres": [
+            "jazz",
+            "classics",
+            "hits"
+        ],
+        "description": "The successful Label Linn Records presents on this online radio station its best jazz material, with new interpretations, the classics and original versions.",
+        "discontinued": false,
+        "location": "Glasgow, Scotland, United Kingdom"
+    },
+    "Italy Classical Radio": {
+        "website": "https://www.italyclassicalradio.it",
+        "stream": "https://giosa.radioca.st/stream",
+        "genres": [
+            "classical",
+            "new artists",
+            "italian",
+            "classics"
+        ],
+        "description": "The first web radio in the world that broadcasts only Italian authors. Programming includes concerts of known authors as well as lesser known authors of great artistic value.",
+        "discontinued": false,
+        "location": "Bari, Puglia, Italy"
+    },
+    "BR-KLASSIK": {
+        "website": "https://www.br-klassik.de",
+        "stream": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+        "genres": [
+            "classical",
+            "orchestral",
+            "german"
+        ],
+        "description": "BR-KLASSIK is the classical music program of Bavarian Radio. The Bavarian Broadcasting Corporation presents its offerings in the field of classical music daily between 6 a.m. and midnight. The rest of the time, the ARD-Night concert is broadcast, which has been produced exclusively by BR-Klassik since July 4, 2011.",
+        "discontinued": false,
+        "location": "Munich, Germany"
+    },
+    "WLRN-FM NPR News": {
+        "website": "https://www.wlrn.org",
+        "stream": "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnfmaac-imc1",
+        "genres": [
+            "news",
+            "talk",
+            "classical",
+            "jazz",
+            "public",
+            "community",
+            "education"
+        ],
+        "description": "South Florida's NPR and PBS station. WLRN is a trusted public media organization in South Florida comprised of a television and a radio station, cable services, and closed-circuit educational channels.",
+        "discontinued": false,
+        "location": "Miami, Florida, USA"
+    },
+    "WLRN-FM Classical": {
+        "website": "",
+        "stream": "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1",
+        "genres": [
+            "classical"
+        ],
+        "description": "South Florida's public classical radio station.",
+        "discontinued": false,
+        "location": "Miami, Florida, USA"
+    },
+    "WDAV 89.9 FM Concierto": {
+        "website": "https://www.wdav.org",
+        "stream": "https://audio-mp3.ibiblio.org/concierto",
+        "genres": [
+            "public",
+            "classical",
+            "orchestral",
+            "latin"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Davidson, North Carolina, USA"
+    },
+    "WDAV 89.9 FM Classical Public Radio": {
+        "website": "https://www.wdav.org",
+        "stream": "https://audio-mp3.ibiblio.org/wdav-112k",
+        "genres": [
+            "classical",
+            "public",
+            "culture",
+            "spanish",
+            "latin"
+        ],
+        "description": "WDAV 89.9, a service of Davidson College and licensed to the Trustees of Davidson College, is a member-supported public radio station providing classical music and cultural arts programming 24 hours each day.",
+        "discontinued": false,
+        "location": "Huntersville, North Carolina, USA"
+    },
+    "KUCI 89.9 FM": {
+        "website": "https://kuci.org",
+        "stream": "http://streamer.kuci.org:8000/high",
+        "genres": [
+            "college",
+            "community",
+            "freeform",
+            "variety",
+            "sports",
+            "news",
+            "talk",
+            "world"
+        ],
+        "description": "KUCI 88.9 fm is an all-volunteer, non-profit radio station broadcasting freeform radio from the University of California at Irvine 24 hours a day.  You can tune in to all genres of underground music accented with news, sports and alternative informational programming.",
+        "discontinued": false,
+        "location": "Irvine, California, USA"
+    },
+    "103.4 FM Radio Sargam": {
+        "website": "https://radiosargam.com.fj",
+        "stream": "https://stream.fijivillage.com/radiosargam",
+        "genres": [
+            "hindi",
+            "pop",
+            "news",
+            "talk",
+            "sports",
+            "top 40",
+            "community"
+        ],
+        "description": "Radio Sargam is a commercial, private owned Hindi FM radio station in Fiji. It is owned by the Communications Fiji Limited (CFL).",
+        "discontinued": false,
+        "location": "Suva, Fiji"
+    },
+    "98.8 FM Radio Navtarang": {
+        "website": "https://navtarang.com.fj",
+        "stream": "https://stream.fijivillage.com/navtarang?",
+        "genres": [
+            "bollywood",
+            "hindi",
+            "comedy",
+            "variety"
+        ],
+        "description": "Navtarang is a Fiji based radio station which broadcasts in Hindustani, aimed at the Indo-Fijian market and is the dominant radio station in this lucrative advertising market. This station opened September 15th 1989.",
+        "discontinued": false,
+        "location": "Suva, Fiji"
+    },
+    "92.0 Viti FM": {
+        "website": "https://vitifm.com.fj",
+        "stream": "https://stream.fijivillage.com/vitifm",
+        "genres": [
+            "pop",
+            "news",
+            "talk",
+            "top 40",
+            "itaukei",
+            "hits",
+            "country",
+            "reggae"
+        ],
+        "description": "VitiFM is Communications Fiji Limited's Fijian language radio station VITIFM FM was developed in 2006 with the sole purpose of targeting traditional Fijian market to westernized Fijian market as well. VITIFM plays Fijian Hit songs coupled with Country and western and also caters for Raggae music lovers out there. VITIFM FM features a strong line up of more mature personalities yet the essence of being a \"fun radio\" is always there.",
+        "discontinued": false,
+        "location": "Suva, Fiji"
+    },
+    "106.8 Legend FM": {
+        "website": "https://legendfm.com.fj",
+        "stream": "https://stream.fijivillage.com/legendfm",
+        "genres": [
+            "R&B",
+            "pop",
+            "news",
+            "top 40",
+            "sports",
+            "talk",
+            "world",
+            "hits"
+        ],
+        "description": "Legend FM plays the songs you know, love and singalong to. From the Legends of the 80s to the artists today making waves we've got them! International artists and our local singers, they're all here on LegendFM!",
+        "discontinued": false,
+        "location": "Suva, Fiji"
+    },
+    "101.1 Legend FM": {
+        "website": "https://legendfm.net",
+        "stream": "https://18253.live.streamtheworld.com/PNGLEGENDFM.mp3",
+        "genres": [
+            "news",
+            "local",
+            "hits",
+            "classics",
+            "contemporary"
+        ],
+        "description": "Legend FM is the leading adult contemporary station in Papua New Guinea. Legend FM is a combination of the biggest hits, nostalgic moments & up-to-date local news; reliving the good times yet staying on top of things.",
+        "discontinued": false,
+        "location": "Port Moresby, Papua Nw Guinea"
+    },
+    "96.2 FM96": {
+        "website": "https://fm96.com.fj",
+        "stream": "https://stream.fijivillage.com/fm96",
+        "genres": [
+            "local",
+            "new artists",
+            "variety",
+            "hits",
+            "news",
+            "sports"
+        ],
+        "description": "Focuses on a core audiences of westernized listeners under 25 years. The music selection runs from 1999 until present. It plays a selection of RnB, hip-hop, rock, rap, pop, dance music and reggae. The station is a major supporter of local music in Fiji promoting up and coming local musicians and their work on our station and also holding numerous events promoting Homegrown Music. FM96 is also the only radio station in Fiji that carries AT40 with Ryan Seacrest",
+        "discontinued": false,
+        "location": "Suva, Fiji"
+    },
+    "96.5 NAU FM": {
+        "website": "https://naufm.net",
+        "stream": "https://14993.live.streamtheworld.com/NAUFM.mp3",
+        "genres": [
+            "local",
+            "contemporary",
+            "hits",
+            "world",
+            "rock",
+            "pop",
+            "top 40"
+        ],
+        "description": "Nau FM targets a westernized urban under 25 market playing the latest global and local hits . This is a high energy trend setting station that has consistently dominated its target market. The Tebbutt Media Survey 2019 rated the station number two in PNG reaching 34% of the market over a 30 day period.",
+        "discontinued": false,
+        "location": "Port Moresby, Papua Nw Guinea"
+    },
+    "93.0 Yumi FM": {
+        "website": "https://yumifm.net",
+        "stream": "https://19813.live.streamtheworld.com/YUMIFM.mp3",
+        "genres": [
+            "hits",
+            "pop",
+            "tok pisin",
+            "news"
+        ],
+        "description": "PNG's No.1 Tokpisin station",
+        "discontinued": false,
+        "location": "Port Moresby, Papua Nw Guinea"
+    },
+    "93.8 Mix FM": {
+        "website": "https://mix.com.fj",
+        "stream": "https://azuracast.fijiradio.net/listen/mixfm/live",
+        "genres": [
+            "hits",
+            "classics",
+            "oldies",
+            "pop",
+            "top 40"
+        ],
+        "description": "Mix FM is all about you and the music. We provide \"Fiji's Best Mix\" of music from the 50s through to some of the great hits of today. We choose the best so you don't have to! We're all about YOU.",
+        "discontinued": false,
+        "location": "Lautoka, Fiji"
+    },
+    "Ancient FM": {
+        "website": "https://www.ancientfm.com",
+        "stream": "https://mediaserv73.live-streams.nl:18058/stream",
+        "genres": [
+            "classical",
+            "medieval",
+            "renaissance"
+        ],
+        "description": "Listener-supported early music station broadcasting 24 hours a day commercial-free. Programming includes music from the medieval and renaissance periods.",
+        "discontinued": false,
+        "location": "Kingston, Ontario, Canada"
+    },
+    "Radio Symphony": {
+        "website": "https://www.radiosymphony.com",
+        "stream": "https://streaming.radiostreamlive.com/radiosymphony_devices",
+        "genres": [
+            "classical"
+        ],
+        "description": "From the very heart of Manhattan in New York City, \"the World's classical radio\".",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Ah!WorldMusic!": {
+        "website": "https://www.ahworldmusic.org",
+        "stream": "https://usa1.fastcast4u.com/proxy/lzayxsqp?mp=/1",
+        "genres": [
+            "world",
+            "blues",
+            "blues",
+            "reggae",
+            "salsa",
+            "variety"
+        ],
+        "description": "Non comercial radio station with world music and free spirit!",
+        "discontinued": false,
+        "location": "Queretaro, Mexico"
+    },
+    "Chiptune.Rocks": {
+        "website": "http://www.chiptune.rocks",
+        "stream": "http://www.chiptune.rocks/player.php",
+        "genres": [
+            "video game music",
+            "chiptune"
+        ],
+        "description": "A free Internet streaming station that celebrates the best of video game music mixed in with a helping of retro gaming commercials, trailers and promos.",
+        "discontinued": false,
+        "location": ""
+    },
+    "Ambiento Radio": {
+        "website": "http://ambientoradio.com",
+        "stream": "https://listen.openstream.co/2676/audio",
+        "genres": [
+            "ambient",
+            "lounge",
+            "house",
+            "chillout"
+        ],
+        "description": "Free online radio station that plays ambient, lounge and chillout genres of music, 24 hours a day.",
+        "discontinued": false,
+        "location": "Bucharest, Romania"
+    },
+    "Mondello Radio Group - 60Radio": {
+        "website": "https://radiostations.mrg.fm/60sradio_.html",
+        "stream": "https://str3.openstream.co/1823",
+        "genres": [
+            "60s"
+        ],
+        "description": "24/7 Only Music of The 60s!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - 70Radio": {
+        "website": "https://radiostations.mrg.fm/70sradio_.html",
+        "stream": "https://str3.openstream.co/1824",
+        "genres": [
+            "70s"
+        ],
+        "description": "24/7 Only Music of The 70s!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - 80Radio": {
+        "website": "https://radiostations.mrg.fm/80sradio_.html",
+        "stream": "https://str3.openstream.co/1828",
+        "genres": [
+            "80s"
+        ],
+        "description": "24/7 Only Music of The 80s!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - 90Radio": {
+        "website": "https://radiostations.mrg.fm/90sradio_.html",
+        "stream": "http://62.149.196.16:8050/listen.mp4",
+        "genres": [
+            "90s"
+        ],
+        "description": "24/7 Only Music of The 90s!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - AmbientRadio": {
+        "website": "https://radiostations.mrg.fm/ambientradio_.html",
+        "stream": "https://str3.openstream.co/1808",
+        "genres": [
+            "ambient",
+            "electronic",
+            "experimental"
+        ],
+        "description": "Only the Best Ambient, Electronic, Meditation, Experimental, Space, Psybient, Drone, Dark, New Age, Day-Dream and Downtempo Music!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - BluesRadio": {
+        "website": "https://radiostations.mrg.fm/bluesradio_.html",
+        "stream": "https://str3.openstream.co/1833",
+        "genres": [
+            "blues",
+            "R&b",
+            "soul",
+            "folk",
+            "indie",
+            "americana"
+        ],
+        "description": "We play 24/7 Country Blues, Chicago, New Orleans, Los Angelers, Texas, British Blues Music & Surroundings! We are a Zero-Revenue Group of Radio Stations.",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - ClassicalRadio": {
+        "website": "https://radiostations.mrg.fm/classicalradio_.html",
+        "stream": "https://str3.openstream.co/1032",
+        "genres": [
+            "classical"
+        ],
+        "description": "Enjoy listening to the masterpieces of Classical Music we handpicked for you!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - DroneRadio": {
+        "website": "https://radiostations.mrg.fm/droneradio_.html",
+        "stream": "https://str3.openstream.co/1835",
+        "genres": [
+            "ambient",
+            "downtempo",
+            "experimental"
+        ],
+        "description": "We play 24/7 Only the Best Ambient Drone Music",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - ItaliaRadio": {
+        "website": "https://radiostations.mrg.fm/italiaradio_.html",
+        "stream": "https://str3.openstream.co/1836",
+        "genres": [
+            "italian"
+        ],
+        "description": "We Play Handpicked Italian Music 24/7.",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - JazzRadio": {
+        "website": "https://radiostations.mrg.fm/jazzradio_.html",
+        "stream": "https://str3.openstream.co/1837",
+        "genres": [
+            "jazz",
+            "classics",
+            "contemporary"
+        ],
+        "description": "Jazz, Smooth and Cool Jazz, Classic Jazz, Nu-Jazz, Acid Jazz, J&B, Fusion, Jazzy Electro, Vintage Swing, Electro and Bossa Nova have found their home!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - LoungeRadio": {
+        "website": "https://radiostations.mrg.fm/loungeradio_.html",
+        "stream": "https://str3.openstream.co/1838",
+        "genres": [
+            "lounge",
+            "relaxing",
+            "chillout",
+            "ambient"
+        ],
+        "description": "At LoungeRadio, we only play the best lounge, relaxing, chill-out and soft ambient music.",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio": {
+        "website": "https://radiostations.mrg.fm/mondelloradio_.html",
+        "stream": "https://strw1.openstream.co/767",
+        "genres": [
+            "variety"
+        ],
+        "description": "We Play Only the best Music of the 14 Radio Stations of the Mondello Radio Group",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - OperaRadio": {
+        "website": "https://radiostations.mrg.fm/operaradio_.html",
+        "stream": "https://str3.openstream.co/1840",
+        "genres": [
+            "opera",
+            "orchestral"
+        ],
+        "description": "The greatest Opera recordings, performers, orchestras and conductors... 24 hours a day, 7 days a week",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - Planet Hip Hop": {
+        "website": "https://radiostations.mrg.fm/planethiphop_.html",
+        "stream": "https://str3.openstream.co/1841",
+        "genres": [
+            "hip hop",
+            "rap"
+        ],
+        "description": "Hip Hop isn't just music; it's a culture, or a lifestyle if you wish...",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - RockRadio": {
+        "website": "https://radiostations.mrg.fm/rockradio_.html",
+        "stream": "https://str3.openstream.co/1842",
+        "genres": [
+            "rock",
+            "classic rock",
+            "metal",
+            "psychedelic"
+        ],
+        "description": "Rock, Progressive Rock, Neo-Progressive Rock, Art Rock, Hypnotic Rock, Avantgarde Rock, Psychedelic Rock and Alternative Rock have found their home!",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Mondello Radio Group - Zero Beat Zone": {
+        "website": "https://radiostations.mrg.fm/zerobeatzone_.html",
+        "stream": "https://str3.openstream.co/1843",
+        "genres": [
+            "ambient",
+            "electronic",
+            "experimental"
+        ],
+        "description": "We Play Only The Best Zero Beat Ambient, Space, Meditation, Psybient, Electronic and Experimental Music.",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Radio Ambient 24": {
+        "website": "https://ambient24.com",
+        "stream": "https://stream-51.zeno.fm/khecx2ys2a2vv",
+        "genres": [
+            "ambient",
+            "original",
+            "relaxing"
+        ],
+        "description": "Original Ambient Music @ 432Hz",
+        "discontinued": false,
+        "location": "USA"
+    },
+    "The Kyoto Connection": {
+        "website": "https://www.thekyotoconnection.com/radio/",
+        "stream": "https://server.laradio.online:59009/live",
+        "genres": [
+            "japanese",
+            "ambient",
+            "instrumental"
+        ],
+        "description": "A carefully-selected curation of the best japanese ambient / environmental / instrumental / new age music. Welcome to a musical voyage of electronic ambients, beautiful melodies, and japanese sounds.",
+        "discontinued": false,
+        "location": ""
     }
 }
