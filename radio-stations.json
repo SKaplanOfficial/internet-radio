@@ -920,7 +920,7 @@
         "description": "",
         "discontinued": false
     },
-    "70 80 90 Italia D’autore": {
+    "70 80 90 Italia D'autore": {
         "website": "https://radiosuitenetwork.torontocast.stream/70-80-90-italia-dautore/",
         "stream": "https://maggie.torontocast.com:8118/stream",
         "genres": [
@@ -1337,9 +1337,10 @@
             "soundtracks"
         ],
         "description": "The largest classical music station in the EU with a unique program recipe for Germany, Austria and German-speaking Switzerland.",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
     },
-    "Klassic Radio - Beats Radio": {
+    "Klassik Radio - Beats Radio": {
         "website": "https://www.beatsradio.de",
         "stream": "https://live.streams.klassikradio.de/beats-radio",
         "genres": [
@@ -1348,7 +1349,8 @@
             "dance"
         ],
         "description": "A German national station for house, deep house, nu disco, dance and lounge music",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
     },
     "Klassik Radio - Movie Radio": {
         "website": "https://www.klassikradio.de",
@@ -1357,7 +1359,8 @@
             "soundtracks"
         ],
         "description": "A German national station for movie soundtracks.",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
     },
     "Klassik Radio - Choir": {
         "website": "https://www.klassikradio.de",
@@ -1366,7 +1369,8 @@
             "choir"
         ],
         "description": "A German national station for choir music.",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
     },
     "Klassik Radio - X-Mas Classics": {
         "website": "https://www.klassikradio.de",
@@ -1376,7 +1380,464 @@
             "classics"
         ],
         "description": "A German national station for Christmas music.",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Mozart": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/mozart/mp3-192",
+        "genres": [
+            "classical",
+            "piano"
+        ],
+        "description": "He is one of the most important artists of classical music: Wolfgang Amadeus Mozart. Klassik Radio presents the best of the composer in its own channel",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Feel Good Classic": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/feelgoodklassik/mp3-192",
+        "genres": [
+            "classical",
+            "happy"
+        ],
+        "description": "Classical music for joie de vivre, cheerful mood and love of life. Music like the first rays of sunshine in spring, simply good mood.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Bach": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/purebach/mp3-192",
+        "genres": [
+            "classical"
+        ],
+        "description": "The music of Johann Sebastian Bach is simply timeless. Klassik Radio has put together the composer's best pieces in one channel for you.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Beethoven": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/beethoven/mp3-192",
+        "genres": [
+            "classical"
+        ],
+        "description": "He is regarded as the perfector of Viennese Classicism and the forerunner of Romanticism: Ludwig van Beethoven. Klassik Radio presents its greatest pieces in its own channel - 24 hours a day, 7 days a week.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Piano": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/piano/mp3-192",
+        "genres": [
+            "classical",
+            "piano",
+            "instrumental"
+        ],
+        "description": "Upright piano, grand piano... in this channel of Klassik Radio, the keyboard instruments set the tone. From Ludovico Einaudi to Chilly Gonzales to Yiruma - let yourself be enchanted by our piano sounds.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Piano New Classics": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/pianonewclassics/mp3-192",
+        "genres": [
+            "classical",
+            "piano",
+            "instrumental",
+            "new artists"
+        ],
+        "description": "The songs from classical transform your party to life, when you tune into the station Klassik Radio - Piano New Classics.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Barock": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/barock/mp3-192",
+        "genres": [
+            "baroque",
+            "classical"
+        ],
+        "description": "Bach, Handel or Telemann - all the great composers of this unique musical epoch are represented in the Baroque Channel of Klassik Radio. Enjoy the best of early baroque, high baroque and late baroque without a break.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Easy Relax": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/relax/mp3-192",
+        "genres": [
+            "relaxing",
+            "chillout",
+            "ambient"
+        ],
+        "description": "Chillout music and music to relieve stress. Peaceful Ambient Music and Spa Relaxation. Music that calms the mind and helps harmonize body and soul. Also for relaxation and meditation.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Verdi": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/verdi/mp3-192",
+        "genres": [
+            "opera",
+            "classical"
+        ],
+        "description": "He became famous above all for his operas: Giuseppe Verdi. Klassik Radio dedicates a dedicated channel to the Italian composer with his best pieces: Verdi live around the clock.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Classic in the Morning": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/klassikammorgen/mp3-192",
+        "genres": [
+            "relaxing",
+            "classical"
+        ],
+        "description": "The perfect classical music for breakfast or morning espresso, while jogging or on the way to work. For a relaxed mood, good mood and the perfect start to the day.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Wine Evening": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/weinabend/mp3-192",
+        "genres": [
+            "classical"
+        ],
+        "description": "Vinophile sound experience for an unforgettable evening.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Classic Legends": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/legendenderklassik/mp3-192",
+        "genres": [
+            "classical",
+            "hits",
+            "classics"
+        ],
+        "description": "Classic radio chief presenter Holger Wemhoff shows the big world of classical music here. Opera stars and star soloists talk inside out and offer an exciting look behind the scenes of the big opera houses and into the classical music scene.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Cooking": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/klassikzumkochen/mp3-192",
+        "genres": [
+            "classical"
+        ],
+        "description": "The kitchen is a place of sensuality and joie de vivre. Klassik Radio presents \"Classic and Cooking\". A musical treat for gourmets! Spice up your dishes with the finest Bach, exquisite Handel, noble Mozart and powerful Tchaikovsky. We serve you a menu with 69 of the most tasteful classical titles on 4 CDs.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Classics For Kids": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/klassikfuerkinder/mp3-192",
+        "genres": [
+            "kids",
+            "classics"
+        ],
+        "description": "Music has an inspiring effect and also promotes creativity and intelligence. Discover our wonderful music selection for children with selected titles.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Movie Classics": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/filmklassiker/mp3-192",
+        "genres": [
+            "soundtracks",
+            "classics"
+        ],
+        "description": "Experience legendary film music and cult melodies from \"Casablanca\" to \"Gone with the Wind\".",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Mit Klassik Kindern Helfen": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/mit-klassik-kindern-helfen/mp3-192",
+        "genres": [
+            "lounge",
+            "relaxing",
+            "talk",
+            "community"
+        ],
+        "description": "Our transmitter for the German Children's Cancer Foundation. A lovingly designed program allows all helpers, families, friends and listeners to participate in current developments and the many life stories that encourage all year round. Relaxed music with the best that Klassik Radio has to offer, plus exciting, touching and informative interviews with sponsors, employees, major donors and those affected.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Classic Rock": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/klassikrock/mp3-192",
+        "genres": [
+            "rock",
+            "classic rock"
+        ],
+        "description": "A separate channel for all fans of classic rock - from AC/DC to Foreigner to Bruce Springsteen. If you like sophisticated rock music from the 60s to the present day, this is the place for you!",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - New Classics": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/newclassics/mp3-192",
+        "genres": [
+            "classical",
+            "new artists"
+        ],
+        "description": "With New Classics, classic radio has coined an independent term and taken it for itself. Modern classical pieces with artists such as Ludovico Einaudi or Karl Jenkins will thus have their own platform.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Healing Spirits": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/healing/mp3-192",
+        "genres": [
+            "relaxing",
+            "ambient",
+            "classical"
+        ],
+        "description": "Do you really want to relax and unwind? Then listen to the Healing Channel. Soothing sounds to switch off!",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - 60ies Bar Lounge": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/60iesbl/mp3-192",
+        "genres": [
+            "lounge",
+            "jazz",
+            "easy listening"
+        ],
+        "description": "Enjoy a special evening at home in the style of easy listening and light jazz of New York in the 1960s.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Classic Dreams": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/dreams/mp3-192",
+        "genres": [
+            "classical",
+            "soundtracks",
+            "new artists",
+            "variety",
+            "relaxing"
+        ],
+        "description": "Forget the stress of everyday life and sit back and relax with Klassik Dreams - here we present the best pieces from classical music, film music and new classics to relax and enjoy.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Musical Hits": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/musical/mp3-192",
+        "genres": [
+            "musical",
+            "hits",
+            "classics"
+        ],
+        "description": "Hits from the greatest musicals.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Opera": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/opera/mp3-192",
+        "genres": [
+            "opera"
+        ],
+        "description": "Drama, passion and great arias! Compiled personally by star tenor Rolando Villazón, you will find many selected pieces from the most beautiful and greatest operas and operettas in the world, from Wolfgang Amadeus Mozart to Giuseppe Verdi.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Lounge": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/lounge/mp3-192",
+        "genres": [
+            "lounge",
+            "classics"
+        ],
+        "description": "Schiller, DJ Nartak, Lichtmond... on the Klassik Radio lounge channel you can hear relaxed lounge sounds mixed by the great Klassik Radio DJs.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Lounge Beat": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/lounge-beat/mp3-192",
+        "genres": [
+            "lounge",
+            "dance",
+            "beat"
+        ],
+        "description": "Relaxed lounge sounds paired with light dance beats - that's what classic radio lounge beat sounds like. Experience the mega stars of the scene such as B. Robin Schulz and Fritz Kalkbrenner non-stop on a radio station.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Schiller": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/schiller/mp3-192",
+        "genres": [
+            "lounge"
+        ],
+        "description": "He is one of the superstars of lounge music: Christopher von Deylen aka \"Schiller\". Klassik Radio now presents the sound artist's first own radio station. Enjoy non-stop lounge sound mixed by Schiller!",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Friends @ Home": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/friendshome/mp3-192",
+        "genres": [
+            "lounge",
+            "jazz",
+            "pop"
+        ],
+        "description": "Enjoy relaxed hours in good company with the right mix of jazz, lounge and pop. You can't really go wrong with this music in the evening.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Dinner Jazz": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/dinnerjazz/mp3-192",
+        "genres": [
+            "jazz"
+        ],
+        "description": "For a special evening with loved ones at home. Vocal and instrumental jazz in the style of dignified live entertainment in a classy restaurant. Current artists ensure an elegant atmosphere and a successful dinner evening.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Brazil Music": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/brazil/mp3-192",
+        "genres": [
+            "samba",
+            "latin",
+            "south american"
+        ],
+        "description": "Southern atmosphere, Samba, Bossanova, Latino sounds. Pure joie de vivre around the clock. This channel brings a light, lively summer mood into your living room and workplace - even when the sun isn't shining outside.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Movie Heroes": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/movieheroes/mp3-192",
+        "genres": [
+            "soundtracks",
+            "hits"
+        ],
+        "description": "The greatest film music of all time. The goosebump blockbusters of the 90s and 2000s. The hip series songs of the ultimate streaming hits and the mega soundtracks from 50 years of cinema.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Series Hits": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/serien/mp3-192",
+        "genres": [
+            "soundtracks",
+            "hits"
+        ],
+        "description": "The greatest hits from the successful series of streaming portals and TV. From Grey's Anatomy to House Of Cards, Homeland or The Sopranos. This channel brings you the signature, unforgettable musical moments from the greatest television series of all time.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Schiller Berlin": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/schiller-berlin/mp3-192",
+        "genres": [
+            "lounge",
+            "relaxing",
+            "ambient"
+        ],
+        "description": "The sound of the capital. Relaxed sounds, the rhythm of the metropolis and flowing melodies. Handpicked and personally remixed by Christopher von Deylen, the man behind the music project \"Schiller\". The heartbeat of Berlin in an exclusive mix.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Smooth Jazz": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/smooth/mp3-192",
+        "genres": [
+            "jazz",
+            "lounge",
+            "chillout",
+            "variety"
+        ],
+        "description": "Sometimes groovy, sometimes soft, but always completely relaxed: That's Klassik Radio Smooth. Relaxed sounds to chill out, lots of smooth jazz. With this high-quality music mix, a good mood is practically pre-programmed. From Incognito to Santana, from George Benson to Herb Alpert - all authentic music, timeless, handmade, with a lot of feeling. Immerse yourself in the relaxed world of sound of Classic Radio Smooth.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Gaming Music": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/games/mp3-192",
+        "genres": [
+            "video game music",
+            "soundtracks"
+        ],
+        "description": "Video games used to be accompanied by electronic noises. Today, complex soundtracks are produced that reach the level of film music. Klassik Radio presents these soundtracks to you in a separate channel.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Jean M. Jarre": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/jmjarre/mp3-192",
+        "genres": [
+            "electronic"
+        ],
+        "description": "Jean-Michel Jarre is one of the pioneers and unsurpassed masters of electronic music. You can hear its unique tones exclusively 24 hours a day, seven days a week.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Nature Sounds": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/nature/mp3-192",
+        "genres": [
+            "ambient",
+            "relaxing"
+        ],
+        "description": "The soundtrack of nature - worlds of sound from the depths of the rainforest, meditative sound of the sea, chirping crickets and warm open fire are the stars in our nature stream.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Rock Meets Classic": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/rockclassic/mp3-192",
+        "genres": [
+            "rock",
+            "classical",
+            "orchestral",
+            "instrumental"
+        ],
+        "description": "Rock music meets classic! Enjoy great hits of rock music performed by the best orchestras in the world! Of course, great soloists like David Garrett are also part of the party.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Vitality Classic": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/Vitality/mp3-192",
+        "genres": [
+            "relaxing",
+            "lounge",
+            "ambient"
+        ],
+        "description": "Music for relaxation and vitality. The sounds of this transmitter are said to have a healing effect, because they have a calming effect and are therefore health-promoting. Pure relaxation and harmonization of body, mind and soul.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Meditation": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/meditation/mp3-192",
+        "genres": [
+            "lounge",
+            "ambient",
+            "relaxing"
+        ],
+        "description": "Increase your well-being with relaxing meditation music and harmonize body, mind and soul.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Klassik Radio - Hatha Yoga": {
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/yoga/mp3-192",
+        "genres": [
+            "ambient",
+            "lounge",
+            "relaxing"
+        ],
+        "description": "Relaxing sounds for body and mind. Ideal for yoga training.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
     },
     "La Ranchera - 106.1 fm": {
         "website": "https://grupozer.mx/portada.php?id=103",
@@ -8292,7 +8753,7 @@
         "description": "KRCC is a public radio station in Colorado Springs, affiliated with, and operated by, Colorado Public Radio. KRCC broadcasts non-commercial News/Talk programming, mostly from NPR and American Public Media during the daytime hours. KRCC is a member-supported, non-commercial community service of Colorado College.",
         "discontinued": false
     },
-    "Yellowstone Yellowstone Public Radio": {
+    "Yellowstone Public Radio": {
         "website": "https://www.ypradio.org",
         "stream": "https://ypr.streamguys1.com/live",
         "genres": [
@@ -10525,7 +10986,7 @@
         "stream": "https://str3.openstream.co/1833",
         "genres": [
             "blues",
-            "R&b",
+            "R&B",
             "soul",
             "folk",
             "indie",
@@ -11692,5 +12153,895 @@
         "description": "Box Office Radio is the UK's only \"Stage & Screen\" station, playing the biggest variety of music from the musicals and movies you love.",
         "discontinued": false,
         "location": "London, England, United Kingdom"
-    }
+    },
+    "Worldwide FM": {
+        "website": "https://worldwidefm.net",
+        "stream": "https://worldwidefm.out.airtime.pro/worldwidefm_a",
+        "genres": [
+            "variety",
+            "new artists",
+            "alternative",
+            "world"
+        ],
+        "description": "Transmitting out of East London, Berlin, Kyoto, Los Angeles, Melbourne, Paris, Tokyo and beyond, Worldwide FM is a global family of artists and innovators shining a light on marginalised music and burgeoning scenes across the world.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Concertzender": {
+        "website": "",
+        "stream": "https://www.concertzender.nl/streams/live",
+        "genres": [
+            "classical",
+            "new artists"
+        ],
+        "description": "Dutch radiostation Concertzender stands for extraordinary, significant new music, and is particularly acknowledged due to the exceptional in addition to ambitious development.",
+        "discontinued": false,
+        "location": "Utrecht, Netherlands"
+    },
+    "181.fm Yacht Rock": {
+        "website": "http://player.181fm.com/?station=181-yachtrock",
+        "stream": "https://listen.181fm.com/181-yachtrock_128k.mp3",
+        "genres": [
+            "80s",
+            "90s",
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Power 181": {
+        "website": "http://player.181fm.com/?station=181-powerexplicit",
+        "stream": "https://listen.181fm.com/181-powerexplicit_128k.mp3",
+        "genres": [
+            "top 40",
+            "hits",
+            "pop",
+            "rock",
+            "contemporary",
+            "explicit"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm 80s RnB": {
+        "website": "http://player.181fm.com/?station=181-80srnb",
+        "stream": "https://listen.181fm.com/181-80srnb_128k.mp3",
+        "genres": [
+            "R&B",
+            "80s"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm 80s RnB Lite": {
+        "website": "http://player.181fm.com/?station=181-80sliternb",
+        "stream": "https://listen.181fm.com/181-80sliternb_128k.mp3",
+        "genres": [
+            "80s",
+            "pop",
+            "soul",
+            "R&B"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Jazz Mix": {
+        "website": "http://player.181fm.com/?station=181-jazzmix",
+        "stream": "https://listen.181fm.com/181-jazzmix_128k.mp3",
+        "genres": [
+            "jazz",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm 90s RnB": {
+        "website": "http://player.181fm.com/?station=181-90srnb",
+        "stream": "https://listen.181fm.com/181-90srnb_128k.mp3",
+        "genres": [
+            "90s",
+            "R&B"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm 90s RnB Lite": {
+        "website": "http://player.181fm.com/?station=181-90sliternb",
+        "stream": "https://listen.181fm.com/181-90sliternb_128k.mp3",
+        "genres": [
+            "90s",
+            "R&B",
+            "pop",
+            "soul"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Classic Hits": {
+        "website": "http://player.181fm.com/?station=181-greatoldies",
+        "stream": "https://listen.181fm.com/181-greatoldies_128k.mp3",
+        "genres": [
+            "hits",
+            "classics",
+            "oldies",
+            "rock",
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Good Time Oldies": {
+        "website": "http://player.181fm.com/?station=181-goodtime",
+        "stream": "https://listen.181fm.com/181-goodtime_128k.mp3",
+        "genres": [
+            "oldies",
+            "classics",
+            "rock",
+            "pop",
+            "50s",
+            "60s"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Mellow Gold": {
+        "website": "http://player.181fm.com/?station=181-mellow",
+        "stream": "https://listen.181fm.com/181-mellow_128k.mp3",
+        "genres": [
+            "easy listening",
+            "classics",
+            "oldies",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Soul": {
+        "website": "http://player.181fm.com/?station=181-soul",
+        "stream": "https://listen.181fm.com/181-soul_128k.mp3",
+        "genres": [
+            "blues",
+            "soul",
+            "gospel",
+            "oldies",
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Beatles": {
+        "website": "http://player.181fm.com/?station=181-beatles",
+        "stream": "https://listen.181fm.com/181-beatles_128k.mp3?",
+        "genres": [
+            "oldies",
+            "classics",
+            "rock",
+            "classic rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Super '70s": {
+        "website": "http://player.181fm.com/?station=181-70s",
+        "stream": "https://listen.181fm.com/181-70s_128k.mp3",
+        "genres": [
+            "70s",
+            "R&B",
+            "rock",
+            "pop",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "Space Unicorn Radio": {
+        "website": "http://spaceunicorn.radio",
+        "stream": "http://spaceunicorn.radio:8000/stream",
+        "genres": [
+            "trance",
+            "psychedelic",
+            "electronic",
+            "techno"
+        ],
+        "description": "Space Unicorn Radio is a non-profit, 24/7, non-stop radio stream of the best Trance & PsyTrance DJ's in Second Life, streaming live from the Ministry of Trance 2 club.",
+        "discontinued": false,
+        "location": "Brighton, England, United Kingdom"
+    },
+    "Gorgeous Radio UK": {
+        "website": "https://www.gorgeous.radio",
+        "stream": "https://listen-gorgeousfm.sharp-stream.com/45_gorgeous_fm_128_mp3?",
+        "genres": [
+            "lgbtq+",
+            "top 40",
+            "pop",
+            "dance"
+        ],
+        "description": "Gorgeous Radio UK is an LGBTQ+ Hit Music Radio Station, broadcasting from our studios in Wolverhampton City Centre.  You can find us on DAB in Birmingham, Bradford & Newcastle. We have the LGBTQ+ community at the heart of our thinking, with specialist shows throughout the week.",
+        "discontinued": false,
+        "location": "Birmingham, England, United Kingdom"
+    },
+    "80s Mixtape Radio": {
+        "website": "https://mixtape.radio",
+        "stream": "https://audio.allabout.radio/listen/80s_mixtape/stream.mp3",
+        "genres": [
+            "80s",
+            "pop",
+            "rock"
+        ],
+        "description": "Yep, it's another 80s station! But we're not like other 80s stations that try to be cool, the 80s weren't cool. The Best Of The Decade, 80s Mixtape.",
+        "discontinued": false,
+        "location": "Manchester, England, United Kingdom"
+    },
+    "The Big Cheese Radio": {
+        "website": "https://thebigcheeseradio.co.uk",
+        "stream": "https://audio.allabout.radio/listen/big_cheese/stream.mp3",
+        "genres": [
+            "oldies",
+            "classics",
+            "new artists",
+            "hits",
+            "pop"
+        ],
+        "description": "This radio station is the superhero you never knew you needed! Commercial free, non stop pop music...and some of it is very cheesy!",
+        "discontinued": false,
+        "location": "Manchester, England, United Kingdom"
+    },
+    "Atmosphere Radio": {
+        "website": "https://atmosphere.radio",
+        "stream": "https://tx.sharp-stream.com/http_live.php?i=mangovibe.mp3",
+        "genres": [
+            "classics",
+            "hits",
+            "pop",
+            "dance",
+            "electronic",
+            "techno"
+        ],
+        "description": "We play more dance music than any other commercial station in the UK. Our audience are passionate about dance, whether they are young adopters or older ravers. The dance scene is welcoming to all. We've got the latest releases and Old Skool classics plus big name interviews and all-star guest mixes so there's something for everyone!",
+        "discontinued": false,
+        "location": ""
+    },
+    "Bside Radio": {
+        "website": "https://thebeaumontstudios.com/bside-radio/",
+        "stream": "https://s3.radio.co:80/s4e064139a/listen",
+        "genres": [
+            "community",
+            "electronic",
+            "beat",
+            "drums",
+            "hip hop",
+            "new artists"
+        ],
+        "description": "Bside Radio is an online community radio broadcasting from the loading bay at The Beaumont Studios Artist Society. Grateful to be operating on the traditional, ancestral lands and unceded territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and Sel̓íl̓witulh (Tsleil-Waututh) Nations. Vancouver, BC.",
+        "discontinued": false,
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "The X Files Network": {
+        "website": "https://thexfilesnetwork.com",
+        "stream": "http://n11.radiojar.com/8a7e21u8n8hvv",
+        "genres": [
+            "talk",
+            "paranormal",
+            "drama"
+        ],
+        "description": "The X Files Network is an online radio station streamed in over 124 countries 24-hours a day. Listen to the most intriguing conversations with experts around the world on everything from real hauntings, alien encounters, true crime,  conspiracies, ancient history, strange creatures, the occult, spirituality and current events.",
+        "discontinued": false,
+        "location": "Knoxville, Tennessee, USA"
+    },
+    "181.fm The Vibe of Vegas": {
+        "website": "http://player.181fm.com/?station=181-vibe",
+        "stream": "https://listen.181fm.com/181-vibe_128k.mp3",
+        "genres": [
+            "dance",
+            "R&B",
+            "pops",
+            "lounge"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm The Heart": {
+        "website": "http://player.181fm.com/?station=181-heart",
+        "stream": "https://listen.181fm.com/181-heart_128k.mp3",
+        "genres": [
+            "romantic",
+            "pop",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm UK Top 40": {
+        "website": "http://player.181fm.com/?station=181-uktop40",
+        "stream": "https://listen.181fm.com/181-uktop40_128k.mp3",
+        "genres": [
+            "top 40",
+            "pop",
+            "contemporary",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Smooth AC": {
+        "website": "http://player.181fm.com/?station=181-smoothac",
+        "stream": "https://listen.181fm.com/181-smoothac_128k.mp3",
+        "genres": [
+            "pop",
+            "jazz",
+            "contemporary".
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Old School HipHop/RnB": {
+        "website": "http://player.181fm.com/?station=181-oldschool",
+        "stream": "https://listen.181fm.com/181-oldschool_128k.mp3",
+        "genres": [
+            "hip hop",
+            "R&B",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm The Point": {
+        "website": "http://player.181fm.com/?station=181-thepoint",
+        "stream": "https://listen.181fm.com/181-thepoint_128k.mp3",
+        "genres": [
+            "rock",
+            "pop",
+            "alternative"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm The Mix": {
+        "website": "http://player.181fm.com/?station=181-themix",
+        "stream": "https://listen.181fm.com/181-themix_128k.mp3",
+        "genres": [
+            "R&B",
+            "pop",
+            "hip hop",
+            "contemporary".
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm The Office": {
+        "website": "http://player.181fm.com/?station=181-office",
+        "stream": "https://listen.181fm.com/181-office_128k.mp3",
+        "genres": [
+            "pop",
+            "rock",
+            "hits",
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Power 181 (Top 40)": {
+        "website": "http://player.181fm.com/?station=181-90sdance",
+        "stream": "https://listen.181fm.com/181-power_128k.mp3",
+        "genres": [
+            "top 40",
+            "contemporary",
+            "pop",
+            "rock",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm '90s Dance": {
+        "website": "http://player.181fm.com/?station=181-90sdance",
+        "stream": "https://listen.181fm.com/181-90sdance_128k.mp3",
+        "genres": [
+            "90s",
+            "dance",
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm '90s Alternative": {
+        "website": "http://player.181fm.com/?station=181-90salt",
+        "stream": "https://listen.181fm.com/181-90salt_128k.mp3",
+        "genres": [
+            "90s",
+            "alternative",
+            "rock",
+            "punk"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Lite '90s": {
+        "website": "http://player.181fm.com/?station=181-lite90s",
+        "stream": "https://listen.181fm.com/181-lite90s_128k.mp3",
+        "genres": [
+            "90s",
+            "dance",
+            "rock",
+            "pop",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm '90s Country": {
+        "website": "http://player.181fm.com/?station=181-90scountry",
+        "stream": "https://listen.181fm.com/181-90scountry_128k.mp3",
+        "genres": [
+            "90s",
+            "country"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Star '90s": {
+        "website": "http://player.181fm.com/?station=181-star90s",
+        "stream": "https://listen.181fm.com/181-star90s_128k.mp3",
+        "genres": [
+            "90s",
+            "hits",
+            "pop",
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm '80s Hairband": {
+        "website": "http://player.181fm.com/?station=181-hairband",
+        "stream": "https://listen.181fm.com/181-hairband_128k.mp3",
+        "genres": [
+            "80s",
+            "rock",
+            "classic rock",
+            "metal"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm '80s Country": {
+        "website": "http://player.181fm.com/?station=181-80scountry",
+        "stream": "https://listen.181fm.com/181-80scountry_128k.mp3",
+        "genres": [
+            "80s",
+            "country",
+            "classics",
+            "bluegrass",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Lite '80s": {
+        "website": "http://player.181fm.com/?station=181-lite80s",
+        "stream": "https://listen.181fm.com/181-lite80s_128k.mp3",
+        "genres": [
+            "80s",
+            "classics",
+            "oldies",
+            "hits",
+            "classic rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Awesome '80s": {
+        "website": "http://player.181fm.com/?station=181-awesome80s",
+        "stream": "https://listen.181fm.com/181-awesome80s_128k.mp3",
+        "genres": [
+            "80s",
+            "hits",
+            "classics",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "": {
+        "website": "",
+        "stream": "",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
 }
