@@ -4067,7 +4067,7 @@
         "genres": [
             "news",
             "talk",
-            "religion"
+            "religious"
         ],
         "description": "Radio Energy Boston is an internet radio station from Boston, MA, United States, providing Community news, education, culture and religious programs.",
         "discontinued": false
@@ -6910,7 +6910,7 @@
         "stream": "http://96.31.83.94:8180/;",
         "genres": [
             "christian",
-            "religion",
+            "religious",
             "community"
         ],
         "description": "A Christian community radio station broadcasting contemporary Christian music from its tower in Portsmouth, New Hampshire.",
@@ -7017,7 +7017,7 @@
         "genres": [
             "christian",
             "gospel",
-            "religion"
+            "religious"
         ],
         "description": "The vision of RenewFM is to bring a message of life and hope to New England. We use contemporary, vertical, Christian music and simple, straightforward Bible teaching to further that vision.",
         "discontinued": false
@@ -7435,7 +7435,7 @@
         "genres": [
             "christian",
             "gospel",
-            "religion"
+            "religious"
         ],
         "description": "The main purpose of the radio is to preach the Word of God and make His love for humanity known to all. This is done mainly using the Holy Scriptures as a point of reference in all the radio programs and also by fostering Prayer and teaching catechesis.",
         "discontinued": false
@@ -12485,7 +12485,7 @@
         "genres": [
             "pop",
             "jazz",
-            "contemporary".
+            "contemporary",
             "hits"
         ],
         "description": "",
@@ -12523,7 +12523,7 @@
             "R&B",
             "pop",
             "hip hop",
-            "contemporary".
+            "contemporary",
             "variety"
         ],
         "description": "",
@@ -12674,374 +12674,710 @@
         "discontinued": false,
         "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm The Buzz": {
+        "website": "http://player.181fm.com/?station=181-buzz",
+        "stream": "https://listen.181fm.com/181-buzz_128k.mp3",
         "genres": [
-            ""
+            "rock",
+            "alternative"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Classic Buzz": {
+        "website": "http://player.181fm.com/?station=181-classicbuzz",
+        "stream": "https://listen.181fm.com/181-classicbuzz_128k.mp3",
         "genres": [
-            ""
+            "alternative",
+            "rock",
+            "classics"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm The Eagle": {
+        "website": "http://player.181fm.com/?station=181-eagle",
+        "stream": "https://listen.181fm.com/181-eagle_128k.mp3",
         "genres": [
-            ""
+            "rock",
+            "classics",
+            "classic rock",
+            "hits"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Rock 181": {
+        "website": "http://player.181fm.com/?station=181-rock",
+        "stream": "https://listen.181fm.com/181-rock_128k.mp3",
         "genres": [
-            ""
+            "rock",
+            "hard rock"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Rock 40": {
+        "website": "http://player.181fm.com/?station=181-rock40",
+        "stream": "https://listen.181fm.com/181-rock40_128k.mp3",
         "genres": [
-            ""
+            "rock",
+            "classic rock",
+            "40s",
+            "50s",
+            "oldies"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Chloe AAA": {
+        "website": "http://player.181fm.com/?station=181-chloe",
+        "stream": "https://listen.181fm.com/181-chloe_128k.mp3",
         "genres": [
-            ""
+            "rock",
+            "metal",
+            "indie",
+            "alternative",
+            "hard rock"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm The Rock!": {
+        "website": "http://player.181fm.com/?station=181-hardrock",
+        "stream": "https://listen.181fm.com/181-hardrock_128k.mp3",
         "genres": [
-            ""
+            "rock",
+            "hard rock",
+            "metal"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Kickin' Country": {
+        "website": "http://player.181fm.com/?station=181-kickincountry",
+        "stream": "https://listen.181fm.com/181-kickincountry_128k.mp3",
         "genres": [
-            ""
+            "country",
+            "top 40",
+            "oldies"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Real Country": {
+        "website": "http://player.181fm.com/?station=181-realcountry",
+        "stream": "https://listen.181fm.com/181-realcountry_128k.mp3",
         "genres": [
-            ""
+            "country",
+            "bluegrass",
+            "hits",
+            "classics"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Highway 181": {
+        "website": "http://player.181fm.com/?station=181-highway",
+        "stream": "https://listen.181fm.com/181-highway_128k.mp3",
         "genres": [
-            ""
+            "country",
+            "bluegrass",
+            "hits",
+            "80s",
+            "classics"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Front Porch": {
+        "website": "http://player.181fm.com/?station=181-frontporch",
+        "stream": "https://listen.181fm.com/181-frontporch_128k.mp3",
         "genres": [
-            ""
+            "bluegrass"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm The Beat": {
+        "website": "http://player.181fm.com/?station=181-beat",
+        "stream": "https://listen.181fm.com/181-beat_128k.mp3",
         "genres": [
-            ""
+            "hip hop",
+            "R&B",
+            "rap"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm The Box": {
+        "website": "http://player.181fm.com/?station=181-thebox",
+        "stream": "https://listen.181fm.com/181-thebox_128k.mp3",
         "genres": [
-            ""
+            "urban",
+            "rap",
+            "hip hop",
+            "R&B"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm True R&B": {
+        "website": "http://player.181fm.com/?station=181-rnb",
+        "stream": "https://listen.181fm.com/181-rnb_128k.mp3",
         "genres": [
-            ""
+            "R&B",
+            "pop"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Party 181": {
+        "website": "http://player.181fm.com/?station=181-party",
+        "stream": "https://listen.181fm.com/181-party_128k.mp3",
         "genres": [
-            ""
+            "dance",
+            "rock",
+            "R&B",
+            "pop"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Jammin 181": {
+        "website": "http://player.181fm.com/?station=181-jammin",
+        "stream": "https://listen.181fm.com/181-jammin_128k.mp3",
         "genres": [
-            ""
+            "soul",
+            "R&B",
+            "pop"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Energy 98": {
+        "website": "http://player.181fm.com/?station=181-energy98",
+        "stream": "https://listen.181fm.com/181-energy98_128k.mp3",
         "genres": [
-            ""
+            "electronic",
+            "techno",
+            "pop"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Chilled Out": {
+        "website": "http://player.181fm.com/?station=181-chilled",
+        "stream": "https://listen.181fm.com/181-chilled_128k.mp3",
         "genres": [
-            ""
+            "ambient",
+            "chillout"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Energy 93": {
+        "website": "http://player.181fm.com/?station=181-energy93",
+        "stream": "https://listen.181fm.com/181-energy93_128k.mp3",
         "genres": [
-            ""
+            "dance",
+            "electronic",
+            "trance",
+            "house",
+            "european"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Studio 181": {
+        "website": "http://player.181fm.com/?station=181-ball",
+        "stream": "https://listen.181fm.com/181-ball_128k.mp3",
         "genres": [
-            ""
+            "dance",
+            "disco",
+            "80s",
+            "70s"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm The Breeze": {
+        "website": "http://player.181fm.com/?station=181-breeze",
+        "stream": "https://listen.181fm.com/181-breeze_128k.mp3",
         "genres": [
-            ""
+            "pop",
+            "easy listening"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm True Blues": {
+        "website": "http://player.181fm.com/?station=181-blues",
+        "stream": "https://listen.181fm.com/181-blues_128k.mp3",
         "genres": [
-            ""
+            "blues"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Classical Guitar": {
+        "website": "http://player.181fm.com/?station=181-classicalguitar",
+        "stream": "https://listen.181fm.com/181-classicalguitar_128k.mp3",
         "genres": [
-            ""
+            "guitar",
+            "easy listening",
+            "classics"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Classical Jazz": {
+        "website": "http://player.181fm.com/?station=181-classicaljazz",
+        "stream": "https://listen.181fm.com/181-classicaljazz_128k.mp3",
         "genres": [
-            ""
+            "jazz",
+            "classics"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Vocal Jazz": {
+        "website": "http://player.181fm.com/?station=181-vocals",
+        "stream": "https://listen.181fm.com/181-vocals_128k.mp3",
         "genres": [
-            ""
+            "jazz",
+            "soul"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm BeBop Jazz": {
+        "website": "http://player.181fm.com/?station=181-bebop",
+        "stream": "https://listen.181fm.com/181-bebop_128k.mp3",
         "genres": [
-            ""
+            "jazz"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Fusion Jazz": {
+        "website": "http://player.181fm.com/?station=181-fusionjazz",
+        "stream": "https://listen.181fm.com/181-fusionjazz_128k.mp3",
         "genres": [
-            ""
+            "jazz",
+            "rock",
+            "pop"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Trance Jazz": {
+        "website": "http://player.181fm.com/?station=181-trancejazz",
+        "stream": "https://listen.181fm.com/181-trancejazz_128k.mp3",
         "genres": [
-            ""
+            "jazz",
+            "trance",
+            "techno"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Classical Music": {
+        "website": "http://player.181fm.com/?station=181-classical",
+        "stream": "https://listen.181fm.com/181-classical_128k.mp3",
         "genres": [
-            ""
+            "classical"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Acid Jazz": {
+        "website": "http://player.181fm.com/?station=181-acidjazz",
+        "stream": "https://listen.181fm.com/181-acidjazz_128k.mp3",
         "genres": [
-            ""
+            "jazz",
+            "soul"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Comedy Club": {
+        "website": "http://player.181fm.com/?station=181-comedy",
+        "stream": "https://listen.181fm.com/181-comedy_128k.mp3",
         "genres": [
-            ""
+            "comedy",
+            "talk"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Christmas Kountry": {
+        "website": "http://player.181fm.com/?station=181-xkkountry",
+        "stream": "https://listen.181fm.com/181-xkkountry_128k.mp3",
         "genres": [
-            ""
+            "holiday",
+            "country"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Christmas Classics": {
+        "website": "http://player.181fm.com/?station=181-xtraditional",
+        "stream": "https://listen.181fm.com/181-xtraditional_128k.mp3",
         "genres": [
-            ""
+            "holiday",
+            "classics"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Christmas Oldies": {
+        "website": "http://player.181fm.com/?station=181-xoldies",
+        "stream": "https://listen.181fm.com/181-xoldies_128k.mp3",
         "genres": [
-            ""
+            "holiday",
+            "oldies"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Christmas Country": {
+        "website": "http://player.181fm.com/?station=181-xcountry",
+        "stream": "https://listen.181fm.com/181-xcountry_128k.mp3",
         "genres": [
-            ""
+            "holiday",
+            "country"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Christmas Power": {
+        "website": "http://player.181fm.com/?station=181-xpower",
+        "stream": "https://listen.181fm.com/181-xpower_128k.mp3",
         "genres": [
-            ""
+            "holiday",
+            "rock",
+            "R&B",
+            "pop",
+            "contemporary"
         ],
         "description": "",
         "discontinued": false,
-        "location": ""
+        "location": "Waynesboro, West Virginia, USA"
     },
-    "": {
-        "website": "",
-        "stream": "",
+    "181.fm Christmas Highway": {
+        "website": "http://player.181fm.com/?station=181-xhighway",
+        "stream": "https://listen.181fm.com/181-xhighway_128k.mp3",
         "genres": [
-            ""
+            "holiday",
+            "country"
         ],
         "description": "",
         "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Soundtracks": {
+        "website": "http://player.181fm.com/?station=181-xsoundtrax",
+        "stream": "https://listen.181fm.com/181-xsoundtrax_128k.mp3",
+        "genres": [
+            "holiday",
+            "soundtracks"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas R&B": {
+        "website": "http://player.181fm.com/?station=181-xtrue",
+        "stream": "https://listen.181fm.com/181-xtrue_128k.mp3",
+        "genres": [
+            "holiday",
+            "R&B"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Rock": {
+        "website": "http://player.181fm.com/?station=181-xrock",
+        "stream": "https://listen.181fm.com/181-xrock_128k.mp3",
+        "genres": [
+            "holiday",
+            "rock",
+            "classic rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Mix": {
+        "website": "http://player.181fm.com/?station=181-xmix",
+        "stream": "https://listen.181fm.com/181-xmix_128k.mp3",
+        "genres": [
+            "holiday",
+            "variety",
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Fun": {
+        "website": "http://player.181fm.com/?station=181-xfun",
+        "stream": "https://listen.181fm.com/181-xfun_128k.mp3",
+        "genres": [
+            "holiday",
+            "comedy"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Kids": {
+        "website": "http://player.181fm.com/?station=181-xkids",
+        "stream": "https://listen.181fm.com/181-xkids_128k.mp3",
+        "genres": [
+            "holiday",
+            "kids"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Blender": {
+        "website": "http://player.181fm.com/?station=181-xblender",
+        "stream": "https://listen.181fm.com/181-xblender_128k.mp3",
+        "genres": [
+            "holiday"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Spirit": {
+        "website": "http://player.181fm.com/?station=181-xspirit",
+        "stream": "https://listen.181fm.com/181-xspirit_128k.mp3",
+        "genres": [
+            "holiday",
+            "pop",
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Smooth Jazz": {
+        "website": "http://player.181fm.com/?station=181-xsmooth",
+        "stream": "https://listen.181fm.com/181-xsmooth_128k.mp3",
+        "genres": [
+            "holiday",
+            "jazz"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Gospel": {
+        "website": "http://player.181fm.com/?station=181-xgospel",
+        "stream": "https://listen.181fm.com/181-xgospel_128k.mp3",
+        "genres": [
+            "holiday",
+            "religious",
+            "gospel"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "181.fm Christmas Swing": {
+        "website": "http://player.181fm.com/?station=181-xswing",
+        "stream": "https://listen.181fm.com/181-xswing_128k.mp3",
+        "genres": [
+            "holiday",
+            "swing"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Waynesboro, West Virginia, USA"
+    },
+    "Radio Caprice - Classical Baroque Music": {
+        "website": "http://radcap.ru/baroque.html",
+        "stream": "http://79.111.14.76:8002/baroque",
+        "genres": [
+            "classical",
+            "baroque"
+        ],
+        "description": "Baroque music is a period in the development of European academic music, approximately between 1600 and 1750. Baroque music appeared at the end of the Renaissance and preceded the music of classicism.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Medieval Music": {
+        "website": "http://radcap.ru/medieval.html",
+        "stream": "http://213.141.131.10:8002/medieval",
+        "genres": [
+            "medieval"
+        ],
+        "description": "The music of the Middle Ages is a period of development of musical culture, covering a period of time approximately from the 5th to the 15th century AD.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Violin Music": {
+        "website": "http://radcap.ru/violin.html",
+        "stream": "http://213.141.131.10:8002/violin",
+        "genres": [
+            "instrumental",
+            "violin"
+        ],
+        "description": "The violin is a high-pitched stringed musical instrument. It has a folk origin, acquired a modern look in the 16th century, and became widespread in the 17th century. It has four strings tuned in fifths: g, d1, a1, e2 (“salt” of a small octave, “re”, “la” of the first octave, “mi” of the second octave), range from g (“salt” of a small octave) to a4 (\"la\" of the fourth octave) and higher. The timbre of the violin is thick in the low register, soft in the middle and brilliant in the high.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Christian Sacred Music": {
+        "website": "http://radcap.ru/sacred.html",
+        "stream": "http://213.141.131.10:8002/sacred",
+        "genres": [
+            "religious",
+            "christian"
+        ],
+        "description": "Sacred music (German geistliche Musik, Italian musica sacra, English sacred music) - musical works associated with texts of a religious nature, intended to be performed during church services or at home.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Classical Avant-Garde Music": {
+        "website": "http://radcap.ru/classavant.html",
+        "stream": "http://213.141.131.10:8002/classavant",
+        "genres": [
+            "avant-garde",
+            "classical"
+        ],
+        "description": "Avant-garde music, musical avant-garde (English avant-garde music) is a type of modern academic music, some elements of the aesthetics of which are radically innovative.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Opera Music": {
+        "website": "http://radcap.ru/opera.html",
+        "stream": "http://79.120.39.202:8002/opera",
+        "genres": [
+            "opera"
+        ],
+        "description": "Opera (Italian opera - business, work, work; lat. opera - works, products, works, plural from opus) is a genre of musical and dramatic art in which the content is embodied by means of musical dramaturgy, mainly through vocal music. The literary basis of the opera is the libretto. The word \"orega\" in translation from Italian literally means work, composition. In this musical genre, poetry and dramatic art, vocal and instrumental music, facial expressions, dances, painting, scenery and costumes are merged into a single whole.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - String Music": {
+        "website": "http://radcap.ru/strings.html",
+        "stream": "http://79.120.39.202:8002/strings",
+        "genres": [
+            "instrumental",
+            "violin",
+            "viola",
+            "cello",
+            "strings"
+        ],
+        "description": "Different bowed instruments are characterized by a different arrangement: compact viola and violin are comfortable to hold on the shoulder, but bulky double bass and cello are placed vertically on the floor or on a special stand. In modern academic music-making, four string instruments are used: violin, viola, cello, double bass.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Chamber Music": {
+        "website": "http://radcap.ru/chamber.html",
+        "stream": "http://213.141.131.10:8002/chamber",
+        "genres": [
+            "classical",
+            "chamber"
+        ],
+        "description": "Chamber music is music performed by a small group of instrumentalists and/or vocalists.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Clarinet / Bassoon / Oboe Music": {
+        "website": "http://radcap.ru/clarinet.html",
+        "stream": "http://213.141.131.10:8002/clarinet",
+        "genres": [
+            "instrumental",
+            "woodwinds"
+        ],
+        "description": "In a symphony orchestra, woodwinds (flutes, oboes, clarinets and bassoons, as well as their varieties) form one of its main groups. In the score, their parts are written above the parts of the other instruments. Some of the instruments of this group (primarily flutes and clarinets, more rarely oboes, even more rarely bassoons) are also used in a brass band and sometimes in chamber ensembles. Woodwind instruments are more often used as soloists than other wind instruments.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Impressionism": {
+        "website": "http://radcap.ru/impressionism.html",
+        "stream": "http://79.120.12.130:8002/impressionism",
+        "genres": [
+            "classical",
+            "instrumental"
+        ],
+        "description": "Impressionism in music (fr. impressionnisme, from fr. impression - impression) is a musical direction similar to impressionism in painting and parallel to symbolism in literature, which developed in France in the last quarter of the 19th century - the beginning of the 20th century, primarily in the work of Eric Satie, Claude Debussy and Maurice Ravel.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Minimalism": {
+        "website": "http://radcap.ru/minimalism.html",
+        "stream": "http://213.141.131.10:8002/minimalism",
+        "genres": [
+            "classical",
+            "instrumental"
+        ],
+        "description": "Minimalism in music is a method of composition based on the simplest pitch and rhythm cells - “patterns” (models). During the unfolding of the composition, these patterns are repeated many times and vary slightly. The peak of the popularity of minimalism in the United States came in the second half of the 1960s. and the first half of the 1970s; in Western Europe and Russia, interest in minimalism was noted until the end of the 1980s.",
+        "discontinued": false,
         "location": ""
     },
+    "Radio Caprice - Canata": {
+        "website": "http://radcap.ru/cantata.html",
+        "stream": "http://79.120.12.130:8002/cantata",
+        "genres": [
+            "choir",
+            "orchestral",
+            "vocal"
+        ],
+        "description": "Cantata (Italian cantata, from Latin cantare - song) is a vocal and instrumental work for soloists, choir and orchestra.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Organ Music": {
+        "website": "http://radcap.ru/organ.html",
+        "stream": "http://79.120.77.11:8002/organ",
+        "genres": [
+            "instrumental",
+            "organ"
+        ],
+        "description": "Organ music (English Organ repertoire, French Musique d'orgue, German Orgelmusik) is music intended to be performed on the organ solo or accompanied by any other musical instruments.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    }
 }
