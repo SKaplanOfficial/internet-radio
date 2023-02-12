@@ -10672,5 +10672,1025 @@
         "description": "A carefully-selected curation of the best japanese ambient / environmental / instrumental / new age music. Welcome to a musical voyage of electronic ambients, beautiful melodies, and japanese sounds.",
         "discontinued": false,
         "location": ""
+    },
+    "Kyoto FM 103.7": {
+        "website": "https://www.kyotofm.es",
+        "stream": "https://sonic.mediatelekom.net/8148/stream",
+        "genres": [
+            "latin",
+            "variety",
+            "dance",
+            "spanish"
+        ],
+        "description": "The best variety of latin music.",
+        "discontinued": false,
+        "location": "Vigo, Spain"
+    },
+    "Ambient Modern": {
+        "website": "https://ambientmodern.com",
+        "stream": "https://radio.stereoscenic.com/mod-s",
+        "genres": [
+            "ambient",
+            "downtempo"
+        ],
+        "description": "Ambient Modern is an internet radio stream featuring modern organic textures. It is the expanded version our original station Ambient Sleeping Pill, which has a very narrow aesthetic.",
+        "discontinued": false,
+        "location": "South Plainfield, New Jersey, USA"
+    },
+    "Radio Irfan": {
+        "website": "https://radioirfan.org",
+        "stream": "https://streams.radio.co/sd1bcd1376/listen",
+        "genres": [
+            "ambient",
+            "lounge",
+            "chillout",
+            "electronic",
+            "persian"
+        ],
+        "description": "New Age Persian Music! A meditative journey into the world of consciousness through music.",
+        "discontinued": false,
+        "location": "Salt Lake City, Utah, USA"
+    },
+    "107.9 FM Radio Fremantle": {
+        "website": "https://radiofremantle.com.au",
+        "stream": "https://stream.radiofremantle.com.au/radiofremantle",
+        "genres": [
+            "community",
+            "local",
+            "variety",
+            "news",
+            "talk"
+        ],
+        "description": "We're a not-for-profit community radio station, established in 1987 and broadcasting live from our studios in Hamilton Hill, covering local areas around Fremantle, Cockburn and Melville on 107.9fm and everywhere else in the world right here on our website. Our station is run by volunteers for the local community and gives the chance for members to host their own shows, showcase amazing local music and talk about local issues. For listeners, it's the most diverse radio you'll get in the area — with over 10 languages and a large collection of programmes, there's something for everyone.",
+        "discontinued": false,
+        "location": "Fremantle, Western Australia"
+    },
+    "Eilo Radio - Earth & Beat": {
+        "website": "https://eilo.org",
+        "stream": "https://eilo.org/streamer.php?ch=earthbeat",
+        "genres": [
+            "beat",
+            "electronic",
+            "creative commons",
+            "world"
+        ],
+        "description": "Electronic beats mixed with ethno and earth sounds!",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Jazz, Funk & Soul": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=jazzfunksoul",
+        "genres": [
+            "jazz",
+            "funk",
+            "soul",
+            "electronic",
+            "creative commons",
+            "variety"
+        ],
+        "description": "Eilo Jazz Funk and Soul Radio offers their listeners the very best of the class thematic online radio programs on various kinds of music. It’s a radio with various kinds of popular genres of music non stop on the go for their listeners.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Progressive": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=progressive",
+        "genres": [
+            "rock",
+            "progressive",
+            "electronic",
+            "creative commons",
+            "ambient"
+        ],
+        "description": "Playing class-leading progressive rock music. Popular English radio station for progressive genres in Bulgaria.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Techno": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=techno",
+        "genres": [
+            "techno",
+            "electronic",
+            "creative commons"
+        ],
+        "description": "Eilo Techno Radio, a radio for the fans of Techno music lovers. With Eilo Techno Radio you are going to get connected with top of the line Techno music. The feast of music is always on with the presentation of Techno music for their listeners all day around the clock in Techno Radio.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Trance": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=trance",
+        "genres": [
+            "trance",
+            "electronic",
+            "creative commons"
+        ],
+        "description": "Trance Radio is a channel of internet radio station Radio eilo.org from Sofia, Bulgaria providing Trance music.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - House": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=house",
+        "genres": [
+            "house",
+            "electronic",
+            "creative commons"
+        ],
+        "description": "House Radio is a channel radio of internet radio station eilo.org from Sofia, Bulgaria providing House music.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Ambient & Chill": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=ambient",
+        "genres": [
+            "ambient",
+            "chillout",
+            "electronic",
+            "creative commons",
+            "lounge",
+            "top 40"
+        ],
+        "description": "Ambient and Chill Radio is a channel of internet radio station eilo.org from Sofia, Bulgaria providing Chillout, Ambient and Top 40 Pop music.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Psychedelic": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=psychedelic",
+        "genres": [
+            "psychedelic",
+            "electronic",
+            "creative commons",
+            "dance"
+        ],
+        "description": "Psychedelic Radio is a channel on the internet radio station eilo.org from Sofia, Bulgaria providing Electronic-Dance music.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Mixotic": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=mixotic",
+        "genres": [
+            "creative commons",
+            "trance",
+            "electronic",
+            "variety"
+        ],
+        "description": "Mixotic Radio is a channel of internet radio station Radio eilo.org from Sofia, Bulgaria providing Trance music.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Dubstep": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=dubstep",
+        "genres": [
+            "dubstep",
+            "house",
+            "electronic",
+            "dance",
+            "creative commons"
+        ],
+        "description": "Dubstep Radio is a channel on the internet radio station eilo.org from Sofia, Bulgaria providing Electronic-Dance music.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Drum & Bass": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=drum",
+        "genres": [
+            "drums",
+            "bass",
+            "electronic",
+            "creative commons",
+            "house"
+        ],
+        "description": "Drum & Bass Radio is an Internet Radio station from Sofia, playing House, Drum & Bass music.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Eilo Radio - Hard Techno": {
+        "website": "",
+        "stream": "https://eilo.org/streamer.php?ch=hard",
+        "genres": [
+            "techno",
+            "electronic",
+            "creative commons"
+        ],
+        "description": "Eilo Hard Techno Radio features the best in top charts of hard techno music. Do you love new songs that are mainly popular locally and internationally than this will be a very prominent online radio station for their listeners across the world.",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Norse Code Radio": {
+        "website": "https://norsecoderadio.com",
+        "stream": "https://listen.norsecoderadio.com/stream",
+        "genres": [
+            "college",
+            "variety",
+            "news",
+            "talk",
+            "entertainment",
+            "community"
+        ],
+        "description": "Norse Code Radio (NCR) is Northern Kentucky University's only student-run radio station. We stream online 24 hours a day! We pride ourselves on being THE place for good music, talk, live band performances, opinion, entertainment, and more! We are your campus Radio Station!",
+        "discontinued": false,
+        "location": "Highland Heights, Kentucky, USA"
+    },
+    "104.7 KXRN": {
+        "website": "https://www.kxfmradio.org",
+        "stream": "https://ice9.securenetsystems.net/KXRN",
+        "genres": [
+            "alternative",
+            "culture",
+            "news",
+            "talk",
+            "classic rock",
+            "rock"
+        ],
+        "description": "KX FM aims to lead the rebirth of FM radio, enriching our listeners with the discovery of alternative music, views, and culture that elevates Laguna Beach on a global scale.",
+        "discontinued": false,
+        "location": "Laguna Beach, California, USA"
+    },
+    "Woods Tea Radio": {
+        "website": "https://www.woodstearadio.com",
+        "stream": "http://s4.myradiostream.com:4556/;stream",
+        "genres": [
+            "folk",
+            "indie",
+            "bluegrass",
+            "celtic"
+        ],
+        "description": "Everybody's heard of the Woods Tea Company. Everybody. Like maple syrup, like fall foliage, like baked bean suppers, the Woods Tea Company has been synonymous with New England since the early 1980s. Now a Full-Time Radio Station dedicated to the Folk/Indie Music of New England. WoodsTea Radio's mission is to present music from the artists who have and continue to flavor our region with those unique qualities of New England wisdom, humor and respect of tradition.",
+        "discontinued": false,
+        "location": "Burlington, Vermont, USA"
+    },
+    "Radio Caprice - Celtic Fusion Music": {
+        "website": "http://radcap.ru/celtic.html",
+        "stream": "http://79.111.14.76:8002/celtic",
+        "genres": [
+            "celtic",
+            "pop"
+        ],
+        "description": "Celtic music is a term used to refer to the totality of the musical traditions of peoples who are descendants of the Celts. Modern descendants of the Celts live in Ireland, Scotland, Maine, Cornwall, Brittany, Wales, Galicia, Asturias and Cantabria. The synthesis of Celtic music with genres of popular music gave rise to a whole trend - Celtic fusion.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Native American Music": {
+        "website": "http://radcap.ru/natam.html",
+        "stream": "http://79.111.119.111:8002/nativeamerican",
+        "genres": [
+            "native american",
+            "tribal",
+            "variety",
+            "folk"
+        ],
+        "description": "Native American music is music that is used, created or performed by Native Americans in the United States and the First Nations of Canada, specifically traditional tribal music. In addition to traditional Native American band music, there are now pan-tribal and intertribal genres, as well as various Native American subgenres of popular music, including rock, blues, hip-hop, classical, film scores, and reggae, unique popular styles such like Waila (\"chicken paw\"), etc..",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Balkan Music": {
+        "website": "http://radcap.ru/balkan.html",
+        "stream": "http://79.120.39.202:8002/balkan",
+        "genres": [
+            "balkan",
+            "world",
+            "folk"
+        ],
+        "description": "Each Balkan country has its own musical features that are noticeable to a close look. Having memorized the signs of each of them - characteristic instruments, rhythms, language - you can learn to distinguish them.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Caucasian Music": {
+        "website": "http://radcap.ru/caucasus.html",
+        "stream": "http://213.141.131.10:8002/caucasus",
+        "genres": [
+            "folk",
+            "caucasian"
+        ],
+        "description": "The Caucasus in many ways is considered the most unique region in the world. This applies in particular to its ethnolinguistic plan, since it is hardly possible to find such a high density of diverse ethnic groups in a relatively small area in the world.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Indian Spiritual Music": {
+        "website": "http://radcap.ru/mantras.html",
+        "stream": "http://213.141.131.10:8002/mantras",
+        "genres": [
+            "indian",
+            "hindi",
+            "spiritual",
+            "variety",
+            "folk"
+        ],
+        "description": "Mantra (“an instrument for the implementation of a mental act”, in a different interpretation, “verse”, “spell”, “magic”) is a sacred text, word or syllable in Hinduism, Buddhism and Jainism, which usually requires accurate reproduction of the sounds that make it up.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Oceanian / Australian Music": {
+        "website": "http://radcap.ru/oceania.html",
+        "stream": "http://213.141.131.10:8002/oceania",
+        "genres": [
+            "oceanic",
+            "australian",
+            "pacific",
+            "folk"
+        ],
+        "description": "Australian music is the musical culture of the Australian continent. The formation of Australian music was influenced by two factors: the aboriginal musical culture and the musical culture of the European colonialists introduced from the 18th century, which was based on English music.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Fado Music": {
+        "website": "http://radcap.ru/fado.html",
+        "stream": "http://213.141.131.10:8002/fado",
+        "genres": [
+            "portuguese",
+            "folk"
+        ],
+        "description": "Portuguese folk music.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Medieval Folk Music": {
+        "website": "http://radcap.ru/medievalfolk.html",
+        "stream": "http://213.141.131.10:8002/medievalfolk",
+        "genres": [
+            "medieval",
+            "folk",
+            "european"
+        ],
+        "description": "Medieval Folk is music performed on ancient instruments, recreating the authentic atmosphere of the Middle Ages, shimmering with colorful melodies, telling about epic holidays and the everyday life of ordinary peasants. For the most part, the music is bright and light, revealing the era of the Middle Ages mainly from the positive side. Compositions can be both completely instrumental and vocal, which is quite common. Medieval Folk groups draw inspiration mainly from the musical heritage of Europe, often performing traditional European songs.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Klezmer Music": {
+        "website": "http://radcap.ru/klezmer.html",
+        "stream": "http://79.120.39.202:8002/klezmer",
+        "genres": [
+            "hebrew",
+            "folk",
+            "jewish"
+        ],
+        "description": "Jewish music is everyday, secular and cult music of the Jewish diaspora, as well as the work of Jewish composers who write on the basis of Jewish musical folklore.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Far Eastern Traditional Music": {
+        "website": "http://radcap.ru/fareast.html",
+        "stream": "http://79.111.119.111:8002/fareast",
+        "genres": [
+            "asian",
+            "folk",
+            "variety"
+        ],
+        "description": "The region of the Far East throughout history has developed with the centrism of China. The influence of Chinese civilization, its philosophical and ideological doctrine of Confucianism, Buddhism and Taoism extended to all spheres of social life, which naturally led to a certain kinship in philosophy, theory, and specifically, in the forms and genres of music.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Slavic Neofolk Music": {
+        "website": "http://radcap.ru/slavonic.html",
+        "stream": "http://213.141.131.10:8002/slavonicneofolk",
+        "genres": [
+            "slavic",
+            "folk"
+        ],
+        "description": "Slavic folk is a complex of modern musical styles based on the traditional music of the Slavic peoples.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Traditional Latin Music": {
+        "website": "http://radcap.ru/latin.html",
+        "stream": "http://79.120.39.202:8002/salsa",
+        "genres": [
+            "latin",
+            "spanish",
+            "salsa",
+            "folk"
+        ],
+        "description": "Latin American music (Spanish musica latinoamericana) is a generalized name for the musical styles and genres of Latin American countries, as well as the music of people from these countries who compactly live in other states and form large Latin American communities (for example, in the USA). In colloquial speech, the abbreviated name \"Latin music\" (Spanish musica latina) is often used.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Afrobeat Music": {
+        "website": "http://radcap.ru/afrobeat.html",
+        "stream": "http://79.120.39.202:8002/afrobeat",
+        "genres": [
+            "african",
+            "beat",
+            "dance",
+            "hip hop",
+            "R&B",
+            "funk",
+            "jazz",
+            "folk"
+        ],
+        "description": "Afrobeat (eng. Afrobeat) is a musical genre that combines a bright, dance, guitar-wind highlife genre with African-American music - funk and jazz. The afrobeat is characterized by large instrumental ensembles, long rhythmic works, improvisation, which greatly brings the genre closer to jazz, and politicized texts. Its main developer is Nigerian multi-instrumentalist and leader of Nigeria '70 (formerly known as Koola Lobitos) Fela Kuti, who coined the name of the genre as early as 1963 and popularized the genre in the 1970s. In the 21st century, the term afrobeats has emerged, which is often referred to as popular Ghanaian music, hiplife, Afro-pop or popular Nigerian music, in which afrobeat is often mixed with highlife, fuji, juju, hip-hop and RnB.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Zydeco Music": {
+        "website": "http://radcap.ru/zydeco.html",
+        "stream": "http://213.141.131.10:8002/zydeco",
+        "genres": [
+            "creole",
+            "cajun",
+            "folk"
+        ],
+        "description": "Zydeco (English zydeco) is a musical style that originated in the early 20th century in the southwestern regions of Louisiana among the Creole and Cajun population. Characteristic features are abundant syncopation and fast tempo.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Andean Music": {
+        "website": "http://radcap.ru/andean.html",
+        "stream": "http://213.141.131.10:8002/andean",
+        "genres": [
+            "south american",
+            "latin",
+            "spanish",
+            "portuguese",
+            "folk"
+        ],
+        "description": "Latin American music (Spanish: Musica Latinoamericana) is a generalized name for the musical styles and genres of Latin American countries, as well as the music of people from these countries who compactly live in other states and form large Latin American communities (for example, in the USA). In colloquial speech, the abbreviated name \"Latin music\" (Spanish musica latina) is often used.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Music of Siberia / Mongolia": {
+        "website": "http://radcap.ru/siberia.html",
+        "stream": "http://79.111.119.111:8002/siberia",
+        "genres": [
+            "siberian",
+            "folk"
+        ],
+        "description": "The first evidence of the origin of the musical culture of Siberia is found in archaeological sites. Rock paintings (petroglyphs) depicting rituals accompanied by music were found in the caves of the Altai Mountains (Stone, Denisova, Ust-Karakol, Kara-Bom, Terrible), Irkutsk region (Elantsy), Tuva (Chinge-Dag-Uzhu, Pestunovka cave ”), Khakassia (“Dvuglazka” grotto). As a result of excavations in Siberia, samples (fragments) of some musical instruments (Scythian harp), various decoys for luring birds and beasts, human figurines were found, which gave an idea of the elements of the shaman's ritual dance and other ritual dances. Ancient musical instruments have been preserved in the traditional cultures of the indigenous peoples of Siberia (tambourine, flute, vargan, and others).",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - African Folk Music": {
+        "website": "http://radcap.ru/africanfolk.html",
+        "stream": "http://79.120.39.202:8002/africanfolk",
+        "genres": [
+            "african",
+            "folk",
+            "drums"
+        ],
+        "description": "The term \"African music\" refers to the music of the peoples south of the Sahara desert. Music is distinguished by a complex rhythmic structure and originality of musical modes for each ethnic group. An important role in traditional music is played by a variety of percussion (drums, sansa, xylophone) and wind instruments (various versions of the flute, horn). From stringed instruments, a musical bow, harp, bark, mbet, stringed wind instrument gur and others are used. Many African languages are tonal, which has played a role in the corresponding rises and falls in musical compositions.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Middle Eastern Traditional Music": {
+        "website": "http://radcap.ru/middleeast.html",
+        "stream": "http://79.111.119.111:8002/middleeast",
+        "genres": [
+            "middle eastern",
+            "folk"
+        ],
+        "description": "The music of the Middle East is an important part of world culture. Its roots are in the musical traditions of the ancient Arabs, Persians, Egyptians, Jews, Greeks and other peoples who lived in North Africa, the Arabian Peninsula and the Mediterranean. It differs from Western music in its special tonal structure, increased attention to love lyrics, philosophy and mysticism. Due to rigid musical canons, many features of the ancient musical culture of the Middle East have survived to this day.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Tango Music": {
+        "website": "http://radcap.ru/tango.html",
+        "stream": "http://79.120.39.202:8002/tango",
+        "genres": [
+            "tango",
+            "argentine",
+            "folk",
+            "dance"
+        ],
+        "description": "Tango (Spanish tango) - Argentine folk dance; a pair dance of free composition, characterized by an energetic and clear rhythm. Originally performed exclusively by men.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Flamenco Music": {
+        "website": "http://radcap.ru/flamenco.html",
+        "stream": "http://79.111.14.76:8002/flamenco",
+        "genres": [
+            "flamenco",
+            "spanish",
+            "folk",
+            "dance"
+        ],
+        "description": "Flamenco (Spanish flamenco) is a traditional music and dance style originating from Andalusia (Spain); it is a fusion of musical accompaniment, singing and dancing. The style is represented by several dozen varieties (more than 50). Flamenco dances and songs, as a rule, are accompanied by a guitar and percussion: rhythmic clapping of hands, playing on a percussion box (cajon); sometimes castanets.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - European Folk Music": {
+        "website": "http://radcap.ru/europeanfolk.html",
+        "stream": "http://213.141.131.10:8002/europeanfolk",
+        "genres": [
+            "european",
+            "folk"
+        ],
+        "description": "Folk music, musical folklore - musical and poetic creativity of the people, an integral part of folk art, existing, as a rule, in oral form, passed down from generation to generation. Since folk music is known to all socio-historical formations (both oral and written), it should be considered not only as a component of folk art, but also, in a broader sense, as a branch (root) of musical art. One of the main branches, which is usually compared with popular and academic music. There is also a definition of the term \"folk music\" - the traditional music of a single people or culture.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Gospel / Spirituals Music": {
+        "website": "http://radcap.ru/gospel.html",
+        "stream": "http://79.111.14.76:8002/gospel",
+        "genres": [
+            "religious",
+            "gospel",
+            "spiritual",
+            "folk"
+        ],
+        "description": "Gospel, gospelz (eng. Gospel music - gospel music) is a genre of sacred Christian music that developed in the first third of the 20th century in the United States. A distinction is usually made between Negro gospel and white gospel. Spirituals, Spiritual music, are spiritual songs of African Americans.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Laiko Music": {
+        "website": "http://radcap.ru/laiko.html",
+        "stream": "http://79.111.119.111:8002/laika",
+        "genres": [
+            "greek",
+            "folk"
+        ],
+        "description": "Until the 1930s, Greek music was dominated by two musical genres: Greek folk music (including kleft songs) and the elafro song genre (literally translated as \"light song\"). The latter was represented by ensembles of singers, musicians and solo artists such as Cleon Triantafyllou and Nikos Gounaris.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Orthodox Spiritual Music": {
+        "website": "http://radcap.ru/orthodox.html",
+        "stream": "http://79.111.14.76:8002/orthodox",
+        "genres": [
+            "spiritual",
+            "folk"
+        ],
+        "description": "Orthodox music is a vernacular phrase that usually refers to music associated mainly with the worship of the Byzantine rite in the Orthodox Church or with the Orthodox worship of Ancient Rus'. However, this phrase refers to various types of both Orthodox liturgical and non-liturgical singing.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Russian Folk Music": {
+        "website": "http://radcap.ru/russian.html",
+        "stream": "http://79.120.77.11:8002/russianfolk",
+        "genres": [
+            "russian",
+            "folk"
+        ],
+        "description": "Russian folk song is a song, the words and music of which have developed historically in the course of the development of Russian culture.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Indian Classical / Folk Music": {
+        "website": "http://radcap.ru/indian.html",
+        "stream": "http://79.111.14.76:8002/indianfolk",
+        "genres": [
+            "indian",
+            "folk",
+            "classical"
+        ],
+        "description": "Indian classical music is one of the oldest complex musical traditions in the world.",
+        "discontinued": false,
+        "location": ""
+    },
+    "Radio Caprice - Alternative Country Music": {
+        "website": "http://radcap.ru/altcountry.html",
+        "stream": "http://79.111.119.111:8002/altcountry",
+        "genres": [
+            "country",
+            "alternative"
+        ],
+        "description": "Alternative country (alt-country) is a sub-style of country music. Dedicated to distinguish country underground performers from mainstream country and \"commercial\" pop-country direction. The term \"alternative country\", like any other term referring to \"alternative\", can be applied to a wide range of musical ideas that have appeared over the years: for example, honky-tonk has become an alternative to the \"old-fashioned\" style (old-timey) and country yodel , \"Bakersfield sound\" (Bakersfield sound) - an alternative to Nashville country of the 1950s, etc.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Bluegrass Music": {
+        "website": "http://radcap.ru/bluegrass.html",
+        "stream": "http://79.111.14.76:8002/bluegrass",
+        "genres": [
+            "bluegrass",
+            "country"
+        ],
+        "description": "Bluegrass is a genre of American country music originating from the Appalachian region, primarily the state of Kentucky (“bluegrass state”), to which it owes its name (bluegrass-bluegrass). This style has its roots in Irish, Scottish and English traditional music. Bluegrass is a bizarre mixture of the music of immigrants from the British Isles, as well as African American jazz and blues.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Country Music": {
+        "website": "http://radcap.ru/country.html",
+        "stream": "http://79.120.77.11:8002/country",
+        "genres": [
+            "country",
+            "folk"
+        ],
+        "description": "Country, country music (from the English country \"rural, rural\") - a generalized name for a form of music-making that arose among the white population of rural areas of the south and west of the United States, US folk music, the origins of which date back to the first white settlements of colonists from Europe (mainly Anglo-Celts ), who settled in the New World as early as the 17th-18th centuries. It developed by the beginning of the 20th century as a result of a long process of mixing archaic forms of musical folklore of various European peoples. It is divided into rural (country) and cowboy song and ballad (western). It is now almost entirely in the realm of commercial entertainment music.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Country Pop Music": {
+        "website": "http://radcap.ru/countrypop.html",
+        "stream": "http://79.111.119.111:8002/countrypop",
+        "genres": [
+            "country",
+            "pop"
+        ],
+        "description": "Country pop is a subgenre of country music. The reunion of country and pop began in the 1950s when studio executives Chet Atkins and Owen Bradley wanted to create a new kind of music for the young crowd that had grown up after \"rockabilly had stolen much of the country music youth audience\".",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Western Swing Music": {
+        "website": "http://radcap.ru/westernswing.html",
+        "stream": "http://79.120.12.130:8002/westernswing",
+        "genres": [
+            "swing",
+            "country"
+        ],
+        "description": "Western swing (English western swing, from western and swing) is a style of dance music that was created among traditional string ensembles for the white population of the United States in the 1920s. Having developed from a domestic musical genre, it became popular in the southwest, where there were stable dance traditions. The founders of the movement were innovative and eclectic, freely adopting the features of different musical styles, including jazz. At the same time, Western swing is considered one of the most distinctive genres in the musical history of the American South.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Honky-Tonk Music": {
+        "website": "http://radcap.ru/honkytonk.html",
+        "stream": "http://213.141.131.10:8002/honkytonk",
+        "genres": [
+            "ragtime",
+            "country"
+        ],
+        "description": "The first musical genre known as honky-tonk was a kind of ragtime piano playing, with an increased rhythm, sometimes even out of tune with the composition.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Global Blues Radio": {
+        "website": "https://www.globalbluesradio.com/globalbluesradio",
+        "stream": "https://login.webinternetradio.com/globalbluesradio",
+        "genres": [
+            "blues",
+            "americana",
+            "oldies",
+            "guitar",
+            "classics"
+        ],
+        "description": "A legendary blues mix.",
+        "discontinued": false,
+        "location": "Stroudsburg, Pennsylvania, USA"
+    },
+    "Global Blues Radio - Blues Legends Radio": {
+        "website": "https://www.globalbluesradio.com/blueslegendsradio",
+        "stream": "https://login.webinternetradio.com/blueguitar",
+        "genres": [
+            "blues",
+            "guitar",
+            "americana"
+        ],
+        "description": "A traditional electric blues mix.",
+        "discontinued": false,
+        "location": "Stroudsburg, Pennsylvania, USA"
+    },
+    "Global Blues Radio - Blues Scene Radio": {
+        "website": "https://www.globalbluesradio.com/bluessceneradio",
+        "stream": "https://login.webinternetradio.com/indie",
+        "genres": [
+            "blues",
+            "contemporary",
+            "indie",
+            "americana"
+        ],
+        "description": "A contemporary blues mix.",
+        "discontinued": false,
+        "location": "Stroudsburg, Pennsylvania, USA"
+    },
+    "Global Blues Radio - Blues Rock Radio": {
+        "website": "https://www.globalbluesradio.com/bluesrockradio",
+        "stream": "https://login.webinternetradio.com/thecountryguitar",
+        "genres": [
+            "blues",
+            "rock",
+            "guitar",
+            "country"
+        ],
+        "description": "A rockin' blues mix.",
+        "discontinued": false,
+        "location": "Stroudsburg, Pennsylvania, USA"
+    },
+    "Global Blues Radio - Indie Blues Radio": {
+        "website": "https://www.globalbluesradio.com/indiebluesradio",
+        "stream": "https://login.webinternetradio.com/indieblues",
+        "genres": [
+            "blues",
+            "indie",
+            "new artists"
+        ],
+        "description": "An indepdendent artist blues mix.",
+        "discontinued": false,
+        "location": "Stroudsburg, Pennsylvania, USA"
+    },
+    "NOODS Radio": {
+        "website": "https://noodsradio.com",
+        "stream": "https://noodsradio.out.airtime.pro/noodsradio_a",
+        "genres": [
+            "pop",
+            "talk",
+            "new artists",
+            "community"
+        ],
+        "description": "Noods Radio is an independent radio station broadcasting from Bristol's Stokes Croft. Founded in 2015 and born from Sunday morning music sessions, the station has grown to become the home of faces from around the globe. Tune in with open ears for daily shows from our misfits, dancers, collectors and selectors.",
+        "discontinued": false,
+        "location": "Bristol, England, United Kingdom"
+    },
+    "DParkRadio Main Stream": {
+        "website": "https://dparkradio.com",
+        "stream": "https://strw1.openstream.co/274",
+        "genres": [
+            "kids",
+            "soundtracks"
+        ],
+        "description": "Remember the first time you walked under the tunnel into the Magic Kingdom? That incredible feeling you had knowing you were really there, this was really happening! That is what DParkRadio is all about. The Parades, The Attractions, and of course the Fireworks. We want to give you that feeling of being there everyday! At Work, At Home, and On The Go! No matter where you are, DParkRadio.com will bring you home to the greatest theme parks on the planet! Enjoy!",
+        "discontinued": false,
+        "location": "Montreal, Quebec, Canada"
+    },
+    "DParkRadio Background Area Music": {
+        "website": "https://dparkradio.com",
+        "stream": "https://strw1.openstream.co/578",
+        "genres": [
+            "soundtracks",
+            "ambient",
+            "kids"
+        ],
+        "description": "Background and Area Music From The Disney Parks",
+        "discontinued": false,
+        "location": "Montreal, Quebec, Canada"
+    },
+    "DParkRadio Channel 3 Main Street": {
+        "website": "https://dparkradio.com",
+        "stream": "https://strw1.openstream.co/1246",
+        "genres": [
+            "soundtracks",
+            "kids"
+        ],
+        "description": "An incredible collection of Music From Disney Park Main Streets From All Around The World",
+        "discontinued": false,
+        "location": "Montreal, Quebec, Canada"
+    },
+    "DParkRadio Guest TV": {
+        "website": "https://dparkradio.com",
+        "stream": "https://strw1.openstream.co/1474",
+        "genres": [
+            "kids",
+            "news",
+            "talk",
+            "soundtracks"
+        ],
+        "description": "Disney's Guest TV. All of the Guest TV programs from the past to today from resorts, Cruise line, and more!",
+        "discontinued": false,
+        "location": "Montreal, Quebec, Canada"
+    },
+    "103.3 Asheville FM": {
+        "website": "https://www.ashevillefm.org",
+        "stream": "https://listen.ashevillefm.org/stream",
+        "genres": [
+            "freeform",
+            "community",
+            "variety",
+            "new artists",
+            "local"
+        ],
+        "description": "We keep Asheville thriving by producing diverse and eclectic programming that inspires our listeners to build connections across our communities and to discover new music and ideas.",
+        "discontinued": false,
+        "location": "Asheville, North Carolina, USA"
+    },
+    "Subsonic Radio One": {
+        "website": "https://www.subsonicradio.com/station/requests",
+        "stream": "https://www.subsonicradio.com:8443/requests.mp3",
+        "genres": [
+            "soundtracks",
+            "variety"
+        ],
+        "description": "Audio tracks from the attractions, resorts, and parades that you have come to cherish in the past and present.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio Two - Extended Plays": {
+        "website": "https://www.subsonicradio.com/station/longbois",
+        "stream": "https://www.subsonicradio.com:8443/longbois.mp3",
+        "genres": [
+            "soundtracks",
+            "variety"
+        ],
+        "description": "Extended audio tracks from the attractions, resorts, and parades that you have come to cherish in the past and present.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Background": {
+        "website": "https://www.subsonicradio.com/station/background",
+        "stream": "https://www.subsonicradio.com:8443/background.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Staff Picks": {
+        "website": "https://www.subsonicradio.com/station/staff_picks",
+        "stream": "https://www.subsonicradio.com:8443/staff_picks.mp3",
+        "genres": [
+            "soundtracks",
+            "variety"
+        ],
+        "description": "The best music from Disney's parks!",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Great Music Ride": {
+        "website": "https://www.subsonicradio.com/station/gmr",
+        "stream": "https://www.subsonicradio.com:8443/gmr.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "Audio tracks from Disney rides.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Future Land": {
+        "website": "https://www.subsonicradio.com/station/future_land",
+        "stream": "https://www.subsonicradio.com:8443/future_land.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "A collection of music from Epcot's Future World, Magic Kingdom (and DL)'s Tomorrowland that all has a certain \"feel\" to it. All instrumentals, all awesome music!",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Main Street USA": {
+        "website": "https://www.subsonicradio.com/station/main_street",
+        "stream": "https://www.subsonicradio.com:8443/main_street.mp3",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "Music from the outdoor area of Main Street USA.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Living Seas": {
+        "website": "https://www.subsonicradio.com/station/living_seas",
+        "stream": "https://www.subsonicradio.com:8443/living_seas.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "Music from the Disney's Living Seas attraction at Epcot.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Star Tunnel": {
+        "website": "https://www.subsonicradio.com/station/star_tunnel",
+        "stream": "https://www.subsonicradio.com:8443/star_tunnel.mp3",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "Music from Disney's Space Mountain attrachment.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Dole Whip": {
+        "website": "https://www.subsonicradio.com/station/dole_whip",
+        "stream": "https://www.subsonicradio.com:8443/dole_whip.mp3",
+        "genres": [
+            "soundtracks",
+            "island",
+            "hawaiian",
+            "pacific",
+            "tropical"
+        ],
+        "description": "Plays Adventureland, Tiki, Polynesian, Hawaiian music.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Holiday": {
+        "website": "https://www.subsonicradio.com/station/holiday",
+        "stream": "https://www.subsonicradio.com:8443/holiday.mp3",
+        "genres": [
+            "soundtracks",
+            "holiday"
+        ],
+        "description": "Holiday music from Disney parks.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Halloween": {
+        "website": "https://www.subsonicradio.com/station/halloween",
+        "stream": "https://www.subsonicradio.com:8443/halloween.mp3",
+        "genres": [
+            "soundtracks",
+            "holiday"
+        ],
+        "description": "Halloween music from Disney parks and movies.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Wilderness Junction": {
+        "website": "https://www.subsonicradio.com/station/wilderness_junction",
+        "stream": "https://www.subsonicradio.com:8443/wilderness_junction.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient",
+            "country",
+            "guitar"
+        ],
+        "description": "Music from Disney's Fort Wilderness Resort & Campground.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - WEDWay PeopleMover": {
+        "website": "https://www.subsonicradio.com/station/wedway",
+        "stream": "https://www.subsonicradio.com:8443/wedway.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "Music and narrative audio from Disney's WEDWay PeopleMovier.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Tangaroa Terrace": {
+        "website": "https://www.subsonicradio.com/station/tangaroa",
+        "stream": "https://www.subsonicradio.com:8443/tangaroa.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient",
+            "tropical",
+            "hawaiian",
+            "island"
+        ],
+        "description": "Music from Disney's Tangaroa Terrace Tropical Bar & Grill restaurant.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Subsonic Radio - Soarin": {
+        "website": "https://www.subsonicradio.com/station/soarin",
+        "stream": "https://www.subsonicradio.com:8443/soarin.mp3",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "Music from the Disney's Soarin attaction at Epcot.",
+        "discontinued": false,
+        "location": "London, Ohio, USA"
+    },
+    "Mouse Ears Radio": {
+        "website": "http://mouseearsradio.com",
+        "stream": "https://13683.live.streamtheworld.com/SAM06AAC296.aac",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "The station for Disney fans! Streaming Disney Park music 24/7.",
+        "discontinued": false,
+        "location": "Maple Valley, Washington, USA"
+    },
+    "93.7 KDRK The Mountain": {
+        "website": "https://937themountain.com",
+        "stream": "https://ice6.securenetsystems.net/KDRK",
+        "genres": [
+            "country",
+            "contemporary"
+        ],
+        "description": "Spokane's home for New Country!",
+        "discontinued": false,
+        "location": "Spokane, Washington, USA"
+    },
+    "Radio Wonderland": {
+        "website": "https://www.radiowonderland.co.uk/listen-live-main-station",
+        "stream": "https://ctrl.radio-connected.co.uk/radio/8040/radio.mp3",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "Playing Non-Stop Disney Music. Fall down a rabbit hole and have a crazy tea party while you listen to the best Disney classics on Radio wonderland Live From The UK.",
+        "discontinued": false,
+        "location": "Sheffield, England, United Kingdom"
+    },
+    "Radio Wonderland 2": {
+        "website": "https://www.radiowonderland.co.uk/listen-live-theme-park",
+        "stream": "https://ctrl.radio-connected.co.uk/radio/8050/radio.mp3",
+        "genres": [
+            "soundtracks",
+            "ambient"
+        ],
+        "description": "Playing Non-Stop Disney Theme Park",
+        "discontinued": false,
+        "location": "Sheffield, England, United Kingdom"
+    },
+    "Radio Wonderland 3": {
+        "website": "https://www.radiowonderland.co.uk/listen-live-mellow",
+        "stream": "https://ctrl.radio-connected.co.uk/radio/8060/radio.mp3",
+        "genres": [
+            "soundtracks",
+            "relaxing"
+        ],
+        "description": "Playing Non-Stop Disney Mellow",
+        "discontinued": false,
+        "location": "Sheffield, England, United Kingdom"
+    },
+    "Box Office Radio": {
+        "website": "https://boxofficeradio.co.uk",
+        "stream": "https://s2.citrus3.com:8400/stream",
+        "genres": [
+            "soundtracks",
+            "musical"
+        ],
+        "description": "Box Office Radio is the UK's only \"Stage & Screen\" station, playing the biggest variety of music from the musicals and movies you love.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
     }
 }
