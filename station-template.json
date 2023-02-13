@@ -1,0 +1,65 @@
+{
+    "": {
+        "shortname": "",
+        "website": "",
+        "alternateSites": [
+            {
+                "title": "",
+                "url": ""
+            }
+        ],
+        "outdatedSites": [
+            {
+                "title": "",
+                "url": ""
+            }
+        ],
+        "stream": "",
+        "alternateStreams": [
+            ""
+        ],
+        "outdatedStreams": [
+            ""
+        ],
+        "genres": [
+            ""
+        ],
+        "slogan": "",
+        "description": "",
+        "discontinued": false,
+        "location": "",
+        "address": "",
+        "contacts": [
+            {
+                "type": "",
+                "title": "",
+                "value": ""
+            }
+        ],
+        "callsigns": [
+            {
+                "fm": "",
+                "am": "",
+                "sign": "",
+                "inspectionFile": ""
+            }
+        ],
+        "socialProfiles": [
+            {
+                "type": "",
+                "handle": "",
+                "url": ""
+            }
+        ],
+        "logo": "",
+        "otherImages": [
+            ""
+        ],
+        "policies": [
+            {
+                "title": "",
+                "url": ""
+            }
+        ]
+    }
+}

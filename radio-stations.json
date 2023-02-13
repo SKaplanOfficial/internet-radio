@@ -11643,7 +11643,7 @@
             "european",
             "folk"
         ],
-        "description": "Folk music, musical folklore - musical and poetic creativity of the people, an integral part of folk art, existing, as a rule, in oral form, passed down from generation to generation. Since folk music is known to all socio-historical formations (both oral and written), it should be considered not only as a component of folk art, but also, in a broader sense, as a branch (root) of musical art. One of the main branches, which is usually compared with popular and academic music. There is also a definition of the term \"folk music\" - the traditional music of a single people or culture.",
+        "description": "Folk music, musical folklore - musical and poetic creativity of the people, an integral part of folk art, existing, as a rule, in oral form, passed down from generation to generation. Since folk music is known to all socio-historical formations (both oral and written), it should be considered not only as a component of folk art, but also, in a broader sense, as a branch (root) of musical art. One of the main branches, which is usually compared with popular and classical music. There is also a definition of the term \"folk music\" - the traditional music of a single people or culture.",
         "discontinued": false,
         "location": "Moscow, Russia"
     },
@@ -13242,7 +13242,7 @@
             "classical",
             "baroque"
         ],
-        "description": "Baroque music is a period in the development of European academic music, approximately between 1600 and 1750. Baroque music appeared at the end of the Renaissance and preceded the music of classicism.",
+        "description": "Baroque music is a period in the development of European classical music, approximately between 1600 and 1750. Baroque music appeared at the end of the Renaissance and preceded the music of classicism.",
         "discontinued": false,
         "location": "Moscow, Russia"
     },
@@ -13285,7 +13285,7 @@
             "avant-garde",
             "classical"
         ],
-        "description": "Avant-garde music, musical avant-garde (English avant-garde music) is a type of modern academic music, some elements of the aesthetics of which are radically innovative.",
+        "description": "Avant-garde music, musical avant-garde (English avant-garde music) is a type of modern classical music, some elements of the aesthetics of which are radically innovative.",
         "discontinued": false,
         "location": "Moscow, Russia"
     },
@@ -13307,9 +13307,10 @@
             "violin",
             "viola",
             "cello",
-            "strings"
+            "strings",
+            "classical"
         ],
-        "description": "Different bowed instruments are characterized by a different arrangement: compact viola and violin are comfortable to hold on the shoulder, but bulky double bass and cello are placed vertically on the floor or on a special stand. In modern academic music-making, four string instruments are used: violin, viola, cello, double bass.",
+        "description": "Different bowed instruments are characterized by a different arrangement: compact viola and violin are comfortable to hold on the shoulder, but bulky double bass and cello are placed vertically on the floor or on a special stand. In modern classical music-making, four string instruments are used: violin, viola, cello, double bass.",
         "discontinued": false,
         "location": "Moscow, Russia"
     },
@@ -13379,5 +13380,287 @@
         "description": "Organ music (English Organ repertoire, French Musique d'orgue, German Orgelmusik) is music intended to be performed on the organ solo or accompanied by any other musical instruments.",
         "discontinued": false,
         "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Oratorio": {
+        "website": "http://radcap.ru/oratorio.html",
+        "stream": "http://79.120.12.130:8002/oratorio",
+        "genres": [
+            "choir",
+            "vocal",
+            "orchestral"
+        ],
+        "description": "Oratorio (Latin oratorium, Italian oratorio) is a major piece of music for choir, soloists and orchestra. In the past, oratorios were written only on subjects from the Holy Scriptures. The heyday of the oratorio came in the 17th century, during the time of Bach and Handel. It differs from the opera by the absence of stage action, and from the cantata by the larger size and branching of the plot. The oratorio itself includes choirs, recitatives, ensembles and individual orchestral episodes (which appeared for the first time in Handel's work).",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Lute / Archlute / Theorbo Music": {
+        "website": "http://radcap.ru/lute.html",
+        "stream": "http://79.120.12.130:8002/lute",
+        "genres": [
+            "strings",
+            "instrumental"
+        ],
+        "description": "The lute (Polish lutnia, Italian liuto, Arabic al'ud - tree) is a stringed plucked musical instrument with frets on the neck and an oval body. Medieval lutes had four or five paired strings. Sound extraction was carried out using a plectrum. In the Baroque era, the number of strings reached fourteen (sometimes up to nineteen). In the 16th century, the lute became the main solo instrument of its time. The performer on the lute is called the lute player, and the master who makes the instruments is called the lute.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Gregorian Chants": {
+        "website": "http://radcap.ru/chant.html",
+        "stream": "http://213.141.131.10:8002/chants",
+        "genres": [
+            "vocal",
+            "choir",
+            "religious"
+        ],
+        "description": "Gregorian chant (Latin cantus Gregorianus; English Gregorian chant, French chant gregorien, German gregorianischer Gesang, Italian canto gregoriano), Gregorian chant, cantus planus is a liturgical monody of the Roman Catholic Church.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Harp Music": {
+        "website": "http://radcap.ru/harp.html",
+        "stream": "http://213.141.131.10:8002/harp",
+        "genres": [
+            "harp",
+            "instrumental"
+        ],
+        "description": "The harp is a stringed plucked musical instrument, consisting of two frames located at an angle, between which many strings are stretched. One of the oldest instruments, a symbol of Ireland. In the 18th century, the pedal harp was invented and became the standard in classical music.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Cello / Violencello Music": {
+        "website": "http://radcap.ru/cello.html",
+        "stream": "http://79.120.12.130:8002/cello",
+        "genres": [
+            "cello",
+            "instrumental"
+        ],
+        "description": "Cello (Italian violoncello, abbr. cello; German Violoncello; French violoncelle; English cello) is a stringed bowed musical instrument of the bass and tenor register, known from the first half of the 16th century, of the same structure as the violin or viola, however significantly larger sizes. The cello has wide expressive possibilities and carefully developed performance technique, it is used as a solo, ensemble and orchestral instrument.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Renaissance Music": {
+        "website": "http://radcap.ru/renaissance.html",
+        "stream": "http://213.141.131.10:8002/renaissance",
+        "genres": [
+            "renaissance"
+        ],
+        "description": "Renaissance music refers to the period in the development of European music between about 1400 and 1600. ",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Classical Choral / Vocal Music": {
+        "website": "http://radcap.ru/choral.html",
+        "stream": "http://79.120.39.202:8002/chorus",
+        "genres": [
+            "choral",
+            "vocal",
+            "classical"
+        ],
+        "description": "Mix of Cantata, Missa, and Oratorio music.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Classical Symphonic Music": {
+        "website": "http://radcap.ru/symphonic.html",
+        "stream": "http://79.120.77.11:8002/classical",
+        "genres": [
+            "classical",
+            "symphony"
+        ],
+        "description": "Classical symphonic music is a concept that characterizes and unites a wide range of musical forms and genres that have specific features, attributive properties and the most important internal qualities of symphony.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Sonatas": {
+        "website": "http://radcap.ru/sonata.html",
+        "stream": "http://213.141.131.10:8002/sonata",
+        "genres": [
+            "instrumental",
+            "chamber"
+        ],
+        "description": "Sonata (Italian sonare - to sound) is a genre of instrumental music, as well as a musical form called sonata form. Composed for chamber composition of instruments and piano. Usually solo or duet. A number of instrumental pieces written for many orchestral compositions are usually called not a sonata, but a grand concerto (Italian: concerto grosso). Also, the word \"sonata\" can be used to refer to a collection of pieces in one whole, because some of these pieces are written in sonata form.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Classical Guitar Music": {
+        "website": "http://radcap.ru/classguitar.html",
+        "stream": "http://213.141.131.10:8002/classguitar",
+        "genres": [
+            "guitar"
+        ],
+        "description": "The classical (Spanish, six-string) guitar is a stringed plucked musical instrument. The main representative of the family of guitars in general, and acoustic guitars in particular. The first written mention of a stringed instrument, which was the progenitor of the modern guitar, dates back to the 2nd millennium BC.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Harpsichord Music": {
+        "website": "http://radcap.ru/clavecin.html",
+        "stream": "http://213.141.131.10:8002/clavecin",
+        "genres": [
+            "harpsichord",
+            "instrumental"
+        ],
+        "description": "Harpsichord (from French clavecin; Italian cembalo, clavicembalo; English harpsichord) is a keyboard stringed musical instrument with a plucked sound extraction method. A musician who performs works on the harpsichord and its varieties is called a harpsichordist.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Contempoary Classical Music": {
+        "website": "http://radcap.ru/contclass.html",
+        "stream": "http://79.111.119.111:8002/contclass",
+        "genres": [
+            "contemporary",
+            "classical"
+        ],
+        "description": "Classical music of the 20th century is classical music created between 1900 and 2000. This period is characterized by a huge variety of musical styles and does not have one musical current that prevailed throughout its duration. Innovative tendencies characteristic of many styles of music of the 20th century are often referred to in European literature by the concept of \"New Music\", introduced in 1919 by Paul Becker and covering the period from about 1910 until the present.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Classical Piano Music": {
+        "website": "http://radcap.ru/classicalpiano.html",
+        "stream": "http://79.120.39.202:8002/classpiano",
+        "genres": [
+            "classical",
+            "piano",
+            "instrumental"
+        ],
+        "description": "In the modern world, there are a huge number of different musical instruments, each of which has its own unique history. The history of the piano stands apart, if only because the piano is one of the most popular musical instruments.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Radio Caprice - Symphony Music": {
+        "website": "http://radcap.ru/symphony.html",
+        "stream": "http://79.111.14.76:8002/symphony",
+        "genres": [
+            "symphony"
+        ],
+        "description": "A symphony is a piece of music, usually in cyclic sonata form, intended to be performed, as a rule, by a symphony orchestra; one of the most important genres of symphonic music. In addition to the orchestra, a symphony can include a choir and vocals (there are symphonies-cantatas); a symphony can also approach other genres, for example, there are symphonies-suites, symphonies-rhapsodies, symphonies-fantasies, symphonies-ballads, symphonies-legends, symphonies-poems, symphonies-requiems, symphonies-ballets, symphonies-dramas (cantata kind) and theatrical symphonies as a kind of opera.",
+        "discontinued": false,
+        "location": "Moscow, Russia"
+    },
+    "Paranormal UK Radio": {
+        "website": "http://www.paukradio.com",
+        "stream": "https://s6.citrus3.com:8014/stream",
+        "genres": [
+            "talk",
+            "paranormal"
+        ],
+        "description": "The BEST Paranormal Radio Network in the world! It is our aim to provide our listeners with the BEST in quality Paranormal Talk Radio Programming with shows that cover a variety of topics including Cryptids, Ghosts, UFO's, conspiracies, High Strangeness and so much more. Our shows our updated weekly with new content, so please visit us often.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Real Roots Radio": {
+        "shortname": "Real Roots",
+        "website": "https://realrootsradio.com",
+        "alternateSites": [
+            {
+                "title": "WBZI Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WBZI"
+            },
+            {
+                "title": "WEDI Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WEDI_(AM)"
+            },
+            {
+                "title": "WKFI Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WKFI"
+            },
+            {
+                "title": "Real Roots Radio on TuneIn",
+                "url": "https://tunein.com/radio/Real-Roots-Radio-1500-s27713"
+            }
+        ],
+        "outdatedSites": [
+            {
+                "title": "",
+                "url": ""
+            }
+        ],
+        "stream": "https://ice7.securenetsystems.net/WBZI",
+        "alternateStreams": [
+            ""
+        ],
+        "outdatedStreams": [
+            ""
+        ],
+        "genres": [
+            "country",
+            "bluegrass",
+            "americana",
+            "news",
+            "talk"
+        ],
+        "slogan": "Playing the best in the REAL stuff.",
+        "description": "Real Roots Radio broadcasts the finest selection of traditional country, bluegrass, and Americana music. Enjoy live personalities, national, state, and local news, and the best music you can find on the radio today. We have one of the most loyal listening audiences in the Miami Valley and the Dayton region and operate the only stations continually serving the rural, surrounding areas in southwestern Ohio.",
+        "discontinued": false,
+        "location": "Xenia, Ohio, USA",
+        "address": "Real Roots Radio, 23 East Second St., Xenia, OH 45385",
+        "contacts": [
+            {
+                "type": "phone",
+                "title": "Office",
+                "value": "866-372-3531"
+            },
+            {
+                "type": "phone",
+                "title": "Studio",
+                "value": "1-888-740-9444, ext. 4"
+            },
+            {
+                "type": "email",
+                "title": "",
+                "value": "info@realrootsradio.com"
+            }
+        ],
+        "callsigns": [
+            {
+                "fm": "100.3",
+                "am": "1500",
+                "sign": "WBZI",
+                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wbzi"
+            },
+            {
+                "fm": "106.7",
+                "am": "1090",
+                "sign": "WKFI",
+                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wkfi"
+            },
+            {
+                "fm": "105.5",
+                "am": "1130",
+                "sign": "WEDI",
+                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wedi"
+            }
+        ],
+        "socialProfiles": [
+            {
+                "type": "facebook",
+                "handle": "RealRootsRadio",
+                "url": "https://www.facebook.com/RealRootsRadio"
+            },
+            {
+                "type": "twitter",
+                "handle": "@realrootsradio",
+                "url": "https://twitter.com/realrootsradio"
+            },
+            {
+                "type": "instagram",
+                "handle": "@real_roots_radio",
+                "url": "https://www.instagram.com/real_roots_radio/"
+            },
+            {
+                "type": "youtube",
+                "handle": "@classiccountryradio",
+                "url": "https://www.youtube.com/user/classiccountryradio"
+            }
+        ],
+        "logo": "https://cdnrf.securenetsystems.net/file_radio/stations_large/WBZI/v5/logo.png?cb=20230213162846",
+        "otherImages": [
+            "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/294722422_10159473122841896_7285863616073958369_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a26aad&_nc_ohc=WTD14eHox1wAX_GcpbH&_nc_ht=scontent-bos5-1.xx&oh=00_AfCq9IFABrpj3TThLCt6tAPllfuGXJ5HC4o7YgyOFXZ9vw&oe=63F03CDD"
+        ],
+        "policies": [
+            {
+                "title": "Terms of Service",
+                "url": "https://realrootsradio.com/about-us/eoeterms-of-service/"
+            }
+        ]
     }
 }
