@@ -9518,7 +9518,7 @@
         "location": "Austin, Texas, USA"
     },
     "91.7 WSUM": {
-        "website": "",
+        "website": "https://wsum.org",
         "stream": "https://ice23.securenetsystems.net/WSUMFM",
         "genres": [
             "college",
@@ -9532,7 +9532,7 @@
         "location": "Madison, Wisconsin, USA"
     },
     "91.7 WSUM FreeFlow": {
-        "website": "",
+        "website": "https://wsum.org",
         "stream": "https://ice23.securenetsystems.net/FREEFLOW",
         "genres": [
             "college",
@@ -9696,7 +9696,7 @@
         "location": "Brooklyn, New York, USA"
     },
     "Gamesboro Radio": {
-        "website": "",
+        "website": "https://radio.gamesboro.org/public/gamesboro_radio",
         "stream": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
         "genres": [
             "video game music",
@@ -10136,7 +10136,7 @@
         "location": "London, England, United Kingdom"
     },
     "Megaton Cafe Radio": {
-        "website": "",
+        "website": "https://www.megatoncaferadio.com",
         "stream": "https://us2.internet-radio.com/proxy/megatoncafe?mp=/stream;",
         "genres": [
             "swing",
@@ -10680,7 +10680,7 @@
         "location": "Miami, Florida, USA"
     },
     "WLRN-FM Classical": {
-        "website": "",
+        "website": "https://www.wlrn.org/",
         "stream": "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1",
         "genres": [
             "classical"
@@ -11200,7 +11200,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Jazz, Funk & Soul": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=jazzfunksoul",
         "genres": [
             "jazz",
@@ -11215,7 +11215,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Progressive": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=progressive",
         "genres": [
             "rock",
@@ -11229,7 +11229,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Techno": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=techno",
         "genres": [
             "techno",
@@ -11241,7 +11241,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Trance": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=trance",
         "genres": [
             "trance",
@@ -11253,7 +11253,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - House": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=house",
         "genres": [
             "house",
@@ -11265,7 +11265,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Ambient & Chill": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=ambient",
         "genres": [
             "ambient",
@@ -11280,7 +11280,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Psychedelic": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=psychedelic",
         "genres": [
             "psychedelic",
@@ -11293,7 +11293,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Mixotic": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=mixotic",
         "genres": [
             "creative commons",
@@ -11306,7 +11306,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Dubstep": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=dubstep",
         "genres": [
             "dubstep",
@@ -11320,7 +11320,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Drum & Bass": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=drum",
         "genres": [
             "drums",
@@ -11334,7 +11334,7 @@
         "location": "Sofia, Bulgaria"
     },
     "Eilo Radio - Hard Techno": {
-        "website": "",
+        "website": "https://eilo.org",
         "stream": "https://eilo.org/streamer.php?ch=hard",
         "genres": [
             "techno",
@@ -12168,7 +12168,7 @@
         "location": "London, England, United Kingdom"
     },
     "Concertzender": {
-        "website": "",
+        "website": "https://www.concertzender.nl",
         "stream": "https://www.concertzender.nl/streams/live",
         "genres": [
             "classical",
@@ -13550,37 +13550,7 @@
     "Real Roots Radio": {
         "shortname": "Real Roots",
         "website": "https://realrootsradio.com",
-        "alternateSites": [
-            {
-                "title": "WBZI Wikipedia Article",
-                "url": "https://en.wikipedia.org/wiki/WBZI"
-            },
-            {
-                "title": "WEDI Wikipedia Article",
-                "url": "https://en.wikipedia.org/wiki/WEDI_(AM)"
-            },
-            {
-                "title": "WKFI Wikipedia Article",
-                "url": "https://en.wikipedia.org/wiki/WKFI"
-            },
-            {
-                "title": "Real Roots Radio on TuneIn",
-                "url": "https://tunein.com/radio/Real-Roots-Radio-1500-s27713"
-            }
-        ],
-        "outdatedSites": [
-            {
-                "title": "",
-                "url": ""
-            }
-        ],
         "stream": "https://ice7.securenetsystems.net/WBZI",
-        "alternateStreams": [
-            ""
-        ],
-        "outdatedStreams": [
-            ""
-        ],
         "genres": [
             "country",
             "bluegrass",
@@ -13588,79 +13558,976 @@
             "news",
             "talk"
         ],
-        "slogan": "Playing the best in the REAL stuff.",
         "description": "Real Roots Radio broadcasts the finest selection of traditional country, bluegrass, and Americana music. Enjoy live personalities, national, state, and local news, and the best music you can find on the radio today. We have one of the most loyal listening audiences in the Miami Valley and the Dayton region and operate the only stations continually serving the rural, surrounding areas in southwestern Ohio.",
         "discontinued": false,
-        "location": "Xenia, Ohio, USA",
-        "address": "Real Roots Radio, 23 East Second St., Xenia, OH 45385",
-        "contacts": [
-            {
-                "type": "phone",
-                "title": "Office",
-                "value": "866-372-3531"
-            },
-            {
-                "type": "phone",
-                "title": "Studio",
-                "value": "1-888-740-9444, ext. 4"
-            },
-            {
-                "type": "email",
-                "title": "",
-                "value": "info@realrootsradio.com"
-            }
+        "location": "Xenia, Ohio, USA"
+    },
+    "88.5 FM WXPN": {
+        "shortname": "WXPN",
+        "website": "https://xpn.org",
+        "stream": "https://wxpnhi.xpn.org/xpnhi-nopreroll",
+        "genres": [
+            "new artists",
+            "community",
+            "rock",
+            "blues",
+            "folk",
+            "jazz",
+            "public",
+            "world"
         ],
-        "callsigns": [
-            {
-                "fm": "100.3",
-                "am": "1500",
-                "sign": "WBZI",
-                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wbzi"
-            },
-            {
-                "fm": "106.7",
-                "am": "1090",
-                "sign": "WKFI",
-                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wkfi"
-            },
-            {
-                "fm": "105.5",
-                "am": "1130",
-                "sign": "WEDI",
-                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wedi"
-            }
+        "description": "WXPN is a nationally recognized leader in Triple A programming and the premier guide for discovering new and significant artists in rock, blues, roots, and folk. As the non-commercial, member-supported radio service of the University of Pennsylvania offers handcrafted curation of broadcast and digital programming, events, and local music journalism.",
+        "discontinued": false,
+        "location": "Philadelphia, Pennsylvania, USA"
+    },
+    "Radio X": {
+        "website": "https://www.radiox.co.uk/",
+        "stream": "https://media-ssl.musicradio.com/RadioXUK",
+        "genres": [
+            "rock",
+            "indie",
+            "alternative",
+            "guitar",
+            "british"
         ],
-        "socialProfiles": [
-            {
-                "type": "facebook",
-                "handle": "RealRootsRadio",
-                "url": "https://www.facebook.com/RealRootsRadio"
-            },
-            {
-                "type": "twitter",
-                "handle": "@realrootsradio",
-                "url": "https://twitter.com/realrootsradio"
-            },
-            {
-                "type": "instagram",
-                "handle": "@real_roots_radio",
-                "url": "https://www.instagram.com/real_roots_radio/"
-            },
-            {
-                "type": "youtube",
-                "handle": "@classiccountryradio",
-                "url": "https://www.youtube.com/user/classiccountryradio"
-            }
+        "description": "Radio X is home to the world's freshest rock and guitar-based music.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Radio X 90s": {
+        "website": "https://www.radiox.co.uk/",
+        "stream": "https://media-ssl.musicradio.com/RadioX-M-90s",
+        "genres": [
+            "90s",
+            "rock",
+            "indie",
+            "alternative",
+            "british"
         ],
-        "logo": "https://cdnrf.securenetsystems.net/file_radio/stations_large/WBZI/v5/logo.png?cb=20230213162846",
-        "otherImages": [
-            "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/294722422_10159473122841896_7285863616073958369_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a26aad&_nc_ohc=WTD14eHox1wAX_GcpbH&_nc_ht=scontent-bos5-1.xx&oh=00_AfCq9IFABrpj3TThLCt6tAPllfuGXJ5HC4o7YgyOFXZ9vw&oe=63F03CDD"
+        "description": "Enjoy the very best Britpop bangers and Baggy dancefloor anthems, then head straight to the moshpit for some Grunge classics.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Radio X 00s": {
+        "website": "https://www.radiox.co.uk/",
+        "stream": "https://media-ssl.musicradio.com/RadioX-M-00s",
+        "genres": [
+            "british",
+            "2000s",
+            "rock",
+            "alternative",
+            "indie"
         ],
-        "policies": [
-            {
-                "title": "Terms of Service",
-                "url": "https://realrootsradio.com/about-us/eoeterms-of-service/"
-            }
-        ]
+        "description": "Muse, Arctic Monkeys, Blur, Franz Ferdinand, Florence & The Machine The songs that kickstarted the millennium: indie club classics, stadium-sized anthems and guitar-powered faves.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "U105": {
+        "website": "https://www.u105.com",
+        "stream": "http://gbradio.cdn.tibus.net/U105",
+        "genres": [
+            "pop",
+            "news",
+            "talk"
+        ],
+        "description": "U105 - Where great music lives! U105 broadcasts from the heart of Belfast, Northern Ireland bringing you the best in music, chat, sport, news, weather, traffic, celebrity interviews, competitions and much much more!",
+        "discontinued": false,
+        "location": "Belfast, Northern Ireland, United Kingdom"
+    },
+    "Rock Radio 1": {
+        "website": "http://www.rockradio1.com/",
+        "stream": "http://144.217.77.176:8000/;",
+        "genres": [
+            "rock",
+            "classic rock",
+            "hard rock",
+            "heavy metal",
+            "metal",
+            "60s",
+            "70s",
+            "80s",
+            "90s",
+            "oldies"
+        ],
+        "description": "RockRadio1 is dedicated to bringing you the best commercial free Classic Hard Rock and Heavy Metal from the 60's, 70's, 80's, 90's and beyond.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Captial Dance": {
+        "website": "https://www.capitaldance.com/",
+        "stream": "https://media-ssl.musicradio.com/CapitalDance",
+        "genres": [
+            "dance",
+            "energized"
+        ],
+        "description": "The UK's Official Dance Station.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Capital FM": {
+        "website": "http://www.capitalfm.com/",
+        "stream": "https://media-ssl.musicradio.com/Capital",
+        "genres": [
+            "pop",
+            "talk",
+            "top 40",
+            "hits"
+        ],
+        "description": "Capital FM is the UK's No.1 Hit Music Station bringing you the biggest tunes, the biggest artists, all in one place!",
+        "discontinued": false,
+        "location": ""
+    },
+    "Capital XTRA": {
+        "website": "http://www.capitalxtra.com/",
+        "stream": "https://media-ssl.musicradio.com/CapitalXTRANational",
+        "genres": [
+            "dance",
+            "hip hop",
+            "urban",
+            "electronic"
+        ],
+        "description": "The UK's first national urban dance music station, home of Xtra in the morning with Kojo & jade",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Capital XTRA Reloaded": {
+        "website": "http://www.capitalxtra.com/",
+        "stream": "https://media-ssl.musicradio.com/CapitalXTRAReloaded",
+        "genres": [
+            "electronic",
+            "R&B",
+            "dance",
+            "hip hop",
+            "urban"
+        ],
+        "description": "Capital XTRA Reloaded brings you the greatest old skool anthems of all time",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
+    },
+    "Energy 106": {
+        "website": "http://energy106.co.uk/",
+        "stream": "https://patmos.cdnstream.com/proxy/energybe/?mp=/stream",
+        "genres": [
+            "dance",
+            "electronic",
+            "90s",
+            "oldies"
+        ],
+        "description": "Energy 106 Belfast is Northern Ireland's number one dance radio station. At present Energy 106 Belfast has become one of the successful online radio's in their city. In order to cater good programs they mainly concentrates on various programming matters like the trend, style and and of music of their local listeners.",
+        "discontinued": false,
+        "location": "Belfast, Northern Ireland, United Kingdom"
+    },
+    "Cheesy FM": {
+        "website": "https://cheesyfm.co.uk/",
+        "stream": "https://listen-cheesyfm.sharp-stream.com/cheesyfm.mp3",
+        "genres": [
+            "dance",
+            "rock",
+            "pop",
+            "90s",
+            "80s",
+            "70s",
+            "hits"
+        ],
+        "description": "Cheesy FM is home to all things cheesy. Pop, Dance, Boy-Bands, One-Hit Wonders, Camp Classics, Party Anthems, 70s, 80s, 90s & the big songs of today! Pure cheese, and proud of it.",
+        "discontinued": false,
+        "location": "Manchester, England, United Kingdom"
+    },
+    "Big R Radio - Golden Oldies": {
+        "shortname": "Golden Oldies",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5198_128",
+        "genres": [
+            "oldies",
+            "rock",
+            "pop",
+            "blues",
+            "jazz",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Yacht Rock": {
+        "shortname": "Yacht Rock",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5256_128",
+        "genres": [
+            "rock",
+            "classic rock",
+            "70s",
+            "80s"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Christmas Classics": {
+        "shortname": "Christmas Classics",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5190_128",
+        "genres": [
+            "holiday",
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Christmas Rock": {
+        "shortname": "Christmas Rock",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5192_128?",
+        "genres": [
+            "holiday",
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Christmas Top 40": {
+        "shortname": "Christmas Top 40",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5193_128",
+        "genres": [
+            "holiday",
+            "top 40",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Christmas Country": {
+        "shortname": "Christmas Country",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5191_128",
+        "genres": [
+            "holiday",
+            "country"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 100.3 The Rock Mix": {
+        "shortname": "100.3 Rock Mix",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5172_128",
+        "genres": [
+            "rock",
+            "metal",
+            "classic rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 100.7 The Mix": {
+        "shortname": "100.7 The Mix",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5173_128",
+        "genres": [
+            "dance",
+            "rock",
+            "R&B",
+            "pop",
+            "top 40",
+            "oldies",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 101.6 Adult Warm Hits": {
+        "shortname": "101.6 Adult Hits",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5177_128",
+        "genres": [
+            "pop",
+            "top 40",
+            "contemporary",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 100.5 Classic Rock": {
+        "shortname": "100.5 Classic Rock",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5171_128",
+        "genres": [
+            "rock",
+            "classic rock",
+            "metal",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 100.8 The Hawk": {
+        "shortname": "100.8 The Hawk",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5174_128",
+        "genres": [
+            "dance",
+            "rock",
+            "R&B",
+            "pop",
+            "top 40"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 108.1 Jamz": {
+        "shortname": "108.1 Jamz",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5178_128",
+        "genres": [
+            "R&B",
+            "rap",
+            "hip hop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 101.1 The Beat": {
+        "shortname": "101.1 The Beat",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5176_128",
+        "genres": [
+            "dance",
+            "R&B",
+            "pop",
+            "top 40"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - R&B": {
+        "shortname": "R&B",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5202_128",
+        "genres": [
+            "R&B",
+            "blues"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Classic R&B": {
+        "shortname": "Classic R&B",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5194_128",
+        "genres": [
+            "R&B",
+            "blues",
+            "classics"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": ""
+    },
+    "Big R Radio - 100.9 Star Country": {
+        "shortname": "100.9 Star Country",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5175_128",
+        "genres": [
+            "country",
+            "classics",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Country Mix": {
+        "shortname": "Country Mix",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5196_128",
+        "genres": [
+            "country",
+            "rock",
+            "variety"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Country Oldies": {
+        "shortname": "Country Oldies",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5195_128",
+        "genres": [
+            "country",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 70s FM": {
+        "shortname": "70s FM",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5182_128",
+        "genres": [
+            "rock",
+            "pop",
+            "70s",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 70s and 80s Pop Mix": {
+        "shortname": "70s/80s Pop Mix",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5181_128",
+        "genres": [
+            "rock",
+            "pop",
+            "80s",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 80s FM": {
+        "shortname": "80s FM",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5184_128",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 80s Lite": {
+        "shortname": "80s Lite",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5185_128",
+        "genres": [
+            "rock",
+            "pop",
+            "80s",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 80s and 90s Pop Mix": {
+        "shortname": "80s/90s Pop Mix",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5183_128",
+        "genres": [
+            "rock",
+            "pop",
+            "90s",
+            "80s",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 90s FM": {
+        "shortname": "90s FM",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5188_128",
+        "genres": [
+            "90s",
+            "rock",
+            "pop",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 80s Metal FM": {
+        "shortname": "80s Metal FM",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5186_128",
+        "genres": [
+            "metal",
+            "80s"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - The Wave": {
+        "shortname": "The Wave",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5208_128",
+        "genres": [
+            "rock",
+            "pop",
+            "contemporary"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Rock Top 40": {
+        "shortname": "Rock Top 40",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5204_128",
+        "genres": [
+            "top 40",
+            "rock",
+            "R&B",
+            "soul"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Coffee House": {
+        "shortname": "Coffee House",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5156_128",
+        "genres": [
+            "rock",
+            "pop",
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 90s Alternative Rock": {
+        "shortname": "90s Alt. Rock",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5187_128?",
+        "genres": [
+            "90s",
+            "alternative",
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Alternative Rock": {
+        "shortname": "Alt. Rock",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5189_128",
+        "genres": [
+            "rock",
+            "alternative"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Post Grunge Rock": {
+        "shortname": "Post Grunge Rock",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5203_128",
+        "genres": [
+            "rock",
+            "metal"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Grunge FM": {
+        "shortname": "Grunge FM",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5200_128",
+        "genres": [
+            "rock",
+            "metal"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Erin's Chill": {
+        "shortname": "Erin's Chill",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5197_128",
+        "genres": [
+            "lounge",
+            "chillout"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - The Love Channel": {
+        "shortname": "The Love Channel",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5207_128",
+        "genres": [
+            "romantic"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Gospel Channel": {
+        "shortname": "Gospel Channel",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5199_128",
+        "genres": [
+            "religious",
+            "christian",
+            "gospel",
+            "talk"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 1Faith - hits": {
+        "shortname": "1Faith - Hits",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5180_128",
+        "genres": [
+            "religious",
+            "christian",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - 1Faith - Worship": {
+        "shortname": "1Faith - Worship",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5179_128",
+        "genres": [
+            "religious",
+            "christian"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Smooth Jazz": {
+        "shortname": "Smooth Jazz",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio-edge1.cdnstream.com/5123_128",
+        "genres": [
+            "jazz"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Vocal Jazz": {
+        "shortname": "Vocal Jazz",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio-edge1.cdnstream.com/5127_128",
+        "genres": [
+            "jazz",
+            "vocal"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Big R Radio - Explicit Top 40": {
+        "shortname": "Explicit Top 40",
+        "website": "http://bigrradio.com",
+        "stream": "http://bigrradio.cdnstream1.com/5237_128",
+        "genres": [
+            "top 40",
+            "explicit",
+            "pop",
+            "rock",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Bothell, Washington, USA"
+    },
+    "Intense Radio": {
+        "website": "https://www.intenseradio.net",
+        "stream": "https://intenseradio.live-streams.nl:18000/live",
+        "genres": [
+            "dance",
+            "techno",
+            "house",
+            "trance"
+        ],
+        "description": "Intense Radio started in March 2012 and is based in The Netherlands. We thought it would be great to offer a music format that is different from other internet radio stations. At the moment there is a crew of 15 enthousiastic dance, trance and house lovers who are a member of the Intense Radio team. Program (nonstop): 06.00 - 20.00 (CET): Just dance! the best nonstop dance from the 90's till tommorrow's music (with the news in Dutch every 1 hour). 20.00 - 06.00 (CET): the latest dance tracks, tech house and techno. Every evening a different mix by a DJ.",
+        "discontinued": false,
+        "location": "Amsterdam, North Holland, Netherlands"
+    },
+    "Radio Brennpunkt": {
+        "website": "https://radiobrennpunkt.org",
+        "stream": "https://www.radioking.com/play/radio-brennpunkt",
+        "genres": [
+            "experimental",
+            "fringe",
+            "creative commons",
+            "community",
+            "variety",
+            "ambient"
+        ],
+        "description": "RADIO BRENNPUNKT is streaming Internet radio playing a mix of unusual music, sound art, live shows, and other fringe programming.",
+        "discontinued": false,
+        "location": "Seattle, Washington, USA"
+    },
+    "Operator Radio": {
+        "website": "https://www.operator-radio.com",
+        "stream": "http://streamnerd.nl:8000/operator",
+        "genres": [
+            "hits",
+            "new artists",
+            "local",
+            "community",
+            "variety",
+            "culture"
+        ],
+        "description": "Inspired by stations such as NTS (London) and Red Light Radio (Amsterdam), Operator fills a huge gap in the musical landscape of Rotterdam. Broadcasting live from Rotterdam's creative hub: Central District East, and located in a 20 ft shipping container, Operator brings you the best music our beloved harbour city has to offer. Local talent mixed with well known and respected musicians / DJ's and performers.",
+        "discontinued": false,
+        "location": "Rotterdam, Netherlands"
+    },
+    "RADIO D59B": {
+        "website": "https://www.radio.d59b.com",
+        "stream": "https://stream.radiojar.com/gn6dqzhf9mzuv",
+        "genres": [
+            "new artists",
+            "experimental",
+            "variety",
+            "local"
+        ],
+        "description": "RADIO.D59B is a online music platform for streaming and promoting quality music and acclaimed music artists, but also music enthusiasts without any professional engagement.",
+        "discontinued": false,
+        "location": "Berlin, Germany"
+    },
+    "Stardust Space Radio": {
+        "shortname": "Stardust Space",
+        "website": "http://www.stardustradio.space",
+        "stream": "http://207.154.250.245:8000/stream",
+        "genres": [
+            "chillout",
+            "ambient",
+            "electronic",
+            "house",
+            "progressive"
+        ],
+        "description": "StarDust Space Radio is a non-profit internet radio station and it's owner is motivated to keep this station up and running only to share his love and passion for the music with other listeners around the globe.",
+        "discontinued": false,
+        "location": "Athens, Greece"
+    },
+    "KMGP Space 101.1 FM": {
+        "shortname": "Space 101.1FM",
+        "website": "https://www.space101fm.org",
+        "stream": "http://67.212.165.106:8239/stream",
+        "genres": [
+            "rock",
+            "alternative",
+            "community",
+            "progressive"
+        ],
+        "description": "People-powered arts-oriented radio for Northeast Seattle and beyond.",
+        "discontinued": false,
+        "location": "Seattle, Washington, USA"
+    },
+    "Black Rhino Radio": {
+        "shortname": "BRR",
+        "website": "https://blackrhinoradio.com",
+        "stream": "https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a",
+        "genres": [
+            "new artists",
+            "local",
+            "variety",
+            "experimental",
+            "community"
+        ],
+        "description": "Black Rhino Radio is a project promoting artists, music, and the culture behind the sound. Built around people with a background in music and visual arts, the team behind summons over 15 years of experience. On every project, we make the voices of both established and emerging artists heard. The online station promotes the diversity of music and people. The Black Rhino Radio community summons musicians, visual artists, DJs, professionals, record store owners, selectors, label owners, promoters, and music lovers. With each show put out on the world wide web, we aspire to bring a feeling of happiness for both the broadcaster and the audience.",
+        "discontinued": false,
+        "location": "Bucharest, Romania"
+    },
+    "OpenLab Radio": {
+        "shortname": "OpenLab",
+        "website": "https://openlab.fm",
+        "stream": "https://ice04.fluidstream.net/openlab.mp3",
+        "genres": [
+            "electronic",
+            "alternative",
+            "ambient",
+            "experimental",
+            "chillout",
+            "soul",
+            "jazz",
+            "contemporary"
+        ],
+        "description": "OpenLab Radio is a forward thinking electronic and alternative music radio station based in Ibiza, offering a different sound to the next generation of listeners. OpenLab programmes the best in electronic, alternative, ambient, experimental,  chillout,  modern classical, soul and jazz. Alongside our music programnming OpenLab hosts a series of shows, featuring future pioneers, open minded labels and dynamic artists of 'Tomorrows World Today'.",
+        "discontinued": false,
+        "location": "Ibiza, Spain"
+    },
+    "frontroom radio": {
+        "shortname": "frontroom",
+        "website": "https://www.frontroom.space/radio",
+        "stream": "https://www.radioking.com/play/frontroom-radio/590035",
+        "genres": [
+            "jazz",
+            "soul",
+            "groove",
+            "beat",
+            "gospel",
+            "reggae"
+        ],
+        "description": "Celebrates music of black origin; jazz fusion, soul, rare groove, afro-beats, gospel, reggae 24/7... Keep it locked, right HERE!",
+        "discontinued": false,
+        "location": "Croydon, England, United Kingdom"
+    },
+    "CiTR 101.9 FM": {
+        "shortname": "CiTR",
+        "website": "https://www.citr.ca",
+        "stream": "https://live.citr.ca/live.aac",
+        "genres": [
+            "college",
+            "local",
+            "news",
+            "talk",
+            "community",
+            "education",
+            "variety"
+        ],
+        "description": "CiTR 101.9 FM is the broadcasting voice of the University of British Columbia, situated on the unceded, traditional Coast Salish territory of the Hən̓q̓əmin̓əm̓ speaking Musqueam peoples. CiTR began as a student club in 1937, gaining not-for-profit status and a place on the FM dial in 1982. Run by the Student Radio Society of UBC, CiTR offers students and community members broadcast training and access to the airwaves, broadcasting 100+ locally-focused radio programs in seven different languages, streamed online and available as podcasts.",
+        "discontinued": false,
+        "location": "Vancouver, British Columbia, Canada"
+    },
+    "StillStream": {
+        "website": "https://stillstream.com",
+        "stream": "https://radio.innerteapot.com:8443/stillstream",
+        "genres": [
+            "ambient",
+            "relaxing",
+            "electronic"
+        ],
+        "description": "Pure ambient net radio. Relaxing music 24 hours a day. StillStream is an ambient, non-commercial, zero-revenue independent net radio station based in the Texas, United States. Our mission is to make ambient artists successful. We play strictly by the rules when it comes to music licensing.",
+        "discontinued": false,
+        "location": "Frisco, Texas, USA"
+    },
+    "KMNO 91.7 FM Mana'o Radio": {
+        "shortname": "Mana'o Radio",
+        "website": "https://manaoradio.com",
+        "stream": "https://kmno.streamguys1.com/live",
+        "genres": [
+            "variety",
+            "community",
+            "education",
+            "local",
+            "news",
+            "talk",
+            "jazz",
+            "classical"
+        ],
+        "description": "Tune in to Maui's leading non-commercial, 100% listener-supported, 100% volunteer-staffed radio station for a thoughtful, creative and eclectic mix of music. Old to new, roots to modern, local to global. All brought to you by knowledgeable hosts who want to share their passion for great music with you!",
+        "discontinued": false,
+        "location": "Wailuku, Mauai, Hawaii, USA"
+    },
+    "99.1 WQRT": {
+        "website": "https://www.wqrt.org",
+        "stream": "https://centova2.cheapshoutcast.com/proxy/wqrt?mp=/stream",
+        "genres": [
+            "ambient",
+            "country",
+            "community",
+            "talk",
+            "contemporary",
+            "new artists",
+            "local"
+        ],
+        "description": "99.1 FM WQRT-LP is a non-commercial, experimental on-air home for contemporary art, music, and community. Licensed by the FCC with a reach of most of the city of Indianapolis, Indiana (500,000+ people), WQRT is owned and managed by Big Car Collaborative — a nonprofit arts organization and cross-discipline collective of artists. With the help of volunteers, we broadcast from Listen Hear — our sound-art space and audio studio in the Garfield Park neighborhood.",
+        "discontinued": false,
+        "location": "Indianapolis, Indiana, USA"
+    },
+    "4ZZZ ZED Digital": {
+        "shortname": "ZED Digital",
+        "website": "https://4zzz.org.au",
+        "stream": "https://iheart.4zzz.org.au/zed-digital",
+        "genres": [
+            "alternative",
+            "community",
+            "culture",
+            "local"
+        ],
+        "description": "ZED Digital is 4ZZZ's independent music and culture channel with a distinct and captivating sound for those with a passion for non-mainstream music.",
+        "discontinued": false,
+        "location": "Brisbane, Australia"
+    },
+    "102.1 FM 4ZZZ": {
+        "shortname": "4ZZZ",
+        "website": "https://4zzz.org.au",
+        "stream": "https://iheart.4zzz.org.au/4zzz",
+        "genres": [
+            "culture",
+            "rock",
+            "alternative",
+            "community",
+            "local"
+        ],
+        "description": "The sound of Brisbane counter culture since 1975. 4ZZZ is one of the most unique independent community broadcasters in Australia, broadcasting a diverse range of programs 24 hours per day.",
+        "discontinued": false,
+        "location": "Brisbane, Australia"
+    },
+    "106.8 Phonic FM": {
+        "shortname": "Phonic FM",
+        "website": "https://phonic.fm",
+        "stream": "http://listen.phonic.fm/mp3-160k",
+        "genres": [
+            "rock",
+            "alternative",
+            "local",
+            "community",
+            "indie",
+            "new artists"
+        ],
+        "description": "Phonic FM is Exeter's sound alternative: a community radio station for the city and beyond, on 106.8FM, DAB+, on your phone and smartspeaker. We've been part of life in Exeter since 2008.",
+        "discontinued": false,
+        "location": "Exeter, England, United Kingdom"
+    },
+    "90.7 FM KBOO": {
+        "shortname": "KBOO",
+        "website": "https://kboo.fm",
+        "stream": "https://live.kboo.fm:8443/high",
+        "genres": [
+            "talk",
+            "public",
+            "news",
+            "local",
+            "indie",
+            "progressive"
+        ],
+        "description": "We are Volunteer-Powered, Non-Commercial, Listener-Sponsored, Full-Strength Community Radio for Portland, Oregon, Cascadia & the World!",
+        "discontinued": false,
+        "location": "Portland, Oregon, USA"
+    },
+    "Electroradio.fm": {
+        "shortname": "",
+        "website": "https://electroradio.fm",
+        "stream": "https://stream.radiojar.com/fkyxx4q35k0uv",
+        "genres": [
+            "electronic",
+            "house",
+            "variety",
+            "contemporary"
+        ],
+        "description": "Swiss based electronic radio station streaming in a variety of formats. Thanks to exclusive partnerships with successful electronic music labels we are able to play the newest and hottest tracks and mixes 24/7. Residents and other well known and international famous Djs have their own radio shows frequently. Electroradio.fm also broadcasts reguarly live from night clubs.",
+        "discontinued": false,
+        "location": "Zurich, Switzerland"
     }
 }

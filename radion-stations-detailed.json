@@ -1,4 +1,268 @@
 {
+    "Real Roots Radio": {
+        "shortname": "Real Roots",
+        "website": "https://realrootsradio.com",
+        "alternateSites": [
+            {
+                "title": "WBZI Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WBZI"
+            },
+            {
+                "title": "WEDI Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WEDI_(AM)"
+            },
+            {
+                "title": "WKFI Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WKFI"
+            },
+            {
+                "title": "Real Roots Radio on TuneIn",
+                "url": "https://tunein.com/radio/Real-Roots-Radio-1500-s27713"
+            }
+        ],
+        "outdatedSites": [],
+        "stream": "https://ice7.securenetsystems.net/WBZI",
+        "alternateStreams": [],
+        "outdatedStreams": [],
+        "genres": [
+            "country",
+            "bluegrass",
+            "americana",
+            "news",
+            "talk"
+        ],
+        "slogan": "Playing the best in the REAL stuff.",
+        "description": "Real Roots Radio broadcasts the finest selection of traditional country, bluegrass, and Americana music. Enjoy live personalities, national, state, and local news, and the best music you can find on the radio today. We have one of the most loyal listening audiences in the Miami Valley and the Dayton region and operate the only stations continually serving the rural, surrounding areas in southwestern Ohio.",
+        "discontinued": false,
+        "location": "Xenia, Ohio, USA",
+        "contacts": [
+            {
+                "type": "phone",
+                "title": "Office Phone Number",
+                "value": "866-372-3531"
+            },
+            {
+                "type": "phone",
+                "title": "Studio Phone Number",
+                "value": "1-888-740-9444, ext. 4"
+            },
+            {
+                "type": "email",
+                "title": "General Inquiries Email",
+                "value": "info@realrootsradio.com"
+            },
+            {
+                "type": "address",
+                "title": "Studio Address",
+                "value": "Real Roots Radio, 23 East Second St., Xenia, OH 45385"
+            }
+        ],
+        "callsigns": [
+            {
+                "fm": "100.3",
+                "am": "1500",
+                "sign": "WBZI",
+                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wbzi"
+            },
+            {
+                "fm": "106.7",
+                "am": "1090",
+                "sign": "WKFI",
+                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wkfi"
+            },
+            {
+                "fm": "105.5",
+                "am": "1130",
+                "sign": "WEDI",
+                "inspectionFile": "https://publicfiles.fcc.gov/am-profile/wedi"
+            }
+        ],
+        "socialProfiles": [
+            {
+                "type": "Facebook",
+                "handle": "RealRootsRadio",
+                "url": "https://www.facebook.com/RealRootsRadio"
+            },
+            {
+                "type": "Twitter",
+                "handle": "@realrootsradio",
+                "url": "https://twitter.com/realrootsradio"
+            },
+            {
+                "type": "Instagram",
+                "handle": "@real_roots_radio",
+                "url": "https://www.instagram.com/real_roots_radio/"
+            },
+            {
+                "type": "YouTube",
+                "handle": "@classiccountryradio",
+                "url": "https://www.youtube.com/user/classiccountryradio"
+            }
+        ],
+        "logo": "https://cdnrf.securenetsystems.net/file_radio/stations_large/WBZI/v5/logo.png?cb=20230213162846",
+        "otherImages": [
+            "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/294722422_10159473122841896_7285863616073958369_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a26aad&_nc_ohc=WTD14eHox1wAX_GcpbH&_nc_ht=scontent-bos5-1.xx&oh=00_AfCq9IFABrpj3TThLCt6tAPllfuGXJ5HC4o7YgyOFXZ9vw&oe=63F03CDD"
+        ],
+        "policies": [
+            {
+                "title": "Terms of Service",
+                "url": "https://realrootsradio.com/about-us/eoeterms-of-service/"
+            }
+        ]
+    },
+    "88.5 FM WXPN": {
+        "shortname": "WXPN",
+        "website": "https://xpn.org",
+        "alternateSites": [
+            {
+                "title": "WXPN on TuneIN",
+                "url": "https://tunein.com/radio/WXPN-885-s24040/"
+            },
+            {
+                "title": "WXPN Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WXPN"
+            },
+            {
+                "title": "WXPJ Wikipedia Article",
+                "url": "https://en.wikipedia.org/wiki/WXPJ"
+            }
+        ],
+        "outdatedSites": [],
+        "stream": "https://wxpnhi.xpn.org/xpnhi-nopreroll",
+        "alternateStreams": [
+            "https://wxpn.xpn.org/xpnmp3hi",
+            "http://wxpnhi.streamguys.com/xpnhi"
+        ],
+        "outdatedStreams": [],
+        "genres": [
+            "new artists",
+            "community",
+            "rock",
+            "blues",
+            "folk",
+            "jazz",
+            "public",
+            "world"
+        ],
+        "slogan": "The Home of Music Discovery.",
+        "description": "WXPN is a nationally recognized leader in Triple A programming and the premier guide for discovering new and significant artists in rock, blues, roots, and folk. As the non-commercial, member-supported radio service of the University of Pennsylvania offers handcrafted curation of broadcast and digital programming, events, and local music journalism.",
+        "discontinued": false,
+        "location": "Philadelphia, Pennsylvania, USA",
+        "contacts": [
+            {
+                "type": "address",
+                "title": "Studio Address",
+                "value": "3025 Walnut Street, Philadelphia, PA, 19104"
+            },
+            {
+                "type": "phone",
+                "title": "General Questions Phone Number",
+                "value": "215-898-6677"
+            },
+            {
+                "type": "fax",
+                "title": "General Questions FAX",
+                "value": "215-898-0707"
+            },
+            {
+                "type": "phone",
+                "title": "Studio Request Line",
+                "value": "215-573-9976"
+            },
+            {
+                "type": "email",
+                "title": "General Questions Email",
+                "value": "wxpndesk@xpn.org"
+            },
+            {
+                "type": "email",
+                "title": "Studio Request Email",
+                "value": "requests@xpn.org"
+            },
+            {
+                "type": "form",
+                "title": "Web Team Contact",
+                "value": "https://xpn.org/web-team-contact/"
+            },
+            {
+                "type": "phone",
+                "title": "Business Support Line",
+                "value": "215-573-8728"
+            },
+            {
+                "type": "email",
+                "title": "Business Support Email",
+                "value": "businesssupport@xpn.org"
+            },
+            {
+                "type": "email",
+                "title": "Music Director Email",
+                "value": "wxpndesk@xpn.org"
+            },
+            {
+                "type": "phone",
+                "title": "Membership Questions Phone",
+                "value": "215-573-3340"
+            },
+            {
+                "type": "email",
+                "title": "Membership Questions Email",
+                "value": "memberservices@xpn.org"
+            }
+        ],
+        "callsigns": [
+            {
+                "fm": "88.5",
+                "am": "",
+                "sign": "WXPN",
+                "inspectionFile": "https://publicfiles.fcc.gov/fm-profile/wxpn"
+            },
+            {
+                "fm": "88.7",
+                "am": "",
+                "sign": "WXPH",
+                "inspectionFile": "https://publicfiles.fcc.gov/fm-profile/wxph"
+            },
+            {
+                "fm": "91.9",
+                "am": "",
+                "sign": "WXPJ",
+                "inspectionFile": "https://publicfiles.fcc.gov/fm-profile/wxpj"
+            }
+        ],
+        "socialProfiles": [
+            {
+                "type": "Facebook",
+                "handle": "885wxpn",
+                "url": "https://www.facebook.com/885wxpn/"
+            },
+            {
+                "type": "Twitter",
+                "handle": "@wxpnfm",
+                "url": "https://twitter.com/wxpnfm"
+            },
+            {
+                "type": "Instagram",
+                "handle": "@wxpnfm",
+                "url": "https://www.instagram.com/wxpnfm/"
+            },
+            {
+                "type": "YouTube",
+                "handle": "@xponentialmusic",
+                "url": "https://www.youtube.com/user/xponentialmusic"
+            }
+        ],
+        "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/83088334_10157400657514064_6303268564518305792_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=YTdS_ueVKLoAX_5yBHK&_nc_ht=scontent-lga3-2.xx&oh=00_AfDe20UvAwG3i19UZ4zeTBbV2S-ArayhsTZFBJ7lV2TRvA&oe=641232AC",
+        "otherImages": [
+            "https://backend.xpn.org/wp-content/uploads/2022/01/Imelda_May_Free_At_Noon_credit_Rich_McKie_WXPN-7.jpg"
+        ],
+        "policies": [
+            {
+                "title": "Privacy Policy",
+                "url": "https://xpn.org/privacy-policy/"
+            }
+        ]
+    },
     "WMLL 96.5 The Mill": {
         "website": "https://965themill.com",
         "alternateSites": [
