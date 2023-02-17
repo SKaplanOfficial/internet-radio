@@ -10241,7 +10241,7 @@
         "discontinued": false,
         "location": "Lakewood, California, USA"
     },
-    "Aloha Joe's Relxation Island Radio": {
+    "Aloha Joe's Relaxation Island Radio": {
         "website": "http://relaxation-island.com",
         "stream": "http://s2.voscast.com:7932/;stream1675906907278/1",
         "genres": [
@@ -14529,5 +14529,910 @@
         "description": "Swiss based electronic radio station streaming in a variety of formats. Thanks to exclusive partnerships with successful electronic music labels we are able to play the newest and hottest tracks and mixes 24/7. Residents and other well known and international famous Djs have their own radio shows frequently. Electroradio.fm also broadcasts reguarly live from night clubs.",
         "discontinued": false,
         "location": "Zurich, Switzerland"
+    },
+    "Ventura Radio - DEEP": {
+        "shortname": "Ventura DEEP",
+        "website": "https://ventura.radio/#radios",
+        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_247_deep_vocal_house//radio.mp3",
+        "genres": [
+            "house",
+            "disco",
+            "electronic"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Ventura Radio - CLUB": {
+        "shortname": "Ventura CLUB",
+        "website": "",
+        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_247_new__exclusive_club_music//radio.mp3",
+        "genres": [
+            "dance",
+            "house",
+            "techno",
+            "progressive",
+            "mash-up"
+        ],
+        "description": "24/7 New & Exclusive Club Music",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Ventura Radio - 24/7 Suprafive Music": {
+        "shortname": "Ventura Suprafive",
+        "website": "https://ventura.radio/#radios",
+        "stream": "https://vocal.ventura.radio/listen/suprafivemusic//radio.mp3",
+        "genres": [
+            ""
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Ventura Radio - MASH": {
+        "shortname": "Ventura MASH",
+        "website": "https://ventura.radio/#radios",
+        "stream": "https://vocal.ventura.radio/listen/d33b_radio_all//radio.mp3",
+        "genres": [
+            "house",
+            "disco",
+            "electronic",
+            "techno",
+            "indie",
+            "downtempo"
+        ],
+        "description": "24/7 Club, Tech, Breaks, Nu Disco, Progressive, Indie, Downtempo & Organic House",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Ventura Radio - HYBRID": {
+        "shortname": "Ventura HYBRID",
+        "website": "https://ventura.radio/#radios",
+        "stream": "https://vocal.ventura.radio/listen/ventura_hybrid//radio.mp3",
+        "genres": [
+            "progressive",
+            "house"
+        ],
+        "description": "24/7 Progressive House Music",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Ventura Radio - CLASSIC": {
+        "shortname": "Ventura CLASSIC",
+        "website": "https://ventura.radio/#radios",
+        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_top_all_times//radio.mp3",
+        "genres": [
+            "electronic",
+            "house"
+        ],
+        "description": "Classic Vocal Deep House, Progressive & Nu Disco",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Ventura Radio - PROGRESSIVE": {
+        "shortname": "Ventura PROGRESSIVE",
+        "website": "https://ventura.radio/#radios",
+        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_247_progressive_house//radio.mp3",
+        "genres": [
+            "house",
+            "progressive"
+        ],
+        "description": "24/7 Progressive House Music",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Ventura Radio - TECH": {
+        "shortname": "Ventura TECH",
+        "website": "https://ventura.radio/#radios",
+        "stream": "https://vocal.ventura.radio/listen/ventura-tech//radio.mp3",
+        "genres": [
+            "house",
+            "techno",
+            "beat"
+        ],
+        "description": "24/7 Tech House Music",
+        "discontinued": false,
+        "location": "Sofia, Bulgaria"
+    },
+    "Interstellar Radio Station": {
+        "shortname": "Interstellar",
+        "website": "http://76.119.19.241:9000/played.html",
+        "stream": "http://76.119.19.241:9000/;",
+        "genres": [
+            "ambient",
+            "electronic",
+            "tribal",
+            "relaxing"
+        ],
+        "description": "24/7 Select Ambient, Electronic, Environmental, and Tribal Music Commercial Free! Great for Work Concentration or Sleeping. Sending out radio waves to the universe since 2008. ",
+        "discontinued": false,
+        "location": "Boston, Massachusetts, USA"
+    },
+    "The Morning Breeze": {
+        "website": "https://www.themorningbreeze.org",
+        "stream": "https://listen.mixlr.com/c66c4b30443c3c765521d44ad236cb9f",
+        "genres": [
+            "progressive",
+            "rock",
+            "acoustic",
+            "world",
+            "electronic",
+            "ambient"
+        ],
+        "description": "An auditory adventure blending the Progressive Rock and Acoustic roots of New Age and World Fusion genres with contemporary Electronic influences.",
+        "discontinued": false,
+        "location": "Black Forest, Colorado, USA"
+    },
+    "Music Lake Radio": {
+        "shortname": "Music Lake",
+        "website": "https://musiclake.com",
+        "stream": "http://nap.casthost.net:8626/;",
+        "genres": [
+            "ambient",
+            "relaxing",
+            "chillout",
+            "downtempo",
+            "synthwave",
+            "ballad"
+        ],
+        "description": "Music Lake Radio - Relaxation Music, Meditation, Focus, Chill, Nature Sounds. Music Lake radio is a mood altering experience, a deep relaxation trip into sweet down-tempo music, tender synths , and cleverly composed cosmic chill out ballads, with a hint of natural sounds to bring it all together! Just relax, and enjoy...",
+        "discontinued": false,
+        "location": "Costa Mesa, California, USA"
+    },
+    "intraNature Radio": {
+        "shortname": "intraNature",
+        "website": "https://intranature.com",
+        "stream": "http://nap.casthost.net:8793/stream",
+        "genres": [
+            "relaxing",
+            "ambient",
+            "easy listening"
+        ],
+        "description": "Online Radio streaming nature sounds, meditation, relaxing and spa music. High Quality Stream of relaxation and stress reduction station. Streaming sleep music and natural sounds of water, waves, jungle, farm, waterfalls, underwater, rain and thunderstorm audio and sounds.",
+        "discontinued": false,
+        "location": "Newport Beach, California, USA"
+    },
+    "anotherplanet.fm": {
+        "website": "http://www.anotherplanet.fm",
+        "stream": "http://stream.anotherplanet.fm:8000/stream.mp3",
+        "genres": [
+            "ambient",
+            "chillout",
+            "psychedelic"
+        ],
+        "description": "Ambient radio inspired by the love to music, not by moneymaking. Dedicated to ambient, dark ambient, psychedelic and new age.",
+        "discontinued": false,
+        "location": "San Francisco, California, USA"
+    },
+    "Ambient.FM": {
+        "shortname": "",
+        "website": "https://ambient.fm",
+        "stream": "https://ambient.fm/live",
+        "genres": [
+            "ambient",
+            "relaxing"
+        ],
+        "description": "Inspired by the dark skies and natural beauty of the Nevada desert, Ambient.FM is a musical project that runs a 24/7 audio stream. Serene, hypnotic and emotional ambient music.",
+        "discontinued": false,
+        "location": "Tonopah, Nevada, USA"
+    },
+    "Blue Moon Atelier Radio": {
+        "shortname": "Blue Moon Atelier",
+        "website": "https://bmaradio.com",
+        "stream": "https://ais-edge103-live365-dal02.cdnstream.com/a54407",
+        "genres": [
+            "rock",
+            "jazz",
+            "ambient",
+            "indie",
+            "alternative",
+            "80s",
+            "variety"
+        ],
+        "description": "An eclectic mix of prog, alternative, indie, some 80s new wave & pop, a bit of ambient, and a smattering of jazz.",
+        "discontinued": false,
+        "location": "High Point, North Carolina, USA"
+    },
+    "FM303": {
+        "website": "http://www.fm303.de",
+        "stream": "https://fm303.stream.laut.fm/fm303",
+        "genres": [
+            "house",
+            "electronic",
+            "ambient",
+            "disco",
+            "techno"
+        ],
+        "description": "On FM303, mysterious old school act SNUFF CREW presents everything that has accumulated over the years. Live recordings, rare tracks from the golden age of acid house and the latest from our own label Snuff Tracks and fellow artists.",
+        "discontinued": false,
+        "location": "Cologne, Germany"
+    },
+    "Apiadigital": {
+        "website": "https://laut.fm/apiadigital",
+        "stream": "https://apiadigital.stream.laut.fm/apiadigital",
+        "genres": [
+            "ambient",
+            "chillout",
+            "dance",
+            "electronic",
+            "techno"
+        ],
+        "description": "Radioshow rotation: the Afterhour, Chillout and Primetime Radio for Techno, Minimal, Maximal, Detroit Techno, Ambient, Tech House, Deep House, Electro House, Electronic Music, Primetime Techno.",
+        "discontinued": false,
+        "location": "Frankfurt, Germany"
+    },
+    "Creatures Of The Night Radio": {
+        "shortname": "COTN",
+        "website": "https://cotnradio.com",
+        "stream": "https://streaming.smartradio.ch:8510/stream",
+        "genres": [
+            "ambient",
+            "house",
+            "chillout"
+        ],
+        "description": "Our mission is to provide the best sounds that ambient has to offer: Just great music! Commercial Free, NO Ads and ANY interruptions, that's the way we feel.",
+        "discontinued": false,
+        "location": "Locarno, Switzerland"
+    },
+    "Gin Tonic Radio": {
+        "website": "https://gintonicradio.wixsite.com/gintonicradio",
+        "stream": "http://listen.radionomy.com/gintonicradio",
+        "genres": [
+            "chillout",
+            "house",
+            "ambient",
+            "soul",
+            "funk",
+            "lounge"
+        ],
+        "description": "The best Lounge & Bar Radio, Ambient, Deep-House, Chill-out, Soul, Funk, from the Spanish coast and Balearic Islands.",
+        "discontinued": false,
+        "location": "Madrid, Spain"
+    },
+    "Cine-Melody": {
+        "website": "http://cine-melody.radio-site.com",
+        "stream": "http://radio12.pro-fhi.net/flux-tspwbswh/stream",
+        "genres": [
+            "soundtracks",
+            "musical",
+            "chillout",
+            "ambient",
+            "french"
+        ],
+        "description": "The best of French cinema in music and song from the 50s to today.",
+        "discontinued": false,
+        "location": "Strasbourg, France"
+    },
+    "Psyradio Chillout": {
+        "website": "http://html.psyradio.fm",
+        "stream": "http://streamer.psyradio.org:8020/;listen.mp3",
+        "genres": [
+            "chillout",
+            "ambient",
+            "electronic",
+            "psychedelic"
+        ],
+        "description": "Psyradio is an online webradio station. It broadcasts his finest selection of psychedelic electronic music 24 hours a day. It consists of four music channels: progressive, psytrance, chillout and alternative.",
+        "discontinued": false,
+        "location": "Stockholm, Sweden"
+    },
+    "Psyradio Progressive": {
+        "website": "http://html.psyradio.fm",
+        "stream": "http://streamer.psyradio.org:8010/;listen.mp3",
+        "genres": [
+            "techno",
+            "electronic",
+            "psychedelic",
+            "house"
+        ],
+        "description": "Psyradio is an online webradio station. It broadcasts his finest selection of psychedelic electronic music 24 hours a day. It consists of four music channels: progressive, psytrance, chillout and alternative.",
+        "discontinued": false,
+        "location": "Stockholm, Sweden"
+    },
+    "Psyradio Psytrance": {
+        "website": "http://html.psyradio.fm",
+        "stream": "http://streamer.psyradio.org:8030/;listen.mp3",
+        "genres": [
+            "electronic",
+            "trance",
+            "psychedelic"
+        ],
+        "description": "Psyradio is an online webradio station. It broadcasts his finest selection of psychedelic electronic music 24 hours a day. It consists of four music channels: progressive, psytrance, chillout and alternative.",
+        "discontinued": false,
+        "location": "Stockholm, Sweden"
+    },
+    "Psyradio Alternative": {
+        "website": "http://html.psyradio.fm",
+        "stream": "http://streamer.psyradio.org:8040/;listen.mp3",
+        "genres": [
+            "electronic",
+            "psychedelic",
+            "dance"
+        ],
+        "description": "Psyradio is an online webradio station. It broadcasts his finest selection of psychedelic electronic music 24 hours a day. It consists of four music channels: progressive, psytrance, chillout and alternative.",
+        "discontinued": false,
+        "location": "Stockholm, Sweden"
+    },
+    "Radio Plenitude": {
+        "website": "https://www.radio-plenitude.com",
+        "stream": "https://listen.radioking.com/radio/117271/stream/159001",
+        "genres": [
+            "chillout",
+            "easy listening",
+            "ambient",
+            "electronic"
+        ],
+        "description": "The hottest hits from ambient and electro give you a great start to your day, when you turn on the station Radio Plenitude.",
+        "discontinued": false,
+        "location": "Saleilles, Occitanie, France"
+    },
+    "Intergalactic FM - Cybernetic Broadcasting System": {
+        "shortname": "Cybernetic Broadcasting",
+        "website": "https://www.intergalactic.fm/channels/cybernetic-broadcasting-system",
+        "stream": "https://radio.intergalactic.fm/1",
+        "genres": [
+            "electronic",
+            "lounge",
+            "dance"
+        ],
+        "description": "The finest music our Galaxy has to offer on a 24/7 basis. Intergalactic FM is a Non-Profit organization running on donations from it's listeners, sales of merchandise and the life at the party!",
+        "discontinued": false,
+        "location": "The Hague, Netherlands"
+    },
+    "Intergalactic FM - Disco Fetish": {
+        "shortname": "Disco Fetish",
+        "website": "https://www.intergalactic.fm/channels/disco-fetish",
+        "stream": "https://radio.intergalactic.fm/2",
+        "genres": [
+            "disco"
+        ],
+        "description": "Transmits 24/7 Italo Disco and features a lot of mixes, special shows and live performances.",
+        "discontinued": false,
+        "location": "The Hague, Netherlands"
+    },
+    "Intergalactic FM - The Dream Machine": {
+        "shortname": "The Dream Machine",
+        "website": "https://www.intergalactic.fm/channels/the-dream-machine",
+        "stream": "https://radio.intergalactic.fm/3",
+        "genres": [
+            "ambient",
+            "soundtracks",
+            "electronic"
+        ],
+        "description": "Soundtracks and Space, Dreams and Drones, the Dutch radio station gives you a funky selection of Ambient and Downtempo tunes combined with filmmusic.",
+        "discontinued": false,
+        "location": "The Hague, Netherlands"
+    },
+    "Echoes of Bluemars - Bluemars": {
+        "shortname": "Bluemars",
+        "website": "http://echoesofbluemars.org/bluemars.php",
+        "stream": "http://streams.echoesofbluemars.org:8000/bluemars",
+        "genres": [
+            "ambient",
+            "chillout",
+            "electronic"
+        ],
+        "description": "Echoes of Bluemars - a tribute to Bluemars - Music For the Space Traveler.",
+        "discontinued": false,
+        "location": ""
+    },
+    "Echoes of Bluemars - Cryosleep": {
+        "shortname": "Cryosleep",
+        "website": "http://echoesofbluemars.org/cryosleep.php",
+        "stream": "http://streams.echoesofbluemars.org:8000/cryosleep",
+        "genres": [
+            "electronic",
+            "chillout",
+            "ambient"
+        ],
+        "description": "Echoes of Bluemars - a tribute to Bluemars - Music For the Space Traveler.",
+        "discontinued": false,
+        "location": "New York City, New York, USA"
+    },
+    "Echoes of Bluemars - Voices from Within": {
+        "shortname": "Voices from Within",
+        "website": "http://echoesofbluemars.org/voicesfromwithin.php",
+        "stream": "http://streams.echoesofbluemars.org:8000/voicesfromwithin",
+        "genres": [
+            "vocal",
+            "ambient"
+        ],
+        "description": "Echoes of Bluemars - a tribute to Bluemars - Music For the Space Traveler.",
+        "discontinued": false,
+        "location": ""
+    },
+    "Making Waves Radio": {
+        "shortname": "Making Waves",
+        "website": "https://linktr.ee/makingwaveshq",
+        "stream": "https://stream.zeno.fm/5dgevfbqyhhvv",
+        "genres": [
+            "experimental",
+            "ambient",
+            "electronic"
+        ],
+        "description": "Online Radio Station exploring Fieldrecording / SoundArt / Ethnomusicology / Experimental / Audio documentaries amongst other sounds.",
+        "discontinued": false,
+        "location": "Ahvenanmaa, Åland Islands, Finland"
+    },
+    "Fraktal Phere": {
+        "website": "https://laut.fm/fraktal-phere",
+        "stream": "http://stream.laut.fm/fraktal-phere",
+        "genres": [
+            "ambient",
+            "experimental",
+            "relaxing"
+        ],
+        "description": "Atmosphere. Just relax.",
+        "discontinued": false,
+        "location": "Neuhausen, Germany"
+    },
+    "Earth Aural": {
+        "website": "https://www.earthaural.com",
+        "stream": "https://stream1.srvnetplus.com:18098/;",
+        "genres": [
+            "instrumental",
+            "ambient",
+            "experimental",
+            "relaxing"
+        ],
+        "description": "Field recordings and sounscapes streamed 24/7",
+        "discontinued": false,
+        "location": "Madrid, Spain"
+    },
+    "Rede Ambiental": {
+        "website": "https://www.redeambiental.com.br",
+        "stream": "https://stream.zenolive.com/gz7n50vd4qzuv.aac",
+        "genres": [
+            "ambient",
+            "pop",
+            "hits",
+            "soul",
+            "jazz",
+            "portuguese",
+            "R&B",
+            "news"
+        ],
+        "description": "Music, information and services. 24 hours a day engaged with the environment.",
+        "discontinued": false,
+        "location": "Franco da Rocha, Brazil"
+    },
+    "Maretino Lounge Radio": {
+        "shortname": "Maretino Lounge",
+        "website": "https://www.maretimo-records.com/en/web-radios/lounge-radio/",
+        "stream": "https://s35.derstream.net/lounge.mp3",
+        "genres": [
+            "lounge",
+            "chillout",
+            "relaxing"
+        ],
+        "description": "Nonstop the best lounge & chillout music pearls for: Hotels, Bars, Clubs, Shops, for working, for studying, for sleeping, for reading, for painting, for yoga, or just for relaxing at home.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Maretino House Radio": {
+        "shortname": "Maretino House",
+        "website": "https://www.maretimo-records.com/en/web-radios/house-radio/",
+        "stream": "https://s35.derstream.net/house.mp3",
+        "genres": [
+            "house",
+            "disco",
+            "chillout",
+            "beat"
+        ],
+        "description": "Nonstop the best of: Discohouse, Latinhouse, Chillhouse, Balearic Beat & Deephouse music for: Clubs, Bars, Hotels, Shops, Workout, or just to chill and groove at home.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Maretino Chill Radio": {
+        "shortname": "Maretino Chill",
+        "website": "https://www.maretimo-records.com/en/web-radios/chill-radio/",
+        "stream": "https://s35.derstream.net/chillradio.mp3",
+        "genres": [
+            "chillout",
+            "lounge",
+            "relaxing"
+        ],
+        "description": "Nonstop the best: Ibiza chillout, lounge & chillhouse music gems for: Hotels, Bars, Clubs, Shops, for working, for studying, for sleeping, for reading, for painting, for yoga, or just for relaxing at home.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "Maretino Latin Radio": {
+        "shortname": "Maretino Latin",
+        "website": "https://www.maretimo-records.com/en/web-radios/latin-radio/",
+        "stream": "https://s35.derstream.net/maretimo-latin.mp3",
+        "genres": [
+            "salsa",
+            "bachata",
+            "reggae",
+            "latin",
+            "pop",
+            "samba",
+            "tropical",
+            "dance",
+            "variety"
+        ],
+        "description": "Nonstop the best of: Salsa, Bachata, Merengue, Reggaeton, Kizomba, Latino Pop, Rumba, Mambo, Cha Cha Cha, Bossa Nova, Samba & tropical music gems for: Dancing, pool parties, sports, workout, running, jogging, traveling, vacation, hotels, bars, clubs, stores.",
+        "discontinued": false,
+        "location": "Augsburg, Bavaria, Germany"
+    },
+    "beachbar": {
+        "website": "https://laut.fm/beachbars",
+        "stream": "http://stream.laut.fm/beachbar",
+        "genres": [
+            "ambient",
+            "jazz",
+            "easy listening"
+        ],
+        "description": "Relax! Best in the beach bar. Relaxed tones from morning to night. For a view of the sea or for dreaming of the sea.",
+        "discontinued": false,
+        "location": "Konstanz, Germany"
+    },
+    "Witches Radio": {
+        "website": "https://witchesradio.fr",
+        "stream": "https://radio10.pro-fhi.net/live/WitchesRadio",
+        "genres": [
+            "ambient",
+            "goth",
+            "french",
+            "celtic",
+            "world"
+        ],
+        "description": "The favorite radio station for witches!",
+        "discontinued": false,
+        "location": "Paimpont, France"
+    },
+    "Swarm Station Space Drone": {
+        "shortname": "Space Drone",
+        "website": "https://swarmstation.fm",
+        "stream": "https://swarmstation.radioca.st/stream",
+        "genres": [
+            "ambient",
+            "electronic",
+            "chillout",
+            "relaxing"
+        ],
+        "description": "This internet radio station tries to immerse you in a certain feeling. To let you escape for a moment, hear relaxing music and enjoy this feeling. This station is independent and non-commercial, we are doing it out of love for this music. ",
+        "discontinued": false,
+        "location": "Nuremberg, Germany"
+    },
+    "Ignoreradio Shoegaze": {
+        "shortname": "Shoegaze",
+        "website": "https://ignoreradio.com",
+        "stream": "https://uk7.internet-radio.com/proxy/ignoreland?mp=/stream;",
+        "genres": [
+            "ambient",
+            "rock",
+            "classic rock",
+            "electronic",
+            "soundtracks"
+        ],
+        "description": "24 Hour Atmosphere, Shoegaze, Ambient, Soundtracks, Electronic, Rock 'n' Roll.",
+        "discontinued": false,
+        "location": "Dublin, Ireland, United Kingdom"
+    },
+    "Dublin Digital Radio": {
+        "shortname": "ddr",
+        "website": "https://listen.dublindigitalradio.com/home",
+        "stream": "https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a",
+        "genres": [
+            "ambient",
+            "electronic",
+            "community",
+            "alternative",
+            "culture"
+        ],
+        "description": "Dublin Digital Radio (ddr) is an award-winning, online community radio station representing a wealth of alternative music, art and politics across Ireland. ddr is wholly funded by its members, composed of listeners and broadcasters alike, ensuring that it remains independent of corporate influence and is run democratically by its growing community. Founded in 2016, the station has grown significantly all thanks to the dedication of our volunteers and members.",
+        "discontinued": false,
+        "location": "Dublin, Ireland, United Kingdom"
+    },
+    "RePlayScape": {
+        "website": "https://replayscape.com/",
+        "stream": "https://radio.replayscape.com:8443/128k.mp3",
+        "genres": [
+            "ambient",
+            "chillout"
+        ],
+        "description": "An endless soundtrack interspersed with talkback and audio collages documenting intrinsic government injustice and institutional abuse of power.",
+        "discontinued": false,
+        "location": "Sydney, Australia"
+    },
+    "Radio Food": {
+        "website": "https://5cf9322c44411.site123.me",
+        "stream": "http://streaming.radionomy.com/JamendoLounge",
+        "genres": [
+            "ambient",
+            "relaxing"
+        ],
+        "description": "Radio Food is a new webradio created by Mr HUGUENIN TOM, on June 6, 2019, the webradio offers a continuous streaming music listening program to accompany all your meals everywhere, on any occasion.",
+        "discontinued": false,
+        "location": "Besançon, France"
+    },
+    "Moss Garden": {
+        "website": "https://moss.garden",
+        "stream": "https://s3.radio.co:80/s55a34ecf1/listen",
+        "genres": [
+            "ambient",
+            "calm",
+            "relaxing"
+        ],
+        "description": "Ambient stream for rest, calm, or focus.",
+        "discontinued": false,
+        "location": "Tokyo, Japan"
+    },
+    "Whisperings - Solo Piano Radio": {
+        "shortname": "Whisperings SPR",
+        "website": "https://www.solopianoradio.com",
+        "stream": "https://pianosolo.streamguys1.com/live",
+        "genres": [
+            "piano",
+            "instrumental",
+            "classical",
+            "jazz"
+        ],
+        "description": "All piano. All the time. Solo piano music to quiet your world.",
+        "discontinued": false,
+        "location": "Eugene, Oregon, USA"
+    },
+    "CKCL Classical 107 FM": {
+        "shortname": "CKCL",
+        "website": "http://www.classic107.com/",
+        "stream": "https://goldenwest.leanstream.co/CKCLFM-MP3",
+        "genres": [
+            "classical",
+            "orchestral",
+            "symphony"
+        ],
+        "description": "Classic 107 FM is an international online radio station playing a fresh, uplifting and electric music format for a global audience. Classic 107 FM is an independent station for the online generation, connecting those who already have a strong connection with Canada.",
+        "discontinued": false,
+        "location": "Winnipeg, Manitoba, Canada",
+        "logo": "https://www.classic107.com/assets/classic107/main-logo-932af05900b5580ed832e4ccf4bc38bcad1ca154eab7f15d14dfd10a8560271b.svg"
+    },
+    "The Ocean Radio": {
+        "website": "https://theoceanradio.com/index.php",
+        "stream": "https://13683.live.streamtheworld.com/SAM08AAC033.mp3",
+        "genres": [
+            "easy listening",
+            "relaxing",
+            "80s",
+            "90s",
+            "2000s",
+            "contemporary",
+            "hits",
+            "classics",
+            "variety"
+        ],
+        "description": "Listeners can expect a broad playlist spanning from the '80s, '90s, the '00s, and today. We will feature artists like Lionel Richie, Elton John, Ed Sheeran, Whitney Houston, Sara McLachlan, Billy Joel, and Adele, giving listeners a non-stop stream of relaxing favorites that they can listen to at work, or at home, or in the car.",
+        "discontinued": false,
+        "location": "Surrey, British Columbia, Canada",
+        "logo": "https://theoceanradio.com/images/siteimages/1500x500logo21.png"
+    },
+    "MBARI Ocean Soundscape": {
+        "shortname": "",
+        "website": "https://www.mbari.org/project/soundscape-listening-room/",
+        "stream": "https://shoutcast.mbari.org/pacific-soundscape",
+        "genres": [
+            "science",
+            "education",
+            "ambient",
+            "research"
+        ],
+        "description": "A research and education project that employs a deep-sea cabled observatory to continuously record sounds within and outside the range of human hearing. These sounds fall into three categories: biophony (sounds of marine life), geophony (sounds of the earth), and anthrophony (sounds of human activities).",
+        "discontinued": false,
+        "location": "California, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/327205649_578445150420791_4746274647027041249_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KQ-A2iqSY00AX-BSrmZ&_nc_ht=scontent-bos5-1.xx&oh=00_AfC0VgHC1TCwJKb7Z913slaQu_Q2OelLFCOIsvnJmkTvUA&oe=63F30721"
+    },
+    "Miami Beach Radio": {
+        "shortname": "",
+        "website": "https://miamibeachradio.com",
+        "stream": "https://streaming.radiostreamlive.com/miamibeachradio_devices?",
+        "genres": [
+            "hits",
+            "classics",
+            "contemporary",
+            "easy listening",
+            "relaxing"
+        ],
+        "description": "The real essence of Miami Beach.",
+        "discontinued": false,
+        "location": "Miami Beach, Florida, USA",
+        "logo": "https://cdn.radiostreamlive.com/v1/logos/miamibeachradio.png"
+    },
+    "KSOS 90.5 FM SOS Radio": {
+        "shortname": "SOS Radio",
+        "website": "https://www.sosradio.net",
+        "stream": "https://ic2.sslstream.com/sosnet.mp3",
+        "genres": [
+            "religious",
+            "christian",
+            "contemporary",
+            "talk"
+        ],
+        "description": "SOS Radio is a community of people connecting with God and connecting with each other. We exist to encourage people and point them toward hope in a wild & crazy world. We exist to point people toward God and encourage them in their growth to follow the teachings of Jesus. We hope our music and conversation inspire you spiritually!",
+        "discontinued": false,
+        "location": "Las Vegas, Nevada, USA",
+        "logo": "https://mmo.aiircdn.com/230/6287b68cd97da.png"
+    },
+    "Vikland Radio": {
+        "website": "http://vikland.c-prod.com",
+        "stream": "https://manager3.streamradio.fr:1555/stream?1676522466386",
+        "genres": [
+            "chillout",
+            "celtic",
+            "ambient"
+        ],
+        "description": "A web radio for ambient music",
+        "discontinued": false,
+        "location": "Chartres, France",
+        "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/300617031_476118237857209_1444114708134937313_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=_KB0bL3twh0AX8S6Mya&_nc_oc=AQl_b9AkSwijtW1AnbSjIdu92tCVYLDIwLWNPNqAgJsJ0LG_ag4eGWRn6djzt1Q4fSo&_nc_ht=scontent-lga3-2.xx&oh=00_AfB4ahQiGIJ6A2BIW4RxuadD9d7PEoSvck_XLq8r5WsZVg&oe=63F26471"
+    },
+    "Journeyscapes Radio": {
+        "shortname": "Journeyscapes",
+        "website": "http://www.journeyscapesradio.com/",
+        "stream": "https://eagle.streemlion.com/proxy/journeys/stream",
+        "genres": [
+            "ambient",
+            "chillout",
+            "downtempo",
+            "relaxing"
+        ],
+        "description": "Streaming ambient, chillout, downtempo, new age & world fusion in high resolution audio! Let yourself be transported to exotic lands, cosmic planes and oceanic realms.",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada",
+        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEh3xHdZEZ6D9x-OHrzriPB1yXuuf-5PKo1S8dLNr9AuT9QVyNdmOfy5cExQv6HuJwaJaCFgZqwrWUaZsoAo8DC9-kHfM4ufAKk0iD8FCw_cusGTI-IzFBnIdidVDSQUdiWrZBgQnhnSuOgIyv6RMwIlU_ScRX2GtaiYIJivbSkeaQw3L5rC97KkVOOFUA=s855"
+    },
+    "Radio Luso Europeu": {
+        "shortname": "",
+        "website": "https://radiolusoeuropeu.eu",
+        "stream": "https://ssl.stmxp.net:7000/:",
+        "genres": [
+            "latin",
+            "portuguese",
+            "60s",
+            "70s",
+            "80s",
+            "contemporary",
+            "world"
+        ],
+        "description": "Portuguese and international music from the 60s, 70s, 80s, and beyond.",
+        "discontinued": false,
+        "location": "Nîmes, France",
+        "logo": "https://radiolusoeuropeu.eu/media/OUTRAS/Radio%20Luso%20Europeu.jpg"
+    },
+    "Seeburg 1000": {
+        "website": "https://seeburg1000.com",
+        "stream": "http://104.251.122.71:8351/stream",
+        "genres": [
+            "ambient",
+            "60s",
+            "70s",
+            "80s",
+            "easy listening"
+        ],
+        "description": "Seeburg 1000 is a web based internet radio station from Los Angeles, California that plays music originally heard from 1959 to 1986 as background music in businesses. It streams 24/7, 365 days a year from Seeburg1000.com The entire project is a labor of love for all involved. Thank You for Listening!",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA",
+        "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/301762900_509198347876160_1329566608329498722_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1koakxucPaQAX-x7x42&_nc_ht=scontent-lga3-2.xx&oh=00_AfAG4yXAnOK0G9PdhLWwgHarsB_w2axOEsXyuO2sfR9Oyg&oe=63F28CEA"
+    },
+    "Neo Soul Cafe": {
+        "website": "https://www.neosoulcafe.com",
+        "stream": "https://ice3.securenetsystems.net/NSCAFE",
+        "genres": [
+            "avant-garde",
+            "ambient",
+            "house",
+            "lounge",
+            "soul",
+            "R&B",
+            "jazz",
+            "funk",
+            "hip hop",
+            "pop",
+            "variety"
+        ],
+        "description": "Music from avant-garde R&B to organic soul incorporating elements from jazz, funk, hip hop to pop, fusion, and African music.",
+        "discontinued": false,
+        "location": "Dallas, Texas, USA",
+        "logo": "https://www.neosoulcafe.com/wp-content/uploads/2022/07/nsc-logo-final.png"
+    },
+    "Chillout Tree Pines Radio": {
+        "shortname": "Chillout Tree Pines",
+        "website": "https://www.chillouttreepines.com",
+        "stream": "https://stream.radiojar.com/n4dzb3znn3quv",
+        "genres": [
+            "ambient",
+            "chillout",
+            "downtempo",
+            "lounge",
+            "easy listening",
+            "relaxing"
+        ],
+        "description": "Relax With Music!!! Every day 24 hours with Amazing music Chillout Lounge Deeply Beautiful Downtempo Electronic sounds.",
+        "discontinued": false,
+        "location": "Athens, Greece",
+        "logo": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/1118088/919536_111614.png"
+    },
+    "Seasalt Radio": {
+        "website": "https://www.laut.fm/seasaltradio",
+        "stream": "https://stream.laut.fm/seasaltradio",
+        "genres": [
+            "ambient",
+            "nature",
+            "relaxing"
+        ],
+        "description": "The sound of the sea on the radio.",
+        "discontinued": false,
+        "location": "Berlin, Germany",
+        "logo": "https://pbs.twimg.com/profile_images/1471412489/Screen_shot_2011-07-31_at_23.25.47_400x400.png"
+    },
+    "Sophie Caffe Radio": {
+        "website": "https://sophiecafferadio.live",
+        "stream": "http://104.128.234.228:8000/.mp3",
+        "genres": [
+            "ambient",
+            "community",
+            "contemporary"
+        ],
+        "description": "Listen to the best music and enjoy your day",
+        "discontinued": false,
+        "location": "Tirana, Albania",
+        "logo": "http://www.sophiecafferadio.live/sophie_logo.png"
+    },
+    "Birdsong.fm": {
+        "shortname": "",
+        "website": "https://www.birdsong.fm",
+        "stream": "https://streaming.radio.co:80/s5c5da6a36/listen",
+        "genres": [
+            "ambient",
+            "nature",
+            "animals",
+            "relaxing"
+        ],
+        "description": "Dedicated to playing birdsong 24/7. Relax to the tranquil sounds of dawn chorus birdsong.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://www.birdsong.fm/uploads/6/4/8/6/64862667/published/birdsongtransparent.png?1506085102"
+    },
+    "KingDUB Radio": {
+        "website": "http://kingdubfamily.com",
+        "stream": "http://london-dedicated.myautodj.com:8862/stream/;stream.mp3",
+        "genres": [
+            "dubstep",
+            "rock",
+            "dance",
+            "electronic"
+        ],
+        "description": "KingDUB Radio Community & Label, Since 2008... OPEN Door to all tribes and all VibeZ ! It is all about: ROOTS, DUB Music & PURE LIVITY WARN a Brother, WARN a Sister...JAH Love <3",
+        "discontinued": false,
+        "location": "Paris, France",
+        "logo": "https://static-media.streema.com/media/cache/37/8b/378bc3817b1d16bcd2ab211d602dd5a9.jpg"
+    },
+    "Sub FM": {
+        "website": "https://www.sub.fm",
+        "stream": "https://fmsub.radioca.st//live",
+        "genres": [
+            "dubstep",
+            "house",
+            "electronic",
+            "techno"
+        ],
+        "description": "Where Bass Matters | Est. 2004 | Global Bass Music Radio",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/302436844_517397427055434_1845379460702100810_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=O0C4OQooPaMAX_dE3lm&_nc_ht=scontent-lga3-2.xx&oh=00_AfCUbIpZOo_hSvLjy23hlzUQhVUjJwlRN7_lqo459lZYWQ&oe=63F4AEDE"
+    },
+    "Pigpen Radio": {
+        "website": "http://www.pigpenradio.org",
+        "stream": "https://azuracast.spollin.net:8000/radio.mp3",
+        "genres": [
+            "dance",
+            "downtempo",
+            "dubstep",
+            "reggae",
+            "hip hop"
+        ],
+        "description": "Pigpen Radio is a social enterprise radio station based in the South West UK. We are all about positive conscious music. Our eclectic playlist features reggae, dancehall, dub, trip hop, downtempo and more...",
+        "discontinued": false,
+        "location": "Bristol, England, United Kingdom",
+        "logo": "https://i1.sndcdn.com/avatars-miPlWlfACJQ3HSZw-Z7sPjg-t500x500.jpg"
     }
 }
