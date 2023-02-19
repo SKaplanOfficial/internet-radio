@@ -14530,110 +14530,6 @@
         "discontinued": false,
         "location": "Zurich, Switzerland"
     },
-    "Ventura Radio - DEEP": {
-        "shortname": "Ventura DEEP",
-        "website": "https://ventura.radio/#radios",
-        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_247_deep_vocal_house//radio.mp3",
-        "genres": [
-            "house",
-            "disco",
-            "electronic"
-        ],
-        "description": "",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
-    "Ventura Radio - CLUB": {
-        "shortname": "Ventura CLUB",
-        "website": "",
-        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_247_new__exclusive_club_music//radio.mp3",
-        "genres": [
-            "dance",
-            "house",
-            "techno",
-            "progressive",
-            "mash-up"
-        ],
-        "description": "24/7 New & Exclusive Club Music",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
-    "Ventura Radio - 24/7 Suprafive Music": {
-        "shortname": "Ventura Suprafive",
-        "website": "https://ventura.radio/#radios",
-        "stream": "https://vocal.ventura.radio/listen/suprafivemusic//radio.mp3",
-        "genres": [
-            ""
-        ],
-        "description": "",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
-    "Ventura Radio - MASH": {
-        "shortname": "Ventura MASH",
-        "website": "https://ventura.radio/#radios",
-        "stream": "https://vocal.ventura.radio/listen/d33b_radio_all//radio.mp3",
-        "genres": [
-            "house",
-            "disco",
-            "electronic",
-            "techno",
-            "indie",
-            "downtempo"
-        ],
-        "description": "24/7 Club, Tech, Breaks, Nu Disco, Progressive, Indie, Downtempo & Organic House",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
-    "Ventura Radio - HYBRID": {
-        "shortname": "Ventura HYBRID",
-        "website": "https://ventura.radio/#radios",
-        "stream": "https://vocal.ventura.radio/listen/ventura_hybrid//radio.mp3",
-        "genres": [
-            "progressive",
-            "house"
-        ],
-        "description": "24/7 Progressive House Music",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
-    "Ventura Radio - CLASSIC": {
-        "shortname": "Ventura CLASSIC",
-        "website": "https://ventura.radio/#radios",
-        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_top_all_times//radio.mp3",
-        "genres": [
-            "electronic",
-            "house"
-        ],
-        "description": "Classic Vocal Deep House, Progressive & Nu Disco",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
-    "Ventura Radio - PROGRESSIVE": {
-        "shortname": "Ventura PROGRESSIVE",
-        "website": "https://ventura.radio/#radios",
-        "stream": "https://vocal.ventura.radio/listen/d33b.house_-_247_progressive_house//radio.mp3",
-        "genres": [
-            "house",
-            "progressive"
-        ],
-        "description": "24/7 Progressive House Music",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
-    "Ventura Radio - TECH": {
-        "shortname": "Ventura TECH",
-        "website": "https://ventura.radio/#radios",
-        "stream": "https://vocal.ventura.radio/listen/ventura-tech//radio.mp3",
-        "genres": [
-            "house",
-            "techno",
-            "beat"
-        ],
-        "description": "24/7 Tech House Music",
-        "discontinued": false,
-        "location": "Sofia, Bulgaria"
-    },
     "Interstellar Radio Station": {
         "shortname": "Interstellar",
         "website": "http://76.119.19.241:9000/played.html",
@@ -15434,5 +15330,721 @@
         "discontinued": false,
         "location": "Bristol, England, United Kingdom",
         "logo": "https://i1.sndcdn.com/avatars-miPlWlfACJQ3HSZw-Z7sPjg-t500x500.jpg"
+    },
+    "Dubplate.fm Dub & Bass": {
+        "shortname": "Dub & Bass",
+        "website": "https://dubplate.fm",
+        "stream": "https://sc2.dubplate.fm/radio/8000/dubandbass/uhifi?hi.mp3",
+        "genres": [
+            "dubstep",
+            "downtempo",
+            "bass"
+        ],
+        "description": "Playing the latest in electronic music with a focus on bass oriented genres and streaming live from the club.",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada",
+        "logo": "https://pbs.twimg.com/profile_images/1747512835/default_app_logo_2x_400x400.png"
+    },
+    "Dubplate.fm Urban Boogie": {
+        "shortname": "",
+        "website": "",
+        "stream": "https://sc2.dubplate.fm/radio/8010/urbanboogie/uhifi?hi.mp3",
+        "genres": [
+            "house",
+            "trap",
+            "street"
+        ],
+        "description": "Dubplate.fm is a dubstep, future bass, jungle, downtempo, house, electro, techno, party hip hop online radio station and dj/producer centric website.",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada",
+        "logo": "https://pbs.twimg.com/profile_images/1747512835/default_app_logo_2x_400x400.png"
+    },
+    "Dubplate.fm 5 Pointz": {
+        "shortname": "",
+        "website": "",
+        "stream": "https://sc2.dubplate.fm/radio/8020/hiphop/uhifi?hi.mp3",
+        "genres": [
+            "hip hop",
+            "funk",
+            "R&B",
+            "jazz"
+        ],
+        "description": "Playing the latest in electronic music with a focus on bass oriented genres and streaming live from the club.",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada",
+        "logo": "https://pbs.twimg.com/profile_images/1747512835/default_app_logo_2x_400x400.png"
+    },
+    "Dubplate.fm Drum 'n Bass": {
+        "shortname": "",
+        "website": "",
+        "stream": "https://sc2.dubplate.fm/radio/8030/dnb/uhifi?hi.mp3",
+        "genres": [
+            "drums",
+            "bass"
+        ],
+        "description": "Playing the latest in electronic music with a focus on bass oriented genres and streaming live from the club.",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada",
+        "logo": "https://pbs.twimg.com/profile_images/1747512835/default_app_logo_2x_400x400.png"
+    },
+    "RadioActive FM": {
+        "website": "https://radioactivefm.co.uk",
+        "stream": "https://stream.radioactivefm.co.uk/listen/radioactive_fm/radiohq.aac",
+        "genres": [
+            "electronic",
+            "house",
+            "dubstep",
+            "techno",
+            "drums",
+            "bass"
+        ],
+        "description": "RadioActive Fm was originally a pirate radio station which started in October 1991 and was heard on the Surrey/Hampshire/Berkshire border. Back in the day it was run by the late Andy Williams and his crew. At RadioActive we pride ourselves in hosting an increasing list of high quality DJs spinning the earliest Acid House and Rave Classics to the latest Drum n Bass, Dubstep, Techno, House & Electro and everything inbetween.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://radioactivefm.co.uk/images/RA-banner_new-.jpg"
+    },
+    "Exclusive Radio - Whitney Houston": {
+        "shortname": "Whitney Houston",
+        "website": "https://play.exclusive.radio/station/18/486",
+        "stream": "https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "Cited as the most awarded female artist of all time by Guinness World Records with 200 million record sales worldwide. All Whitney Houston All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - ZZ Top": {
+        "shortname": "ZZ Top",
+        "website": "https://play.exclusive.radio/station/18/347",
+        "stream": "https://streaming.exclusive.radio/er/zztop/icecast.audio",
+        "genres": [
+            "rock"
+        ],
+        "description": "They were formed in the 70's and 15 studio albums and 50 million copies sold worldwide they are still rocking! All ZZ Top All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - 10cc": {
+        "shortname": "10cc",
+        "website": "https://play.exclusive.radio/station/18/34",
+        "stream": "https://streaming.exclusive.radio/er/10cc/icecast.audio",
+        "genres": [
+            "rock"
+        ],
+        "description": "Innovative English Pop Rock band that had huge chart success despite the quirky nature of their songs. A version of the band is still touring today. All 10cc All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - 2Pac": {
+        "shortname": "2Pac",
+        "website": "https://play.exclusive.radio/station/18/1284",
+        "stream": "https://streaming.exclusive.radio/er/2pac/icecast.audio",
+        "genres": [
+            "pop",
+            "rap"
+        ],
+        "description": "Tupac Amaru Shakur also known as 2Pac, was an American rapper, widely considered one of the most influential rappers of all time. All 2Pac All The Time. WARNING: This station contains some explicit material.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - 50 Cent": {
+        "shortname": "",
+        "website": "",
+        "stream": "https://streaming.exclusive.radio/er/50cent/icecast.audio",
+        "genres": [
+            "hip hop"
+        ],
+        "description": "All 50 Cent All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - a-ha": {
+        "shortname": "a-ha",
+        "website": "https://play.exclusive.radio/station/18/39",
+        "stream": "https://streaming.exclusive.radio/er/aha/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "a-ha is a Norwegian pop band formed in Oslo in 1982 featuring the stunning vocals of Morten Harket. All A-Ha All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - A.R. Rahman": {
+        "shortname": "A.R. Rahman",
+        "website": "https://play.exclusive.radio/station/18/929",
+        "stream": "https://drive.uber.radio/uber/bollywoodarrahman/icecast.audio",
+        "genres": [
+            "indian",
+            "pop"
+        ],
+        "description": "A selection of the finest work of a hugely talented composer, record producer singer and songwriter.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - ABBA": {
+        "shortname": "ABBA",
+        "website": "https://play.exclusive.radio/station/18/37",
+        "stream": "https://streaming.exclusive.radio/er/abba/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "Music from Sweden's most successful musical export of any era! All ABBA All The Time.",
+        "discontinued": false,
+        "location": "",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - AC/DC": {
+        "shortname": "AC/DC",
+        "website": "https://play.exclusive.radio/station/18/314",
+        "stream": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
+        "genres": [
+            "rock"
+        ],
+        "description": "Scottish born, Australian bred, this is the rock band who defined the genre! All AC/DC All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Adam Lambert": {
+        "shortname": "Adam Lambert",
+        "website": "https://play.exclusive.radio/station/18/14",
+        "stream": "https://streaming.exclusive.radio/er/adamlambert/icecast.audio",
+        "genres": [
+            "rock",
+            "pop"
+        ],
+        "description": "Adam has sold over 3 million albums and 5 million singles worldwide. He has also collaborated with Queen as their lead vocalist since 2011. All Adam Lambert All The TIme.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Adele": {
+        "shortname": "Adele",
+        "website": "https://play.exclusive.radio/station/18/15",
+        "stream": "https://streaming.exclusive.radio/er/adele/icecast.audio",
+        "genres": [
+            "pop",
+            "top 40"
+        ],
+        "description": "Adele Laurie Blue Adkins MBE. With the purest of voices and songs crafted from the heart, she is known to the world quite simply as ADELE. All Adele All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Aerosmith": {
+        "shortname": "Aerosmith",
+        "website": "https://play.exclusive.radio/station/18/315",
+        "stream": "http://streaming.exclusive.radio/er/aerosmith/icecast.audio",
+        "genres": [
+            "rock"
+        ],
+        "description": "The band consists of Steven Tyler, Joe Perry, Tom Hamilton, Joey Kramer and Brad Whitford and was formed in Boston, Massachusetts in 1970 and still sound as awesome as ever! All Aerosmith All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Air Supply": {
+        "shortname": "Air Supply",
+        "website": "https://play.exclusive.radio/station/18/1471",
+        "stream": "https://streaming.exclusive.radio/er/airsupply/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "An Australian soft rock duo, consisting of English-born co-lead vocalist and guitarist Graham Russell and Australian co-lead vocalist Russell Hitchcock formed in 1975. All Air Supply All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - AJ Tracey": {
+        "shortname": "AJ Tracey",
+        "website": "https://play.exclusive.radio/station/18/731",
+        "stream": "https://streaming.exclusive.radio/er/ajtracey/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "Ché Wolton Grant, known as AJ Tracey is a British rapper, singer, songwriter and record producer.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Al Green": {
+        "shortname": "Al Green",
+        "website": "https://play.exclusive.radio/station/18/139",
+        "stream": "https://streaming.exclusive.radio/er/algreen/icecast.audio",
+        "genres": [
+            "soul"
+        ],
+        "description": "A Soul Legend with a unique voice and style. He is a singer, songwriter and an ordained minister, All Al Green All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Al Jarreau": {
+        "shortname": "Al Jarreau",
+        "website": "https://play.exclusive.radio/station/18/374",
+        "stream": "https://streaming.exclusive.radio/er/aljarreau/icecast.audio",
+        "genres": [
+            "R&B",
+            "jazz"
+        ],
+        "description": "The finest exponent of the L.A.  jazz-pop and RnB sound of the 80's. He is a 7 times Grammy winner. All Al Jarreau All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Alabama": {
+        "shortname": "Alabama",
+        "website": "https://play.exclusive.radio/station/18/560",
+        "stream": "https://streaming.exclusive.radio/er/alabama/icecast.audio",
+        "genres": [
+            "country",
+            "rock"
+        ],
+        "description": "These Country and Southern Rock giants were formed by three cousins in Fort Payne, Alabama. 75 Million record sales make them the most successful band in country history. All Alabama All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Alanis Morissette": {
+        "shortname": "Alanis Morissette",
+        "website": "https://play.exclusive.radio/station/18/488",
+        "stream": "https://streaming.exclusive.radio/er/alanismorissette/icecast.audio",
+        "genres": [
+            "alternative",
+            "rock",
+            "contemporary"
+        ],
+        "description": "A Canadian-American singer songwriter with an amazing voice and thought prevoking lyrics. All Alanis Morissette All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Albert Collins": {
+        "shortname": "Albert Collins",
+        "website": "https://play.exclusive.radio/station/18/6",
+        "stream": "https://streaming.exclusive.radio/er/albertcollins/icecast.audio",
+        "genres": [
+            "blues",
+            "guitar"
+        ],
+        "description": "Known as the Ice Man, Albert was an American electric blues guitarist and singer with a distinctive guitar style. All Albert Collins All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Alec Benjamin": {
+        "shortname": "Alec Benjamin",
+        "website": "https://play.exclusive.radio/station/18/16",
+        "stream": "https://streaming.exclusive.radio/er/alecbenjamin/icecast.audio",
+        "genres": [
+            "pop",
+            "contemporary"
+        ],
+        "description": "Alec's 2018 single, \"Let Me Down Slowly\" has had over 617 million streams. All Alec Benjamin All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Alice Cooper": {
+        "shortname": "Alice Cooper",
+        "website": "https://play.exclusive.radio/station/18/316",
+        "stream": "https://streaming.exclusive.radio/er/alicecooper/icecast.audio",
+        "genres": [
+            "rock"
+        ],
+        "description": "He has been recording and playing live for 50 years and still going strong. All Alice Cooper All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Alison Moyet": {
+        "shortname": "Alison Moyet",
+        "website": "https://play.exclusive.radio/station/18/40",
+        "stream": "https://streaming.exclusive.radio/er/alisonmoyet/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "One of the finest voices to ever emerge from the British music scene, she has achieved an incredible 23 million album sales worldwide. All Alison Moyet All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Alka Yagnik": {
+        "shortname": "Alkka Yagnik",
+        "website": "https://play.exclusive.radio/station/18/918",
+        "stream": "https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio",
+        "genres": [
+            "romantic",
+            "indian",
+            "bollywood"
+        ],
+        "description": "Alka Yagnik Kapoor is a legendary Playback singer with a career spanning four decades.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Allman Brothers Band": {
+        "shortname": "Allman Brothers",
+        "website": "https://play.exclusive.radio/station/18/530",
+        "stream": "https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio",
+        "genres": [
+            "rock"
+        ],
+        "description": "The legendary Duane and Gregg Allman formed the ban in 1969 in Florida. Duane died in 1971 and Gregg led the band through it's glory years. All The Allman Brothers Band All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - America": {
+        "shortname": "America",
+        "website": "https://play.exclusive.radio/station/18/489",
+        "stream": "https://streaming.exclusive.radio/er/america/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "Amazingly considering the name the band were formed in London in 1970 by the son's of U.S service personnel and they are still recording and touring today. They are inductees of The Vocal Group Hall of Fame and have a star on The Hollywood Walk of Fame. All America All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Amit Trivedi": {
+        "shortname": "Amit Trivedi",
+        "website": "https://play.exclusive.radio/station/18/919",
+        "stream": "https://drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio",
+        "genres": [
+            "bollywood",
+            "indian",
+            "pop"
+        ],
+        "description": "A collection of the finest music created by this talented singer, lyricist and amazingly versatile music director.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Amy Winehouse": {
+        "shortname": "Amy Winehouse",
+        "website": "https://play.exclusive.radio/station/18/375",
+        "stream": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Her deep expressive voice, her unique style and her original songwriting added up to a remarkable talent lost far too soon. All Amy Winehouse All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Andrea Bocelli": {
+        "shortname": "Andrea Bocelli",
+        "website": "https://play.exclusive.radio/station/18/595",
+        "stream": "https://streaming.exclusive.radio/er/andreabocelli/icecast.audio",
+        "genres": [
+            "opera"
+        ],
+        "description": "An Italian opera singer, songwriter, tenor and record producer. All Andrea Bocelli All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Andy Williams": {
+        "shortname": "Andy Williams",
+        "website": "https://play.exclusive.radio/station/18/596",
+        "stream": "https://streaming.exclusive.radio/er/andywilliams/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "He recorded an incredible 43 albums in his career, 15 went gold and 3 went platinum. Here is the best of that amazing catalogue. All Andy Williams All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Anne Murray": {
+        "shortname": "Anne Murray",
+        "website": "https://play.exclusive.radio/station/18/1524",
+        "stream": "https://streaming.exclusive.radio/er/annemurray/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "Morna Anne Murray has sold over 55 million albums worldwide during her 40-year career. All Anne Murray All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Annie Lennox": {
+        "shortname": "Annie Lennox",
+        "website": "https://play.exclusive.radio/station/18/41",
+        "stream": "https://streaming.exclusive.radio/er/annielennox/icecast.audio",
+        "genres": [
+            "pop",
+            "scottish"
+        ],
+        "description": "A Scottish singer-songwriter, political activist and philanthropist, she and fellow musician Dave Stewart went on to achieve international success in the 1980s as Eurythmics. All Annie Lennox All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Arctic Monkeys": {
+        "shortname": "Arctic Monkeys",
+        "website": "https://play.exclusive.radio/station/18/422",
+        "stream": "https://streaming.exclusive.radio/er/arcticmonkeys/icecast.audio",
+        "genres": [
+            "indie"
+        ],
+        "description": "From Sheffield in the U.K. they were one of the first bands to launch themselves on the internet, now huge worldwide. All Arctic Monkeys All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Aretha Franklin": {
+        "shortname": "Aretha Franklin",
+        "website": "https://play.exclusive.radio/station/18/140",
+        "stream": "https://play.exclusive.radio/station/18/422",
+        "genres": [
+            "soul"
+        ],
+        "description": "The Queen of Soul. All Aretha Franklin All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Ariana Grande": {
+        "shortname": "Ariana Grande",
+        "website": "https://play.exclusive.radio/station/18/17",
+        "stream": "https://streaming.exclusive.radio/er/arianagrande/icecast.audio",
+        "genres": [
+            "top 40",
+            "pop"
+        ],
+        "description": "The most streamed artist of the 2010's, Florida-born Ariana is hot to trot. All Ariana Grande All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Arijit Singh": {
+        "shortname": "Arijit Singh",
+        "website": "https://play.exclusive.radio/station/18/921",
+        "stream": "https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio",
+        "genres": [
+            "bollywood",
+            "indian",
+            "hindi",
+            "pop"
+        ],
+        "description": "Recipient of a record six Filmfair awards. The King of Playback Singing.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Armaan Malik": {
+        "shortname": "Armaan Malik",
+        "website": "https://play.exclusive.radio/station/18/920",
+        "stream": "https://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio",
+        "genres": [
+            "hindi",
+            "indian",
+            "world",
+            "bollywood",
+            "pop",
+            "ballad",
+            "dance"
+        ],
+        "description": "Born in 1995 he is the youngest singer to win two debut awards at the Global Indian Music Awards.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Asha Bhosle": {
+        "shortname": "Asha Bhosle",
+        "website": "https://play.exclusive.radio/station/18/930",
+        "stream": "https://drive.uber.radio/uber/bollywoodashabhosle/icecast.audio",
+        "genres": [
+            "hindi",
+            "indian",
+            "bollywood"
+        ],
+        "description": "Her seven decade career has made her a legend in Hindi cinema as a playback singer as well as developing a wider repertoire.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Atif Aslam": {
+        "shortname": "Atif Aslam",
+        "website": "https://play.exclusive.radio/station/18/931",
+        "stream": "https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio",
+        "genres": [
+            "indian",
+            "bollywood",
+            "hindi",
+            "pop"
+        ],
+        "description": "Best known for his hit songs in the Pakistani and Indian film industries,he has recorded chart-topping songs in both countries.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Avicii": {
+        "shortname": "Avicii",
+        "website": "https://play.exclusive.radio/station/18/18",
+        "stream": "https://streaming.exclusive.radio/er/avicii/icecast.audio",
+        "genres": [
+            "pop",
+            "top 40",
+            "electronic",
+            "dance"
+        ],
+        "description": "Tim Bergling was a Swedish DJ and remixer, record producer,musician and songwriter who began producing aged 16 and posting his work online. Sadly he died in 2018 but left some amazing music for us to remember him by. All Avicii All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Avril Lavigne": {
+        "shortname": "Avril Lavigne",
+        "website": "https://play.exclusive.radio/station/18/1285",
+        "stream": "https://streaming.exclusive.radio/er/avrillavigne/icecast.audio",
+        "genres": [
+            "pop",
+            "punk",
+            "indie",
+            "contemporary",
+            "rock",
+            "alternative"
+        ],
+        "description": "A Canadian singer and songwriter who has released seven studio albums and has received several awards including eight Grammy Award nominations. All Avril Lavigne All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Radio Nature": {
+        "website": "https://radionature.weebly.com",
+        "stream": "https://stream.zeno.fm/3ac97ysh6f0uv",
+        "genres": [
+            "ambient",
+            "nature",
+            "relaxing"
+        ],
+        "description": "Meditation, Relaxation, Yoga... If you want to relax, listen to Radio Nature. The programming of this digital radio is dedicated to nature. Discover and enjoy the sounds of nature, New Age music and other influences of the world that promote peace and serenity.",
+        "discontinued": false,
+        "location": "Elche, Valencia, Spain",
+        "logo": "https://radionature.weebly.com/uploads/7/4/0/7/74072033/editor/logoradionature.jpg"
+    },
+    "myNoise Zen Garden": {
+        "shortname": "Zen Garden",
+        "website": "https://mynoise.net/radios.php?r=zengarden",
+        "stream": "https://zengarden-mynoise.radioca.st/stream",
+        "genres": [
+            "ambient",
+            "nature",
+            "relaxing",
+            "calm"
+        ],
+        "description": "A blend of calm nature sounds and relaxing tones.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://mynoise.net/Pix/logo_256.png"
+    },
+    "myNoise Rainy Day": {
+        "shortname": "Rainy Day",
+        "website": "https://mynoise.net/radios.php?r=rainyday",
+        "stream": "https://rainyday-mynoise.radioca.st/stream",
+        "genres": [
+            "ambient",
+            "nature",
+            "relaxing"
+        ],
+        "description": "Generative rain that never stops.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://mynoise.net/Pix/logo_256.png"
+    },
+    "myNoise Ocean Waves": {
+        "shortname": "Ocean Waves",
+        "website": "https://mynoise.net/radios.php?r=oceanwaves",
+        "stream": "https://oceanwaves-mynoise.radioca.st/stream",
+        "genres": [
+            "ambient",
+            "nature",
+            "relaxing"
+        ],
+        "description": "Real field recordings from all over the world, not loops.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://mynoise.net/Pix/logo_256.png"
+    },
+    "myNoise Siren Songs": {
+        "shortname": "Siren Songs",
+        "website": "https://mynoise.net/radios.php?r=sirensongs",
+        "stream": "https://sirensongs-mynoise.radioca.st/stream",
+        "genres": [
+            "relaxing",
+            "calm",
+            "vocal",
+            "ambient"
+        ],
+        "description": "Let yourself be seduced by a combination of mesmerising voices and deep underwater sounds.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://mynoise.net/Pix/logo_256.png"
+    },
+    "myNoise Pure Nature": {
+        "shortname": "Pure Nature",
+        "website": "https://mynoise.net/radios.php?r=purenature",
+        "stream": "https://purenature-mynoise.radioca.st/stream",
+        "genres": [
+            "ambient",
+            "nature",
+            "relaxing"
+        ],
+        "description": "Connect to Mother Earth to create inner peace.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://mynoise.net/Pix/logo_256.png"
+    },
+    "myNoise Space Odyssey": {
+        "shortname": "Space Odyssey",
+        "website": "https://mynoise.net/radios.php?r=spaceodyssey",
+        "stream": "https://spaceodyssey-mynoise.radioca.st/stream",
+        "genres": [
+            "ambient"
+        ],
+        "description": "A trippy journey through mystical cosmic dust.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://mynoise.net/Pix/logo_256.png"
+    },
+    "myNoise Drone Zone": {
+        "shortname": "Drone Zone",
+        "website": "https://mynoise.net/radios.php?r=dronezone",
+        "stream": "https://dronezone-mynoise.radioca.st/stream",
+        "genres": [
+            "ambient",
+            "trance"
+        ],
+        "description": "Trance-inducing meditative tones.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://mynoise.net/Pix/logo_256.png"
+    },
+    "Funky Corner Radio": {
+        "website": "http://www.funkycorner.it",
+        "stream": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+        "genres": [
+            "funk",
+            "soul",
+            "R&B",
+            "disco",
+            "70s",
+            "80s"
+        ],
+        "description": "We play the best in Funky, R&B and 70s Disco.",
+        "discontinued": false,
+        "location": "Milan, Italy",
+        "logo": "https://live.mystreamplayer.com/configs/images/FunkyCornerRadio.png"
     }
 }
