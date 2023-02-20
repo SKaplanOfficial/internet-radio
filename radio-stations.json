@@ -6521,7 +6521,7 @@
         "genres": [
             "classics",
             "hits",
-            "dtuch",
+            "dutch",
             "public"
         ],
         "description": "A public-service radio station in the Netherlands, broadcasting chiefly classic hits.",
@@ -16046,5 +16046,388 @@
         "discontinued": false,
         "location": "Milan, Italy",
         "logo": "https://live.mystreamplayer.com/configs/images/FunkyCornerRadio.png"
+    },
+    "Paradise Radio": {
+        "website": "https://paradise.radio/live/",
+        "stream": "https://s53.radiolize.com/radio/8220/radio.mp3",
+        "genres": [
+            "dance",
+            "house",
+            "bass"
+        ],
+        "description": "The freshest dance, house, deep, and bass tracks.",
+        "discontinued": false,
+        "location": "Sydney, Australia",
+        "logo": "https://ar.toneden.io/5704708/bd004c12-3cf6-441b-bd69-0a463ea4e632"
+    },
+    "Great British Radio": {
+        "website": "https://www.greatbritish.radio",
+        "stream": "https://stream.rcs.revma.com/1pnutwsuvrhvv",
+        "genres": [
+            "hits",
+            "pop",
+            "classics",
+            "oldies",
+            "variety",
+            "comedy",
+            "talk"
+        ],
+        "description": "Great Laughs, Great Guests, Great Music … That's Great British Radio. We offer a collection of voices, thoughts and lives, hit music spanning six decades with songs you know and love and a whole host of laughs along the way.... What's not to love!",
+        "discontinued": false,
+        "location": "Chichester, England, United Kingdom",
+        "logo": "https://mmo.aiircdn.com/708/63c7e3466b92c.png"
+    },
+    "8CCC Community Radio 102.1 FM": {
+        "shortname": "8CCC",
+        "website": "https://8ccc.com.au",
+        "stream": "https://21423.live.streamtheworld.com/8CCC.mp3",
+        "genres": [
+            "pop",
+            "news",
+            "talk",
+            "australian",
+            "local",
+            "community",
+            "variety"
+        ],
+        "description": "102.1FM 8CCC is an outback radio station with a proud history of unique programming & regular Centralian/Barkly-inspired music. 8CCC does not aim to compete with other radio stations. It aims to provide a diverse and community based range of programming. We take pride in delivering quality programming to our audiences in the Alice Springs and Tennant Creek communities.",
+        "discontinued": false,
+        "location": "Alice Springs, Australia",
+        "logo": ""
+    },
+    "GLXY 194.0 FM": {
+        "shortname": "GLXY",
+        "website": "https://glxy.radio",
+        "stream": "https://mediaserv73.live-streams.nl:18044/stream",
+        "genres": [
+            "hip hop",
+            "R&B",
+            "dance",
+            "dutch"
+        ],
+        "description": "Nationwide on digital radio DAB+, 24/7 HIPHOP and R&B",
+        "discontinued": false,
+        "location": "Utrecht, Netherlands",
+        "logo": "https://glxy.radio/wp-content/uploads/2022/01/GLXY-LOGO-RGB-500.png"
+    },
+    "Drift Radio": {
+        "shortname": "",
+        "website": "https://drift.radio",
+        "stream": "https://drift.radio/listen/?1676920453813",
+        "genres": [
+            "dance",
+            "hip hop",
+            "R&B",
+            "local",
+            "community",
+            "news",
+            "talk"
+        ],
+        "description": "Drift Radio is a dance music community radio station based in North Wales. We love all forms of dance music and want to raise listener choice by providing a modern and accessible platform to allow presenters, DJ's and producers to share their music. We are a local station promoting local content — we are a community",
+        "discontinued": false,
+        "location": "North Wales, Wales, United Kingdom",
+        "logo": "https://drift.radio/wp-content/uploads/2021/12/DRlogo200.png"
+    },
+    "LOVE Radio": {
+        "shortname": "",
+        "website": "",
+        "stream": "https://loveradio.streamingmedia.it/play",
+        "genres": [
+            "romantic",
+            "world"
+        ],
+        "description": "No commercials. The best Romantic songs in English and every 30 minutes also Arabic, Chinese, French, Italian, Portuguese, Russian and Spanish. The great moments of international romantic music. Close your eyes and let the soundtrack of LOVE RADIO remind you of the great moments of love in your life.",
+        "discontinued": false,
+        "location": "New York City, New York, USA",
+        "logo": "https://love.radio/wp-content/uploads/2020/10/LOVE.RADIO-only-love-songs_logo.png?14454"
+    },
+    "Radio Paradise Main Mix": {
+        "shortname": "Main Mix",
+        "website": "https://radioparadise.com",
+        "stream": "http://stream.radioparadise.com/aac-128",
+        "genres": [
+            "rock",
+            "classic rock",
+            "electronic",
+            "world",
+            "variety"
+        ],
+        "description": "Dj-mixed modern & classic rock, electronic, world music, and more. An eclectic musical adventure.",
+        "discontinued": false,
+        "location": "Eureka, California, USA",
+        "logo": "https://radioparadise.com/rpassets/images/logo/logo_2022_nav_244x64.svg"
+    },
+    "Radio Paradise Mellow Mix": {
+        "shortname": "Mellow Mix",
+        "website": "https://radioparadise.com",
+        "stream": "http://stream.radioparadise.com/mellow-128",
+        "genres": [
+            "easy listening",
+            "relaxing"
+        ],
+        "description": "Thoughtful, gentle songs, perfect as background music at home or work.",
+        "discontinued": false,
+        "location": "Eureka, California, USA",
+        "logo": "https://radioparadise.com/rpassets/images/logo/logo_2022_nav_244x64.svg"
+    },
+    "Radio Paradise Rock Mix": {
+        "shortname": "Rock Mix",
+        "website": "https://radioparadise.com",
+        "stream": "http://stream.radioparadise.com/rock-128",
+        "genres": [
+            "rock"
+        ],
+        "description": "Many different styles and genres with a steady rockin' energy to keep you moving.",
+        "discontinued": false,
+        "location": "Eureka, California, USA",
+        "logo": "https://radioparadise.com/rpassets/images/logo/logo_2022_nav_244x64.svg"
+    },
+    "Radio Paradise Global Mix": {
+        "shortname": "Global Mix",
+        "website": "https://radioparadise.com",
+        "stream": "http://stream.radioparadise.com/global-128",
+        "genres": [
+            "world",
+            "variety"
+        ],
+        "description": "Musical styles from all over the world, mixed with other eclectic flavors.",
+        "discontinued": false,
+        "location": "Eureka, California, USA",
+        "logo": "https://radioparadise.com/rpassets/images/logo/logo_2022_nav_244x64.svg"
+    },
+    "Exclusive Radio - Bob Marley": {
+        "shortname": "Bob Marley",
+        "website": "https://play.exclusive.radio/station/21/163",
+        "stream": "https://streaming.exclusive.radio/er/bobmarley/icecast.audio",
+        "genres": [
+            "reggae",
+            "pop"
+        ],
+        "description": "Reggae pioneer and instrumental in taking it to a worldwide audience his distinctive voice and songwriting skills make him a true music legend. All Bob Marley All The Time. ",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Beatles": {
+        "shortname": "Beatles",
+        "website": "https://play.exclusive.radio/station/21/472",
+        "stream": "https://streaming.exclusive.radio/er/beatles/icecast.audio",
+        "genres": [
+            "pop",
+            "rock",
+            "folk"
+        ],
+        "description": "All Beatles All The Time — the biggest and best band the world has ever seen!",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Celine Dion": {
+        "shortname": "Celine Dion",
+        "website": "https://play.exclusive.radio/station/21/604",
+        "stream": "https://streaming.exclusive.radio/er/celinedion/icecast.audio",
+        "genres": [
+            "pop",
+            "R&B",
+            "canadian"
+        ],
+        "description": "One of the best selling artists of all time with record sales of over 200 million worldwide. All Celine Dion All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Coldplay": {
+        "shortname": "Coldplay",
+        "website": "https://play.exclusive.radio/station/21/497",
+        "stream": "https://streaming.exclusive.radio/er/coldplay/icecast.audio",
+        "genres": [
+            "rock",
+            "alternative",
+            "pop",
+            "indie"
+        ],
+        "description": "Coldplay — Quite simply one of the biggest bands in the world! All Coldplay All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Dire Straits": {
+        "shortname": "Dire Straits",
+        "website": "https://play.exclusive.radio/station/21/501",
+        "stream": "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
+        "genres": [
+            "rock",
+            "blues"
+        ],
+        "description": "The virtuoso guitar and distinctive voice of Mark Knopfler combined with the huge musical talent of Dave Knopfler, John Illsley and Pick Withers means their music will never date. All Dire Straits All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Drake": {
+        "shortname": "Drake",
+        "website": "https://play.exclusive.radio/station/21/184",
+        "stream": "https://streaming.exclusive.radio/er/drake/icecast.audio",
+        "genres": [
+            "hip hop",
+            "rap"
+        ],
+        "description": "All Drake All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Dua Lipa": {
+        "shortname": "Dua Lipa",
+        "website": "https://play.exclusive.radio/station/21/32",
+        "stream": "https://streaming.exclusive.radio/er/dualipa/icecast.audio",
+        "genres": [
+            "pop"
+        ],
+        "description": "One of the hottest stars on the planet! This English singer songwriter moved from modelling to music superstardom picking up a huge fan following and loads of awards along the way. All Dua Lipa All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Ed Sheeran": {
+        "shortname": "Ed Sheeran",
+        "website": "https://play.exclusive.radio/station/21/33",
+        "stream": "https://streaming.exclusive.radio/er/edsheeran/icecast.audio",
+        "genres": [
+            "pop",
+            "top 40",
+            "folk"
+        ],
+        "description": "Right now the UK's most successful singer, songwriter! All Ed Sheeran All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Elvis Presley": {
+        "shortname": "Elvis Presley",
+        "website": "https://play.exclusive.radio/station/21/108",
+        "stream": "https://streaming.exclusive.radio/er/elvispresley/icecast.audio",
+        "genres": [
+            "rock",
+            "country",
+            "pop",
+            "blues"
+        ],
+        "description": "The biggest Rock & Roll star of all time. He is The King. All Elvis Presley All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Eminem": {
+        "shortname": "Eminem",
+        "website": "https://play.exclusive.radio/station/21/185",
+        "stream": "https://streaming.exclusive.radio/er/eminem/icecast.audio",
+        "genres": [
+            "hip hop",
+            "rap"
+        ],
+        "description": "A station devoted to the Real Slim Shady. All Eminem All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Iron Maiden": {
+        "shortname": "Iron Maiden",
+        "website": "https://play.exclusive.radio/station/21/326",
+        "stream": "https://streaming.exclusive.radio/er/ironmaiden/icecast.audio",
+        "genres": [
+            "rock",
+            "metal",
+            "heavy metal",
+            "british"
+        ],
+        "description": "An English heavy metal band who have produced 39 albums, four EPs and seven compilations. All Iron Maiden All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Justin Bieber": {
+        "shortname": "Justin Bieber",
+        "website": "https://play.exclusive.radio/station/21/52",
+        "stream": "https://streaming.exclusive.radio/er/justinbieber/icecast.audio",
+        "genres": [
+            "pop",
+            "top 40"
+        ],
+        "description": "A global star since the age of 13 he continues to make hit after hit. All Justin Bieber All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Madonna": {
+        "shortname": "Madonna",
+        "website": "https://play.exclusive.radio/station/21/432",
+        "stream": "https://streaming.exclusive.radio/er/madonna/icecast.audio",
+        "genres": [
+            "pop",
+            "disco"
+        ],
+        "description": "Since the Eighties she has been the biggest female artist in the world and she continues to reign as Queen of Pop. All Madonna All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Pink Floyd": {
+        "shortname": "Pink Floyd",
+        "website": "https://play.exclusive.radio/station/21/522",
+        "stream": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+        "genres": [
+            "rock",
+            "hard rock",
+            "british",
+            "psychedelic",
+            "classic rock",
+            "progressive"
+        ],
+        "description": "When they began they were a left of field progressive rock band and became one of the most commercially successful and influential groups in popular music history. All Pink Floyd All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Queen": {
+        "shortname": "Queen",
+        "website": "https://play.exclusive.radio/station/21/335",
+        "stream": "https://streaming.exclusive.radio/er/queen/icecast.audio",
+        "genres": [
+            "rock",
+            "hard rock",
+            "progressive",
+            "heavy metal"
+        ],
+        "description": "Queen's Greatest Hits is the best-selling album in the UK and is certified eight times platinum in the US. Their performance at the 1985 Live Aid concert has been ranked among the greatest in rock history. All Queen All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Rihanna": {
+        "shortname": "Rihanna",
+        "website": "https://play.exclusive.radio/station/21/79",
+        "stream": "https://streaming.exclusive.radio/er/rihanna/icecast.audio",
+        "genres": [
+            "pop",
+            "top 40"
+        ],
+        "description": "She is a singer, songwriter, fashion designer, actress and businesswoman, she has been recognized for embracing various musical styles and reinventing her image throughout her career. All Rihanna All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Exclusive Radio - Taylor Swift": {
+        "shortname": "Taylor Swift",
+        "website": "https://play.exclusive.radio/station/21/114",
+        "stream": "https://streaming.exclusive.radio/er/taylorswift/icecast.audio",
+        "genres": [
+            "pop",
+            "top 40"
+        ],
+        "description": "She has sold more than 50 million albums, including 32 million in the US and 150 million singles, she is one of the best-selling music artists of all time! All Taylor Swift All The Time.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
     }
 }
