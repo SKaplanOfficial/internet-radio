@@ -104,15 +104,17 @@
         "description": "",
         "discontinued": false
     },
-    "ASMR Mix": {
-        "website": "https://www.getmeradio.com/stations/asmrmix-7014/",
+    "ASMR Radio - Mix": {
+        "shortname": "ASMR Mix",
+        "website": "https://asmr.radio/station/107/1361",
         "stream": "https://drive.uber.radio/uber/asmrmix/icecast.audio",
         "genres": [
             "ambient",
             "ASMR"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
     },
     "C-Span Radio": {
         "website": "https://www.c-span.org",
@@ -158,14 +160,16 @@
         "description": "",
         "discontinued": false
     },
-    "Calm Piano": {
+    "Calm Radio - Piano": {
+        "shortname": "Calm Piano",
         "website": "https://www.getmeradio.com/stations/calmpiano-4057/",
         "stream": "https://drive.uber.radio/uber/calmpiano/icecast.audio",
         "genres": [
             "piano"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Dubai, UAE"
     },
     "Horror and Halloween Radio": {
         "website": "http://horrorandhalloweenradio.com/",
@@ -2657,7 +2661,7 @@
         "description": "News, jazz, and classical music.",
         "discontinued": false
     },
-    "DC ROck Radio": {
+    "DC Rock Radio": {
         "website": "https://dcrockradio.com",
         "stream": "https://outpostradio.com/listen/st101",
         "genres": [
@@ -15453,8 +15457,8 @@
         "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
     },
     "Exclusive Radio - 50 Cent": {
-        "shortname": "",
-        "website": "",
+        "shortname": "50 Cent",
+        "website": "https://play.exclusive.radio/station/18/181",
         "stream": "https://streaming.exclusive.radio/er/50cent/icecast.audio",
         "genres": [
             "hip hop"
@@ -16429,5 +16433,840 @@
         "discontinued": false,
         "location": "Dubai, UAE",
         "logo": "https://us0-cdn.onlineradiobox.com/img/l/8/91368.v4.png"
+    },
+    "Underground Music Thailand": {
+        "shortname": "UMT",
+        "website": "https://umt.radio",
+        "stream": "https://umtserver.space/live",
+        "genres": [
+            "electronic",
+            "new artists",
+            "local",
+            "psychedelic",
+            "trance"
+        ],
+        "description": "No commercial sound. Strictly underground. Supporting Underground Music in Thailand and beyond.",
+        "discontinued": false,
+        "location": "Krabi, Thailand",
+        "logo": "https://umt.radio/wp-content/uploads/2020/09/UMT-radio-1-e1624421043196.png"
+    },
+    "Indy Live Radio": {
+        "shortname": "Indy Live",
+        "website": "https://indylive.radio",
+        "stream": "https://indylive.radioca.st/stream?type=http",
+        "genres": [
+            "rock",
+            "pop",
+            "contemporary",
+            "talk",
+            "community"
+        ],
+        "description": "Scotland's Online Independent Radio Station",
+        "discontinued": false,
+        "location": "Edinburgh, Scotland, United Kingdom",
+        "logo": "https://indylive.radio/wp-content/uploads/2019/02/logo_512x512.jpg"
+    },
+    "New Wave Radio": {
+        "shortname": "New Wave",
+        "website": "https://newwave.radio",
+        "stream": "https://www.digitalradio.host:1045/stream",
+        "genres": [
+            "80s",
+            "synthwave",
+            "psychedelic",
+            "electronic",
+            "alternative"
+        ],
+        "description": "80's new wave songs you won't hear anywhere else.",
+        "discontinued": false,
+        "location": "New York City, New York, USA",
+        "logo": "http://newwave.radio/wp-content/uploads/2020/06/NewWave-Radio-Logo-2.png"
+    },
+    "SunKiss Radio": {
+        "shortname": "SunKiss",
+        "website": "https://www.sunkiss.radio",
+        "stream": "https://s5.radio.co:80/s3ab0106d6/listen",
+        "genres": [
+            "easy listening",
+            "world",
+            "happy",
+            "news",
+            "talk"
+        ],
+        "description": "Join us for uplifting music, friendly company, and inspirational features to brighten up your day.",
+        "discontinued": false,
+        "location": "Valbonne, France",
+        "logo": "https://static.wixstatic.com/media/a386b4_8fded3869bed439c8046c26e28cb8394~mv2.png/v1/fill/w_194,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Sunkiss_Favicon.png"
+    },
+    "Travel Radio": {
+        "website": "https://www.travel.radio",
+        "stream": "https://playoutonestreaming.com/proxy/ccfmonair/?mp=/stream",
+        "genres": [
+            "travel",
+            "talk",
+            "news",
+            "easy listening",
+            "pop",
+            "dance",
+            "contemporary",
+            "hits"
+        ],
+        "description": "A global, digital radio station exclusively for those who work in or are associated with the world of travel in any form or those who just simply love to travel. We broadcast 24-hours a day with a popular mix of industry chat, great presenters, guests and music.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://s3.eu-central-1.wasabisys.com/bucket-alexa-uploads/images/covers/d10d74e2-c5bb-11ea-9d96-020ecb91674c.png"
+    },
+    "Bali Radio": {
+        "website": "https://bali.radio",
+        "stream": "https://azuracast.bali.radio/radio/8000/radio.mp3",
+        "genres": [
+            "local",
+            "new artists",
+            "indonesian"
+        ],
+        "description": "All of Bali's finest dj's 24/7/365 worldwide",
+        "discontinued": false,
+        "location": "Bali, Indonesia",
+        "logo": ""
+    },
+    "World Music Radio": {
+        "website": "http://www.wmr.radio",
+        "stream": "https://stream.probroadcast.dk/wmr",
+        "genres": [
+            "world",
+            "variety"
+        ],
+        "description": "Broadcasting a mix of music from all corners of the world.",
+        "discontinued": false,
+        "location": "Copenhagen, Denmark",
+        "logo": "http://www.wmr.dk/logo.png"
+    },
+    "Res.Radio": {
+        "website": "https://res.radio",
+        "stream": "https://edge.mixlr.com/channel/zwtuo",
+        "genres": [
+            "variety",
+            "community",
+            "experimental",
+            "new artists"
+        ],
+        "description": "Res.Radio is a non-commercial community webradio based in Vienna to strengthen and display subcultural genres. From its founding in 2019, the radio grew into a multicultural community/platform featuring artists with many different backgrounds.",
+        "discontinued": false,
+        "location": "Vienna, Austria",
+        "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/275065418_1145509606244336_8370612967975420125_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=y4IalzG3lmwAX9J7nds&_nc_oc=AQmG86dc-wUwCT1iV0nFz6M0qTaGVgT0v9HRCkT9OkfUzIe8Mza8-zyOLzG23OAJ2WE&_nc_ht=scontent-lga3-2.xx&oh=00_AfCuCxh7vkKiWfqoE8y6fjBqxHUhe8z6GjG0zkNpkr8mLw&oe=63F96EBE"
+    },
+    "Bong Radio": {
+        "shortname": "",
+        "website": "https://www.bong.radio",
+        "stream": "https://www.radioking.com/play/bongradio",
+        "genres": [
+            "news",
+            "pop",
+            "hits",
+            "talk",
+            "variety"
+        ],
+        "description": "Great music with great quality! 24 hours a day 7 days a week.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://www.bong.radio/upload/design/5e183dc21cba49.05602326.png"
+    },
+    "Sherman Radio": {
+        "website": "https://www.sherman.radio",
+        "stream": "https://streaming.live365.com/a84185",
+        "genres": [
+            "variety",
+            "local",
+            "new artists",
+            "community"
+        ],
+        "description": "Sherman Radio is a Variety Station Featuring Artists from Sherman, Connecticut and the Surrounding Region.",
+        "discontinued": false,
+        "location": "Sherman, Connecticut, USA"
+    },
+    "Scout Radio": {
+        "shortname": "",
+        "website": "https://scout.radio",
+        "stream": "https://streaming.scoutradio.org.uk:9001/web",
+        "genres": [
+            "variety",
+            "community",
+            "local",
+            "experimental"
+        ],
+        "description": "Scout Radio is a National Active Support Unit of the Scout Association in the United Kingdom",
+        "discontinued": false,
+        "location": "Gloucestershire, England, United Kingdom",
+        "logo": "https://scout.radio/wp-content/uploads/2020/03/cropped-cropped-logo-1.png"
+    },
+    "Radio Hydrogen": {
+        "shortname": "",
+        "website": "https://radiohydrogen.space",
+        "stream": "https://c14.radioboss.fm:18201/stream",
+        "genres": [
+            "news",
+            "talk",
+            "variety",
+            "new artists",
+            "experimental",
+            "science",
+            "sci-fi"
+        ],
+        "description": "hinking Person's Radio Welcome to Radio Hydrogen. A radio station that looks to the future promoting new music and people doing events to benefit the planet and the community. Join us for the future.",
+        "discontinued": false,
+        "location": "",
+        "logo": "https://radiohydrogen.space/wp-content/uploads/2020/05/Radio-Hydrogen-Logo-Compressed-png.png"
+    },
+    "YourClassical - Peaceful Piano": {
+        "shortname": "Peaceful Piano",
+        "website": "https://www.yourclassical.org/playlist/peaceful-piano-stream",
+        "stream": "https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac",
+        "genres": [
+            "piano",
+            "instrumental",
+            "calm",
+            "classical"
+        ],
+        "description": "Piano in the key of serene.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/peaceful-piano-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Holiday": {
+        "shortname": "Classical Holiday",
+        "website": "https://www.yourclassical.org/playlist/holiday-stream",
+        "stream": "https://holiday.stream.publicradio.org/holiday.aac",
+        "genres": [
+            "classical",
+            "holiday"
+        ],
+        "description": "Festive favorites for the season.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/holiday-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Children": {
+        "shortname": "Classical Children",
+        "website": "https://www.yourclassical.org/playlist/kids-classical-stream",
+        "stream": "https://classicalkids.stream.publicradio.org/classicalkids.aac",
+        "genres": [
+            "classical",
+            "kids"
+        ],
+        "description": "Music for young listeners.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/kids-classical-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Concert Band": {
+        "shortname": "Concert Band",
+        "website": "https://www.yourclassical.org/playlist/concert-band-stream",
+        "stream": "https://concertband.stream.publicradio.org/concertband.aac",
+        "genres": [
+            "classical",
+            "instrumental"
+        ],
+        "description": "It's like an orchestra, without the strings.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/concert-band-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Chamber Music": {
+        "shortname": "Chamber Music",
+        "website": "https://www.yourclassical.org/playlist/chamber-music-stream",
+        "stream": "https://chambermusic.stream.publicradio.org/chambermusic.aac",
+        "genres": [
+            "classical",
+            "chamber"
+        ],
+        "description": "Timeless classics from small ensembles.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/chamber-music-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Favorites": {
+        "shortname": "Classical Favorites",
+        "website": "https://www.yourclassical.org/playlist/favorites-stream",
+        "stream": "https://favorites.stream.publicradio.org/favorites.aac",
+        "genres": [
+            "classical"
+        ],
+        "description": "Time-tested. Listener-approved.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/favorites-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Choral Stream": {
+        "shortname": "Classical Choral",
+        "website": "https://www.yourclassical.org/playlist/choral-stream",
+        "stream": "https://choral.stream.publicradio.org/choral.aac",
+        "genres": [
+            "classical",
+            "vocal",
+            "choral"
+        ],
+        "description": "A community of voices.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/choral-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Lullabies": {
+        "shortname": "Classical Lullabies",
+        "website": "https://www.yourclassical.org/playlist/lullabies-stream",
+        "stream": "https://lullabies.stream.publicradio.org/lullabies.aac",
+        "genres": [
+            "classical",
+            "lullabies"
+        ],
+        "description": "Soothe your little ones.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/lullabies-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Relax": {
+        "shortname": "Relax",
+        "website": "https://www.yourclassical.org/playlist/relax-stream",
+        "stream": "https://relax.stream.publicradio.org/relax.aac",
+        "genres": [
+            "classical",
+            "relaxing"
+        ],
+        "description": "Keep calm & carry on.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/relax-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Guitar": {
+        "shortname": "Classical Guitar",
+        "website": "https://www.yourclassical.org/playlist/guitar-stream",
+        "stream": "https://guitar.stream.publicradio.org/guitar.aac",
+        "genres": [
+            "classical",
+            "guitar"
+        ],
+        "description": "Hand-picked melodies, just for you.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/guitar-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical - Black History": {
+        "shortname": "Black History",
+        "website": "https://www.yourclassical.org/playlist/black-history-stream",
+        "stream": "https://blackhistory.stream.publicradio.org/blackhistory.aac",
+        "genres": [
+            "classical",
+            "history"
+        ],
+        "description": "Celebrating great Black composers, performers, and organizations throughout February.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/black-history-stream.png?q=sffkjdfjie787a"
+    },
+    "YourClassical Radio": {
+        "shortname": "YourClassical",
+        "website": "https://www.yourclassical.org/playlist/classical-24",
+        "stream": "https://ycradio.stream.publicradio.org/ycradio.aac",
+        "genres": [
+            "classical"
+        ],
+        "description": "A collection of curated audio streams, unique programs and features to promote calm and focus through classical music.",
+        "discontinued": false,
+        "location": "Saint Paul, Minnesota, USA",
+        "logo": "https://www.yourclassical.org/images/streams/classical-24.png?q=sffkjdfjie787a"
+    },
+    "Nashville Classical Radio": {
+        "shortname": "Nashville Classical",
+        "website": "https://91classical.org",
+        "stream": "https://wpln.streamguys1.com/wfclfm.aac",
+        "genres": [
+            "classical",
+            "public"
+        ],
+        "description": "Classical music, 24/7",
+        "discontinued": false,
+        "location": "Nashville, Tennessee, USA",
+        "logo": "https://91classical.org/wp-content/uploads/sites/8/2020/11/nash-classical-radio-post-300x169.jpg"
+    },
+    "90.3 WPLN News": {
+        "shortname": "WPLN",
+        "website": "https://wpln.org",
+        "stream": "https://wpln.streamguys1.com/wplnfm.aac",
+        "genres": [
+            "public",
+            "news",
+            "talk",
+            "variety"
+        ],
+        "description": "Nashville's NPR and local news station.",
+        "discontinued": false,
+        "location": "Nashville, Tennessee, USA",
+        "logo": "https://wpln.org/wp-content/themes/wpln-genesis-child/images/wpln-logo-swoosh.svg"
+    },
+    "WPLN International": {
+        "website": "https://wpln.org/wpln-am-schedule/",
+        "stream": "https://wpln.streamguys1.com/wplnam.aac",
+        "genres": [
+            "public",
+            "news",
+            "talk",
+            "variety",
+            "world"
+        ],
+        "description": "Nashville's home for BBC News.",
+        "discontinued": false,
+        "location": "Nashville, Tennessee, USA",
+        "logo": "https://nashvillepublicmedia.org/wpln-logos/1430-AM-WPLN-International-player-logo.png"
+    },
+    "91.ONE WNXP": {
+        "shortname": "WNXP",
+        "website": "https://wnxp.org",
+        "stream": "https://wpln.streamguys1.com/wnxpfm.aac",
+        "genres": [
+            "public",
+            "indie",
+            "rock"
+        ],
+        "description": "Nashville's music experience. Discover new music with Nashville Public Radio.",
+        "discontinued": false,
+        "location": "Nashville, Tennessee, USA",
+        "logo": "https://wnxp.org/wp-content/uploads/2020/10/cropped-WNXP_91one_LOGO-2000px-3.png"
+    },
+    "Opus Radio": {
+        "shortname": "",
+        "website": "https://opusradio.co",
+        "stream": "https://stream-41.zeno.fm/n11xkga56zhvv?zs=OPIGURbHQX63AbKwxZFf2g",
+        "genres": [
+            "classical"
+        ],
+        "description": "The joy of classical music.",
+        "discontinued": false,
+        "location": "Long Beach, California, USA",
+        "logo": "https://opusradio.co/assets/images/gallery01/18d277a3.png?v=2d01224a"
+    },
+    "ASMR Radio - Celebrity": {
+        "shortname": "ASMR Celebrity",
+        "website": "https://asmr.radio/station/107/1398",
+        "stream": "https://drive.uber.radio/uber/asmrcelebrity/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "Listen to the A List try ASMR on for size... but try not to get ASMstaR-struck.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "ASMR Radio - Eating": {
+        "shortname": "ASMR Eating",
+        "website": "https://asmr.radio/station/107/1360",
+        "stream": "https://drive.uber.radio/uber/asmreating/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "See if you can guess what each ASMRtist is trying out here! There's triggers for every type of food imaginable.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "ASMR Radio - Mouth Sounds": {
+        "shortname": "ASMR Mouth Sounds",
+        "website": "https://asmr.radio/station/107/1362",
+        "stream": "https://drive.uber.radio/uber/asmrmouthsounds/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "This is ASMR Radio.Dedicated to the one of the most intense triggers out there - this is your station for every possible mouth sound out there.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "ASMR Radio - Reading & Writing": {
+        "shortname": "Reading & Writing",
+        "website": "https://asmr.radio/station/107/1363",
+        "stream": "https://drive.uber.radio/uber/asmrreadwrite/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "Transport yourself to a quiet library and explore the subtle joy of reading and writing triggers - everything to do with paper.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "ASMR Radio - Role Play": {
+        "shortname": "ASMR Role Play",
+        "website": "https://asmr.radio/station/107/1364",
+        "stream": "https://drive.uber.radio/uber/asmrroleplay/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "You never know where you'll end up with ASMR Role Play - experience something completely new and immerse yourself in ASMR.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "ASMR Radio - Sleep": {
+        "shortname": "ASMR Sleep",
+        "website": "https://asmr.radio/station/107/1365",
+        "stream": "https://drive.uber.radio/uber/asmrsleep/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "Carefully selected ASMR triggers designed to help you have the deepest, most relaxing sleep possible.",
+        "discontinued": false,
+        "location": "",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "ASMR Radio - Tapping": {
+        "shortname": "ASMR Tapping",
+        "website": "https://asmr.radio/station/107/1366",
+        "stream": "https://drive.uber.radio/uber/asmrtapping/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "A sure-fire classic, tapping triggers are the bread and butter of ASMR content. Enjoy the very best of it right here.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "ASMR Radio - Whispers": {
+        "shortname": "ASMR Whispers",
+        "website": "https://asmr.radio/station/107/1367",
+        "stream": "https://drive.uber.radio/uber/asmrwhispers/icecast.audio",
+        "genres": [
+            "ASMR"
+        ],
+        "description": "Listen to the gentle ramblings of some of the world's best ASMRtists - guaranteed to help you relax and unwind.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://asmr.radio/static/assets/img/asmr_logo_white.png"
+    },
+    "Sportify Radio - 00's Throwbacks": {
+        "shortname": "00's Throwbacks",
+        "website": "https://sportifyradio.world/station/87/1200",
+        "stream": "https://drive.uber.radio/uber/sportifythrowbacks00s/icecast.audio",
+        "genres": [
+            "2000s",
+            "hits",
+            "energized"
+        ],
+        "description": "Perfect throwbacks handpicked for your workout from the 00's.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - 80's Throwbacks": {
+        "shortname": "80's Throwbacks",
+        "website": "https://sportifyradio.world/station/87/1202",
+        "stream": "https://drive.uber.radio/uber/sportifythrowbacks80s/icecast.audio",
+        "genres": [
+            "80s",
+            "hits",
+            "energized"
+        ],
+        "description": "Perfect throwbacks handpicked for your workout from the 80's.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - 90's Throwbacks": {
+        "shortname": "90's Throwbacks",
+        "website": "https://sportifyradio.world/station/87/1201",
+        "stream": "https://drive.uber.radio/uber/sportifythrowbacks90s/icecast.audio",
+        "genres": [
+            "90s",
+            "hits",
+            "energized"
+        ],
+        "description": "Perfect throwbacks handpicked for your workout from the 90's.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Aerobics Workout": {
+        "shortname": "Aerobics Workout",
+        "website": "https://sportifyradio.world/station/87/1203",
+        "stream": "https://drive.uber.radio/uber/sportifyaerobics/icecast.audio",
+        "genres": [
+            "energized",
+            "variety"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Afrobeats Workout": {
+        "shortname": "Afrobeats Workout",
+        "website": "https://sportifyradio.world/station/87/1214",
+        "stream": "https://drive.uber.radio/uber/sportifyafrobeats/icecast.audio",
+        "genres": [
+            "african",
+            "beat",
+            "energized",
+            "variety"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Alternative Workout": {
+        "shortname": "Alternative Workoout",
+        "website": "https://sportifyradio.world/station/87/1208",
+        "stream": "https://drive.uber.radio/uber/sportifyalternative/icecast.audio",
+        "genres": [
+            "alternative",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Bollywood Workout": {
+        "shortname": "Bollywood Workout",
+        "website": "https://sportifyradio.world/station/87/1212",
+        "stream": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio",
+        "genres": [
+            "bollywood",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Cardio Workout 145 BPM": {
+        "shortname": "Cardio Workout",
+        "website": "https://sportifyradio.world/station/87/1194",
+        "stream": "https://drive.uber.radio/uber/sportifybpm145/icecast.audio",
+        "genres": [
+            "variety",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance from 145 to 150 BPM.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Cooldown 85 BPM": {
+        "shortname": "Cooldown",
+        "website": "https://sportifyradio.world/station/87/1197",
+        "stream": "https://drive.uber.radio/uber/sportifybpm85/icecast.audio",
+        "genres": [
+            "variety",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance from 85 to 90 BPM.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Dance Workout": {
+        "shortname": "Dance Workout",
+        "website": "https://sportifyradio.world/station/87/1204",
+        "stream": "https://drive.uber.radio/uber/sportifydance/icecast.audio",
+        "genres": [
+            "dance",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Gym Weight Training 115 BPM": {
+        "shortname": "",
+        "website": "https://sportifyradio.world/station/87/1195",
+        "stream": "https://drive.uber.radio/uber/sportifybpm115/icecast.audio",
+        "genres": [
+            "variety",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance from 115 to 120 BPM.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Hard Rock": {
+        "shortname": "Hard Rock",
+        "website": "https://sportifyradio.world/station/87/1211",
+        "stream": "https://drive.uber.radio/uber/sportifyhardrock/icecast.audio",
+        "genres": [
+            "hard rock",
+            "rock",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Hip Hop Workout": {
+        "shortname": "Hip Hop Workout",
+        "website": "https://sportifyradio.world/station/87/1206",
+        "stream": "https://drive.uber.radio/uber/sportifyhiphop/icecast.audio",
+        "genres": [
+            "hip hop",
+            "dance",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - K-Pop Workout": {
+        "shortname": "K-Pop Workout",
+        "website": "https://sportifyradio.world/station/87/1215",
+        "stream": "https://drive.uber.radio/uber/sportifykpop/icecast.audio",
+        "genres": [
+            "kpop",
+            "asian",
+            "pop",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Latin Urban Workout": {
+        "shortname": "Latin Urban Workout",
+        "website": "https://sportifyradio.world/station/87/1213",
+        "stream": "https://drive.uber.radio/uber/sportifylatinurban/icecast.audio",
+        "genres": [
+            "latin",
+            "urban",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Metal Workout": {
+        "shortname": "Metal Workout",
+        "website": "https://sportifyradio.world/station/87/1210",
+        "stream": "https://drive.uber.radio/uber/sportifymetal/icecast.audio",
+        "genres": [
+            "metal",
+            "heavy metal",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Pop Workout": {
+        "shortname": "Pop Workout",
+        "website": "https://sportifyradio.world/station/87/1205",
+        "stream": "https://drive.uber.radio/uber/sportifypop/icecast.audio",
+        "genres": [
+            "pop",
+            "energized"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Pure Workout 130 BPM": {
+        "shortname": "Pure Workout",
+        "website": "https://sportifyradio.world/station/87/1193",
+        "stream": "https://drive.uber.radio/uber/sportifybpm130/icecast.audio",
+        "genres": [
+            "variety",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance from 130 to 135 BPM.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - R&B Workout": {
+        "shortname": "R&B Workout",
+        "website": "https://sportifyradio.world/station/87/1209",
+        "stream": "https://drive.uber.radio/uber/sportifyrandb/icecast.audio",
+        "genres": [
+            "R&B",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Rock Workout": {
+        "shortname": "Rock Workout",
+        "website": "https://sportifyradio.world/station/87/1207",
+        "stream": "https://drive.uber.radio/uber/sportifyrock/icecast.audio",
+        "genres": [
+            "rock",
+            "hard rock",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Running Workout 160 BPM": {
+        "shortname": "Running Workout",
+        "website": "https://sportifyradio.world/station/87/1196",
+        "stream": "https://drive.uber.radio/uber/sportifybpm160/icecast.audio",
+        "genres": [
+            "variety",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance from 160 to 165 BPM.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Throwbacks": {
+        "shortname": "Throwbacks",
+        "website": "https://sportifyradio.world/station/87/1199",
+        "stream": "https://drive.uber.radio/uber/sportifythrowbacks/icecast.audio",
+        "genres": [
+            "hits",
+            "classics",
+            "oldies",
+            "energized",
+            "80s",
+            "90s",
+            "2000s"
+        ],
+        "description": "Perfect throwbacks handpicked for your workout from the 80's, 90's & 00's.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Trending Workout": {
+        "shortname": "Trending Workout",
+        "website": "https://sportifyradio.world/station/87/1216",
+        "stream": "https://drive.uber.radio/uber/sportifytrending/icecast.audio",
+        "genres": [
+            "variety",
+            "hits",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance and maintain your motivation.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Sportify Radio - Warmup 100 BPM": {
+        "shortname": "Warmup",
+        "website": "https://sportifyradio.world/station/87/1198",
+        "stream": "https://drive.uber.radio/uber/sportifybpm100/icecast.audio",
+        "genres": [
+            "variety",
+            "energized"
+        ],
+        "description": "Music tailored to your workout, with the best tracks to boost your performance from 100 to 105 BPM.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
     }
 }
