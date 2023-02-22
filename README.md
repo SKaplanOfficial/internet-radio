@@ -1,3 +1,13 @@
+# Internet Radio Resources
+
+This repository aims to provide useful resources primarily for consumers of online radio stations, but others may benefit from it as well.
+
+The [dataset of internet radio stations](./radio-stations.json) included in this repository currently provides stations for my [Internet Radio Raycast extension](https://www.raycast.com/HelloImSteven/internet-radio). Others are welcome to use the dataset however they want.
+
+Genre- and interest-specific subsets of the stations dataset can be found in the [station-sets](./station-sets/) directory.
+
+Below you will find a list of sites to find internet radio stations on, organized by region of interest and genre, if applicable.
+
 # List of Internet Radio Station Directory Sites
 
 ## General Directories
@@ -21,6 +31,8 @@
 - [Guzei.com](https://guzei.com/radio.php)
 - [High Bit Rate Internet Radio](http://radiobit.50webs.com)
 - [High Resolution Audio Streams](https://www.hiresaudio.online/cd-quality-internet-radio/)
+- [Hit-Tuner](http://www.hit-tuner.net/en/index.html)
+- [Hundreds Of Free Radio Station Streams For Second Life And Open Sim](https://www.outworldz.com/secondlife/posts/streaming/)
 - [i3radio](https://www.i3radio.com)
 - [Icecast](http://dir.xiph.org)
 - [Instant Audio](https://instant.audio)
@@ -109,6 +121,7 @@
 - [Truck Simulator Radio Stations Wiki](https://truck-simulator.fandom.com/wiki/Radio_Stations)
 - [TTstation](https://ttstation.com)
 - [TuneIn](https://tunein.com)
+- [TuneYou](https://tuneyou.com)
 - [TV Radio Tuner](https://tvradiotuner.com/radio/)
 - [Viaway](http://www.viaway.com/radio)
 - [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp)
@@ -121,6 +134,7 @@
 
 ## Region-Specific Directories
 ### Arabia
+- [Arabic Radios](https://www.arabicradios.com/top-stations/)
 - [Radio Arabic](https://www.radioarabic.org)
 
 ### Balkans
@@ -174,6 +188,7 @@
 - [Bangladesh Radio](http://bangladeshradio.net)
 
 ### Belgium
+- [Belgie.fm](https://www.belgie.fm)
 - [Radio Belgium](https://www.radio-belgie.be)
 - [Radio Online Belgium](https://radio-online-belgie.com)
 - [Rationstations.be](https://radiostations.be)
@@ -238,6 +253,7 @@
 - [Radio Czech Republic](https://www.radiaonline.org)
 
 ### Denmark
+- [Danmark.fm](http://www.danmark.fm)
 - [Radio Denmark](https://www.radio-danmark.dk)
 
 ### Dominican Republic
@@ -267,6 +283,7 @@
 - [Radio France](https://www.radio-en-ligne.fr)
 
 ### Germany
+- [Deutschland.fm](https://www.deutschland.fm)
 - [Fernseher ](https://www.fernseher.org)
 - [Liveradio](https://liveradio.de)
 - [MyOnlineRadio.de](https://myonlineradio.de)
@@ -294,6 +311,9 @@
 ### Guatemala
 - [Emisoras Guatemala Online](http://emisorasguatemalaonline.com)
 - [Radio Guatemala](https://www.radios-guatemala.com)
+
+### Haiti
+- [Haiti Television](https://www.haititelevision.com/haiti-live-radio/2012/03/)
 
 ### Honduras
 - [Radio Honduras](https://www.emisoras-de-honduras.com)
@@ -326,6 +346,7 @@
 - [Radio Israel](https://www.radio-israel.org)
 
 ### Italy
+- [Italia.fm](http://www.italia.fm)
 - [MyRadioOnline.it](https://myradioonline.it)
 - [Radio in Diretta](https://radio-in-diretta.com)
 - [Radio Italia Live](https://radioitalialive.com)
@@ -367,6 +388,7 @@
 - [Kerstradiozenders.nl](https://www.kerstradiozenders.nl)
 - [Luisterradio.online](https://www.luisterradio.online)
 - [muziekopjewerk](https://muziekopjewerk.nl)
+- [Nederland.fm](https://www.nederland.fm)
 - [Nederland Online Radio](http://www.nederlandonlineradio.com)
 - [Radio FM](https://www.radiofm.nl)
 - [Radio Gator](https://www.radiogator.nl/all)
@@ -457,6 +479,7 @@
 
 ### Spain
 - [EscuchaRadio](http://escucharadio.es)
+- [Espana.fm](http://www.espana.fm)
 - [frequenceradio](https://en-directo.frequence-radio.com)
 - [ListaRadio](https://listaradio.com)
 - [MyRadioOnline.es](https://myradioonline.es)

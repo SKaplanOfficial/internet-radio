@@ -1,4 +1,90 @@
 {
+    "Moon Phase Radio - Ambient": {
+        "shortname": "Moon Phase Ambient",
+        "website": "https://www.moonphaseradio.com/ambient.html",
+        "alternateSites": [
+            {
+                "title": "Moon Phase Radio on TuneIn",
+                "url": "https://tunein.com/radio/Moon-Phase-Radio-s279534/"
+            }
+        ],
+        "stream": "http://108.61.34.50:7317/stream/1/",
+        "alternateStreams": [
+            "http://108.61.34.50:7317/;",
+            "http://cp12.serverse.com:7317/stream"
+        ],
+        "genres": [
+            "ambient"
+        ],
+        "slogan": "Trans-Lunar Ambience",
+        "description": "From U.S.A servers this channel is for Full Spectrum Ambient.",
+        "discontinued": false,
+        "location": "Hertford, England, United Kingdom",
+        "logo": "https://neilbartlett.tripod.com/webonmediacontents/mpr1banner.jpg",
+        "socialProfiles": [
+            {
+                "type": "Telegram",
+                "handle": "@moonphaseradio",
+                "url": "t.me/moonphaseradio"
+            },
+            {
+                "type": "YouTube",
+                "handle": "@moonphaseradio5254",
+                "url": "https://www.youtube.com/@moonphaseradio5254"
+            },
+            {
+                "type": "Twitter",
+                "handle": "@moonphaseradio",
+                "url": "http://twitter.com/moonphaseradio"
+            },
+            {
+                "type": "Facebook",
+                "handle": "@Moon-Phase-Radio",
+                "url": "https://www.facebook.com/people/Moon-Phase-Radio/100063691760380/"
+            }
+        ]
+    },
+    "Moon Phase Radio - Chill": {
+        "shortname": "Moon Phase Chill",
+        "website": "https://www.moonphaseradio.com/chill.html",
+        "stream": "https://dc1.serverse.com/proxy/dnutqhxl/stream",
+        "alternateStreams": [
+            "https://dc1.serverse.com/proxy/dnutqhxl/stream"
+        ],
+        "genres": [
+            "downtempo",
+            "chillout",
+            "lounge",
+            "lofi",
+            "electronic"
+        ],
+        "description": "From European servers this channel is musically bias towards Downtempo, Lounge, Chill, Chillstep, Lofi and Future Bass.",
+        "discontinued": false,
+        "location": "Hertford, England, United Kingdom",
+        "logo": "https://neilbartlett.tripod.com/webonmediacontents/mpr1banner.jpg",
+        "socialProfiles": [
+            {
+                "type": "Telegram",
+                "handle": "@moonphaseradio",
+                "url": "t.me/moonphaseradio"
+            },
+            {
+                "type": "YouTube",
+                "handle": "@moonphaseradio5254",
+                "url": "https://www.youtube.com/@moonphaseradio5254"
+            },
+            {
+                "type": "Twitter",
+                "handle": "@moonphaseradio",
+                "url": "http://twitter.com/moonphaseradio"
+            },
+            {
+                "type": "Facebook",
+                "handle": "@Moon-Phase-Radio",
+                "url": "https://www.facebook.com/people/Moon-Phase-Radio/100063691760380/"
+            }
+        ]
+    },
     "Real Roots Radio": {
         "shortname": "Real Roots",
         "website": "https://realrootsradio.com",

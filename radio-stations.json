@@ -1,14 +1,34 @@
 {
-    "Moon Phase Radio": {
+    "Moon Phase Radio - Ambient": {
+        "shortname": "Moon Phase Ambient",
         "website": "https://www.moonphaseradio.com/ambient.html",
         "stream": "http://108.61.34.50:7317/stream/1/",
         "genres": [
             "ambient"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "From U.S.A servers this channel is for Full Spectrum Ambient.",
+        "discontinued": false,
+        "location": "Hertford, England, United Kingdom",
+        "logo": "https://neilbartlett.tripod.com/webonmediacontents/mpr1banner.jpg"
+    },
+    "Moon Phase Radio - Chill": {
+        "shortname": "Moon Phase Chill",
+        "website": "https://www.moonphaseradio.com/chill.html",
+        "stream": "https://dc1.serverse.com/proxy/dnutqhxl/stream",
+        "genres": [
+            "downtempo",
+            "chillout",
+            "lounge",
+            "lofi",
+            "electronic"
+        ],
+        "description": "From European servers this channel is musically bias towards Downtempo, Lounge, Chill, Chillstep, Lofi and Future Bass.",
+        "discontinued": false,
+        "location": "Hertford, England, United Kingdom",
+        "logo": "https://neilbartlett.tripod.com/webonmediacontents/mpr1banner.jpg"
     },
     "SCIFI.radio": {
+        "shortname": "SCIFI",
         "website": "https://scifi.radio",
         "stream": "https://station.kryptonradio.com:8080/stream",
         "genres": [
@@ -18,6 +38,7 @@
         "discontinued": false
     },
     "Streaming Soundtracks": {
+        "shortname": "Soundtracks",
         "website": "http://www.streamingsoundtracks.com",
         "stream": "http://hi5.streamingsoundtracks.com/;",
         "genres": [
@@ -37,6 +58,7 @@
         "discontinued": false
     },
     "WRCW Crime Story": {
+        "shortname": "WRCW",
         "website": "https://live365.com/station/WRCW-Crime-Story----a60381",
         "stream": "https://streaming.live365.com/a60381",
         "genres": [
@@ -46,6 +68,7 @@
         "discontinued": false
     },
     "Majestic Jukebox Radio": {
+        "shortname": "Majestic Jukebox",
         "website": "https://www.majesticjukeboxradio.com/",
         "stream": "https://uk3.internet-radio.com/proxy/majesticjukebox?mp=/live",
         "genres": [
@@ -167,11 +190,13 @@
         "genres": [
             "piano"
         ],
-        "description": "",
+        "description": "Great Piano music to help you chill out and relax.",
         "discontinued": false,
-        "location": "Dubai, UAE"
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
     },
     "Horror and Halloween Radio": {
+        "shortname": "Horror & Halloween",
         "website": "http://horrorandhalloweenradio.com/",
         "stream": "http://s2.voscast.com:11034/;stream1674643361109/1",
         "genres": [
@@ -613,7 +638,7 @@
             "arabic"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": true
     },
     "Associated Press": {
         "website": "https://tunein.com/radio/Associated-Press-s249264/",
@@ -713,23 +738,27 @@
         "description": "",
         "discontinued": false
     },
-    "Exclusively Ocean": {
+    "Exclusive Radio - Ocean": {
+        "shortname": "Exclusively Ocean",
         "website": "https://www.getmeradio.com/stations/exclusivelyocean-3235/",
         "stream": "https://streaming.exclusive.radio/er/ocean/icecast.audio",
         "genres": [
             "ambient"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Dubai, UAE"
     },
-    "Exclusively Birdsong": {
+    "Exclusive Radio - Birdsong": {
+        "shortname": "Exclusively Birdsong",
         "website": "https://www.getmeradio.com/stations/exclusivelybirdsong-3243/",
         "stream": "https://streaming.exclusive.radio/er/birdsong/icecast.audio",
         "genres": [
             "ambient"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Dubai, UAE"
     },
     "Musical Theater Radio": {
         "website": "https://www.musicaltheatreradio.com",
@@ -2096,16 +2125,6 @@
             "80s"
         ],
         "description": "Soft Rock Cafe offers up an office friendly blend of the best soft rock songs from singer songwriters and bands that were popular in the 60s, 70s and 80s.",
-        "discontinued": false
-    },
-    "Movie Soundtracks Hits Radio": {
-        "website": "https://www.1.fm/station/moviesoundtracks",
-        "stream": "https://strm112.1.fm/moviesoundtracks_mobile_mp3",
-        "genres": [
-            "soundtracks",
-            "hits"
-        ],
-        "description": "The magic of the big screen goes radio with the greatest songs of the best movies from blockbuster to art-house",
         "discontinued": false
     },
     "Public Domain Classical": {
@@ -5038,6 +5057,7 @@
         "discontinued": false
     },
     "1.fm Movie Soundtrack Hits Radio": {
+        "shortname": "Movie Soundtracks",
         "website": "https://www.1.fm/station/moviesoundtracks",
         "stream": "https://strm112.1.fm/moviesoundtracks_mobile_mp3",
         "genres": [
@@ -7068,6 +7088,7 @@
         "discontinued": false
     },
     "94.3 WCYY / 103.7 WPKQ": {
+        "shortname": "WCYY / WPKQ",
         "website": "https://wcyy.com",
         "stream": "https://live.wostreaming.net/direct/townsquare-wcyyfmaac-ibc3",
         "genres": [
@@ -7077,7 +7098,9 @@
             "metal"
         ],
         "description": "Broadcasts an alternative rock format",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Biddeford, Maine, USA",
+        "logo": "https://townsquare.media/site/987/files/2021/10/attachment-256-7.png"
     },
     "Q106 WHDQ": {
         "website": "http://www.theqrocks.com",
@@ -12006,7 +12029,7 @@
         "genres": [
             "soundtracks"
         ],
-        "description": "Music from Disney's Space Mountain attrachment.",
+        "description": "Music from Disney's Space Mountain attraction.",
         "discontinued": false,
         "location": "London, Ohio, USA"
     },
@@ -17268,5 +17291,1027 @@
         "discontinued": false,
         "location": "Dubai, UAE",
         "logo": "https://sportifyradio.world/static/assets/img/logo_cropped.png"
+    },
+    "Calm Radio - Birdsong": {
+        "shortname": "Calm Birdsong",
+        "website": "https://play.calmradio.world/station/44/633",
+        "stream": "https://drive.uber.radio/uber/calmbirdsong/icecast.audio",
+        "genres": [
+            "calm",
+            "nature",
+            "ambient"
+        ],
+        "description": "Calm your senses with nature's finest orchestra.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Bowls": {
+        "shortname": "Calm Bowls",
+        "website": "https://play.calmradio.world/station/44/634",
+        "stream": "https://drive.uber.radio/uber/calmbowls/icecast.audio",
+        "genres": [
+            "calm",
+            "ambient",
+            "trance"
+        ],
+        "description": "Refresh your mind, body and soul by restoring your natural vibrations and healthy harmonics for a greater sense of peace and wellbeing.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Chants": {
+        "shortname": "Calm Chants",
+        "website": "https://play.calmradio.world/station/44/635",
+        "stream": "https://drive.uber.radio/uber/calmchants/icecast.audio",
+        "genres": [
+            "calm",
+            "chanting"
+        ],
+        "description": "Chanting can heal, de-stress and energize. Chanting can even lower blood pressure and slow the ageing process.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Chill": {
+        "shortname": "Calm Chill",
+        "website": "https://play.calmradio.world/station/44/632",
+        "stream": "https://drive.uber.radio/uber/calm/icecast.audio",
+        "genres": [
+            "calm",
+            "chillout"
+        ],
+        "description": "Bringing calm to your day with the finest chill out tracks.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Classical": {
+        "shortname": "Calm Classical",
+        "website": "https://play.calmradio.world/station/44/636",
+        "stream": "https://drive.uber.radio/uber/calmclassical/icecast.audio",
+        "genres": [
+            "calm",
+            "classical"
+        ],
+        "description": "Explore the relaxing soundtrack of classical music.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Dreamscapes": {
+        "shortname": "Calm Dreamscapes",
+        "website": "https://play.calmradio.world/station/44/637",
+        "stream": "https://drive.uber.radio/uber/calmdreamscape/icecast.audio",
+        "genres": [
+            "calm",
+            "psychedelic",
+            "chillout"
+        ],
+        "description": "Chill, relax, de-stress and meditate in a blissful oasis of calm.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Gongs": {
+        "shortname": "Calm Gongs",
+        "website": "https://play.calmradio.world/station/44/638",
+        "stream": "https://drive.uber.radio/uber/calmgongs/icecast.audio",
+        "genres": [
+            "calm",
+            "instrumental",
+            "ambient"
+        ],
+        "description": "Conducive to healing and transformation gongs release tension and clear emotional and energetic blockages.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Harp": {
+        "shortname": "Calm Harp",
+        "website": "https://play.calmradio.world/station/44/639",
+        "stream": "https://drive.uber.radio/uber/calmharp/icecast.audio",
+        "genres": [
+            "calm",
+            "instrumental",
+            "harp"
+        ],
+        "description": "Beautiful, relaxing harp music is proven to decrease pain and anxiety.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Kids": {
+        "shortname": "Calm Kids",
+        "website": "https://play.calmradio.world/station/44/640",
+        "stream": "https://drive.uber.radio/uber/calmkids/icecast.audio",
+        "genres": [
+            "calm",
+            "relaxing",
+            "kids"
+        ],
+        "description": "Children of all ages benefit from periods of inactivity and relaxation. Snuggle up and de-stress with your little ones.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Massage": {
+        "shortname": "Calm Massage",
+        "website": "https://play.calmradio.world/station/44/641",
+        "stream": "https://drive.uber.radio/uber/calmmassage/icecast.audio",
+        "genres": [
+            "calm",
+            "relaxing",
+            "ambient"
+        ],
+        "description": "Whether you need massage to treat injury, aid rehabilitation or simply relax and rejuvenate this is your perfect soundtrack.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Meditation": {
+        "shortname": "Calm Meditation",
+        "website": "https://play.calmradio.world/station/44/642",
+        "stream": "https://drive.uber.radio/uber/calmmeditation/icecast.audio",
+        "genres": [
+            "calm",
+            "ambient",
+            "chillout",
+            "relaxing"
+        ],
+        "description": "Perfect meditation music to help you chill out and relax from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Ocean": {
+        "shortname": "Calm Ocean",
+        "website": "https://play.calmradio.world/station/44/643",
+        "stream": "https://drive.uber.radio/uber/calmocean/icecast.audio",
+        "genres": [
+            "nature",
+            "ambient",
+            "calm"
+        ],
+        "description": "With the ocean sounsdcape you'll be relaxed in no time, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Pan Pipes": {
+        "shortname": "Calm Pan Pipes",
+        "website": "https://play.calmradio.world/station/44/644",
+        "stream": "https://drive.uber.radio/uber/calmpanpipes/icecast.audio",
+        "genres": [
+            "calm",
+            "instrumental",
+            "relaxing"
+        ],
+        "description": "Great Pan Pipe music to help you chill out and relax from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Reiki": {
+        "shortname": "Calm Reiki",
+        "website": "https://play.calmradio.world/station/44/646",
+        "stream": "https://drive.uber.radio/uber/calmreiki/icecast.audio",
+        "genres": [
+            "calm",
+            "ambient",
+            "relaxing"
+        ],
+        "description": "Whether you’re giving or receiving you both will benefit from this blissful mix of music and sounds from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Relaxation": {
+        "shortname": "Calm Relaxation",
+        "website": "https://play.calmradio.world/station/44/647",
+        "stream": "https://drive.uber.radio/uber/calmrelaxation/icecast.audio",
+        "genres": [
+            "relaxing",
+            "calm"
+        ],
+        "description": "The ultimate relaxation soundtrack from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Sleep Baby": {
+        "shortname": "Sleep Baby",
+        "website": "https://play.calmradio.world/station/44/648",
+        "stream": "https://drive.uber.radio/uber/calmsleepbaby/icecast.audio",
+        "genres": [
+            "calm",
+            "relaxing",
+            "kids"
+        ],
+        "description": "Perfect music to help baby to get a full nights sleep, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Sleep Classical": {
+        "shortname": "Sleep Classical",
+        "website": "https://play.calmradio.world/station/44/649",
+        "stream": "https://drive.uber.radio/uber/calmsleepclassical/icecast.audio",
+        "genres": [
+            "classical",
+            "calm",
+            "relaxing"
+        ],
+        "description": "Perfect classical music to help you get a full nights sleep, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Sleepy": {
+        "shortname": "Sleepy",
+        "website": "https://play.calmradio.world/station/44/650",
+        "stream": "https://drive.uber.radio/uber/calmsleepy/icecast.audio",
+        "genres": [
+            "calm",
+            "relaxing"
+        ],
+        "description": "Perfect music to help you get a full nights sleep, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Smooth": {
+        "shortname": "Smooth",
+        "website": "https://play.calmradio.world/station/44/651",
+        "stream": "https://drive.uber.radio/uber/calmsmooth/icecast.audio",
+        "genres": [
+            "relaxing",
+            "chillout",
+            "calm"
+        ],
+        "description": "The best in smooth music to help you chill out and relax from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Instrumental": {
+        "shortname": "Calm Instrumental",
+        "website": "https://play.calmradio.world/station/44/652",
+        "stream": "https://drive.uber.radio/uber/calminstrumental/icecast.audio",
+        "genres": [
+            "instrumental",
+            "calm",
+            "relaxing",
+            "chillout"
+        ],
+        "description": "The best in instrumental music to help you chill out and relax from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Soundscapes": {
+        "shortname": "Calm Soundscapes",
+        "website": "https://play.calmradio.world/station/44/653",
+        "stream": "https://drive.uber.radio/uber/calmsoundscapes/icecast.audio",
+        "genres": [
+            "ambient",
+            "nature",
+            "calm",
+            "relaxing",
+            "chillout"
+        ],
+        "description": "Our sounsdcapes from acorss the world will help you chill out and relax, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Spa": {
+        "shortname": "Spa",
+        "website": "https://play.calmradio.world/station/44/654",
+        "stream": "https://drive.uber.radio/uber/calmspa/icecast.audio",
+        "genres": [
+            "calm",
+            "chillout",
+            "relaxing"
+        ],
+        "description": "A great Spa vibe to help you chill out and relax from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Stress Relief": {
+        "shortname": "Stress Relief",
+        "website": "https://play.calmradio.world/station/44/655",
+        "stream": "https://drive.uber.radio/uber/calmstressrelief/icecast.audio",
+        "genres": [
+            "calm",
+            "relaxing"
+        ],
+        "description": "The perfect radio station for those who need to reduce stress from their lives and unwind, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Tai Chi": {
+        "shortname": "Tai Chi",
+        "website": "https://play.calmradio.world/station/44/656",
+        "stream": "https://drive.uber.radio/uber/calmtaichi/icecast.audio",
+        "genres": [
+            "calm",
+            "relaxing"
+        ],
+        "description": "Complementing the internal martial art of Tai Chi, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Zen": {
+        "shortname": "Calm Zen",
+        "website": "https://play.calmradio.world/station/44/657",
+        "stream": "https://drive.uber.radio/uber/calmzen/icecast.audio",
+        "genres": [
+            "calm",
+            "relaxing"
+        ],
+        "description": "The best mantras to help you achieve Zen mindfulness, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Jungle": {
+        "shortname": "Calm Jungle",
+        "website": "https://play.calmradio.world/station/44/1348",
+        "stream": "https://drive.uber.radio/uber/calmjungle/icecast.audio",
+        "genres": [
+            "ambient",
+            "nature",
+            "calm",
+            "relaxing"
+        ],
+        "description": "Our jungle sounds from acorss the world will help you chill out and relax, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Calm Radio - Rain": {
+        "shortname": "Calm Rain",
+        "website": "https://play.calmradio.world/station/44/1349",
+        "stream": "https://drive.uber.radio/uber/calmrain/icecast.audio",
+        "genres": [
+            "ambient",
+            "nature",
+            "relaxing",
+            "calm"
+        ],
+        "description": "The sound of rainfall from acorss the world will help you chill out and relax, from Calm Radio.",
+        "discontinued": false,
+        "location": "Dubai, UAE",
+        "logo": "https://play.calmradio.world/static/assets/img/basic/Logo-250-wht.png"
+    },
+    "Radio Total Instrumental": {
+        "shortname": "Total Instrumental",
+        "website": "https://www.radio-total-instrumental.de",
+        "stream": "https://stream.laut.fm/total-instrumental",
+        "genres": [
+            "soundtracks",
+            "instrumental",
+            "ambient",
+            "easy listening"
+        ],
+        "description": "24 hours of electronic and other instrumental music. Familiar classics, promising innovations and many unusual rarities. Radio TOTAL instrumental plays with Mike Oldfield, Jean Michel Jarre, Tangerine Dream, Yello, Kraftwerk and many others. the hits of yesteryear as well as well-known and lesser-known instrumentals of today.",
+        "discontinued": false,
+        "location": "Arnstadt, Thuringia, Germany",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/9/32619.v2.png"
+    },
+    "Film-Radio": {
+        "website": "https://laut.fm/filmradio",
+        "stream": "https://stream.laut.fm/filmradio",
+        "genres": [
+            "soundtracks",
+            "german"
+        ],
+        "description": "The best music from the cinema.",
+        "discontinued": false,
+        "location": "Munich, Germany",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/9/44459.v1.png"
+    },
+    "Cinema Italiano": {
+        "website": "https://laut.fm/cinemaitaliano",
+        "stream": "https://stream.laut.fm/cinemaitaliano",
+        "genres": [
+            "soundtracks",
+            "60s",
+            "70s",
+            "italian"
+        ],
+        "description": "Soundtracks of the 60s & 70s from Italy and beyond.",
+        "discontinued": false,
+        "location": "Berlin, Germany",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/4/52244.v4.png"
+    },
+    "Game'tation": {
+        "website": "http://game-tation.wixsite.com/home",
+        "stream": "https://game-tation.stream.laut.fm/game-tation",
+        "genres": [
+            "video game music",
+            "soundtracks"
+        ],
+        "description": "Video game soundtracks 24/7.",
+        "discontinued": false,
+        "location": "Berlin, Germany",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/0/53540.v2.png"
+    },
+    "Radio Brony": {
+        "website": "https://radiobrony.fr",
+        "stream": "https://radiobrony.live/mp3",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "The only French web radio station that has been broadcasting music and programs inspired by the TV series My Little Pony: Friendship is Magic since 2012 (and more).",
+        "discontinued": false,
+        "location": "Paris, France",
+        "logo": "https://t.radiobrony.fr/9emHFxP5KnVaQAlzsqz4mgY3G88=/0x280/https://radiobrony.fr/img/logos/RBLogo.png"
+    },
+    "Nostalgie Rock Classics": {
+        "shortname": "Rock Classics",
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieRockClassics-aac",
+        "genres": [
+            "rock",
+            "classics"
+        ],
+        "description": "Guitar-heroes and legendary riffs.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16664-cover-nostalgie-rock.png"
+    },
+    "Nostalgie Cinema": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieCinema-aac",
+        "genres": [
+            "soundtracks"
+        ],
+        "description": "The meeting of music and the greatest films.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16666-cover-nostalgie-cinema.png"
+    },
+    "Nostalgie En Direct": {
+        "shortname": "Nostalgie",
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgiePremium?",
+        "genres": [
+            "french",
+            "60s",
+            "70s",
+            "80s",
+            "90s",
+            "hits"
+        ],
+        "description": "Nostalgie is a private Belgian radio station broadcasting in Wallonia and Brussels, and is dedicated to mainly French and American music of the 1960s, 1970s, 1980s and 1990s.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00017/73486-nostalgie-en-direct.png"
+    },
+    "Nostalgie Italia": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieItalia-aac",
+        "genres": [
+            "italian",
+            "variety"
+        ],
+        "description": "Italy sings its most beautiful melodies on Nostalgie Italia.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16674-cover-nostalgie-italia.png"
+    },
+    "Nostalgie Jazz": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieJazz-aac",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Jazz and jazz ambience.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16672-cover-nostalgie-jazz.png"
+    },
+    "Nostalgie Fiesta": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieFiesta-aac",
+        "genres": [
+            "energized",
+            "dance",
+            "pop"
+        ],
+        "description": "A furious desire to sing.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16646-cover-nostalgie-fiesta.png"
+    },
+    "Nostalgie Soul Party": {
+        "shortname": "Soul Party",
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieSoulparty-aac",
+        "genres": [
+            "soul",
+            "R&B"
+        ],
+        "description": "Listen to the best of Soul music.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16662-cover-nostalgie-soul-party.png"
+    },
+    "Nostalgie +": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/nostaplus-aac",
+        "genres": [
+            "60s",
+            "70s",
+            "hits",
+            "oldies"
+        ],
+        "description": "All day long, listen to the best songs from the 60s until the end of the 70s.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00017/73490-nostalgie-60-70.png"
+    },
+    "Nostalgie Dance 80": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieDance80-aac",
+        "genres": [
+            "80s",
+            "dance"
+        ],
+        "description": "The syncopated rhythms beat the tempo of Nostalgie Dance 80.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16676-cover-nostalgie-dance-80.png"
+    },
+    "Le Meilleur de Nostalgie": {
+        "shortname": "Meilleur Nostalgie",
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieLeMeilleur-aac",
+        "genres": [
+            "top 40",
+            "pop"
+        ],
+        "description": "The best nostalgia titles finally brought together for you!",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16658-cover-le-meilleur-de-nostalgie.png"
+    },
+    "Nostalgie Hallyday": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieJohnnyHallyday-aac",
+        "genres": [
+            "rock",
+            "french"
+        ],
+        "description": "Nostalgie offers you a digital stream dedicated exclusively to Johnny Hallyday.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16648-cover-nostalgie-hallyday.png"
+    },
+    "Nostalgie New Wave": {
+        "shortname": "New Wave",
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieNewWave-aac",
+        "genres": [
+            "oldies",
+            "pop",
+            "punk"
+        ],
+        "description": "A furious desire to sing!",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16670-cover-nostalgie-new-wave.png"
+    },
+    "Nostalgie 80": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/Nostalgie80-aac",
+        "genres": [
+            "80s",
+            "hits",
+            "pop"
+        ],
+        "description": "Your radio dedicated exclusively to the legends of the 80s.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16654-cover-nostalgie-80.png"
+    },
+    "Nostalgie 90": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/Nostalgie90-aac",
+        "genres": [
+            "90s",
+            "pop",
+            "hits"
+        ],
+        "description": "Your radio dedicated exclusively to the legends of the 90s.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/17014-cover-nostalgie-90.png"
+    },
+    "Nostalgie 2000": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/Nostalgie2000-aac",
+        "genres": [
+            "2000s",
+            "hits",
+            "pop"
+        ],
+        "description": "Your radio dedicated exclusively to the legends of the 2000s.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00016/67350-webradio-nostalgie-2000.png"
+    },
+    "Nostalgie 70": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/Nostalgie-70_aac",
+        "genres": [
+            "hits",
+            "oldies",
+            "70s"
+        ],
+        "description": "Your radio dedicated exclusively to the legends of the 70s.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16652-cover-nostalgie-70.png"
+    },
+    "Nostalgie 60": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/Nostalgie60-aac",
+        "genres": [
+            "60s",
+            "hits",
+            "oldies"
+        ],
+        "description": "Your radio dedicated exclusively to the legends of the 60s.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16650-cover-nostalgie-60.png"
+    },
+    "Nostalgie Pop 90": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgiePop90-aac",
+        "genres": [
+            "pop",
+            "90s"
+        ],
+        "description": "Pleasure and lightness, that's the sound of Nostalgia pop 90.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16686-cover-nostalgie-pop-90.png"
+    },
+    "Nostalgie Pop 80": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgiePop80-aac",
+        "genres": [
+            "pop",
+            "80s"
+        ],
+        "description": "A light air and a radiant smile, that's the sound of Nostalgie pop 80.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16684-cover-nostalgie-pop-80.png"
+    },
+    "Nostalgie Love": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieLove-aac",
+        "genres": [
+            "romantic"
+        ],
+        "description": "Listen to legendary love songs and the best of romantic music.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16656-cover-nostalgie-love.png"
+    },
+    "Nostalgie Dance 90": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieDance90-aac",
+        "genres": [
+            "90s",
+            "dance",
+            "house"
+        ],
+        "description": "House or Euro-dance, the great mix of the dancefloor on Nostalgie Dance 90.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16678-cover-nostalgie-dance-90.png"
+    },
+    "Nostalgie Rock 80": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieRock80-aac",
+        "genres": [
+            "80s",
+            "rock"
+        ],
+        "description": "Guitar-heroes and legendary riffs are on Nostalgie rock 80.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16680-cover-nostalgie-rock-80.png"
+    },
+    "Nostalgie Chansons Francaises": {
+        "shortname": "Chansons Francaises",
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieChansonsFrancaises-aac",
+        "genres": [
+            "french"
+        ],
+        "description": "Nostalgiac music from French artists.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16660-cover-nostalgie-chansons-francaises.png"
+    },
+    "Nostalgie Rock 90": {
+        "website": "https://www.nostalgie.be/radio",
+        "stream": "https://streamingp.shoutcast.com/NostalgieRock90-aac",
+        "genres": [
+            "90s",
+            "rock"
+        ],
+        "description": "Blur or Oasis? Nostalgie Rock 90 brings together the legends of Rock.",
+        "discontinued": false,
+        "location": "Brussels, Belgium",
+        "logo": "https://media.ngroup.be/IMAGE/IMAGE-S1-00009/16682-cover-nostalgie-rock-90.png"
+    },
+    "Your Latin Radio": {
+        "shortname": "",
+        "website": "https://www.yourlatinradio.com",
+        "stream": "http://stream.radiojar.com/ktsf994gtp8uv",
+        "genres": [
+            "latin",
+            "reggae",
+            "salsa",
+            "bachata"
+        ],
+        "description": "Welcome to Your Latin Radio, the best Latin radio station where the latin feeling never stops. Your Latin Radio brings you 24/7 the best salsa, bachata, reggaeton, merengue and more….",
+        "discontinued": false,
+        "location": "Amsterdam, North Holland, Netherlands",
+        "logo": "https://www.yourlatinradio.com/wp-content/uploads/2020/02/Mockup-circle-1024pxJP.jpg"
+    },
+    "24 Hour Cardio Mix": {
+        "shortname": "24 Hour Cardio",
+        "website": "https://www.iheart.com/live/cardio-mix-7250/",
+        "stream": "https://stream.revma.ihrhls.com/zc7250",
+        "genres": [
+            "pop",
+            "hits",
+            "energized"
+        ],
+        "description": "Pop Hits For Your Workout",
+        "discontinued": false,
+        "location": "New Hampshire, USA",
+        "logo": "https://i.iheart.com/v3/re/new_assets/62bb1e2df5da69e05bc6e11f?ops=fit(960%2C960)%2Cresize(0%2C390)"
+    },
+    "Z107 Seacoast": {
+        "website": "https://z107fm.iheart.com",
+        "stream": "https://stream.revma.ihrhls.com/zc1357",
+        "genres": [
+            "hits",
+            "pop",
+            "top 40"
+        ],
+        "description": "The Seacoast's #1 Hit Music Station",
+        "discontinued": false,
+        "location": "Exeter, New Hampshire, USA",
+        "logo": "https://i.iheart.com/v3/re/assets.brands/5e611d18612d53a4a6324679?ops=gravity(%22center%22),contain(200,200)&quality=80"
+    },
+    "91.3 FM WUNH": {
+        "shortname": "WUNH",
+        "website": "https://www.unh.edu/wunh/",
+        "stream": "http://s9.viastreaming.net:9000/;",
+        "genres": [
+            "college",
+            "community",
+            "alternative",
+            "variety",
+            "news",
+            "sports",
+            "talk",
+            "local"
+        ],
+        "description": "WUNH is a student-run radio station at the University of New Hampshire in Durham, New Hampshire.",
+        "discontinued": false,
+        "location": "Durham, New Hampshire, USA",
+        "logo": "https://www.unh.edu/wunh/sites/all/themes/custom/unh7_3_custom/logo.png"
+    },
+    "Coast 93.1": {
+        "website": "https://coast931.com",
+        "stream": "https://live.wostreaming.net/manifest/saga-wmgxfmaac-ibc1",
+        "genres": [
+            "hits",
+            "pop",
+            "top 40"
+        ],
+        "description": "Portland's Adult Hit Music Station with The Blake Show - With Kelly & Todd!",
+        "discontinued": false,
+        "location": "Portland, Maine, USA",
+        "logo": "https://coast931.com/wp-content/themes/wmgx/img/logo.png"
+    },
+    "104.7 Hot Radio": {
+        "shortname": "Hot Radio",
+        "website": "https://hotradiomaine.com",
+        "stream": "https://ice9.securenetsystems.net/WHTP",
+        "genres": [
+            "hits",
+            "pop",
+            "top 40"
+        ],
+        "description": "Maine's Hit Music Channel",
+        "discontinued": false,
+        "location": "",
+        "logo": "https://radiostationusa.fm/assets/image/radio/180/WJYE.jpg"
+    },
+    "90.9 WMPG": {
+        "shortname": "WMPG",
+        "website": "https://www.wmpg.org",
+        "stream": "http://quarrel.str3am.com:7270/",
+        "genres": [
+            "college",
+            "local",
+            "community",
+            "variety",
+            "news",
+            "talk"
+        ],
+        "description": "WMPG is a community radio station broadcasting from Portland, Maine. It is located on Bedford Street at the University of Southern Maine Portland Campus. It is affiliated with the college, and a mix of USM students and volunteers from the greater Portland community produce all the music and local public affairs programs.",
+        "discontinued": false,
+        "location": "Portland, Maine, USA",
+        "logo": "https://www.wmpg.org/wp-content/themes/wmpg/library/images/wmpg-logo.png"
+    },
+    "99.3 / 99.9 The Wolf": {
+        "shortname": "The Wolf",
+        "website": "https://999thewolf.com",
+        "stream": "https://14553.live.streamtheworld.com/WTHT_FM.mp3",
+        "genres": [
+            "country",
+            "contemporary",
+            "new artists",
+            "classics"
+        ],
+        "description": "#1 for new country and the legends.",
+        "discontinued": false,
+        "location": "Portland, Maine, USA",
+        "logo": "https://999thewolf.com/assets/files/WTHT-WBQQ_Border_500.png"
+    },
+    "106.3 WHXR The Bone": {
+        "shortname": "The Bone",
+        "website": "https://1063thebone.com",
+        "stream": "https://24493.live.streamtheworld.com/WHXR_FMAAC.aac",
+        "genres": [
+            "rock",
+            "alternative",
+            "classic rock",
+            "hard rock",
+            "metal"
+        ],
+        "description": "WHXR (106.3 FM; \"The Bone\") is an active rock radio station licensed to serve Scarborough, Maine, with studios in Portland. Established in 1974, the station is owned by Binnie Media.",
+        "discontinued": false,
+        "location": "Portland, Maine, USA",
+        "logo": "https://1063thebone.com/assets/images/BONE/WHXR_Inverse_500.png"
+    },
+    "94.9 WHOM": {
+        "shortname": "WHOM",
+        "website": "https://949whom.com",
+        "stream": "https://live.wostreaming.net/manifest/townsquare-whomfmaac-ibc3",
+        "genres": [
+            "80s",
+            "90s",
+            "contemporary",
+            "news",
+            "talk",
+            "local"
+        ],
+        "description": "94.9 WHOM, a Townsquare Media station, plays the best mix of the '80s, '90s and today and delivers the latest local news, information and features for Portland, Maine and nearby communities. Live and local on-air, online and through our free mobile app.",
+        "discontinued": false,
+        "location": "Portland, Maine, USA",
+        "logo": "https://townsquare.media/site/695/files/2017/11/WHOM_logo3.png"
+    },
+    "101.9 WPOR": {
+        "shortname": "WPOR",
+        "website": "https://1019por.com",
+        "stream": "https://live.wostreaming.net/manifest/saga-wporfmaac-ibc1",
+        "genres": [
+            "country"
+        ],
+        "description": "101.9 POR is your home for Jon, Joe & Courtney all morning, and 12-in-a-row all day!",
+        "discontinued": false,
+        "location": "Portland, Maine, USA",
+        "logo": "https://1019por.com/wp-content/themes/wpor/img/logo.png"
+    },
+    "104.3 FM The Legends": {
+        "shortname": "",
+        "website": "https://sanfordlegends.com",
+        "stream": "https://ais-sa1.streamon.fm/7674_48k.aac",
+        "genres": [
+            "50s",
+            "60s",
+            "70s",
+            "oldies",
+            "classics",
+            "hits",
+            "local"
+        ],
+        "description": "All oldies from the 50's, 60's & 70's with local news, sports, weather and information for all of York County Maine.",
+        "discontinued": false,
+        "location": "Sanford, Maine, USA",
+        "logo": "https://sanfordlegends.com/wp-content/uploads/2019/04/1043Logo250.png"
+    },
+    "AM 1220 KDOW": {
+        "shortname": "KDOW",
+        "website": "https://kdow.biz",
+        "stream": "https://23023.live.streamtheworld.com/KDOWAMAAC.aac",
+        "genres": [
+            "finance",
+            "business",
+            "news",
+            "talk"
+        ],
+        "description": "Providing continuous market updates and insightful investment knowledge and advice.",
+        "discontinued": false,
+        "location": "Fremont, California, USA",
+        "logo": "https://cdn.saleminteractivemedia.com/shared/images/logos/101/template3_logo.png"
+    },
+    "KUSC Classical California": {
+        "shortname": "",
+        "website": "https://www.kusc.org",
+        "stream": "https://14013.live.streamtheworld.com/KUSCAAC96.aac",
+        "genres": [
+            "classical"
+        ],
+        "description": "Classical California's mission is to make a positive impact on individuals and communities by championing the power of classical music.",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA",
+        "logo": "https://radiostationusa.fm/assets/image/radio/180/KUSC.png"
+    },
+    "Classical California - Ultimate Playlist": {
+        "shortname": "Ultimate Playlist",
+        "website": "https://www.kusc.org",
+        "stream": "https://18733.live.streamtheworld.com/CC1_S01AAC_96_SBM",
+        "genres": [
+            "classical"
+        ],
+        "description": "California's 250 favorite pieces back-to-back!",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA",
+        "logo": "https://radiostationusa.fm/assets/image/radio/180/KUSC.png"
+    },
+    "Classical California - The Great Escape": {
+        "shortname": "Great Escape",
+        "website": "https://www.kusc.org",
+        "stream": "https://27143.live.streamtheworld.com/CC4_S01AAC_96.aac",
+        "genres": [
+            "classical",
+            "relaxing"
+        ],
+        "description": "Whether you need that musical deep breath, or need to push the musical reset button, we have your Great Escape at the touch of a button. Hosted by Robin Pressman.",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA",
+        "logo": "https://radiostationusa.fm/assets/image/radio/180/KUSC.png"
+    },
+    "Radio Latina 104.5 FM WNRL": {
+        "shortname": "Radio Latina",
+        "website": "https://1045radiolatina.com/wnrl/",
+        "stream": "http://24253.live.streamtheworld.com/XLTNFM_SC",
+        "genres": [
+            "spanish",
+            "hits",
+            "latin"
+        ],
+        "description": "Hits by Maluma, Maná, Luis Miguel, Alejandro Sanz, Marco Antonio Solís",
+        "discontinued": false,
+        "location": "Chula Vista, California, USA",
+        "logo": "http://1045radiolatina.com/wnrl/wp-content/uploads/2019/09/Radio-Latina-Logo-1.png"
+    },
+    "ALT 98.7": {
+        "website": "https://alt987fm.iheart.com",
+        "stream": "https://stream.revma.ihrhls.com/zc201",
+        "genres": [
+            "alternative",
+            "contemporary",
+            "new artists",
+            "talk"
+        ],
+        "description": "LA's New Alternative & Home of The Woody Show",
+        "discontinued": false,
+        "location": "Los Angeles, California, USA",
+        "logo": "https://i.iheart.com/v3/re/assets.brands/5f21a19722e3a1d1444a0dc0?ops=gravity(%22center%22),contain(200,200)&quality=80"
+    },
+    "Money 105.5 KSAC-FM": {
+        "shortname": "Money 105.5",
+        "website": "https://money1055.com",
+        "stream": "https://18243.live.streamtheworld.com/KSACFMAAC.aac",
+        "genres": [
+            "finance",
+            "business",
+            "news",
+            "talk"
+        ],
+        "description": "Money 1055 FM is Sacramento's Wall Street Radio Network and Bloomberg News.",
+        "discontinued": false,
+        "location": "Sacramento, California, USA",
+        "logo": "https://cdn.saleminteractivemedia.com/shared/images/logos/109/template3_logo.png"
     }
 }
