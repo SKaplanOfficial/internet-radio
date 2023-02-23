@@ -1,0 +1,328 @@
+{
+    "Rainwave Radio - Chiptune": {
+        "name": "Rainwave Radio - Chiptune",
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/chiptune.mp3",
+        "genres": [
+            "video game music",
+            "electronic",
+            ""
+        ],
+        "description": [
+            "Bleeps and bloops",
+            " from games and more."
+        ],
+        "discontinued": "false",
+        "location": [
+            "Berlin",
+            " Germany"
+        ]
+    },
+    "Rainwave Radio - OC Remix": {
+        "name": "Rainwave Radio - OC Remix",
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/ocremix.mp3",
+        "genres": [
+            "video game music",
+            "remix",
+            ""
+        ],
+        "description": "Overclocked remixes and albums.",
+        "discontinued": "false",
+        "location": [
+            "Berlin",
+            " Germany"
+        ]
+    },
+    "Game'tation": {
+        "name": "Game'tation",
+        "website": "http://game-tation.wixsite.com/home",
+        "stream": "https://game-tation.stream.laut.fm/game-tation",
+        "genres": [
+            "video game music",
+            "soundtracks",
+            ""
+        ],
+        "description": "Video game soundtracks 24/7.",
+        "discontinued": "false",
+        "location": [
+            "Berlin",
+            " Germany"
+        ],
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/0/53540.v2.png"
+    },
+    "Game Music": {
+        "name": "Game Music",
+        "website": "https://laut.fm/gamemusic",
+        "stream": "https://stream.laut.fm/gamemusic",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": "Here you will listen to video game music 24/7.",
+        "discontinued": "false"
+    },
+    "NoLife Radio": {
+        "name": "NoLife Radio",
+        "website": "https://nolife-radio.com",
+        "stream": "http://listen.nolife-radio.com/stream",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "8Beats Radio": {
+        "name": "8Beats Radio",
+        "website": "https://8beats.co",
+        "stream": "https://n0d.radiojar.com/2fa4wbch308uv",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": [
+            "8Beats is an internet radio dedicated to video game music",
+            " live 24-7 from Lyon",
+            " France."
+        ],
+        "discontinued": "false",
+        "location": [
+            "Lyon",
+            " France"
+        ]
+    },
+    "Rainwave Radio - All": {
+        "name": "Rainwave Radio - All",
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/all.mp3",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": "All games and remixes from our library.",
+        "discontinued": "false",
+        "location": [
+            "Berlin",
+            " Germany"
+        ]
+    },
+    "Chiptune.Rocks": {
+        "name": "Chiptune.Rocks",
+        "website": "http://www.chiptune.rocks",
+        "stream": "http://www.chiptune.rocks/player.php",
+        "genres": [
+            "video game music",
+            "chiptune",
+            ""
+        ],
+        "description": [
+            "A free Internet streaming station that celebrates the best of video game music mixed in with a helping of retro gaming commercials",
+            " trailers and promos."
+        ],
+        "discontinued": "false",
+        "location": ""
+    },
+    "Gamesboro Radio": {
+        "name": "Gamesboro Radio",
+        "website": "https://radio.gamesboro.org/public/gamesboro_radio",
+        "stream": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
+        "genres": [
+            "video game music",
+            "80s",
+            "90s",
+            ""
+        ],
+        "description": [
+            "Gamesboro Radio is an internet radio station that broadcasts video game music 24/7. All games",
+            " all the time!"
+        ],
+        "discontinued": "false",
+        "location": [
+            "Palm Bay",
+            " Florida",
+            " USA"
+        ]
+    },
+    "Rainwave Radio - Game": {
+        "name": "Rainwave Radio - Game",
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/game.mp3",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": [
+            "Music",
+            " straight out of the games."
+        ],
+        "discontinued": "false",
+        "location": [
+            "Berlin",
+            " Germany"
+        ]
+    },
+    "Rainwave Radio - Covers": {
+        "name": "Rainwave Radio - Covers",
+        "website": "https://rainwave.cc",
+        "stream": "https://relay.rainwave.cc/covers.mp3",
+        "genres": [
+            "video game music",
+            "cover",
+            "remix",
+            ""
+        ],
+        "description": "Official and fan-made remixes.",
+        "discontinued": "false",
+        "location": [
+            "Berlin",
+            " Germany"
+        ]
+    },
+    "Game FM": {
+        "name": "Game FM",
+        "website": "https://streema.com/radios/Game_FM",
+        "stream": "https://cast.imaginaredigital.com.br:7000/stream",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": [
+            "Game FM is an internet radio station from Brazil",
+            " providing news",
+            " information",
+            " humor and best music of games."
+        ],
+        "discontinued": "false"
+    },
+    "RPGN Game Music Radio": {
+        "name": "RPGN Game Music Radio",
+        "website": "http://www.rpgamers.net/radio/index.php",
+        "stream": "http://stream.rpgamers.net:8000/rpgn",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": [
+            "Playing only the best video game music tunes! You'll find all of your favorites from 8-bit games to the latest releases. Our music database is being expanded",
+            " so new tunes are added often."
+        ],
+        "discontinued": "false",
+        "location": [
+            "Hamilton",
+            " Ontario",
+            " Canada"
+        ]
+    },
+    "Kohina Radio": {
+        "name": "Kohina Radio",
+        "website": "https://kohina.duckdns.org/streamplayer/",
+        "stream": "https://kohina.duckdns.org/icecast/stream.aac",
+        "genres": [
+            "video game music",
+            "oldies",
+            "electronic",
+            ""
+        ],
+        "description": "Old school game and demo music stream",
+        "discontinued": "false",
+        "location": [
+            "Helås",
+            " Västra Götaland",
+            " Sweden"
+        ]
+    },
+    "Klassik Radio - Gaming Music": {
+        "name": "Klassik Radio - Gaming Music",
+        "website": "https://www.klassikradio.de",
+        "stream": "https://stream.klassikradio.de/games/mp3-192",
+        "genres": [
+            "video game music",
+            "soundtracks",
+            ""
+        ],
+        "description": [
+            "Video games used to be accompanied by electronic noises. Today",
+            " complex soundtracks are produced that reach the level of film music. Klassik Radio presents these soundtracks to you in a separate channel."
+        ],
+        "discontinued": "false",
+        "location": [
+            "Augsburg",
+            " Bavaria",
+            " Germany"
+        ]
+    },
+    "VGM Radio": {
+        "name": "VGM Radio",
+        "website": "https://vgmradio.com",
+        "stream": "http://radio.vgmradio.com:8040/stream",
+        "genres": [
+            "video game music",
+            "soundtracks",
+            ""
+        ],
+        "description": "Free video game music streaming. Come take a listen!",
+        "discontinued": "false",
+        "location": [
+            "Brooklyn",
+            " New York",
+            " USA"
+        ]
+    },
+    "Radio PARALAX": {
+        "name": "Radio PARALAX",
+        "website": "https://www.radio-paralax.de",
+        "stream": "http://radio-paralax.de:8000/;",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": [
+            "Radio PARALAX is a private",
+            " non-commercial web radio project with a focus on game music of well-known computer and video game systems of the 80s and 90s (so-called \"chiptune remixes\")",
+            " music from the retro computer and demo scene as well as other GEMA and GVL-free music."
+        ],
+        "discontinued": "false"
+    },
+    "GBR gamebytesradio": {
+        "name": "GBR gamebytesradio",
+        "website": "http://gamebytesradio.net",
+        "stream": "http://99.198.118.250:8084/;",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": "LIVE Video Game Music!",
+        "discontinued": "false",
+        "location": [
+            "San Luis",
+            " Guanajuato",
+            " Mexico"
+        ]
+    },
+    "RadioSEGA": {
+        "name": "RadioSEGA",
+        "website": "https://www.radiosega.net",
+        "stream": "http://content.radiosega.net:8006/live",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": "",
+        "discontinued": "false"
+    },
+    "Final Fantasy Radio": {
+        "name": "Final Fantasy Radio",
+        "website": "http://finalfantasyradio.co",
+        "stream": "http://finalfantasystation.com:8000/stream",
+        "genres": [
+            "video game music",
+            ""
+        ],
+        "description": [
+            "Plays a mix of not only the official soundtracks from the Square Enix games",
+            " but also fan made music."
+        ],
+        "discontinued": "false"
+    }
+}

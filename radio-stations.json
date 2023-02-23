@@ -235,6 +235,7 @@
         "discontinued": false
     },
     "SonaFM Groove Salad": {
+        "shortname": "Groove Salad",
         "website": "https://somafm.com/groovesalad/",
         "stream": "https://ice6.somafm.com/groovesalad-128-mp3",
         "genres": [
@@ -245,6 +246,7 @@
         "discontinued": false
     },
     "SonaFM ThistleRadio": {
+        "shortname": "ThistleRadio",
         "website": "https://somafm.com/thistle/index.html",
         "stream": "https://ice5.somafm.com/thistle-128-mp3",
         "genres": [
@@ -254,6 +256,7 @@
         "discontinued": false
     },
     "SonaFM SF 10-33": {
+        "shortname": "SF 10-33",
         "website": "https://somafm.com/sf1033/",
         "stream": "https://ice1.somafm.com/sf1033-128-mp3",
         "genres": [
@@ -263,6 +266,7 @@
         "discontinued": false
     },
     "SonaFM Mission Control": {
+        "shortname": "Mission Control",
         "website": "https://somafm.com/missioncontrol/",
         "stream": "https://ice6.somafm.com/missioncontrol-128-mp3",
         "genres": [
@@ -273,6 +277,7 @@
         "discontinued": false
     },
     "SonaFM Dub Step Beyond": {
+        "shortname": "Dub Step",
         "website": "https://somafm.com/dubstep/",
         "stream": "https://ice5.somafm.com/dubstep-128-mp3",
         "genres": [
@@ -282,6 +287,7 @@
         "discontinued": false
     },
     "SonaFM The Dark Zone": {
+        "shortname": "Dark Zone",
         "website": "https://somafm.com/darkzone/",
         "stream": "https://ice5.somafm.com/darkzone-128-mp3",
         "genres": [
@@ -291,6 +297,7 @@
         "discontinued": false
     },
     "SonaFM Deep Space One": {
+        "shortname": "Deep Space One",
         "website": "https://somafm.com/deepspaceone/",
         "stream": "https://ice5.somafm.com/deepspaceone-128-mp3",
         "genres": [
@@ -302,6 +309,7 @@
         "discontinued": false
     },
     "SonaFM SF Police Scanner": {
+        "shortname": "SF Police Scanner",
         "website": "https://somafm.com/scanner/",
         "stream": "https://ice5.somafm.com/scanner-128-mp3",
         "genres": [
@@ -312,6 +320,7 @@
         "discontinued": false
     },
     "SonaFM Secret Agent": {
+        "shortname": "Secret Agent",
         "website": "https://somafm.com/secretagent/",
         "stream": "https://ice5.somafm.com/secretagent-128-mp3",
         "genres": [
@@ -324,6 +333,7 @@
         "discontinued": false
     },
     "SonaFM Heavyweight Reggae": {
+        "shortname": "SonaFM Reggae",
         "website": "https://somafm.com/reggae/",
         "stream": "https://ice5.somafm.com/reggae-128-mp3",
         "genres": [
@@ -333,6 +343,7 @@
         "discontinued": false
     },
     "SonaFM Christmas Rocks!": {
+        "shortname": "SonaFM Christmas",
         "website": "https://somafm.com/xmasrocks/",
         "stream": "https://ice5.somafm.com/xmasrocks-128-mp3",
         "genres": [
@@ -353,6 +364,7 @@
         "discontinued": false
     },
     "Los 40 Argentina": {
+        "shortname": "Los 40",
         "website": "https://los40.com.ar/lista40/?o=VL40",
         "stream": "https://24083.live.streamtheworld.com/LOS40_ARGENTINAAAC_SC",
         "genres": [
@@ -377,6 +389,7 @@
         "discontinued": false
     },
     "Baroque Sonatas Radio": {
+        "shortname": "Baroque Sonatas",
         "website": "https://laut.fm/baroque_sonatas_radio",
         "stream": "https://stream.laut.fm/baroque_sonatas_radio",
         "genres": [
@@ -387,6 +400,7 @@
         "discontinued": false
     },
     "Pumpkin FM Crime Incorporated": {
+        "shortname": "Crime Inc.",
         "website": "https://pumpkinfm.com/live-stream/crime-inc/",
         "stream": "http://65.21.202.84:8366/;",
         "genres": [
@@ -396,16 +410,19 @@
         "discontinued": false
     },
     "Pumpkin FM 1940s Radio": {
+        "shortname": "1940s Radio",
         "website": "https://pumpkinfm.com/live-stream/1940s-radio/",
         "stream": "65.21.202.84:8392/;",
         "genres": [
             "40s",
-            "hits"
+            "hits",
+            "oldies"
         ],
         "description": "Home Service, the Best Mix of Old Time Radio shows and music 24/7.",
         "discontinued": false
     },
     "Pumpkin FM Radio Malvern International": {
+        "shortname": "Radio Malvern",
         "website": "https://pumpkinfm.com/live-stream/radio-malvern-int/",
         "stream": "65.21.202.84:8403/;",
         "genres": [
@@ -415,6 +432,7 @@
         "discontinued": false
     },
     "Pumpkin FM BritCom 1": {
+        "shortname": "BritCom 1",
         "website": "https://pumpkinfm.com/live-stream/britcom-1/",
         "stream": "65.21.202.84:8175/;",
         "genres": [
@@ -425,6 +443,7 @@
         "discontinued": false
     },
     "Radio Online Smooth Jazz": {
+        "shortname": "Smooth Jazz",
         "website": "http://cloud-jazz.com",
         "stream": "https://stream.zeno.fm/w3phtkukfg8uv",
         "genres": [
@@ -434,6 +453,7 @@
         "discontinued": false
     },
     "Middle Eastern Classical": {
+        "shortname": "Classical",
         "website": "https://zeno.fm/radio/eastern-classical-music/",
         "stream": "https://stream.zeno.fm/r8b9smty1a0uv",
         "genres": [
@@ -461,10 +481,13 @@
             "pop",
             "disco"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Top 80 radio only plays hits from the 70's and 80's. Pop, New Wave, Rock, Disco. For more pleasure, most of the titles broadcast are in long version.",
+        "discontinued": false,
+        "location": "Lille, France",
+        "logo": "https://www.top80radio.com/wp-content/uploads/2023/01/banner-218-x-68.jpg"
     },
     "The Zone - Dublin": {
+        "shortname": "The Zone",
         "website": "https://www.thezonedublin.org",
         "stream": "http://uk1.internet-radio.com:8355/stream",
         "genres": [
@@ -485,8 +508,10 @@
             "heavy metal",
             "punk"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Experimental internet radio focusing on new talents, regional news from Liverpool.",
+        "discontinued": false,
+        "location": "Liverpool, England, United Kingdom",
+        "logo": "https://4b4e3af124.clvaw-cdnwnd.com/d649b01a86c22783e19ed6a77a3369ce/200000362-1b6c41b6c8/RADIO%20BLOODSTREAM-8.jpg?ph=4b4e3af124"
     },
     "Psyndora Chillout": {
         "website": "https://www.psyndora.com/chill.html",
@@ -496,8 +521,10 @@
             "chillout",
             "psychill"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Psyndora Radio has been created for psychedelic music lovers",
+        "discontinued": false,
+        "location": "Patras, Greece",
+        "logo": "https://cdn-profiles.tunein.com/s248971/images/logod.jpg?t=636311645042370000"
     },
     "CINEMIX": {
         "website": "http://www.cinemix.radio",
@@ -505,10 +532,13 @@
         "genres": [
             "soundtracks"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Soundtracks and cinema scores ONLY!",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada",
+        "logo": "https://www.radio.net/images/broadcasts/73/f9/5344/1/c300.png"
     },
     "Classical Radio Stream": {
+        "shortname": "Classical Radio",
         "website": "https://classicalradiostream.com/",
         "stream": "http://classicalconnected.com:8020/stream",
         "genres": [
@@ -530,6 +560,7 @@
         "discontinued": false
     },
     "Pink Noise Radio": {
+        "shortname": "Pink Noise",
         "website": "https://www.internet-radio.com/station/pinknoise/",
         "stream": "https://uk1.internet-radio.com/proxy/pinknoise?mp=/stream",
         "genres": [
@@ -537,10 +568,12 @@
             "ambient",
             "chillout"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Nonstop pink noise.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
     },
     "Brown Noise Radio": {
+        "shortname": "Brown Noise",
         "website": "https://www.internet-radio.com/station/brownnoise/",
         "stream": "https://uk1.internet-radio.com/proxy/brownnoise?mp=/stream",
         "genres": [
@@ -548,10 +581,12 @@
             "ambient",
             "chillout"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Nonstop brown noise.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
     },
     "White Noise Radio": {
+        "shortname": "White Noise",
         "website": "https://www.internet-radio.com/station/whitenoise/",
         "stream": "https://uk1.internet-radio.com/proxy/whitenoise?mp=/stream",
         "genres": [
@@ -559,8 +594,9 @@
             "ambient",
             "chillout"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Nonstop white noise.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom"
     },
     "NoLife Radio": {
         "website": "https://nolife-radio.com",
@@ -576,11 +612,14 @@
         "stream": "https://stream.laut.fm/radiosummernight",
         "genres": [
             "pop",
-            "alternative",
-            "rock"
+            "dance",
+            "rock",
+            "hip hop"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Radio Summernight is a youth radio station that offers a varied music program around the clock via the Internet, with songs that fit the summer. Everything is played there that reminds of warm summer nights by the sea, in the garden or wherever.",
+        "discontinued": false,
+        "location": "Vienna, Austria",
+        "logo": "https://radiomixer.net/crops/617478/160x160/1/0/2021/12/09/1XjN5RFUShZUbYujyZQx1ft9IE6CyHDy.png.webp"
     },
     "Frontier Country": {
         "website": "http://www.frontiercountryonline.com",
@@ -588,48 +627,60 @@
         "genres": [
             "country"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Frontier Country is an online country music radio station, broadcasting from Louisville, Kentucky!",
+        "discontinued": false,
+        "location": "Louisville, Kentucky, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/305288144_506272071499316_7133789304553989076_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=p4tGhpLmRFwAX9ZdiSM&_nc_ht=scontent-bos5-1.xx&oh=00_AfCcS6h5qVFRr8vde4BiDm5slBKv-q0QGzOn_NH-gVK54A&oe=63FBBD69"
     },
     "Dubstep.fm": {
         "website": "https://www.dubstep.fm",
         "stream": "http://50.117.1.60/stream/1/",
         "genres": [
             "dubstep",
-            "electronic"
+            "electronic",
+            "dance"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Dubstep Internet Radio Dance.",
+        "discontinued": false,
+        "location": "San José, California, USA",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/9/11329.v1.png"
     },
     "Blues Radio": {
         "website": "http://www.bluesradio.gr",
         "stream": "http://i4.streams.ovh:8352/stream/1/",
         "genres": [
-            "blues"
+            "blues",
+            "rock"
         ],
-        "description": "Just the blues.",
-        "discontinued": false
+        "description": "Welcome to Blues Rock Radio Relax and enjoy here BEST MUSIC ON NET. Enjoy quality music for the body and soul.",
+        "discontinued": false,
+        "location": "Athens, Greece",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/269760986_4685366718176205_9196893996796199706_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=vL14EM4RAKIAX_zyTpg&_nc_ht=scontent-bos5-1.xx&oh=00_AfAkLQZdsVTIZBEOA4oDRRYFAbSnCvhcKvf4rhhwO5Q1BA&oe=63FB5A1C"
     },
     "BBC Radio 1": {
-        "website": "https://tunein.com/radio/BBC-Radio-1-988-s24939/",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_one",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
         "genres": [
             "pop",
             "dance",
             "rock"
         ],
-        "description": "You-orientated music, dance, and rock",
-        "discontinued": false
+        "description": "You-orientated music, dance, and rock.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://cdn-profiles.tunein.com/s24939/images/logod.png?t=637908709370000000"
     },
     "BBC World Service": {
-        "website": "https://tunein.com/radio/BBC-World-Service-News-s24948/",
+        "website": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
         "stream": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
         "genres": [
             "news",
             "talk"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Global news coverage.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://cdn-profiles.tunein.com/s24948/images/logod.jpg?t=637224031720000000"
     },
     "BBC Arabic": {
         "website": "https://www.bbc.com/arabic/bbc_arabic_radio/liveradio",
@@ -656,8 +707,10 @@
         "genres": [
             "kpop"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "We are the first Digital Radio in Ecuador with music, news and much more about Korean culture.",
+        "discontinued": false,
+        "location": "Quito, Ecuador",
+        "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FeV_iwSetjS3bKgM4T3Q7RZaxb9PJGND7iiF59j9VfDU%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3NTUzUTRRc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3OHIyZjV3a01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjAxMTc0NTcwMDA.webp&w=3840&q=100"
     },
     "NPR": {
         "website": "https://www.npr.org",
@@ -666,8 +719,10 @@
             "news",
             "talk"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "National Public Radio (NPR) is a nonprofit media organization that represents a network of 900 public radio stations in the United States. Its mission is to provide unbiased and independent educational and informative content to its listeners through an in-depth analysis of the latest news and political developments.",
+        "discontinued": false,
+        "location": "Washington, District of Columbia, USA",
+        "logo": "https://media.npr.org/chrome_svg/npr-logo.svg"
     },
     "Hot Hitz": {
         "website": "http://player.100hitz.com",
@@ -676,8 +731,10 @@
             "hits",
             "pop"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "100hitz.com is an online radio network of free Internet radio stations, featuring multiple genres from Country to Top40.",
+        "discontinued": false,
+        "location": "Antelope, California, USA",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/1/10191.v4.png"
     },
     "Fox News": {
         "website": "https://radio.foxnews.com/player-files/radio.php",
@@ -706,18 +763,22 @@
             "sports",
             "talk"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "24/7 Sports Coverage",
+        "discontinued": false,
+        "location": "USA",
+        "logo": "https://i.iheart.com/v3/re/new_assets/b895d646-147e-4615-9852-9d6b1bc84f28?ops=fit(960%2C960)%2Cresize(0%2C390)"
     },
     "Greatest Hits Radio USA": {
+        "shortname": "Greatest Hits",
         "website": "https://www.greatesthitsradiousa.com/",
         "stream": "https://stream.rcast.net/69558.mp3",
         "genres": [
             "hits",
             "oldies"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "The Greatest Hits of All Time!",
+        "discontinued": false,
+        "location": "Phoenix, Arizona, USA"
     },
     "Adagio.FM": {
         "website": "http://adagio.fm",
@@ -725,8 +786,10 @@
         "genres": [
             "classical"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Internet radio with timeless, classic music on the menu.",
+        "discontinued": false,
+        "location": "San José, California, USA",
+        "logo": "https://www.radio.net/images/broadcasts/ae/5e/5656/c300.png"
     },
     "Ambient Sleeping Pill": {
         "website": "https://ambientsleepingpill.com",
@@ -735,8 +798,9 @@
             "ambient",
             "chillout"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Music for Sleeping, taking Naps, and other more wakeful Moments; Tranquil, Deep, Serene; no ads, no beats, no breaks, no cheese.",
+        "discontinued": false,
+        "location": "Lancaster, Ohio, USA"
     },
     "Exclusive Radio - Ocean": {
         "shortname": "Exclusively Ocean",
@@ -745,7 +809,7 @@
         "genres": [
             "ambient"
         ],
-        "description": "",
+        "description": "Natural calm with the soothing, relaxing sound of the ocean.",
         "discontinued": false,
         "location": "Dubai, UAE"
     },
@@ -756,7 +820,7 @@
         "genres": [
             "ambient"
         ],
-        "description": "",
+        "description": "Natural calm with the soothing, relaxing sound of birdsong.",
         "discontinued": false,
         "location": "Dubai, UAE"
     },
@@ -777,8 +841,10 @@
             "latin",
             "world"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Latin Hits is your source for the hottest chart-topping hits of the moment from artists like Bad Bunny, J Balvin, KAROL G, Shakira, and more! Whether you're hosting a high-energy party, or you just want to stay in-the-know on who's making their mark in Latin music, enjoy all your favorites and discover the freshest sounds of Latin's bright future right here.",
+        "discontinued": false,
+        "location": "USA",
+        "logo": "https://cdn-profiles.tunein.com/s249995/images/logod.png?t=638015641140000000"
     },
     "Sports Radio 810 WHB": {
         "website": "http://www.810whb.com/",
@@ -797,8 +863,10 @@
             "hawaiian",
             "tropical"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Today's Island Hits",
+        "discontinued": false,
+        "location": "Lihue, Kaua'i, Hawaii, USA",
+        "logo": "https://hi95kauai.com/wp-content/uploads/sites/16/hi95-black-border-1.png"
     },
     "talkSPORT": {
         "website": "https://talksport.com",
@@ -807,8 +875,10 @@
             "sports",
             "talk"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "The world's biggest sports radio station.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://talksport.com/wp-content/themes/talksport/images/sunmasthead.svg"
     },
     "Top Salsa Radio": {
         "website": "https://latina104.net",
@@ -850,8 +920,10 @@
             "irish",
             "world"
         ],
-        "description": "",
-        "discontinued": false
+        "description": "Irish Pub Radio plays nothing but the best Irish Music. Broadcasting Irish Music digitally via the internet , 24 hours a day to Irish Pubs all over the world. Irish Pub Radio has a huge extensive collection of these songs that we mix with other popular all time Irish favourites. We go to great efforts to play not just any Irish music....., but great Irish Music that you can play in your pub.",
+        "discontinued": false,
+        "location": "Dublin, Ireland, United Kingdom",
+        "logo": "https://www.irishpubradio.com/images/logo.png"
     },
     "Nota Arabia": {
         "website": "http://www.notaarabia.com",
@@ -6906,17 +6978,6 @@
             "variety"
         ],
         "description": "Boston's Independent Radio. Programming includes elements of alternative, acoustic, blues, folk, reggae, and other forms of music. You'll hear a blend of current releases from today's artists, your favorites from the '80s and '90s, and a few deep album cuts from the '60s and '70s.",
-        "discontinued": false
-    },
-    "WUNH 91.3 FM": {
-        "website": "https://www.unh.edu/wunh/",
-        "stream": "https://vobook.ru/s9.viastreaming.net:9000/;",
-        "genres": [
-            "alternative",
-            "sports",
-            "college"
-        ],
-        "description": "WUNH is a student-run radio station at the University of New Hampshire in Durham, New Hampshire. The station broadcasts alternative music, sports, and more to the community and surrounding area on 6000 watts.",
         "discontinued": false
     },
     "Classical 90.9 WSCS": {
@@ -18313,5 +18374,802 @@
         "discontinued": false,
         "location": "Sacramento, California, USA",
         "logo": "https://cdn.saleminteractivemedia.com/shared/images/logos/109/template3_logo.png"
+    },
+    "Radio Vaticana": {
+        "website": "https://www.vaticannews.va",
+        "stream": "https://radio.vaticannews.va/stream-en",
+        "genres": [
+            "news",
+            "talk",
+            "classical",
+            "world",
+            "variety",
+            "religious",
+            "gospel"
+        ],
+        "description": "Vatican Radio broadcasts in 39 languages in and around Rome and the Lazio Region. Its programming serves pilgrims and visitors to Rome from all over the world, providing them with news and information in their own languages.",
+        "discontinued": false,
+        "location": "Vatican, Vatican City",
+        "logo": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/rv/rv-esteso-bianco-small.png"
+    },
+    "Antena 1 94.7 FM": {
+        "shortname": "Antena 1",
+        "website": "https://www.antena1.com.br",
+        "stream": "https://www.antena1.com.br/stream/stream/1;",
+        "genres": [
+            "portuguese",
+            "brazillian",
+            "classic rock",
+            "pop",
+            "hits",
+            "R&B",
+            "world"
+        ],
+        "description": "Antena 1 is synonymous with quality and good taste in music. After all, it brings the best of the world to your radio.",
+        "discontinued": false,
+        "location": "São Paulo, Brazil",
+        "logo": "https://a1media.antena1.com.br/image/misc/logo/Logo-default.png"
+    },
+    "Rádio Alpha 101.7 FM": {
+        "shortname": "Alpha",
+        "website": "https://www.alphafm.com.br",
+        "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
+        "genres": [
+            "hits",
+            "contemporary",
+            "pop"
+        ],
+        "description": "For over 20 years, ALPHA FM has presented the best of national and international music programming. The qualified music selection is allied with news from the city, Brazil and the world throughout the day, offering entertainment and information.",
+        "discontinued": false,
+        "location": "São Paulo, Brazil",
+        "logo": "https://cdn-profiles.tunein.com/s8129/images/logod.jpg?t=636908136700000000"
+    },
+    "Rádio Alpha 102.1 FM Goiânia": {
+        "shortname": "Alpha Go",
+        "website": "http://goiania.alphafm.com.br",
+        "stream": "https://ice.fabricahost.com.br/alphafm1021",
+        "genres": [
+            "hits",
+            "pop",
+            "contemporary"
+        ],
+        "description": "For over 20 years, ALPHA FM has presented the best of national and international music programming. The qualified music selection is allied with news from the city, Brazil and the world throughout the day, offering entertainment and information.",
+        "discontinued": false,
+        "location": "Goiânia, Brazil",
+        "logo": "https://cdn-profiles.tunein.com/s197992/images/logod.png?t=636910951460000000"
+    },
+    "Energy FM Brazil": {
+        "shortname": "Energy FM",
+        "website": "http://www.energyfm.com.br",
+        "stream": "https://media.energyfm.com.br/stream.mp3",
+        "genres": [
+            "pop",
+            "dance",
+            "electronic",
+            "hits"
+        ],
+        "description": "An energetic collection of the world's greatest pop dance and electro hits.",
+        "discontinued": false,
+        "location": "João Pessoa, Brasil",
+        "logo": "http://www.energyfm.com.br/assets/images/logo-energy-fm.png?logoenergy"
+    },
+    "Radio Lébénè": {
+        "website": "http://www.radiogameli.com/",
+        "stream": "https://usa1.fastcast4u.com/proxy/gamelimu?mp=/2",
+        "genres": [
+            "togolese",
+            "news",
+            "sports",
+            "variety",
+            "hits",
+            "community",
+            "culture",
+            "talk"
+        ],
+        "description": "The first Togolese radio online.",
+        "discontinued": false,
+        "location": "Lomé, Togo",
+        "logo": "https://radiolebene.tg/images/radio_lebene_2.png"
+    },
+    "Radio Lébénè Apévia": {
+        "shortname": "Lébénè Apévia",
+        "website": "http://www.radiogameli.com/",
+        "stream": "http://178.32.112.131:8060/radio.mp3",
+        "genres": [
+            "community",
+            "togolese",
+            "news",
+            "variety",
+            "culture",
+            "talk"
+        ],
+        "description": "The first Togolese radio online.",
+        "discontinued": false,
+        "location": "Lomé, Togo",
+        "logo": "https://radiolebene.tg/images/radio_lebene_2.png"
+    },
+    "Radio Lébénè Gospel": {
+        "shortname": "Lébénè Gospel",
+        "website": "http://www.radiogameli.com/",
+        "stream": "http://192.99.35.215:5067/live",
+        "genres": [
+            "gospel",
+            "togolese"
+        ],
+        "description": "The first Togolese radio online.",
+        "discontinued": false,
+        "location": "Lomé, Togo",
+        "logo": "https://radiolebene.tg/images/radio_lebene_2.png"
+    },
+    "Koode Radio International": {
+        "shortname": "Koode",
+        "website": "https://koode.net",
+        "stream": "http://hydra.shoutca.st:8238/stream",
+        "genres": [
+            "culture",
+            "news",
+            "talk"
+        ],
+        "description": "Koode Radio International KRI is to inform, educate and entertain the Fulani community in all spheres. By so doing, the violence of herders/farmers clashes as well as the recruitment of the Fulani into terrorist organizations will be reduced to the barest minimum.",
+        "discontinued": false,
+        "location": "Abuja, Nigeria",
+        "logo": "https://koode.net/wp-content/uploads/2022/03/Koode-Logo.png"
+    },
+    "90.9 WBUR Boston Public Radio": {
+        "shortname": "WBUR",
+        "website": "https://www.wbur.org",
+        "stream": "https://fm909.wbur.org/wbur_www",
+        "genres": [
+            "public",
+            "community",
+            "news",
+            "talk"
+        ],
+        "description": "WBUR is Boston's NPR News Station, featuring NPR news and programs such as Car Talk, On Point, Here & Now, Only A Game and Radio Boston.",
+        "discontinued": false,
+        "location": "Boston, Massachusetts, USA",
+        "logo": "https://pbs.twimg.com/profile_images/1260238886963490816/zziY4zr7_400x400.jpg"
+    },
+    "89.7 WOSU": {
+        "shortname": "WOSU",
+        "website": "https://news.wosu.org",
+        "stream": "https://wosu.streamguys1.com/NPR_128",
+        "genres": [
+            "public",
+            "community",
+            "news",
+            "talk",
+            "variety",
+            "college"
+        ],
+        "description": "OSU-FM 89.7 is a is a National Public Radio news and talk radio station broadcasting from Columbus, Ohio, United States, as part of Ohio State University in Columbus, Ohio, United States.",
+        "discontinued": false,
+        "location": "Columbus, Ohio, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/60af9f5/2147483647/strip/true/crop/1098x200+0+0/resize/534x98!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F86%2Fe10612944129a0c4d4c65b33a40a%2Fwosu-horizontal-logo-v2.png"
+    },
+    "WOSU Classical 101": {
+        "shortname": "WOSU Classical",
+        "website": "https://news.wosu.org",
+        "stream": "https://wosu.streamguys1.com/Classical_128",
+        "genres": [
+            "public",
+            "classical",
+            "college"
+        ],
+        "description": "WOSU Public Media serves as a gateway to nonprofit educational and cultural resources in the Central Ohio community.",
+        "discontinued": false,
+        "location": "Columbus, Ohio, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/60af9f5/2147483647/strip/true/crop/1098x200+0+0/resize/534x98!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F86%2Fe10612944129a0c4d4c65b33a40a%2Fwosu-horizontal-logo-v2.png"
+    },
+    "91.7 WVXU Cincinnati Public Radio": {
+        "shortname": "WVXU",
+        "website": "https://www.wvxu.org",
+        "stream": "https://stream.cinradio.org/wvxu",
+        "genres": [
+            "public",
+            "community",
+            "news",
+            "talk",
+            "variety"
+        ],
+        "description": "Cincinnati Public Radio airs programs from NPR, BBC World Service and other public radio stations from thoughout the United States, as well as producing local programming of interest to Cincinnati residents.",
+        "discontinued": false,
+        "location": "Oxford, Ohio, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/d04c5e2/2147483647/strip/true/crop/410x88+0+0/resize/534x114!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Ff0%2Fbcdbb4194869a097f180fb929cac%2Fimage-switch.jpg"
+    },
+    "91.3 WOUB": {
+        "shortname": "WOUB",
+        "website": "https://woub.org",
+        "stream": "https://22113.live.streamtheworld.com/WOUBFM.mp3",
+        "genres": [
+            "public",
+            "news",
+            "talk",
+            "community",
+            "variety",
+            "sports"
+        ],
+        "description": "NPR News daytime, AAA and Americana at night",
+        "discontinued": false,
+        "location": "Athens, Ohio, USA",
+        "logo": "https://woub.org/wp-content/themes/2014woub/img/WOUB_stacked_943_1.png"
+    },
+    "Radio Mozart": {
+        "website": "https://www.facebook.com/people/Radio-Mozart/100063306483090/",
+        "stream": "https://streamingv2.shoutcast.com/Radio-Mozart",
+        "genres": [
+            "classical",
+            "symphony",
+            "opera"
+        ],
+        "description": "The concept of Radio Mozart is original, unique and very simple: to play Mozart and nothing but Mozart. You can listen to the whole catalog of the Master with carefully crafted programming, blending all his genres of symphonies, concertos, serenades, sacred music, and opera.",
+        "discontinued": false,
+        "location": "Marseille, France",
+        "logo": "https://static-media.streema.com/media/cache/48/f1/48f13e1060ff21d31c672cf98b695bdd.jpg"
+    },
+    "Radio Scalla": {
+        "website": "https://radioscalla.minharadioonline.net",
+        "stream": "https://hts02.kshost.com.br:9710/live",
+        "genres": [
+            "instrumental",
+            "news",
+            "classical",
+            "talk",
+            "opera",
+            "orchestral"
+        ],
+        "description": "Online radio dedicated to performing the best of Instrumental and Orchestrated Music.",
+        "discontinued": false,
+        "location": "São Paulo, Brazil",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/300221354_469767361823141_5489315619051735164_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ikfbt_dCs2oAX9aHPPW&_nc_oc=AQmag6mzEJ5PsJ30xTVzKcwbJxKSsWve_M23YU64CeMaRh4awA8y5AcHxtA-uePgz_WKrBAyeEaEn2fkgfHUzgxk&_nc_ht=scontent-bos5-1.xx&oh=00_AfAIlzk0m396XoFKkiI-CDvbLrGxZHmgzOkKJ7Df2gQOSQ&oe=63FCB6A2"
+    },
+    "90.3 KNCT": {
+        "shortname": "KNCT",
+        "website": "https://knct.home.blog",
+        "stream": "https://ice41.securenetsystems.net/KNCT",
+        "genres": [
+            "classical",
+            "college",
+            "public",
+            "easy listening",
+            "jazz"
+        ],
+        "description": "KNCT - KNCT-FM is a broadcast radio station in Killeen, Texas, United States, providing Easy Listening Pop, Standards and Jazz music. ------ Shows: A Prairie Home Companion, Riverwalk Jazz, Swingin' Down the Lane, Classical 24 with Alison Young, Classical 24 with Bob Christiansen, Classical 24 with Scott Blankenship, Classical 24 with Ward Jacobson, Rhythm Sweet and Hot, Health Show ----- Hosts: Not Found, David Holt, Jim Cullum, David Miller, Bob Christiansen, Scott Blankenship, Ward Jacobson, Dr. Nina Sax, Bob Barret",
+        "discontinued": false,
+        "location": "Killeen, Texas, USA",
+        "logo": "https://static-media.streema.com/media/cache/10/e6/10e647462d27ab2da933dfd5c654ab61.jpg"
+    },
+    "89.1 / 90.1 WUFT": {
+        "shortname": "WUFT",
+        "website": "https://www.wuft.org",
+        "stream": "https://ais-sa1.streamon.fm/7647_48k.aac",
+        "genres": [
+            "public",
+            "community",
+            "news",
+            "talk",
+            "variety"
+        ],
+        "description": "Public radio for North-Central Florida and The Nature Coast, WUFT (89.1 FM & 89.1-1 HD) and repeater station WJUF (90.1 FM & 90.1-1 HD) feature local news, national news, international news, and public affairs programming from NPR, APM, BBC, PRX, & more.",
+        "discontinued": false,
+        "location": "Gainesville, Florida, USA",
+        "logo": "https://www.wuft.org/wp-content/uploads/2019/11/WUFT-logo-stacked-240h.png"
+    },
+    "88.5 WUFT Classic": {
+        "shortname": "WUFT Classic",
+        "website": "https://www.wuft.org/classic/",
+        "stream": "https://ais-sa1.streamon.fm/7648_48k.aac",
+        "genres": [
+            "public",
+            "classical",
+            "jazz"
+        ],
+        "description": "WUFT Classic features a collection of classical music, jazz and live and recorded performance programming - 24 hours a day, seven days a week.",
+        "discontinued": false,
+        "location": "Gainesville, Florida, USA",
+        "logo": "https://www.wuft.org/classic/files/2015/11/WUFT-classic_350.png"
+    },
+    "98.1 FM / 850 AM WRUF": {
+        "shortname": "WRUF",
+        "website": "https://www.wruf.com",
+        "stream": "https://ais-sa1.streamon.fm/7644_48k.aac",
+        "genres": [
+            "sports",
+            "talk",
+            "news"
+        ],
+        "description": "Gainesville's one-stop source to The University of Florida Gator Sports and top sporting news throughout the country. ESPN Radio is home to the top play-by-play Gator sporting events, including Gator Football, Basketball, Volleyball, Lacrosse and Soccer.",
+        "discontinued": false,
+        "location": "Gainesville, Florida, USA",
+        "logo": "https://www.wruf.com/wp-content/uploads/2016/11/cropped-ESPN-LOGO-300x300.png"
+    },
+    "103.7 The Gator": {
+        "shortname": "The Gator",
+        "website": "https://1037thegator.com",
+        "stream": "https://ais-sa1.streamon.fm/7645_48k.aac",
+        "genres": [
+            "country",
+            "hits",
+            "new artists",
+            "classics"
+        ],
+        "description": "Gainesville's Number One For New Country",
+        "discontinued": false,
+        "location": "Gainesville, Florida, USA",
+        "logo": "https://1037thegator.com/wp-content/uploads/2022/07/1037-The-Gator-tagline-360.png"
+    },
+    "95.3 GHQ": {
+        "shortname": "GHQ",
+        "website": "https://ghq.fm",
+        "stream": "https://ais-sa1.streamon.fm/7269_48k.aac?",
+        "genres": [
+            "top 40",
+            "pop",
+            "college",
+            "variety",
+            "community"
+        ],
+        "description": "GHQ captures the vibe of the Gator Nation like no other media.  Broadcasting from the University of Florida College of Journalism and Communications, GHQ is the student voice all across the Gator Nation at 95.3 FM. GHQ's format is a highly researched blend of contemporary hit music and other community and student-focused programming that's designed to provide a voice for all students and groups on campus.",
+        "discontinued": false,
+        "location": "Gainesville, Florida, USA",
+        "logo": "https://ghq.fm/wp-content/uploads/sites/2/2022/07/GHQ-Final-Logo-240h.png"
+    },
+    "91.1 KSKA Alaska Public Media": {
+        "shortname": "KSKA",
+        "website": "https://alaskapublic.org",
+        "stream": "https://alaskapublic-live.streamguys1.com/aac-web",
+        "genres": [
+            "public",
+            "news",
+            "talk",
+            "variety",
+            "community"
+        ],
+        "description": "Alaska Public Media harnesses the power of multiple media platforms to make a more informed and connected life possible for all Alaskans. Alaska Public Media produces and presents news and content that provides lifelong learning opportunities in public affairs, health and leisure, science and nature, economic and social development, civic engagement and world events.",
+        "discontinued": false,
+        "location": "Anchorage, Alaska, USA",
+        "logo": "https://media.alaskapublic.org/wp-content/uploads/2019/11/horizontal-logo-affiliate-400x80-11.13.19-NEWw.png"
+    },
+    "WXXI Classical 91.5 FM": {
+        "shortname": "WXXI",
+        "website": "https://www.wxxiclassical.org",
+        "stream": "https://26223.live.streamtheworld.com/WXXIFM.mp3",
+        "genres": [
+            "news",
+            "talk",
+            "classical"
+        ],
+        "description": "WXXI Classical 91.5 FM is Rochester's only classical public radio station, broadcasting locally hosted classical music and concerts from around the world every day.",
+        "discontinued": false,
+        "location": "Rochester, New York, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/accf8f4/2147483647/strip/true/crop/367x97+0+0/resize/534x142!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2Fbe%2Feeb465b240019a418585232e9aba%2Fwxxi-classical-white-gold.png"
+    },
+    "Radio Caprice - Americana": {
+        "shortname": "Americana",
+        "website": "http://www.radcap.ru/americana.html",
+        "stream": "http://213.141.131.10:8002/americana",
+        "genres": [
+            "americana",
+            "country",
+            "folk",
+            "blues",
+            "bluegrass",
+            "gospel",
+            "R&B"
+        ],
+        "description": "Americana - modern music that contains elements of various genres of American traditional music (country, folk, bluegrass, blues, gospel, R & B), has a characteristic traditionally oriented sound, but cannot be clearly attributed to which one of these genres. Despite the fact that acoustic instruments are usually present and play an important role in such music, americana is often performed entirely on electric instruments. The definition is formulated by the Americana Music Association.",
+        "discontinued": false,
+        "location": "Moscow, Russia",
+        "logo": "http://www.radcap.ru/graf2/radcaplogo.png"
+    },
+    "Radio Caprice - Country Rock": {
+        "shortname": "Country Rock",
+        "website": "http://www.radcap.ru/countryrock.html",
+        "stream": "http://79.111.119.111:8002/countryrock",
+        "genres": [
+            "country",
+            "rock"
+        ],
+        "description": "Country rock is a musical genre that combines rock and country. Country music has always been part of rock 'n' roll ever since Elvis Presley performed at the Grand Ole Opry in 1955. He played a rhythmic mix of country and R&B, now called rockabilly, an early form. rock and roll with strong country influences.",
+        "discontinued": false,
+        "location": "Moscow, Russia",
+        "logo": "http://www.radcap.ru/graf2/radcaplogo.png"
+    },
+    "Radio Caprice - Country / Folk Blues": {
+        "shortname": "Country Blues",
+        "website": "http://www.radcap.ru/countryblues.html",
+        "stream": "http://79.120.77.11:8002/countryblues",
+        "genres": [
+            "country",
+            "blues"
+        ],
+        "description": "Country blues (Rural Blues, English Country blues; also known as folk blues (folk blues or folk blues), rural blues (country blues), backwoods blues (provincial blues), downhome blues (provincial blues) - archaic acoustic a blues based on the rural musical folklore of the black population of the United States, in contrast to the classical blues, which had a predominantly urban existence and therefore was also called big city blues.",
+        "discontinued": false,
+        "location": "Moscow, Russia",
+        "logo": "http://www.radcap.ru/graf2/radcaplogo.png"
+    },
+    "90.5 NWPB Classical": {
+        "shortname": "NWPB Classical",
+        "website": "https://www.nwpb.org",
+        "stream": "https://streams.nwpr.org:8443/NWPRCLASSICAL",
+        "genres": [
+            "public",
+            "classical",
+            "news"
+        ],
+        "description": "The mission of Northwest Public Broadcasting is to be a trusted source of quality content. We are dedicated to enriching our community by sharing and creating distinctive programs which engage, enlighten and entertain. NWPB reaches more than 3.6 million people in 44 counties throughout Washington state and parts of Oregon, Idaho and British Columbia. Approximately half of the population reached receives public radio broadcast signals exclusively through NWPB.",
+        "discontinued": false,
+        "location": "Clarkson, Washington, USA",
+        "logo": "https://www.nwpb.org/wp-content/uploads/2021/02/classical_logo.jpg"
+    },
+    "1250 AM NWPB News": {
+        "shortname": "NWPB News",
+        "website": "https://www.nwpb.org",
+        "stream": "https://streams.nwpr.org:8443/NWPRNEWS",
+        "genres": [
+            "news",
+            "talk",
+            "community",
+            "public",
+            "variety"
+        ],
+        "description": "NPR News from Northwest Public Broadcasting",
+        "discontinued": false,
+        "location": "Seattle, Washington, USA",
+        "logo": "https://www.nwpb.org/wp-content/uploads/2021/02/news_logo.jpg"
+    },
+    "89.9 KJEM NWPB Jazz": {
+        "shortname": "KJEM",
+        "website": "https://www.kjemjazz.org",
+        "stream": "https://streams.nwpr.org:8443/NWPRKJEM",
+        "genres": [
+            "jazz",
+            "college",
+            "public",
+            "community"
+        ],
+        "description": "KJEM serves the thriving community of jazz fans and musicians 24 hours a day on 89.9 FM in Pullman and Moscow, and available worldwide through online streaming.",
+        "discontinued": false,
+        "location": "Clarkson, Washington, USA",
+        "logo": "https://www.nwpb.org/wp-content/uploads/2021/02/jazz_logo.jpg"
+    },
+    "Iowa Public Radio News": {
+        "shortname": "IPR News",
+        "website": "https://www.iowapublicradio.org",
+        "stream": "https://news-stream.iowapublicradio.org/News.mp3",
+        "genres": [
+            "public",
+            "news",
+            "talk",
+            "community",
+            "variety",
+            "culture"
+        ],
+        "description": "Iowa Public Radio enriches the civic and cultural life in Iowa through high quality news and cultural programming.",
+        "discontinued": false,
+        "location": "Des Moines, Iowa, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/2204088/2147483647/strip/true/crop/712x366+0+0/resize/466x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fe1%2Fea9fad8341799d965cdc8404752e%2Fipr-horiz-logo-secondary-rgb.png"
+    },
+    "Iowa Public Radio Classical": {
+        "shortname": "IPR Classical",
+        "website": "https://www.iowapublicradio.org",
+        "stream": "https://classical-stream.iowapublicradio.org/Classical.mp3",
+        "genres": [
+            "public",
+            "community",
+            "classical"
+        ],
+        "description": "Classical music for Iowa and beyond.",
+        "discontinued": false,
+        "location": "Des Moines, Iowa, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/2204088/2147483647/strip/true/crop/712x366+0+0/resize/466x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fe1%2Fea9fad8341799d965cdc8404752e%2Fipr-horiz-logo-secondary-rgb.png"
+    },
+    "Iowa Public Radio Studio One": {
+        "shortname": "IPR Studio One",
+        "website": "https://www.iowapublicradio.org",
+        "stream": "https://studioone-stream.iowapublicradio.org/StudioOne.mp3?",
+        "genres": [
+            "public",
+            "indie",
+            "alternative",
+            "americana"
+        ],
+        "description": "Studio One is Iowa Public Radio's non-commercial, indie, alternative and americana music service.",
+        "discontinued": false,
+        "location": "Des Moines, Iowa, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/2204088/2147483647/strip/true/crop/712x366+0+0/resize/466x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fe1%2Fea9fad8341799d965cdc8404752e%2Fipr-horiz-logo-secondary-rgb.png"
+    },
+    "89.1 KUFM Montana Public Radio": {
+        "shortname": "MTPR",
+        "website": "https://www.mtpr.org",
+        "stream": "https://25053.live.streamtheworld.com/KUFMFM.mp3",
+        "genres": [
+            "public",
+            "community",
+            "news",
+            "talk",
+            "variety",
+            "culture"
+        ],
+        "description": "Montana news, arts & cuture and hand-picked music.",
+        "discontinued": false,
+        "location": "Missoula, Montana, USA",
+        "logo": "https://npr.brightspotcdn.com/dims4/default/3cf4724/2147483647/strip/true/crop/1200x630+0+0/resize/458x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F1c%2F9852e7684d76b95dce52d8812569%2Fmtpr-logo-fb-02.jpg"
+    },
+    "Healing Music Radio": {
+        "shortname": "Healing Music",
+        "website": "https://peteredwards.com",
+        "stream": "https://us3.internet-radio.com/proxy/healingwatersmusic?mp=/live",
+        "genres": [
+            "easy listening",
+            "ambient",
+            "cinematic"
+        ],
+        "description": "The music of Peter Edwards",
+        "discontinued": false,
+        "location": "Fremont, California, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.6435-9/44294136_1900574290024054_2926642723253387264_n.png?_nc_cat=103&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=MolJCQjHSpwAX9uBWTS&_nc_ht=scontent-bos5-1.xx&oh=00_AfBLUPKJz6u61wsMEN7f9MQsHK0t6Xj2RL9r36od1Ovd-g&oe=641EA69D"
+    },
+    "NTS Slow Focus Mixtape": {
+        "website": "https://www.nts.live/infinite-mixtapes/slow-focus",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape",
+        "genres": [
+            "ambient",
+            "drone",
+            "calm"
+        ],
+        "description": "Tune in and zone out with NTS' compendium of the beatless and transcendental. Calming sounds to help you focus or drift away.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/939bd1f4-490e-40f8-99ed-90c36bb7546e_1542844800.png"
+    },
+    "NTS Memory Lane Mixtape": {
+        "shortname": "Memory Lane",
+        "website": "https://www.nts.live/infinite-mixtapes/memory-lane",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape6",
+        "genres": [
+            "psychedelic",
+            "folk"
+        ],
+        "description": "Turn back the clock and lose yourself in a world of counter-cultural folk, LSD-laced psychedelia, sweet soul and raw garage rock.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/b38d4552-08bb-4ce4-b431-3c722ba740c8_1560470400.png"
+    },
+    "NTS Poolside Mixtape": {
+        "shortname": "Poolside",
+        "website": "https://www.nts.live/infinite-mixtapes/poolside",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape4",
+        "genres": [
+            "boogie",
+            "easy listening",
+            "pop"
+        ],
+        "description": "Whisk yourself away with an unlimited supply of NTS’ most sun-kissed mixes, crossing all borders and genres.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/4bd68475-5fb4-457c-9a16-0ae353962c10_1542844800.png"
+    },
+    "NTS Sheet Music Mixtape": {
+        "shortname": "Sheet Music",
+        "website": "https://www.nts.live/infinite-mixtapes/sheet-music",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape35?",
+        "genres": [
+            "classical",
+            "strings",
+            "instrumental",
+            "contemporary"
+        ],
+        "description": "Refined, austere, and stirring sounds spanning the long history of classical music - from the baroque era to post-modernity.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/2ba19a01-8050-4ed9-b339-d712b0b036b8_1668038400.png"
+    },
+    "NTS Otaku Mixtape": {
+        "shortname": "Otaku",
+        "website": "https://www.nts.live/infinite-mixtapes/otaku",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape36?",
+        "genres": [
+            "anime",
+            "video game music"
+        ],
+        "description": "Timeless compositions from beloved franchises, with moods encompassing childlike wonder, grand fantasy escapism and tech futurism.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/bb218e69-8c0e-4cc9-9094-7527db53aa6c_1668038400.png"
+    },
+    "NTS The Pit Mixtape": {
+        "shortname": "The Pit",
+        "website": "https://www.nts.live/infinite-mixtapes/the-pit",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape34",
+        "genres": [
+            "metal",
+            "heavy metal"
+        ],
+        "description": "Heavy sludge dirges, black metal, frenetic thrash and everything in between.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/8c638d1c-8728-4f9b-9ae2-2f1975d61cf6_1668038400.png"
+    },
+    "NPS Expansions Mixtape": {
+        "shortname": "Expansions",
+        "website": "https://www.nts.live/infinite-mixtapes/expansions",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape3",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Embark on a never-ending astral journey from Sun Ra to George Duke, via obscure Polish jazz cassettes, stacks of spiritual jazz, excursions in Ethiopiques and jazz-adjacent genres.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/f521368c-9b2f-413f-bd70-9d77658a827b_1542844800.png"
+    },
+    "NTS Feelings Mixtape": {
+        "shortname": "Feelings",
+        "website": "https://www.nts.live/infinite-mixtapes/feelings",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape27",
+        "genres": [
+            "soul",
+            "gospel",
+            "boogie",
+            "disco"
+        ],
+        "description": "Warm your soul with our anthology of emotive popular music from the 20th century, taking you from doo-wop to disco.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/7669d8d3-e277-4ccd-a945-2743bf2ea358_1626134400.png"
+    },
+    "NTS The Tube Mixtape": {
+        "shortname": "The Tube",
+        "website": "https://www.nts.live/infinite-mixtapes/the-tube",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape26",
+        "genres": [
+            "punk",
+            "avant-garde"
+        ],
+        "description": "Rip it up and start again as we explore the differing strains of avant-garde music that immediately followed punk.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/477d4fbf-d609-48ca-9155-940c8b57be70_1626134400.png"
+    },
+    "NTS Island Time Mixtape": {
+        "shortname": "Island Time",
+        "website": "https://www.nts.live/infinite-mixtapes/island-time",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape21",
+        "genres": [
+            "reggae",
+            "club",
+            "lounge",
+            "caribbean"
+        ],
+        "description": "From the Caribbean to the world. Raise a toast to the one drop rhythms of roots reggae, sweet lovers rock and vintage dub.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/da1ded99-fef8-4c7e-9dfa-e8aaed4d503c_1590537600.png"
+    },
+    "NTS Rap House Mixtape": {
+        "shortname": "Rap House",
+        "website": "https://www.nts.live/infinite-mixtapes/rap-house",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape22",
+        "genres": [
+            "rap",
+            "trap",
+            "experimental",
+            "emo"
+        ],
+        "description": "Non-stop rap, trap, and drill, from one side of the Atlantic to another. Experimental, emo, Soundcloud, and more - turn it up to turn up.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/63561375-b38e-4b72-908e-d494c6bf6535_1542844800.png"
+    },
+    "NTS 4 To The Floor Mixtape": {
+        "shortname": "4 To The Floor",
+        "website": "https://www.nts.live/infinite-mixtapes/4-to-the-floor",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape5",
+        "genres": [
+            "house",
+            "techno",
+            "electronic",
+            "beat",
+            "disco"
+        ],
+        "description": "The beat goes on: music to make you move, whether it's house from Chicago, techno from Detroit or NYC disco.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/4a8a020c-855d-41eb-890b-2f374a5c3179_1542844800.png"
+    },
+    "NTS Labyrinth Mixtape": {
+        "shortname": "Labyrinth",
+        "website": "https://www.nts.live/infinite-mixtapes/labyrinth",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape31",
+        "genres": [
+            "drone",
+            "psychedelic",
+            "electronic",
+            "ambient"
+        ],
+        "description": "Lose yourself in atmospheric breaks, tripped out techno, and cerebral electronics.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/4f2070c2-e66a-4afc-8988-57933a6a33fe_1638230400.png"
+    },
+    "NTS Field Recordings Mixtape": {
+        "shortname": "Field Recordings",
+        "website": "https://www.nts.live/infinite-mixtapes/field-recordings",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape23",
+        "genres": [
+            "nature",
+            "ambient"
+        ],
+        "description": "Our listener-submitted archive of field recordings, featuring the sounds of your homes, suburbs, cities, gardens and jungles.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/6790fb8c-fd67-428d-8e88-50296d89ddeb_1622592000.png"
+    },
+    "NTS Sweat Mixtape": {
+        "shortname": "Sweat",
+        "website": "https://www.nts.live/infinite-mixtapes/sweat",
+        "stream": "https://stream-mixtape-geo.ntslive.net/mixtape24",
+        "genres": [
+            "party",
+            "beat",
+            "world"
+        ],
+        "description": "Dress to sweat and lock in to the beat of soundsystems, block parties, and carnivals around the world.",
+        "discontinued": false,
+        "location": "",
+        "logo": "https://media.ntslive.co.uk/crop/128x128/5012a9b1-2f62-4a1f-ae2b-61604306de0e_1622592000.png"
+    },
+    "Sleep Radio": {
+        "website": "https://www.sleepradio.co.nz",
+        "stream": "https://centova.radioservers.biz/proxy/sleeprad/stream",
+        "genres": [
+            "ambient",
+            "relaxing",
+            "calm"
+        ],
+        "description": "We're the only station on the planet that wants its listeners to fall asleep when tuned in.",
+        "discontinued": false,
+        "location": "Te Aroha, New Zealand",
+        "logo": "https://cdn-profiles.tunein.com/s228215/images/logod.png?t=637196392100000000"
+    },
+    "Deep In Space": {
+        "website": "http://deepinspace.ru",
+        "stream": "http://sound.dzhon.top:8000/deepinspace",
+        "genres": [
+            "ambient",
+            "cinematic"
+        ],
+        "description": "Space Travel Music",
+        "discontinued": false,
+        "location": "Moscow, Russia",
+        "logo": "http://deepinspace.ru/wp-content/uploads/2022/01/biglogo2.png"
+    },
+    "Deep Radio": {
+        "shortname": "Deep",
+        "website": "https://deep.radio",
+        "stream": "https://22613.live.streamtheworld.com/DEEP_RADIOAAC.aac",
+        "genres": [
+            "dance",
+            "beat",
+            "electronic"
+        ],
+        "description": "The best dance music, where you can't sit still... Turn up that volume!",
+        "discontinued": false,
+        "location": "Amsterdam, North Holland, Netherlands",
+        "logo": "https://deep.radio/static/img/deep_radio_logo.png"
+    },
+    "Airport Lounge Radio": {
+        "shortname": "Airport Lounge",
+        "website": "https://listen.openstream.co/6482",
+        "stream": "https://listen.openstream.co/6482/audio",
+        "genres": [
+            "ambient",
+            "chillout",
+            "lounge"
+        ],
+        "description": "An ideal radio during your air travel for business or pleasure. While choosing songs, Airport Lounge Radio chooses and places them in such a way so that the melody and rhythm between songs remain intact. This is essential for a pleasant and consistent musical environment that will eventually lead more and more listeners toward Airport Lounge every day.",
+        "discontinued": false,
+        "location": "Toronto, Ontario, Canada",
+        "logo": "https://liveonlineradio.net/wp-content/uploads/2022/12/Airport-Lounge-Radio-220x108.webp"
     }
 }
