@@ -1187,7 +1187,7 @@
             "world"
         ],
         "description": "Radio promoting and advancing the wonderful music of our Polish heritage.",
-        "discontinued": false
+        "discontinued": true
     },
     "24/7 Polka Heaven": {
         "website": "http://www.247polkaheaven.com",
@@ -1375,7 +1375,7 @@
     },
     "101 Smooth Jazz": {
         "website": "http://101smoothjazz.com",
-        "stream": "http://www.101smoothjazz.com/101-smoothjazz.m3u",
+        "stream": "http://jking.cdnstream1.com/b22139_128mp3",
         "genres": [
             "jazz"
         ],
@@ -2179,7 +2179,7 @@
     },
     "Smoke The World": {
         "website": "https://www.smoketheworldradio.com",
-        "stream": "https://stream.radio.co/sd321b8336/listen.m3u",
+        "stream": "https://stream.radio.co:80/sd321b8336/listen",
         "genres": [
             "hip hop",
             "rap"
@@ -7642,6 +7642,7 @@
         "discontinued": false
     },
     "1640 AM America Old Time Radio": {
+        "shortname": "1640 AM",
         "website": "http://www.1640radio.com",
         "stream": "http://kea.cdnstream.com/1893_128",
         "genres": [
@@ -7650,9 +7651,11 @@
             "olides"
         ],
         "description": "The Best In Mystery and Horror Of Old Time Radio",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Joliet, Illinois, USA"
     },
     "1640 AM Crime Fighter Detectives Channel": {
+        "shortname": "Crime Fighter",
         "website": "http://live.mystreamplayer.com/crimefighterdetectives",
         "stream": "http://hemnos.cdnstream.com/1665_32?",
         "genres": [
@@ -7660,9 +7663,11 @@
             "talk"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Joliet, Illinois, USA"
     },
     "1640 AM America's Old Time Radio Comedy Channel": {
+        "shortname": "OTR Comedy",
         "website": "http://live.mystreamplayer.com/oldtimeradiocomedy",
         "stream": "http://hemnos.cdnstream.com/1666_32",
         "genres": [
@@ -7671,9 +7676,11 @@
             "oldies"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Joliet, Illinois, USA"
     },
     "1640 AM Mystery And Suspense Radio Network": {
+        "shortname": "Mystery & Suspense",
         "website": "http://live.mystreamplayer.com/mysteryandsuspense",
         "stream": "http://hemnos.cdnstream.com/1667_32",
         "genres": [
@@ -7682,9 +7689,11 @@
             "oldies"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Joliet, Illinois, USA"
     },
     "1640 AM Wild West OTR Channel": {
+        "shortname": "Wild West OTR",
         "website": "http://live.mystreamplayer.com/wildwestotr",
         "stream": "http://kea.cdnstream.com/1838_32",
         "genres": [
@@ -7692,9 +7701,11 @@
             "oldies"
         ],
         "description": "",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Joliet, Illinois, USA"
     },
     "1640 AM Old Time Tales Channel": {
+        "shortname": "Old Time Tales",
         "website": "https://www.1640radio.com",
         "stream": "https://strw1.openstream.co/903",
         "genres": [
@@ -7703,9 +7714,11 @@
             "oldies"
         ],
         "description": "Focuses on Adventure Shows, Mystery and Sci FI.",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Joliet, Illinois, USA"
     },
     "1640 AM Game Show OTR Channel": {
+        "shortname": "Game Show OTR",
         "website": "https://www.1640radio.com",
         "stream": "https://strw1.openstream.co/928",
         "genres": [
@@ -7713,7 +7726,8 @@
             "oldies"
         ],
         "description": "The best in Game Shows from the Golden Age of radio.",
-        "discontinued": false
+        "discontinued": false,
+        "location": "Joliet, Illinois, USA"
     },
     "Instrumentals Forever": {
         "website": "https://instrumentalsforever.eu/portals/",
@@ -18296,7 +18310,7 @@
         "logo": "https://cdn.saleminteractivemedia.com/shared/images/logos/101/template3_logo.png"
     },
     "KUSC Classical California": {
-        "shortname": "",
+        "shortname": "KUSC Classical",
         "website": "https://www.kusc.org",
         "stream": "https://14013.live.streamtheworld.com/KUSCAAC96.aac",
         "genres": [
@@ -19171,5 +19185,639 @@
         "discontinued": false,
         "location": "Toronto, Ontario, Canada",
         "logo": "https://liveonlineradio.net/wp-content/uploads/2022/12/Airport-Lounge-Radio-220x108.webp"
+    },
+    "89.5 FM KPBS": {
+        "shortname": "KPBS News",
+        "website": "https://www.kpbs.org",
+        "stream": "https://kpbs.streamguys1.com/kpbs-mp3",
+        "genres": [
+            "public",
+            "news",
+            "community",
+            "talk",
+            "variety",
+            "college"
+        ],
+        "description": "KPBS-FM, part of KPBS Public Media, is a non-commercial public radio station licensed to San Diego State University, broadcasting in San Diego on 89.5 FM and on 97.7 FM in Calexico, Imperial County.",
+        "discontinued": false,
+        "location": "San Diego, California, USA",
+        "logo": "https://cdn.kpbs.org/dims4/default/39f203c/2147483647/strip/true/crop/800x800+0+0/resize/400x400!/format/webp/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2F45%2F60%2F0cd0cb5c48c481e7a057760a0c2d%2Fkpbs-radio-800x800.jpg"
+    },
+    "KPBS HD-2 Classical San Diego": {
+        "shortname": "Classical San Diego",
+        "website": "https://www.kpbs.org",
+        "stream": "https://kpbs-classical.streamguys1.com/kpbs-classical",
+        "genres": [
+            "public",
+            "classical",
+            "college"
+        ],
+        "description": "Classical San Diego is a Classical Music radio station serving San Diego. Owned and operated by San Diego State University.",
+        "discontinued": false,
+        "location": "San Diego, California, USA",
+        "logo": "https://cdn.kpbs.org/dims4/default/7168b51/2147483647/strip/true/crop/800x800+0+0/resize/400x400!/format/webp/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fec%2F7f%2F1ff32d7043e298ba76318f1607d4%2Fkpbs-classical-sd-800x800.jpg"
+    },
+    "89.7 WCPE The Classical Station": {
+        "shortname": "WCPE",
+        "website": "https://theclassicalstation.org",
+        "stream": "https://19013.live.streamtheworld.com/WCPE_FM.mp3",
+        "genres": [
+            "classical"
+        ],
+        "description": "WCPE- TheClassicalStation.org is a non-commercial, independent, listener-supported station dedicated to excellence in classical music broadcasting.",
+        "discontinued": false,
+        "location": "Raleigh, North Carolina, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.18169-9/16142547_10154217297561190_5701851335134811612_n.png?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6BF6ZirZm_8AX9LHaDr&_nc_ht=scontent-bos5-1.xx&oh=00_AfBs-zD8YCqatD8nECUr42jbMnHjGKbie_IgMhymvnNFXg&oe=641F2230"
+    },
+    "87.6 Hunter Ranch AIR-X FM": {
+        "shortname": "AIR-X FM",
+        "website": "https://sites.google.com/view/airxfm",
+        "stream": "http://108.59.11.81/stream/lntxpofy.pls?mp=/stream",
+        "genres": [
+            "ambient",
+            "drone",
+            "experimental",
+            "noise"
+        ],
+        "description": " Air-X FM is a community radio located in Vallejo, California. Ambient to noise experimental radio.",
+        "discontinued": false,
+        "location": "Vallejo, California, USA",
+        "logo": "https://lh3.googleusercontent.com/Tkwfn-9KHtJqjZW2PufVfjhj-69XPgiMhMU_50wC7Z1IzEJfoNMo0HaLYKASSDnoA0o45ycQiLp2X9w3gQ8Sd-oQzC5PcsZxNiCvwCT2zKIf9xRj=w1280"
+    },
+    "Skylab Radio": {
+        "website": "https://www.skylabradio.com",
+        "stream": "https://securestreams5.autopo.st:1925/stream",
+        "genres": [
+            "chillout",
+            "lounge",
+            "ambient",
+            "house",
+            "downtempo"
+        ],
+        "description": "Music for the Mind, Body and Soul. Mood station, playing chillout, lounge, ambient and soft house - 24/7.",
+        "discontinued": false,
+        "location": "Manchester, England, United Kingdom",
+        "logo": "https://static.wixstatic.com/media/c558e3_a1b2627549444e919504fa15988a9f57~mv2.png/v1/fill/w_420,h_410,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c558e3_a1b2627549444e919504fa15988a9f57~mv2.png"
+    },
+    "dinamo.fm Legacy": {
+        "shortname": "Legacy",
+        "website": "https://www.dinamo.fm/content/4/channels",
+        "stream": "https://channels.dinamo.fm/legacy-mp3",
+        "genres": [
+            "variety",
+            "world"
+        ],
+        "description": "On air from Istanbul since 2003. This channel is a mix of what we have to offer. Following a schedule, it plays everything from world famous and local DJ sets and shows to the best tracks of different independent genres.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/1/201427102436_dinamofm_bluelogo.jpg"
+    },
+    "dinamo.fm Caffe": {
+        "shortname": "Caffe",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/caffe-mp3",
+        "genres": [
+            "downtempo",
+            "lounge",
+            "chillout",
+            "jazz"
+        ],
+        "description": "A perfect blend of downtempo, lounge, chill out and nu-jazz with a dinamo twist. Slow down and soothe yourself.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/5/201427102732_caffe.jpg"
+    },
+    "dinamo.fm Deep": {
+        "shortname": "Deep",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/deep-mp3",
+        "genres": [
+            "house"
+        ],
+        "description": "Imagine yourself on the beach with a mojito in hand. The best of what modern deep house has to offer.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/3/201427102642_deep.jpg"
+    },
+    "dinamo.fm Discotheque": {
+        "shortname": "Discotheque",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/discotheque-mp3",
+        "genres": [
+            "70s",
+            "disco"
+        ],
+        "description": "This channel will take you back to 70's New York with the best of the genre that started it all. Last night of disco! Forever!",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/14/201417718320_disco.jpg"
+    },
+    "dinamo.fm Fluent": {
+        "shortname": "Fluent",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/fluent-mp3",
+        "genres": [
+            "funk",
+            "soul",
+            "drums",
+            "bass"
+        ],
+        "description": "Liquid Funk... Soulful & melodic escapades in drum and bass.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/16/202023715431_dinamofm_fluentweb.jpg"
+    },
+    "dinamo.fm Locodyno": {
+        "shortname": "Locodyno",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/locodyno-mp3",
+        "genres": [
+            "techno",
+            "house",
+            "electronic",
+            "disco",
+            "dubstep"
+        ],
+        "description": "Non-stop DJ sets. Steam powered! House, Techno, Nu-Disco, D&B, Dub, Eclectic… Top DJs in the mix 24/7. The mixes are mostly an hour long, but there are longer gems in there as well.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/11/201417718242_loco.jpg"
+    },
+    "dinamo.fm MMRadyo": {
+        "shortname": "MMRadyo",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/mmradyo-mp3",
+        "genres": [
+            "club",
+            "party",
+            "energized"
+        ],
+        "description": "Minimüzikhol, as the name suggests is a small club at the heart of the lively Beyoğlu neighbourhood in Istanbul's European side. Whenever there's music flowing through Minimüzikhol's mixer, it will be on this channel. You can check out Minimüzikhol's schedule at facebook.com/minimuzikhol.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/15/2016151021421_mm_radyo.jpg"
+    },
+    "dinamo.fm Sleep": {
+        "shortname": "Sleep",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/sleep-mp3",
+        "genres": [
+            "ambient",
+            "electronic"
+        ],
+        "description": "Lullaby for adults. Our selection of the best ambient electronica. Perfect for those times when you want to take it easy for a while.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/2/20142710269_sleep.jpg"
+    },
+    "dinamo.fm Smog": {
+        "shortname": "Smog",
+        "website": "https://www.dinamo.fm/content/4/channels/",
+        "stream": "https://channels.dinamo.fm/smog-mp3",
+        "genres": [
+            "electronic",
+            "beat"
+        ],
+        "description": "Partly cloudy habitat for generation Y. If you're serious about electronic music and want to venture a bit deeper than regular listeners do, this is it. You won't find anything like this anywhere else.",
+        "discontinued": false,
+        "location": "Istanbul, Turkey",
+        "logo": "https://dinamo.fm/WebService/Contents/Channel/4/20142710278_smog.jpg"
+    },
+    "Mangoradio": {
+        "website": "https://mangoradio.de",
+        "stream": "https://stream.laut.fm/mangoradio",
+        "genres": [
+            "dance",
+            "hits",
+            "electronic",
+            "pop"
+        ],
+        "description": "We are MANGORADIO. We are not an ordinary radio, but YOUR radio. You can interact with us and also have a say in what's going on in our program.",
+        "discontinued": false,
+        "location": "Berlin, Germany",
+        "logo": "https://mangoradio.de/wp-content/uploads/elementor/thumbs/Logo-pmjikxpjxga2m4o8kkeunnu382q4ve6l1hbkqk5vou.webp"
+    },
+    "Hungama Music - Hot Now Bollywood": {
+        "shortname": "Hot Now Bollywood",
+        "website": "https://www.hungama.com",
+        "stream": "http://180.179.85.30:7222/;",
+        "genres": [
+            "bollywood",
+            "indian",
+            "hindi",
+            "variety"
+        ],
+        "description": "Sometimes when a radio focuses on a particular kind of radio program it becomes a bit boring to their listeners because of lack of variation and by understanding this Hungama Hot Now Bollywood started their journey as an online radio to please their listeners all day long with various kinds of radio programs.",
+        "discontinued": false,
+        "location": "Mumbai, India",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/315332584_10159151880977555_7857795229469377835_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2Glt4VZLkCkAX99XpWJ&_nc_ht=scontent-bos5-1.xx&oh=00_AfCJ00svWTDQHbv15Kcc4RL-ZuCcnP08viDwKoM1K9SfAw&oe=63FD2A0F"
+    },
+    "Radio Iran International": {
+        "shortname": "Iran International",
+        "website": "https://www.iranintl.com/radio",
+        "stream": "https://radio.iraninternational.app/iintl_c",
+        "genres": [
+            "news",
+            "persian",
+            "talk",
+            "culture",
+            "sports"
+        ],
+        "description": "Iran International launched in May 2017. Its mix of rolling news, current affairs and sport, lifestyle, health, and technology, programmed to attract a wide audience, especially younger people. Iran International is a privately-owned UK entity: the first of a family of channels aiming eventually to target other communities and other languages.",
+        "discontinued": false,
+        "location": "Tehran, Iran",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.6435-9/170981624_4139929092711185_7332826522311611957_n.png?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=uZcQ95R27KUAX87GdLZ&_nc_ht=scontent-bos5-1.xx&oh=00_AfA-Ika1P08H7Q7ogSEB9Y3onYrDFOzoqVp0QQDPNkceLw&oe=64208AC7"
+    },
+    "WALM": {
+        "website": "https://walmradio.com/walm/",
+        "stream": "https://icecast.walmradio.com:8443/walm?type=.mp3",
+        "genres": [
+            "religious",
+            "christian"
+        ],
+        "description": "Christian Music for you Life",
+        "discontinued": false,
+        "location": "New York City, New York, USA",
+        "logo": "https://walmradio.com/wp-content/uploads/2022/02/Classic_Vinyl_Header_V2.1-scaled.jpg"
+    },
+    "WALM Classic Vinyl": {
+        "shortname": "Classic Vinyl",
+        "website": "https://walmradio.com/classic/",
+        "stream": "https://icecast.walmradio.com:8443/classic?type=.mp3",
+        "genres": [
+            "vinyl",
+            "variety"
+        ],
+        "description": "Classic vinyl records.",
+        "discontinued": false,
+        "location": "New York City, New York, USA",
+        "logo": "https://walmradio.com/wp-content/uploads/2022/02/Classic_Vinyl_Header_V2.1-scaled.jpg"
+    },
+    "WALM Christmas Vinyl": {
+        "shortname": "Christmas Vinyl",
+        "website": "https://walmradio.com/christmas/",
+        "stream": "https://icecast.walmradio.com:8443/christmas?type=.mp3",
+        "genres": [
+            "holiday",
+            "vinyl"
+        ],
+        "description": "Christmas music on vinyl.",
+        "discontinued": false,
+        "location": "New York City, New York, USA",
+        "logo": "https://walmradio.com/wp-content/uploads/2022/01/ChristmasHeader1920_WALM.jpg"
+    },
+    "WALM Jazz": {
+        "website": "https://walmradio.com/jazz/",
+        "stream": "https://icecast.walmradio.com:8443/jazz?type=.mp3",
+        "genres": [
+            "jazz",
+            "vinyl"
+        ],
+        "description": "Jazz on vinyl.",
+        "discontinued": false,
+        "location": "New York City, New York, USA",
+        "logo": "https://walmradio.com/wp-content/uploads/2021/08/banner-adroit-efx2.jpg"
+    },
+    "WALM Old Time Radio": {
+        "shortname": "Old Time Radio",
+        "website": "https://walmradio.com/otr/",
+        "stream": "https://walmradio.com:8443/otr?type=.mp3",
+        "genres": [
+            "vintage",
+            "oldies",
+            "classics",
+            "comedy",
+            "drama",
+            "easy listening",
+            "sci-fi",
+            "vinyl"
+        ],
+        "description": "Old time music, radio shows, and ads at 78rpm.",
+        "discontinued": false,
+        "location": "New York City, New York, USA",
+        "logo": "https://walmradio.com/wp-content/uploads/2022/02/OTR-Header_V3.jpg"
+    },
+    "Radio Theater Channel": {
+        "website": "https://oldtimeradiolisten.com",
+        "stream": "http://sc4.paulmerrell.net:8004/stream",
+        "genres": [
+            "vintage",
+            "drama",
+            "comedy",
+            "sci-fi",
+            "oldies",
+            "classics"
+        ],
+        "description": "The Radio Theater Channel is a streaming old time radio staton. We play scheduled old time radio series 24 hours a day 7 days a week. You will hear all the classic radio series, Mysterys - Comedys - Western's  - Detectives and more. All with restored sound. Whenever possible we play the episodes in the order that they were originally broadcast.",
+        "discontinued": false,
+        "location": "Seattle, Washington, USA",
+        "logo": "https://pbs.twimg.com/profile_images/1019297208963723264/v8QCGO3o_400x400.jpg"
+    },
+    "Old Time Radio Fan Continuous Radio Classics": {
+        "shortname": "Radio Classics",
+        "website": "http://www.otrfan.com/info/stream_info.php",
+        "stream": "http://www.otrfan.com:8000/stream",
+        "genres": [
+            "vintage",
+            "drama",
+            "variety",
+            "drama"
+        ],
+        "description": "The Old Time Radio Fan is proud to offer a 24/7 continuous source of radio classics.",
+        "discontinued": false,
+        "location": "Tempe, Arizona, USA",
+        "logo": "http://www.otrfan.com/images/b728.jpg"
+    },
+    "Hank's OTR": {
+        "website": "https://1670am.net:8443/hanksotr/",
+        "stream": "https://s1.myradiostream.com/:4962/listen.mp3",
+        "genres": [
+            "vintage",
+            "comedy",
+            "drama",
+            "sci-fi",
+            "oldies",
+            "talk"
+        ],
+        "description": "Hank's Old Time Radio is an internet radio station from Summerfield, Florida, United States, providing Old Time Radio and American music with the 24/7 free stream of old time radio Comedies, Adventures, Westerns, The Macabre, Science Fiction, and Mysteries from The Golden Age Of Radio.",
+        "discontinued": false,
+        "location": "Summerfield, Florida, USA",
+        "logo": "https://1670am.net:8443/images/hanks/HanksOTR.jpg"
+    },
+    "Hank's Gumshoe OTR": {
+        "shortname": "Gumshoe OTR",
+        "website": "https://1670am.net:8443/hanksgumshoe/",
+        "stream": "https://1670am.net/listen/hanks_gumshoe_otr_/radio.mp3",
+        "genres": [
+            "vintage",
+            "drama",
+            "oldies",
+            "talk"
+        ],
+        "description": "Hank's Gumshoe OTR, the free internet radio station, where the best of the bygone radio detectives are featured and streamed around the world 24/7. Listen to the tales of lawbreakers ending up in the big house or the big sleep when trying to match wits with these old time sleuths.",
+        "discontinued": false,
+        "location": "Summerfield, Florida, USA",
+        "logo": "https://1670am.net:8443/images/hanks/HanksGumShoeOTR.png"
+    },
+    "Hank's Westerns OTR": {
+        "shortname": "Hank's Westerns",
+        "website": "https://1670am.net:8443/hankswesternsotr/",
+        "stream": "https://1670am.net/listen/hanks_westerns/radio.mp3",
+        "genres": [
+            "vintage",
+            "talk",
+            "oldies"
+        ],
+        "description": "Hank's Old Time Radio is an internet radio station from Summerfield, Florida, United States, providing Old Time Radio and American music with the 24/7 free stream of old time radio Comedies, Adventures, Westerns, The Macabre, Science Fiction, and Mysteries from The Golden Age Of Radio.",
+        "discontinued": false,
+        "location": "Summerfield, Florida, USA",
+        "logo": "https://1670am.net:8443/images/hanks/HanksWesterns.png"
+    },
+    "1670 AM KMWW Mansfield Community Radio": {
+        "shortname": "KMWW",
+        "website": "https://1670am.net:8443",
+        "stream": "https://1670am.net/listen/kmww_mansfield_community_radio/radio.mp3",
+        "genres": [
+            "community",
+            "classic rock",
+            "vintage",
+            "oldies",
+            "classics"
+        ],
+        "description": "Home To Classic Rock & Old Time Radio",
+        "discontinued": false,
+        "location": "Mansfield, Texas, USA",
+        "logo": "https://1670am.net:8443/images/KMWW.jpg"
+    },
+    "WOTR Old Time Radio USA": {
+        "shortname": "OTR USA",
+        "website": "https://www.wotrradionetwork.us/old-time-radio-usa",
+        "stream": "https://ais-sa3.cdnstream1.com/2607_128.mp3",
+        "genres": [
+            "vintage",
+            "oldies",
+            "variety"
+        ],
+        "description": "Old Time Radio USA is WOTR Radio Network's \"flagship station\"! Bringing you the best in old time radio 24 hours a day, 7 days a week! Playing such greats as The Jack Benny Program, Gunsmoke, Suspense, Fibber McGee & Molly, X Minus One and many, many others! Old Time Radio USA has been on the internet since 1999. The oldest AND THE BEST old time radio station on the internet today!",
+        "discontinued": false,
+        "location": "Indianapolis, Indiana, USA",
+        "logo": "https://static.wixstatic.com/media/7d32c5_c31b34d65f2d48bf990045ef3968e8db~mv2.png/v1/fill/w_420,h_409,al_c,lg_1,q_85,enc_auto/16996797_1393913530679886_384610806_n_edited.png"
+    },
+    "WOTR Suspense Radio USA": {
+        "shortname": "Suspense Radio",
+        "website": "https://www.wotrradionetwork.us/suspense-radio-usa",
+        "stream": "https://ais-sa3.cdnstream1.com/2608_128.mp3",
+        "genres": [
+            "drama",
+            "vintage",
+            "oldies"
+        ],
+        "description": "Suspense Radio USA is the second station under the WOTR Radio Network banner. Streaming all known available episodes from \"radio's outstanding theater of thrills\" (over 900+ episodes) 24 hours a day, 7 days a week. When the series ended in 1962, it was regarded as the end of the golden age of radio. Relive, arguably, the best old time radio series ever made, right here on Suspense Radio USA! ",
+        "discontinued": false,
+        "location": "Indianapolis, Indiana, USA",
+        "logo": "https://static.wixstatic.com/media/7d32c5_a0bf49c9031f4b95905749112fa862b3~mv2.png/v1/fill/w_875,h_596,al_c,q_90,enc_auto/Suspense%20Radio%20USA%201.png"
+    },
+    "WOTR Crime Time Radio USA": {
+        "shortname": "Crime Time",
+        "website": "https://www.wotrradionetwork.us/crime-time-radio-usa",
+        "stream": "https://ais-sa3.cdnstream1.com/2609_128.mp3",
+        "genres": [
+            "vintage",
+            "drama"
+        ],
+        "description": "Welcome to WOTR Radio Network's newest of the 3 stations! CRIME TIME RADIO USA! 24 hours a day, 7 days a week of the best of gumshoes, dames, murders, cops, robbers and espionage! From Boston Blackie to FBI to Nero Wolfe to The Whistler, you'll hear it all here on CRIME TIME RADIO USA!",
+        "discontinued": false,
+        "location": "Indianapolis, Indiana, USA",
+        "logo": "https://static.wixstatic.com/media/7d32c5_43170caedb7e4371a843f98638e07a89~mv2.png/v1/fill/w_960,h_532,al_c,q_90,enc_auto/68962143_1156735007861138_6391224989319692288_n.png"
+    },
+    "WOTR Radio Mystery Theater USA": {
+        "shortname": "Mystery Theater",
+        "website": "https://www.wotrradionetwork.us/radio-mystery-theater-usa",
+        "stream": "https://ais-sa3.cdnstream1.com/2800_128.mp3",
+        "genres": [
+            "vintage",
+            "drama"
+        ],
+        "description": "Radio Mystery Theater USA is WOTR Radio Network's NEWEST station! Bringing you the best in episodes from the CBS Radio Mystery Theater 24 hours a day, 7 days a week! Most of the known available episodes hosted by E.G. Marshall (1974-1982) and Tammy Grimes (1982). Also, in 1998 when its creator, Himen Brown, re-recorded the original intros and narrations of E.G. Marshall and Tammy Grimes. Enjoy all your favorite CBSRMT episodes all day, every day!",
+        "discontinued": false,
+        "location": "Indianapolis, Indiana, USA",
+        "logo": "https://static.wixstatic.com/media/7d32c5_f033ad599117424a90745cb97f37e726~mv2.png/v1/fill/w_1272,h_886,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/317590051_5176753955758743_1784250402823184359_n.png"
+    },
+    "Swing Street Radio": {
+        "shortname": "Swing Street",
+        "website": "https://www.swingstreetradio.org",
+        "stream": "https://s1.voscast.com:10413/stream",
+        "genres": [
+            "jazz",
+            "swing",
+            "oldies",
+            "classics"
+        ],
+        "description": "Swing Street Radio provides you insights to the artists, music and history that serves as the backdrop for Big Band and Swing music, and draws from a collection of over 15,000 popular and rare recordings that span from the infancy of jazz in the 1920's to the Great Depression to World War II that are a part of the archives of the Swing & Big Band Preservation Society, Inc. It is a one of a kind original Big Band showcase so enjoy and share some of the best music from the Golden Age of Popular Music- the Swing & Big Band era!",
+        "discontinued": false,
+        "location": "Union City, California, USA",
+        "logo": "https://www.swingstreetradio.org/wp-content/themes/swing/images/logo.png"
+    },
+    "Radio Time Machine": {
+        "shortname": "Time Machine",
+        "website": "http://98.211.68.9:8765/index.html?sid=1",
+        "stream": "http://98.211.68.9:8765/;?type=http&nocache=21403",
+        "genres": [
+            "vintage",
+            "variety",
+            "comedy",
+            "drama"
+        ],
+        "description": "Transport Back to the Golden Age of Radio, Streaming 24/7",
+        "discontinued": false,
+        "location": "USA",
+        "logo": "https://pbs.twimg.com/profile_images/513878040510992384/XQJ12R2n_400x400.jpeg"
+    },
+    "Bygolly Old Time Radio": {
+        "shortname": "Bygolly OTR",
+        "website": "https://bygolly.com",
+        "stream": "https://securestreams5.autopo.st:1854/;",
+        "genres": [
+            "vintage",
+            "comedy",
+            "drama",
+            "sci-fi",
+            "variety"
+        ],
+        "description": "Bygolly Radio is an internet radio station playing classic drama, mystery and comedies from the Golden Age of radio.",
+        "discontinued": false,
+        "location": "Brockton, Massachusetts, USA",
+        "logo": "https://bygolly.com/static/media/logo.02c81cd9.png"
+    },
+    "OTR Now - Amazing Tales": {
+        "shortname": "Amazing Tales",
+        "website": "https://otrnow.com",
+        "stream": "https://s5.reliastream.com/proxy/starcrea?mp=/stream",
+        "genres": [
+            "vintage",
+            "oldies",
+            "classics",
+            "drama",
+            "sci-fi",
+            "history",
+            "talk"
+        ],
+        "description": "Some legends are real others are fiction...they are all heard here! What qualifies something as a legend? It's a story that continues through the passage of time and becomes an inspiration for all generations that follow. Featuring Old Time Radio Historical broadcasts, ,westerns, war stories and biographies.",
+        "discontinued": false,
+        "location": "Long Beach, California, USA",
+        "logo": "https://www.reliastream.com/player/OTRnow/tmp/images/logo.1570342617.png"
+    },
+    "OTR Now - Crimetime": {
+        "shortname": "Crimetime",
+        "website": "https://otrnow.com",
+        "stream": "https://starcrea.radioca.st/;",
+        "genres": [
+            "drama",
+            "vintage",
+            "crime",
+            "oldies",
+            "talk"
+        ],
+        "description": "CRIMETIME features detectives, mysteries, guns and dames. Only radio dramas that feature crime, the element of evil and a drop of deceit...",
+        "discontinued": false,
+        "location": "Long Beach, California, USA",
+        "logo": "https://www.reliastream.com/player/OTRnow/tmp/images/logo.1569881088.png"
+    },
+    "OTR Now Radio Program": {
+        "shortname": "OTR Now",
+        "website": "https://otrnow.com",
+        "stream": "https://riradt00.radioca.st/;",
+        "genres": [
+            "vintage",
+            "comedy",
+            "drama",
+            "adventure",
+            "horror",
+            "sci-fi",
+            "variety",
+            "oldies",
+            "talk"
+        ],
+        "description": "The best of Old Time Radio -Comedy, Drama, Adventure, Variety, Crime, Horror, Quiz, Sci-Fi and Horror shows from The Golden Age Of Radio!",
+        "discontinued": false,
+        "location": "Long Beach, California, USA",
+        "logo": "https://www.reliastream.com/player/OTRnow/tmp/images/logo.1569884371.png"
+    },
+    "UK 1940s Radio Station": {
+        "shortname": "UK 1940s",
+        "website": "http://www.1940sukradio.co.uk",
+        "stream": "https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=/;type=mp3",
+        "genres": [
+            "20s",
+            "30s",
+            "40s",
+            "vintage",
+            "oldies"
+        ],
+        "description": "The UK 1940s Radio Station is proud to have been the original 1940s radio station operating on the internet, being launched in 2010. The station only plays the original music recorded and released during the 1920s, 1930s and the 1940s.",
+        "discontinued": false,
+        "location": "Doncaster, England, United Kingdom",
+        "logo": "https://static-media.streema.com/media/cache/da/90/da9033df1fdf6378f7513d7d6116f294.jpg"
+    },
+    "British Home Front Radio Service": {
+        "shortname": "British Home Front",
+        "website": "https://www.bhfr.co.uk",
+        "stream": "https://solid24.streamupsolutions.com/proxy/mmpplqiv?mp=/;type=mp3",
+        "genres": [
+            "vintage",
+            "history",
+            "40s",
+            "jazz"
+        ],
+        "description": "British Home Front Radio does not aim to reflect any single radio service that could have been heard during the Second World War in Great Britain but aims to provide historical sound bytes from content from any radio stations that could have been tuned into at that period in time.",
+        "discontinued": false,
+        "location": "Doncaster, England, United Kingdom",
+        "logo": "https://www.bhfr.co.uk/images/page_componants/1930sradioscenepd.jpg"
+    },
+    "Conyers Old Time Radio": {
+        "shortname": "Conyers OTR",
+        "website": "https://www.conyersradio.net",
+        "stream": "https://s2.yesstreaming.net:17161/stream",
+        "genres": [
+            "vintage",
+            "variety",
+            "30s",
+            "40s",
+            "50s"
+        ],
+        "description": "Streaming the Widest Variety of Programs from the 1930s, 40s and 50s!",
+        "discontinued": false,
+        "location": "Conyers, Georgia, USA",
+        "logo": "https://static-media.streema.com/media/cache/87/d6/87d676c5db911be3193b19ac02287602.jpg"
+    },
+    "Conyerrs Old Time Radio Special and Holiday Stream": {
+        "shortname": "OTR Specials",
+        "website": "https://www.conyersradio.net",
+        "stream": "https://s6.yesstreaming.net:17082/stream",
+        "genres": [
+            "vintage",
+            "30s",
+            "40s",
+            "50s",
+            "holiday"
+        ],
+        "description": "Holiday specials and more from the 1930s, 40s, and 50s.",
+        "discontinued": false,
+        "location": "Conyers, Georgia, USA",
+        "logo": "https://static-media.streema.com/media/cache/87/d6/87d676c5db911be3193b19ac02287602.jpg"
+    },
+    "ABN Old-Time Radio": {
+        "shortname": "ABN OTR",
+        "website": "https://radio.macinmind.com",
+        "stream": "https://s6.yesstreaming.net:18000/listen",
+        "genres": [
+            "vintage",
+            "history",
+            "variety"
+        ],
+        "description": "Playing today's date in history when available",
+        "discontinued": false,
+        "location": "Antioch, Illinois, USA",
+        "logo": "https://radio.macinmind.com/abn_const2_logo.png"
     }
 }
