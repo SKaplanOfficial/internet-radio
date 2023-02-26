@@ -2972,7 +2972,7 @@
         "website": "https://www.vermontpublic.org",
         "stream": "https://vprstate.streamguys1.com/vprhouse24.mp3",
         "genres": [
-            "politcs",
+            "politics",
             "education",
             "public"
         ],
@@ -2983,7 +2983,7 @@
         "website": "https://www.vermontpublic.org",
         "stream": "https://vprstate.streamguys1.com/vprsenate24.mp3",
         "genres": [
-            "politcs",
+            "politics",
             "education",
             "public"
         ],
@@ -19790,7 +19790,7 @@
         "location": "Conyers, Georgia, USA",
         "logo": "https://static-media.streema.com/media/cache/87/d6/87d676c5db911be3193b19ac02287602.jpg"
     },
-    "Conyerrs Old Time Radio Special and Holiday Stream": {
+    "Conyers Old Time Radio Special and Holiday Stream": {
         "shortname": "OTR Specials",
         "website": "https://www.conyersradio.net",
         "stream": "https://s6.yesstreaming.net:17082/stream",
@@ -19819,5 +19819,713 @@
         "discontinued": false,
         "location": "Antioch, Illinois, USA",
         "logo": "https://radio.macinmind.com/abn_const2_logo.png"
+    },
+    "Mushroom FM": {
+        "website": "https://mushroomfm.com",
+        "stream": "https://www.mushroomfm.com/media/listen.pls",
+        "genres": [
+            "vintage",
+            "comedy",
+            "drama",
+            "talk",
+            "50s",
+            "60s",
+            "70s",
+            "80s"
+        ],
+        "description": "Mushroom FM is a licensed Internet stream in New Zealand bringing you four decades of magic Mushroom memories, with music from the 50s to the 80s. ",
+        "discontinued": false,
+        "location": "Wellington, New Zealand",
+        "logo": "https://mushroomfm.com/sites/default/files/Mushroom%20FM%20New%20Logo_0.jpg"
+    },
+    "Radio Nostalgia": {
+        "website": "https://www.radio-nostalgia.nl",
+        "stream": "https://kathy.torontocast.com:2250/stream",
+        "genres": [
+            "vintage",
+            "classic rock",
+            "classics",
+            "oldies",
+            "variety"
+        ],
+        "description": "Old does not exist, Radio Nostalgia proves that!!! Listen and enjoy.",
+        "discontinued": false,
+        "location": "Amsterdam, North Holland, Netherlands",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.6435-9/47274508_800985373567303_8902767936687570944_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=aUfSBtg3VGgAX-P4eSG&_nc_oc=AQl-tNAejoTU08bCMY5xwcRNChzb5CRW0ysRgBhDnJWmPNqOrtaI4NzAaQ8KA7uWmNGAzJXZP-x29PcNv4KTYJgJ&_nc_ht=scontent-bos5-1.xx&oh=00_AfDFIE4VgW_ZQAeqPj8Bw7NxU56j5FuXB_WW3JLd8Md2aQ&oe=64220EFE"
+    },
+    "Radio Oldies": {
+        "shortname": "",
+        "website": "https://laut.fm/radio-oldies",
+        "stream": "https://stream.laut.fm/radio-oldies",
+        "genres": [
+            "oldies",
+            "50s",
+            "60s",
+            "70s",
+            "80s",
+            "classics",
+            "variety"
+        ],
+        "description": "We play the Golden Memories of the 50s, 60s, 70s and 80s! Oldies Revival! .",
+        "discontinued": false,
+        "location": "Munich, Germany",
+        "logo": "https://assets.laut.fm/18851efe3f878076c85245156fc0d151?t=_120x120"
+    },
+    "Antiquity Radio": {
+        "website": "http://www.antiquityradio.com",
+        "stream": "http://s10.voscast.com:9526/;stream1677380102427/1",
+        "genres": [
+            "variety",
+            "oldies",
+            "vintage",
+            "drama",
+            "comedy"
+        ],
+        "description": "Antiquity Radio is an internet radio channel broadcasting Old-Time Radio Programming including music from the early part of the twentieth century, serial dramas, comedy sitcoms, and variety shows.",
+        "discontinued": false,
+        "location": "Portland, Oregon, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/277302788_3130332810626643_7221493683696914207_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=W5wKKsjQIg8AX_uYGg-&_nc_ht=scontent-bos5-1.xx&oh=00_AfC12jIwIVBrAi10Eo4lN4ycD8BGMhFWh5x3VQ3BmDZoKg&oe=6400806D"
+    },
+    "Vintage Broadcast Old Time Radio": {
+        "shortname": "Vintage Broadcast",
+        "website": "https://www.vintagebroadcast.com",
+        "stream": "https://s9.myradiostream.com/:8724/;",
+        "genres": [
+            "vintage",
+            "oldies",
+            "drama",
+            "talk"
+        ],
+        "description": "We've been collecting old time radio reel-to-reel and 16 inch transcription discs since the 1970's. Transferring from tapes and discs, we use state of the art digital processing all done in real time. We're adding to the Vintage Broadcast catalog regularly so make a point of stopping by for new offerings.",
+        "discontinued": false,
+        "location": "Crystal Lake, Illinois, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.18169-9/541225_354713617905742_1384610143_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=oiHSNQar_pwAX_LOJda&_nc_ht=scontent-bos5-1.xx&oh=00_AfCNOOUVR327kFscEA8yVAiLomordYI-Ps81ypgQ6iHVtQ&oe=64223820"
+    },
+    "Millport Sound": {
+        "website": "https://www.msr.bdnradio.com",
+        "stream": "https://ec5.yesstreaming.net:3305/stream?x=1677381125790",
+        "genres": [
+            "jazz",
+            "americana",
+            "oldies",
+            "comedy",
+            "drama",
+            "talk"
+        ],
+        "description": "Streaming from Cumbrae Isle on the West Coast of Scotland.",
+        "discontinued": false,
+        "location": "Millport, Scotland, United Kingdom",
+        "logo": "https://static-media.streema.com/media/cache/eb/79/eb79e0078f81835e5d56915594318e28.jpg"
+    },
+    "Patriot Radio Classics": {
+        "shortname": "Patriot Radio",
+        "website": "http://patriotradioclassics.com",
+        "stream": "http://n07.radiojar.com/sqxkmtks1d5tv?rj-ttl=5&rj-tok=AAABhovAnycAisr4ST9BxoTaEQ",
+        "genres": [
+            "vintage",
+            "talk"
+        ],
+        "description": "Patriot Radio ClassicsYesterday's talk radio shows...relevant today!",
+        "discontinued": false,
+        "location": "Naples, Florida, USA",
+        "logo": "http://kingdomstarradio.com/files/resized/626939/225;225;a372ea79318e7cffa4c61173cc07457b9ef11e46.png"
+    },
+    "Kingdom Star Radio": {
+        "shortname": "Kingdom Star",
+        "website": "http://kingdomstarradio.com",
+        "stream": "http://n0e.radiojar.com/8z3gbkabcxhvv?rj-ttl=5&rj-tok=AAABhovD9CsALuhHcxkUszKcFQ",
+        "genres": [
+            "religious",
+            "talk",
+            "christian",
+            "gospel"
+        ],
+        "description": "The Kingdom Star Radio Network is a Christian-owned, conservative Biblical teaching and talk radio programming, Internet broadcasting network.",
+        "discontinued": false,
+        "location": "Naples, Florida, USA",
+        "logo": "http://patriotradioclassics.com/files/resized/630705/153;63;561cb54a7999cae8728373c729200f7253e1f7ee.jpg"
+    },
+    "K-Star Talk Radio": {
+        "shortname": "K-Star",
+        "website": "http://kstartalkradio.com",
+        "stream": "http://n0a.radiojar.com/395qr9dr638uv?rj-ttl=5&rj-tok=AAABhovGXHYAv-NpjDzrdGD3Yg",
+        "genres": [
+            "religious",
+            "christian",
+            "politics",
+            "talk",
+            "news"
+        ],
+        "description": "The K-Star Talk Radio Network (Kingdom Star Talk Radio Network) is a Christian-owned, alternative, conservative news and talk radio programming, Internet broadcasting network.",
+        "discontinued": false,
+        "location": "Naples, Florida, USA",
+        "logo": "http://patriotradioclassics.com/files/resized/630707/101;101;d31f9cc7759b55c65fa233c5168202e3baadc97c.png"
+    },
+    "Epoca Dorada": {
+        "website": "https://epocadorada1.blogspot.com/ENTER-SLIDE-2-LINK-HERE",
+        "stream": "https://stream.zeno.fm/y3pshc7ktg8uv",
+        "genres": [
+            "40s",
+            "bolero",
+            "vintage",
+            "mexican"
+        ],
+        "description": "Listen to songs from the golden age of radio in Mexico.",
+        "discontinued": false,
+        "location": "Mexico City, Mexico",
+        "logo": "https://stream-tools.zenomedia.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDAyY3QsgoMCxIOU3RhdGlvblByb2ZpbGUYgIDQ6_WwlwsMogEEemVubw/image/?keep=w&lu=1661122927000&resize=350x350"
+    },
+    "Audio Book Radio": {
+        "website": "http://audiobookradio.net",
+        "stream": "https://audiobookradio.out.airtime.pro/audiobookradio_a",
+        "genres": [
+            "reading",
+            "talk"
+        ],
+        "description": "AudioBookRadio.net is the first and foremost spoken word Internet radio station. We broadcast compelling content for your pleasure, whether you're at work or play, indoors or out, 24/7.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/294229701_466801238782564_5509774473163537225_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AgktxuzRi0kAX_LjYhf&_nc_ht=scontent-bos5-1.xx&oh=00_AfDBQCZwovQ8zgk1MtRazP6VlIlQfhvpJbLvNPVsHHKQeA&oe=64001E86"
+    },
+    "88.9 FM Richmond Valley Radio": {
+        "shortname": "88.9 FM",
+        "website": "https://www.radio889.org.au",
+        "stream": "https://stream.radio889.org.au:9400/listen.aac",
+        "genres": [
+            "community",
+            "pop",
+            "oldies"
+        ],
+        "description": "We mostly play tracks from the Top 10 charts of 1955 to the present and any request without four-letter words.",
+        "discontinued": false,
+        "location": "Coraki, Australia",
+        "logo": "https://www.radio889.org.au/static/header-v2.png"
+    },
+    "Mon Valley Radio": {
+        "shortname": "Mon Valley",
+        "website": "https://monvalleyradio.com",
+        "stream": "https://s3.radio.co:80/s41022e2bb/listen",
+        "genres": [
+            "classics",
+            "hits",
+            "oldies",
+            "R&B",
+            "pop",
+            "classic rock"
+        ],
+        "description": "We are committed to Broadcasting Great Internet Radio Music and Shows Reminiscent of the old radio programs that had Sunday Morning and Wednesday Evening Services s for Shut-ins and Friends, A Saturday Morning Flea Market Show, starting at 9:30am, that allows Goods and Services to be sold and Over 5 Decades of Great Great Music For All!",
+        "discontinued": false,
+        "location": "Pittsburgh, Pennsylvania, USA",
+        "logo": "https://static-media.streema.com/media/cache/b6/c6/b6c6445994b1768cb4812af0e74c373d.jpg"
+    },
+    "Web Vintage Radio": {
+        "website": "https://webvintageradio.com.br",
+        "stream": "https://s1.voscast.com:10563/webvintage",
+        "genres": [
+            "80s",
+            "classics",
+            "hits"
+        ],
+        "description": "The only 80s theme radio worldwide",
+        "discontinued": false,
+        "location": "Cotia, São Paulo, Brazil",
+        "logo": "https://static-media.streema.com/media/cache/9b/e8/9be8fc06c2647215f54c85ab84e99fb5.jpg"
+    },
+    "Web Vintage 70": {
+        "website": "https://www.webvintage70.com",
+        "stream": "https://stm43.srvstm.com:9106/stream",
+        "genres": [
+            "70s",
+            "hits",
+            "classics"
+        ],
+        "description": "Vintage70 is a partnership between the Vintage Web Communications System and Paulinho Leite (the Old Milk), which brings the best music of the 1970s to those who missed this decade, one of the most creative and varied in international music. Vintage 70 brings the best of the decade to you, 24 hours a day. Artists such as Chicago, Earth, Wind & Fire, Santana, James Taylor, Tim Maia, Carly Simon, Toquinho and Vinícius, Commodores and many others make the soundtrack of their youth!",
+        "discontinued": false,
+        "location": "Cotia, São Paulo, Brazil",
+        "logo": "https://www.webvintage70.com/admin/assets/img/logo.png"
+    },
+    "Web Vintage Brazil": {
+        "website": "https://www.vintagebrasil.com",
+        "stream": "https://hts05.kshost.com.br:11668/live",
+        "genres": [
+            "80s",
+            "portuguese"
+        ],
+        "description": "80s oldies from Brazil.",
+        "discontinued": false,
+        "location": "Cotia, São Paulo, Brazil",
+        "logo": "https://static.wixstatic.com/media/968b35_304eb836101a4033bf233a27cfef8600~mv2.png/v1/fill/w_1591,h_734,al_c,q_90,enc_auto/LOGO%20TRANSPARENTE.png"
+    },
+    "Classic Old Time Radio": {
+        "shortname": "Classic OTR",
+        "website": "http://classic-oldtimeradio.mex.tl",
+        "stream": "http://stream-27.zeno.fm/b6v6nu8uhnruv?zs=j4p-Rr0BSPmAS6IV5jGfGA",
+        "genres": [
+            "40s",
+            "50s",
+            "comedy",
+            "drama",
+            "sci-fi",
+            "talk"
+        ],
+        "description": "This radio plays the most interesting and the biggest humor, terror, comedy, old time radio shows from the 1930s to the 1950s. A selection of the best shows of those decades. Broadcasting 24 hours a day.",
+        "discontinued": false,
+        "location": "Segovia, Spain",
+        "logo": "https://static-media.streema.com/media/cache/94/3a/943ad555b24c620defcc3003b405c100.jpg"
+    },
+    "JAM 66 Radio": {
+        "website": "http://jamradio.mex.tl",
+        "stream": "http://stream.zeno.fm/t53umxdzn0hvv",
+        "genres": [
+            "rock",
+            "country",
+            "jazz",
+            "blues"
+        ],
+        "description": "Welcome to JAM 66 Radio where you will be able to hear rock, country, jazz, blues and blues-rock and the newest.",
+        "discontinued": false,
+        "location": "Segovia, Spain",
+        "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FXEuoujx485xuqyRS9dpLouQ161AMG2j_7JocMH5nSPM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnMG9MbnBRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJOWRpTmp3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NzY3MjU4ODEwMDA.webp&w=3840&q=100"
+    },
+    "Centrale Milano": {
+        "website": "http://www.centralemilano.com",
+        "stream": "http://5.89.86.2:8000/;",
+        "genres": [
+            "country",
+            "oldies",
+            "rock"
+        ],
+        "description": "The Station is running from the City Center of Milan with the old style of the free radio's on air during the 70's. Professional voices and the best music for the audience tuning from all over the world.",
+        "discontinued": false,
+        "location": "Milan, Italy",
+        "logo": "https://static-media.streema.com/media/cache/a2/9e/a29eb8d008026f417fc89cc26290fc94.jpg"
+    },
+    "CRAGG - Cult Radio A-Go-Go!": {
+        "shortname": "CRAGG",
+        "website": "http://www.craggradio.com",
+        "stream": "http://s10.voscast.com:8502/stream",
+        "genres": [
+            ""
+        ],
+        "description": "Cult Radio is your online pop culture radio mecca featuring nonstop movie audio, odd rare dialogue, old b-movie trailers, comedy, parody music, retro television audio, vintage TV commercials, oldies and OTR!",
+        "discontinued": false,
+        "location": "Hollywood, California, USA",
+        "logo": "https://www.getmeradio.com/stations/cragg-3838/logos/512x512.png"
+    },
+    "HHRN - Horror and Halloween Radio!": {
+        "shortname": "HHRN",
+        "website": "http://www.craggradio.com",
+        "stream": "http://s2.voscast.com:11034/stream",
+        "genres": [
+            "holiday"
+        ],
+        "description": "Horror and Halloween Radio is your one stop shop for all year spooky fun! Do you love horror movies? Is Halloween your #1 absolutely favorite howl-i-day? Why only celebrate it 1 month of the year?",
+        "discontinued": false,
+        "location": "Hollywood, California, USA",
+        "logo": "https://www.getmeradio.com/stations/hhrn-3839/logos/512x512.png"
+    },
+    "Christmas At The Drive-In!": {
+        "shortname": "Christmas Drive-In",
+        "website": "http://www.craggradio.com",
+        "stream": "http://s3.voscast.com:9774/stream",
+        "genres": [
+            "holiday"
+        ],
+        "description": "Welcome to Christmas At The Drive-In! Please pull completely into the parking spot and gently place the drive-in speaker on your window. Tune in 24/7 ALL YEAR LONG to hear the best (and worst) of Christmas and holiday themes!",
+        "discontinued": false,
+        "location": "Hollywood, California, USA",
+        "logo": "https://www.getmeradio.com/stations/christmasatthedrivein-4586/logos/512x512.png"
+    },
+    "As Heard On TV!": {
+        "website": "http://www.craggradio.com",
+        "stream": "http://s1.voscast.com:11086/stream",
+        "genres": [
+            "vintage",
+            "soundtracks"
+        ],
+        "description": "As Heard on TV! is a retro radio paradise for the TV and movie lover! Tune in & drop out as you listen to hours of old retro TV commercials, movie trailers, TV theme songs, audio from films & more!",
+        "discontinued": false,
+        "location": "Hollywood, California, USA",
+        "logo": "https://www.getmeradio.com/stations/asheardontv-5311/logos/512x512.png"
+    },
+    "Japanimradio": {
+        "website": "http://japanimradio.id.st",
+        "stream": "https://ais-edge101-live365-dal02.cdnstream.com/a51684",
+        "genres": [
+            "anime",
+            "jpop",
+            "kpop",
+            "variety",
+            "asian",
+            "japanese",
+            "korean"
+        ],
+        "description": "JapanimRadio is an online anime radio, but also broadcasts Jpop, JMusic, Kpop, Vocaloid and many others!!",
+        "discontinued": false,
+        "location": "Osaka, Japan",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.6435-9/32446736_263835861026256_8741166510820556800_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Z6lZFdQnUGQAX9hWk_O&_nc_ht=scontent-bos5-1.xx&oh=00_AfCdU4sK_rGXG5OHxxRMkqy800qV26TDhbPVv3nKN6ebvw&oe=6422634C"
+    },
+    "The Departure Lounge": {
+        "shortname": "",
+        "website": "http://www.musicforthejetset.com",
+        "stream": "https://streamer.radio.co:80/s33849eced/listen",
+        "genres": [
+            "british",
+            "60s",
+            "70s",
+            "soundtracks",
+            "lounge",
+            "easy listening"
+        ],
+        "description": "The thrilling soundtrack to your jet set life. Playing music from UK and international production music libraries, as well as soundtrack music from the 60s and 70s, The Departure Lounge was listed as one of the 60 best internet radio stations in the world by The Daily Telegraph.",
+        "discontinued": false,
+        "location": "London, England, United Kingdom",
+        "logo": "http://www.musicforthejetset.com/uploads/1/4/2/6/142608658/published/the-departure-lounge-t-shirt-art-master-bow.jpg?1658788120"
+    },
+    "Hawaiian Hi-Fi": {
+        "shortname": "",
+        "website": "https://live365.com/station/Hawaiian-Hi-Fi-a52179",
+        "stream": "https://streaming.live365.com/a52179",
+        "genres": [
+            "easy listening",
+            "hawaiian",
+            "vintage",
+            "variety"
+        ],
+        "description": "A musical sunset dinner cruise celebrating the era of vintage vinyl Hawaiian records. Tossed into the \"easy listening\" ambrosia salad are a few juicy tidbits of rarities, novelties, and oddities. Selections from my personal collection of over 2,600 vinyl records, cassettes, & out-of-print CDs.",
+        "discontinued": false,
+        "location": "",
+        "logo": "https://live365.com/_next/image?url=https%3A%2F%2Fmedia.live365.com%2Fdownload%2Ff0ce7921-270c-4dd3-b102-878097f7e9ee.png&w=828&q=75"
+    },
+    "Oxygen Music": {
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-music",
+        "stream": "https://oxygenmusic.hu:8443/oxygenmusic_128",
+        "genres": [
+            "hits",
+            "pop",
+            "rock",
+            "dance"
+        ],
+        "description": "Hits at maximum.",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Ozone FM": {
+        "shortname": "Ozone FM",
+        "website": "https://oxygenmusic.hu/csatorna/ozone-fm",
+        "stream": "https://oxygenmusic.hu:8443/ozonefm_128",
+        "genres": [
+            "dance"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://us0-cdn.onlineradiobox.com/img/l/0/114240.v5.png"
+    },
+    "Oxygen Music - Classic Rock": {
+        "shortname": "Classic Rock",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-classic-rock",
+        "stream": "https://oxygenmusic.hu:8443/oxygenclassicrock_128",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Happy": {
+        "shortname": "Oxygen Happy",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-happy",
+        "stream": "https://oxygenmusic.hu:8443/oxygenhappy_128",
+        "genres": [
+            "happy",
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Classics": {
+        "shortname": "Oxygen Classics",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-classics",
+        "stream": "https://oxygenmusic.hu:8443/Classic_128",
+        "genres": [
+            "classical"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Oldies": {
+        "shortname": "Oxygen Oldies",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-oldies",
+        "stream": "https://oxygenmusic.hu:8443/oxygenoldies_128",
+        "genres": [
+            "oldies"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Italo Hits": {
+        "shortname": "Italo Hits",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-italo-hits",
+        "stream": "https://oxygenmusic.hu:8443/oxygenitalohits_128",
+        "genres": [
+            "italian"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Indie": {
+        "shortname": "Oxygen Indie",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-indie",
+        "stream": "https://oxygenmusic.hu:8443/oxygenindie_128",
+        "genres": [
+            "indie",
+            "alternative"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Black Music": {
+        "shortname": "Black Music",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-black-music",
+        "stream": "https://oxygenmusic.hu:8443/blackmusic_128",
+        "genres": [
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Spencer Hill Zenék": {
+        "shortname": "Spencer Hill Zenék",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-spencer-hill-zenek",
+        "stream": "https://oxygenmusic.hu:8443/oxygenspencerhillzenek_128",
+        "genres": [
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Kids": {
+        "shortname": "Oxygen Kids",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-kids",
+        "stream": "https://oxygenmusic.hu:8443/oxygenkids_128",
+        "genres": [
+            "kids"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Fitness": {
+        "shortname": "Oxygen Fitness",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-fitness",
+        "stream": "https://oxygenmusic.hu:8443/oxygenfitness_128",
+        "genres": [
+            "energized",
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Love Songs": {
+        "shortname": "Oxygen Love Songs",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-love-songs",
+        "stream": "https://oxygenmusic.hu:8443/oxygenlovesongs_128",
+        "genres": [
+            "romantic"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - 90s": {
+        "shortname": "Oxygen 90s",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-the-90s-hits",
+        "stream": "",
+        "genres": [
+            "90s",
+            "hits"
+        ],
+        "description": "https://oxygenmusic.hu:8443/oxygenthe90shits_128",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - 80s": {
+        "shortname": "Oxygen 80s",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-the-80s-hits",
+        "stream": "https://oxygenmusic.hu:8443/oxygenthe80shits_128",
+        "genres": [
+            "80s",
+            "hits"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Lounge": {
+        "shortname": "Oxygen Lounge",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-lounge",
+        "stream": "https://oxygenmusic.hu:8443/oxygenlounge_128",
+        "genres": [
+            "lounge"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Oxygen Music - Magyar Zene": {
+        "shortname": "Magyar Zene",
+        "website": "https://oxygenmusic.hu/csatorna/oxygen-magyar-zene",
+        "stream": "https://oxygenmusic.hu:8443/oxygenmagyarzene_128",
+        "genres": [
+            "pop"
+        ],
+        "description": "",
+        "discontinued": false,
+        "location": "Gyor, Hungary",
+        "logo": "https://static-media.streema.com/media/cache/f7/bc/f7bc45be7b66c80008ff59916e86ecf2.jpg"
+    },
+    "Argentine Tango Radio": {
+        "shortname": "Argentine Tango",
+        "website": "https://www.argentinetangoradio.com",
+        "stream": "https://ais-edge23-dal02.cdnstream.com/2202_128.mp3",
+        "genres": [
+            "tango",
+            "argentine",
+            "dance"
+        ],
+        "description": "Best of danceable Argentine tango music from the Golden Age and on.",
+        "discontinued": false,
+        "location": "Budapest, Hungary",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.18169-9/12705164_1652337981683137_8646294577433524394_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ntxSjg_npkMAX8oMe9t&_nc_oc=AQlr6_8GFOthSK6x9zEMHxDuMy1xqJDXA1i9MwWSU4FN7vOvp2hRMTMXnQQkdRTRD0ICms7kUQw3EUz37gtxzSRn&_nc_ht=scontent-bos5-1.xx&oh=00_AfBO2RUVaWOn5SFbsDVpYH0l51DB0XVUmhs59MyYYDwbTg&oe=64226FAF"
+    },
+    "98.6 FM Angel Radio": {
+        "shortname": "Angel Radio",
+        "website": "https://www.angelradio.co.uk",
+        "stream": "https://edge.clrmedia.co.uk/angel_hb",
+        "genres": [
+            "40s",
+            "50s",
+            "60s",
+            "oldies"
+        ],
+        "description": "The idea is very basic - + Accentuate the positive aspects of being an older person. + Provide a radio station for older people to run themselves. + Make the station unique by specialising in records made before1960 The Angel Radio team numbers 82 volunteers. Several of our team are in their 80s, most are over 60. Most have never worked in radio before. Most are fit and active. Some have disabilities, including blind, deaf, arthritic, Parkinson's and stroke victims. All do as much as they feel comfortable with Angel Radio provides unique entertainment, information, reminiscence therapy, mental and physical stimulation, self-esteem, bereavement therapy, and friendly voices with natural personality, all produced by older people specifically for an audience aged 60 years and over.",
+        "discontinued": false,
+        "location": "Havant, Hampshire, England, United Kingdom",
+        "logo": "https://static.wixstatic.com/media/d58553_217eaa32e847477b8c11bfcb5c7fabd6~mv2.jpg/v1/fill/w_1168,h_380,al_c,lg_1,q_85,enc_auto/d58553_217eaa32e847477b8c11bfcb5c7fabd6~mv2.jpg"
+    },
+    "Swinging Radio 60s": {
+        "website": "https://www.radio60s.co.uk",
+        "stream": "http://s2.xrad.io:8058/stream",
+        "genres": [
+            "60s",
+            "classics",
+            "hits"
+        ],
+        "description": "1960s music & memories all day every day",
+        "discontinued": false,
+        "location": "Havant, Hampshire, England, United Kingdom",
+        "logo": "https://static.wixstatic.com/media/d58553_8be5cf45cc8f408c980f8fa864d0d6fb~mv2.jpg/v1/fill/w_912,h_480,al_c,lg_1,q_85,enc_auto/d58553_8be5cf45cc8f408c980f8fa864d0d6fb~mv2.jpg"
+    },
+    "Easy Jazz FM": {
+        "website": "https://easyjazz.fm",
+        "stream": "https://streaming.live365.com/a17629",
+        "genres": [
+            "jazz",
+            "easy listening",
+            "instrumental"
+        ],
+        "description": "Easy Jazz FM is one of the most popular radio stations on the Internet, specializing in soft cool jazz instrumentals. ",
+        "discontinued": false,
+        "location": "Ottawa, Ontario, Canada",
+        "logo": "https://static-media.streema.com/media/cache/e1/2a/e12a29de928d5d0b77ee6be49557e060.jpg"
+    },
+    "Jazz Planet Radio": {
+        "shortname": "Jazz Planet",
+        "website": "https://www.jazzplanetradio.com",
+        "stream": "https://ec2.yesstreaming.net:3445/stream",
+        "genres": [
+            "jazz"
+        ],
+        "description": "Jazz Planet Radio is a non-commercial, ad-free international online radio station featuring an eclectic blend of independent jazz music from around the globe.",
+        "discontinued": false,
+        "location": "Ottawa, Ontario, Canada",
+        "logo": "https://lh3.googleusercontent.com/8G9nU8khNxcsO1qhKqmRT8WqMgktApRkqwZDBjjn-d6JmeKh_TIM3mVko7oRUffG93gdsf-NcCB5CWlEv6mBfZM=w16383"
+    },
+    "Classical FM Radio": {
+        "shortname": "Classicam FM",
+        "website": "https://www.classicalfmradio.com",
+        "stream": "https://ec2.yesstreaming.net:3605/stream",
+        "genres": [
+            "classical"
+        ],
+        "description": "Classical FM Radio is a non-commercial, ad-free international online radio station featuring classical music from independent musicians. Our objectives are to help make this a more peaceful planet, and to promote these amazing artists. Our station is 100% free for listening at any time.  ",
+        "discontinued": false,
+        "location": "Ottawa, Ontario, Canada",
+        "logo": "https://lh4.googleusercontent.com/Hje5fhcMZetxQil5cwW6769cBmgvNSsf-UVlfJd_otp_Gi_2vxZ7qyFO2GBkMQCsopLIYy0F1WI8UVjfMqcKVJU=w16383"
+    },
+    "Classic Jazz FM": {
+        "shortname": "Classic Jazz",
+        "website": "https://www.classicjazzfm.com",
+        "stream": "https://puma.streemlion.com:5195/stream",
+        "genres": [
+            "jazz",
+            "easy listening"
+        ],
+        "description": "Classic Jazz FM is a non-commercial radio station playing legendary classic jazz. This is the home of jazz divas, crooners and cool cats! ",
+        "discontinued": false,
+        "location": "Ottawa, Ontario, Canada",
+        "logo": "https://lh4.googleusercontent.com/J9YCNo0G3r6jNXAj1tcMF2juxw7Kh2aOYkbitHNNr12EZMg9BNPZNNnzNEIrmlY1YhiXGmdNN4KOZg9bYiGSlUw=w16383"
+    },
+    "Best Radio Larry": {
+        "website": "https://bestradiolarry.ro/playing.html",
+        "stream": "https://freeuk24.listen2myradio.com/live.mp3?typeportmount=s1_26154_stream_663937954",
+        "genres": [
+            "hits",
+            "pop",
+            "variety",
+            "dance",
+            "rock"
+        ],
+        "description": "Music hits from '40s until today, use playlist and request your favorite songs.",
+        "discontinued": false,
+        "location": "Bucharest, Romania",
+        "logo": "https://static-media.streema.com/media/cache/2b/87/2b87c5ae76cda85f15ed30947fcde1d2.jpg"
+    },
+    "Jazzdings": {
+        "website": "https://laut.fm/jazzdings",
+        "stream": "https://stream.laut.fm/jazzdings",
+        "genres": [
+            "jazz",
+            "blues"
+        ],
+        "description": "Jazzdings is a station for music lovers who want to hear more than just shallow gap fillers.",
+        "discontinued": false,
+        "location": "Tübingen, Germany",
+        "logo": "https://assets.laut.fm/e2019d1bebcba55b1a5abfd203121085?t=_120x120"
     }
 }
