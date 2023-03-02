@@ -20527,5 +20527,648 @@
         "discontinued": false,
         "location": "Tübingen, Germany",
         "logo": "https://assets.laut.fm/e2019d1bebcba55b1a5abfd203121085?t=_120x120"
+    },
+    "Mix 94.5 FM": {
+        "shortname": "Mix",
+        "website": "http://www.mix.com.au/",
+        "stream": "http://legacy.scahw.com.au/6mix_32",
+        "genres": [
+            "variety",
+            "pop",
+            "talk",
+            "R&B",
+            "top 40",
+            "dance",
+            "contemporary"
+        ],
+        "description": "Perth's Widest Variety",
+        "discontinued": false,
+        "location": "Perth, Australia",
+        "logo": "https://static-media.streema.com/media/cache/76/bd/76bdc6a926f6149d0d8c416c4aa6ad54.jpg"
+    },
+    "92.7 FM Radio Tambrin": {
+        "shortname": "Radio Tambrin",
+        "website": "http://www.tambrintobago.com",
+        "stream": "https://ice42.securenetsystems.net/TAMBRIN",
+        "genres": [
+            "news",
+            "talk",
+            "sports",
+            "variety"
+        ],
+        "description": "Tobago's ONLY National Voice. Radio Tambrin remains the only radio station in Trinidad and Tobago founded by Tobagonians. Tambrin airs news broadcasts, call-in and discussion programmes, sports reports and music throughout the day and night, 24/7. Tambrins DJs interact with their listeners and the wide-ranging music mix is what their Tobago audience appreciates.",
+        "discontinued": false,
+        "location": "Scarborough, Trinidad and Tobago",
+        "logo": "http://www.tambrintobago.com/images/Tambrin.png"
+    },
+    "Polka Jammer Network": {
+        "shortname": "Polka Jammer",
+        "website": "https://polkajammernetwork.org",
+        "stream": "https://pjn.fastserv.com:80/128.mp3",
+        "genres": [
+            "polka",
+            "hits"
+        ],
+        "description": "Polka Jammer Network is a not-for-profit Internet polka radio station dedicated to playing the hottest polka music 24 hours a day/7 days a week. Plus, they feature many LIVE and pre-recorded shows.",
+        "discontinued": false,
+        "location": "Deerfield, Massachusetts, USA",
+        "logo": "https://polkajammernetwork.org/wp-content/themes/old_news-pro/images/jammer_head.png"
+    },
+    "WRJQ Goodtime Radio": {
+        "shortname": "WRJQ",
+        "website": "https://www.wrjqradio.com",
+        "stream": "https://stream.rcast.net/65397",
+        "genres": [
+            "polka"
+        ],
+        "description": "WRJQ streams polka music all day, every day, from studios in Appleton, Wisconsin.",
+        "discontinued": false,
+        "location": "Appleton, Wisconsin, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/305058624_746195256796316_5959173144860949713_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=08SCgZmPt64AX8T8wMw&_nc_ht=scontent-bos5-1.xx&oh=00_AfBgaIZKdvktKexD8Fv2nZ_YPtHJxHIqw7dZmP4MOHdOlA&oe=6400ACA0"
+    },
+    "101.1 FM Radio Panamericana": {
+        "shortname": "Radio Panamericana",
+        "website": "https://www.radiopanamericana.com",
+        "stream": "https://streaming.gometri.com/stream/8000/stream",
+        "genres": [
+            "salsa",
+            "top 40"
+        ],
+        "description": "The only salsa radio that reaches all of Peru.",
+        "discontinued": false,
+        "location": "Lima, Peru",
+        "logo": "https://www.radiopanamericana.com/images/logo-2023.png"
+    },
+    "Radio Monacensis": {
+        "shortname": "Monacensis",
+        "website": "https://www.radio-monacensis.de",
+        "stream": "https://stream.laut.fm/monacensis",
+        "genres": [
+            "medieval",
+            "folk"
+        ],
+        "description": "The best of the Middle Ages - rock, market music, minstrels' music, folk music and old medieval sounds.",
+        "discontinued": false,
+        "location": "Munich, Germany",
+        "logo": "https://assets.laut.fm/b54b27992252dbc507808638d833e590?t=_120x120"
+    },
+    "Narrenwut": {
+        "website": "http://narrenwut.de",
+        "stream": "https://stream.laut.fm/mittelalter-net",
+        "genres": [
+            "medieval",
+            "celtic",
+            "folk",
+            "rock",
+            "fantasy"
+        ],
+        "description": "Your radio The best music of the German medieval scene and much more.",
+        "discontinued": false,
+        "location": "Rechlinghausen, Germany",
+        "logo": "http://narrenwut.de/wp-content/uploads/2023/01/cropped-Narrenwut-Banner-Schrift-scaled-2.jpg"
+    },
+    "Crypt Theater": {
+        "website": "http://thecrypttheater.com",
+        "stream": "https://streaming.live365.com/a29186",
+        "genres": [
+            "drama",
+            "horror",
+            "talk"
+        ],
+        "description": "Horror, Mystery, Mayhem. Look Behind. You Never Know Who Or What Is Following You!",
+        "discontinued": false,
+        "location": "USA",
+        "logo": "http://thecrypttheater.com/_Media/stationlogo276x155_med_hr.jpeg"
+    },
+    "107.4 FM Ràdio Flix": {
+        "shortname": "Ràdio Flix",
+        "website": "https://radioflix.cat",
+        "stream": "https://server8.emitironline.com:18940/stream",
+        "genres": [
+            "news",
+            "talk",
+            "pop",
+            "spanish"
+        ],
+        "description": "Flix's informative and musical radio.",
+        "discontinued": false,
+        "location": "Flix, Spain",
+        "logo": "https://radioflix.cat/wp-content/uploads/2021/07/LOGO-RADIO-FLIX-1.png"
+    },
+    "Viva La Navidad Radio": {
+        "shortname": "Viva La Navidad",
+        "website": "https://zeno.fm/radio/viva-la-navidad-radio/",
+        "stream": "https://stream.zeno.fm/t8q6sp9sta0uv",
+        "genres": [
+            "holiday",
+            "variety",
+            "spanish"
+        ],
+        "description": "Viva La Navidad Radio is the station of the Christmas season. Enjoy the great Christmas classics in the ballad, pop, tropical, cumbia, mariachi and many other genres 24 hours a day. We wish you a very Merry Christmas!",
+        "discontinued": false,
+        "location": "Chicago, Illinois, USA",
+        "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F4I-P0gnFYFh0YXK37_UWTxsTpW_4TkTxnsDWhXPaxfs%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBa092ejN3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRLUpXMjNBa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjQzMzU0MzgwMDA.webp&w=3840&q=100"
+    },
+    "Radio Christmas": {
+        "shortname": "",
+        "website": "https://radiochristmas.co.uk",
+        "stream": "https://radioxmaslive.radioca.st/stream",
+        "genres": [
+            "holiday",
+            "hits",
+            "classics",
+            "charity"
+        ],
+        "description": "Radio Christmas is a project of Street Kids Direct, a Registered UK charity.  The charity is unique in that it is an online charity run entirely run by volunteers.  This means we can guarantee that 100% of all our donations go directly to the projects we partner within Central America.",
+        "discontinued": false,
+        "location": "Amersham, England, United Kingdom",
+        "logo": "https://radiochristmas.co.uk/wp-content/uploads/2021/08/RCHeaderLogoRed.png"
+    },
+    "Christmas Songs Radio": {
+        "shortname": "Christmas Songs",
+        "website": "https://christmassongsradio.com",
+        "stream": "https://sonic.magicdragon.nl/8056/stream#.mp3",
+        "genres": [
+            "holiday",
+            "classics",
+            "hits"
+        ],
+        "description": "THE MAGIC OF CHRISTMAS! During the Christmas season you can Request your favorite Christmas music.",
+        "discontinued": false,
+        "location": "North Pole, Alaska, USA",
+        "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/305798151_593627522232265_7175528245241848267_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SXjdmTjXcDIAX9zM5LS&_nc_ht=scontent-bos5-1.xx&oh=00_AfCF68myN3VU2yJhrq4juLyVoD79cUDyLt9JN0qJYcZT7w&oe=6400250C"
+    },
+    "Christmas 365 - Santa's Radio": {
+        "shortname": "Santa's Radio",
+        "website": "http://xmas365.fm",
+        "stream": "https://us3.streamingpulse.com/ssl/7038",
+        "genres": [
+            "holiday",
+            "classics",
+            "hits"
+        ],
+        "description": "Where every day is Christmas - musically speaking!",
+        "discontinued": false,
+        "location": "Higdon, Alabama, USA",
+        "logo": "https://us7.streamingpulse.com/2826/tmp/images/default.png"
+    },
+    "Radio Santa Claus": {
+        "website": "https://www.radiosantaclaus.com",
+        "stream": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+        "genres": [
+            "holiday",
+            "classics"
+        ],
+        "description": "The official radio station of Santa Claus. From Santa's Radio Office on the Arctic Circle, the Real Christmas Sound.",
+        "discontinued": false,
+        "location": "Helsinki, Finland",
+        "logo": "https://cdn.radiostreamlive.com/v1/logos/radiosantaclaus.png"
+    },
+    "Branson Christmas Radio": {
+        "shortname": "",
+        "website": "https://bransonchristmas.info/branson-christmas-radio/",
+        "stream": "http://n06.radiojar.com/22habbgmb.m4a",
+        "genres": [
+            "holiday",
+            "country"
+        ],
+        "description": "Branson Christmas Radio is your soundtrack to an Ozark Mountain Christmas in Branson, Missouri. Tune in for holiday music (including tracks from Branson show stars), special segments highlighting Branson holiday shows and attractions, and much more.",
+        "discontinued": false,
+        "location": "Branson, Missouri, USA",
+        "logo": "https://bransonchristmas.info/wp-content/uploads/2014/11/christmas-radio-header.png"
+    },
+    "103.8 Diamond FM": {
+        "shortname": "Diamond FM",
+        "website": "http://www.diamondfm.co.zw",
+        "stream": "https://edge.iono.fm/xice/160_medium.aac",
+        "genres": [
+            "news",
+            "community",
+            "talk",
+            "african"
+        ],
+        "description": "Hit after hit, pop, bang, wow radio, sparkling & shining",
+        "discontinued": false,
+        "location": "Mutare, Zimbabwe",
+        "logo": "http://www.diamondfm.co.zw/uploads/1635761407_1580.png"
+    },
+    "ZJB Radio Montserrat": {
+        "shortname": "ZJB Radio",
+        "website": "https://www.zjbradio.com",
+        "stream": "http://n13.radiojar.com/mmbg3hfk2v8uv.acc",
+        "genres": [
+            "local",
+            "community",
+            "culture",
+            "variety",
+            "news",
+            "talk",
+            "caribbean"
+        ],
+        "description": "Montserrat's community station provides a diverse range of services to meet the needs of the community, with a strong emphasis on local news and information, and the promotion of local music and culture.",
+        "discontinued": false,
+        "location": "St. Peter, Montserrat",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5a77249acd39c32c16426602/1517762597623-HUNPMQHHL5C6J6VHGW3Y/zjb-logo.png?format=1500w"
+    },
+    "102.7 / 99.3 FM Radio Los Lagos": {
+        "shortname": "Radio Los Lagos",
+        "website": "https://radioloslagos.ec",
+        "stream": "https://host.audiolatam.com/8356/stream",
+        "genres": [
+            "latin",
+            "pop",
+            "hits",
+            "spanish"
+        ],
+        "description": "Radio station of the Northern Corporate Group that covers the northern region of Ecuador, 102.7 Imbabura and northern Pichincha and 99.3 Carchi, southern Colombia.",
+        "discontinued": false,
+        "location": "Ibarra, Ecuador",
+        "logo": "https://radioloslagos.ec/wp-content/uploads/2021/10/DELINEADO-LETRAS-BLANCAS.png"
+    },
+    "101.9 FM Radio Orbital": {
+        "shortname": "Radio Orbital",
+        "website": "https://www.orbital.pt",
+        "stream": "https://ec2.yesstreaming.net:3025/stream",
+        "genres": [
+            "electronic",
+            "dance"
+        ],
+        "description": "The music season!",
+        "discontinued": false,
+        "location": "Lisbon, Portugal",
+        "logo": "https://static-media.streema.com/media/cache/d2/98/d2988cf691a5d521c4074fb788445715.jpg"
+    },
+    "94.8 Rádio Festival": {
+        "shortname": "Rádio Festival",
+        "website": "https://radiofestival.pt",
+        "stream": "https://centova.radio.com.pt/proxy/520?mp=/stream?nocache=123456789",
+        "genres": [
+            "contemporary",
+            "portuguese",
+            "pop"
+        ],
+        "description": "Radio of Grande Porto",
+        "discontinued": false,
+        "location": "Porto, Portugal",
+        "logo": "https://radiofestival.pt/imgs/logo_transparente.png"
+    },
+    "96.0 FM Radio Zimbabwe": {
+        "shortname": "Radio Zimbabwe",
+        "website": "https://www.radiozim.co.zw",
+        "stream": "",
+        "genres": [
+            "news",
+            "public",
+            "talk",
+            "zimbabwean"
+        ],
+        "description": "Sample the best of Zimbabwean music genres. Enjoy our Programs that are broadcast in Shona and Ndebele.",
+        "discontinued": false,
+        "location": "Harare, Gweru, Zimbabwe",
+        "logo": "https://www.radiozim.co.zw/wp-content/uploads/2020/02/Radio-Zimbabwe-BC.jpg"
+    },
+    "Nightwave Plaza": {
+        "website": "https://plaza.one",
+        "stream": "https://radio.plaza.one/mp3",
+        "genres": [
+            "funk",
+            "experimental",
+            "electronic",
+            "chillout"
+        ],
+        "description": "Nightwave Plaza is a free 24/7 online vaporwave radio station. The broadcast also includes some future funk and experimental genres. We hope you enjoy.",
+        "discontinued": false,
+        "location": "Tokyo, Japan",
+        "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/299739390_388775673337832_1429439306562397535_n.png?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BXOh6Qq-ytQAX_L7FJ8&_nc_ht=scontent-lga3-2.xx&oh=00_AfAHTDVEmGkHpuRpKyShWsHteXNB1J2WPkeonfeUrhj2nQ&oe=6401DF64"
+    },
+    "World FM": {
+        "website": "https://www.worldfm.co.nz",
+        "stream": "https://audio.worldfm.co.nz:8884/worldfm.aac",
+        "genres": [
+            "news",
+            "talk",
+            "experimental",
+            "kiwi"
+        ],
+        "description": "World FM brings you: Music from around the world, World news & current affairs, Information for radio enthusiasts, amateur radio operators, DXers, & SWLs, and Some of the best in Kiwi music",
+        "discontinued": false,
+        "location": "Mārahau, New Zealand",
+        "logo": "https://www.worldfm.co.nz/wp-content/uploads/2022/04/WFM-Mono-logo-full.png"
+    },
+    "Terry Lee's Music For Young Lovers": {
+        "shortname": "Young Lovers",
+        "website": "https://www.tlsoundco.com",
+        "stream": "https://usa19.fastcast4u.com/keynote91",
+        "genres": [
+            "romantic",
+            "oldies",
+            "classics"
+        ],
+        "description": "Home of the Pittsburgh style oldies 24 hours a day 7 days a week.",
+        "discontinued": false,
+        "location": "Pittsburgh, Pennsylvania, USA",
+        "logo": "https://static.wixstatic.com/media/8bae17_9afb87c3b545476ea8058e43608075ca~mv2.jpg/v1/fill/w_388,h_316,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/TL%20Logo%20New%20Remastered.jpg"
+    },
+    "Radio Wigwam": {
+        "website": "https://radiowigwam.co.uk",
+        "stream": "https://streaming.radio.co:80/s2b39cfe62/listen",
+        "genres": [
+            "rock",
+            "classic rock",
+            "new artists",
+            "indie",
+            "alternative",
+            "variety"
+        ],
+        "description": "WIGWAM online radio is a platform for emerging, unsigned talent. WIGWAM isn't about core demographics, playlists or hidden agendas - it's about playing good quality music & providing an environment for insightful dialogue. It has been set up by 6 ordinary blokes, who are all of the opinion that traditional radio doesn't really offer much to them (or to big chunks of the listening public) anymore. We are looking to reach out to people with similar interests to us (and even get you involved). WIGWAM aims to play a compelling mix of contemporary and classic tunes - Rock, Indie, Funk, Electro, Heavy Metal, .... basically anything goes.",
+        "discontinued": false,
+        "location": "Reading, England, United Kingdom",
+        "logo": "https://radiowigwam.co.uk/wp-content/uploads/2021/10/silvertransparent.png"
+    },
+    "Radio X-Team": {
+        "shortname": "X-Team",
+        "website": "https://radio.x-team.com",
+        "stream": "https://s2.radio.co/s83d70ae1d/listen",
+        "genres": [
+            "chillout",
+            "lounge",
+            "house"
+        ],
+        "description": "Listen to curated instrumental music to increase your productivity and focus while coding, programming, working or studying.",
+        "discontinued": false,
+        "location": "United Kingdom"
+    },
+    "Chillstep.info": {
+        "website": "https://chillstep.info",
+        "stream": "https://chillstep.info/radio/stream.mp3?1677517081781",
+        "genres": [
+            "chillout",
+            "dubstep",
+            "electronic"
+        ],
+        "description": "We stream slow, deep, melodic, mellow dubstep and closely related niche genres 24/7 - chillout imminent!",
+        "discontinued": false,
+        "location": "USA",
+        "logo": "https://static-media.streema.com/media/cache/d4/a6/d4a62402bddf89b9725540eb3ac5d738.jpg"
+    },
+    "Piratehead Radio": {
+        "shortname": "Piratehead",
+        "website": "https://www.pirateheadradio.com",
+        "stream": "https://streaming.live365.com/a75815",
+        "genres": [
+            "country",
+            "rock",
+            "reggae",
+            "tropical",
+            "island"
+        ],
+        "description": "Established in 2022, Piratehead Radio sets sail and plans to bring you away with it to a paradise far away ruled by pirates, even if it is only in your mind. With roots based in Country, Rock & Reggae, it is a celebration of singer-songwriters well established and barely known, all the same. With new music being added daily, you can find your escape here with us!",
+        "discontinued": false,
+        "location": "Tallahassee, Florida, USA",
+        "logo": "https://static.wixstatic.com/media/1c8060_87bbf76ec518405cb3be0aec65c9fdf7~mv2.png/v1/fill/w_2608,h_1466,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/Top%2050%20Trop%20Rock%20Songs%20of%20All%20Time%20(1).png"
+    },
+    "Palapa Mac Radio": {
+        "shortname": "Palapa Mac",
+        "website": "https://www.palapamacradio.com",
+        "stream": "https://ice23.securenetsystems.net/PMR",
+        "genres": [
+            "tropical",
+            "rock",
+            "country"
+        ],
+        "description": "The best Trop Rock and Coastal Country Mix that takes you on vacation.",
+        "discontinued": false,
+        "location": "Clear Lake Shores, Texas, USA",
+        "logo": "https://mmo.aiircdn.com/871/6363cfa6cc4c5.png"
+    },
+    "100.5 FM WOYS Oyster Radio": {
+        "shortname": "Oyster",
+        "website": "http://www.oysterradio.com",
+        "stream": "http://oysterradio.ice.infomaniak.ch/oysterradio-192-0-0.mp3",
+        "genres": [
+            "rock",
+            "classic rock",
+            "blues",
+            "tropical"
+        ],
+        "description": "The \"Voice of the Forgotten Coast\"...bringing you the best mix of classic rock ,blues and trop-rock",
+        "discontinued": false,
+        "location": "Carrabelle, Florida, USA",
+        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEhANb_E5bk6wwCp_lkc1Lnh76-x8VrlkuFTWWAo0IaBy64B_rVzhS0bHPKyVeX_ECIwplhBD2Frs9R6zG_XUyLoM6PJbf29RfKGw1ZQi8hJmCagI9Rim4RMOZuu87zw8PVYxp9lp613tp-l19qamAMzPFrzlKEhk7TuE8-6CHxo9cQ283dzwd0oiKKW=s828"
+    },
+    "Radio Trop Rock": {
+        "shortname": "Trop Rock",
+        "website": "https://radiotroprock.com",
+        "stream": "https://s2.radio.co:80/s8a49db1ee/listen",
+        "genres": [
+            "tropical",
+            "rock",
+            "country",
+            "reggae"
+        ],
+        "description": "Your #1 resource for the best trop rock music!",
+        "discontinued": false,
+        "location": "Pipe Creek, Texas, USA",
+        "logo": "https://radiotroprock.com/wp-content/uploads/2019/07/cropped-RTR-Logo-trans-SM-1.png"
+    },
+    "Beach Front Radio": {
+        "shortname": "Beach Front",
+        "website": "https://www.beachfrontradio.com",
+        "stream": "https://atlanta.myautodj.com:2199/proxy/cviwvjar/stream",
+        "genres": [
+            "tropical",
+            "rock",
+            "country",
+            "reggae"
+        ],
+        "description": "Your home for the best Independent Trop Rock Singer/Songwriters along with some of your favorite Rock, Country and Reggae hits! The #1 station for Trop Rock music on the internet.",
+        "discontinued": false,
+        "location": "Burke, Virginia, USA",
+        "logo": "https://d10j3mvrs1suex.cloudfront.net/u/13732/e90e4e4e4c61d4cd086259576a266e5ade4090f7/medium/bfr-logo.jpg?1486107628"
+    },
+    "RadioA1A": {
+        "website": "https://radioa1a.com",
+        "stream": "https://usa11.fastcast4u.com/proxy/radioa1a?mp=/stream",
+        "genres": [
+            "contemporary",
+            "tropical",
+            "easy listening"
+        ],
+        "description": "Music For The Road To Paradise. RadioA1A Web Streaming 24 Hour Music, Talk, Entertainment Broadcast",
+        "discontinued": false,
+        "location": "Islamorada, Florida, USA",
+        "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/326691807_1234669157152157_2046456374160649662_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=S4iDrbUtiAoAX-xiDPO&_nc_ht=scontent-lga3-2.xx&oh=00_AfBbwVYAJg2ViszFxcuboV2Oh_m-HuySyGWdGZ_ewreS-Q&oe=6403A69A"
+    },
+    "Shore Life Radio": {
+        "shortname": "Shore Life",
+        "website": "https://shoreliferadio.com",
+        "stream": "https://26453.live.streamtheworld.com/SAM06AAC215.mp3",
+        "genres": [
+            "variety",
+            "tropical",
+            "country",
+            "rock",
+            "reggae",
+            "folk",
+            "island"
+        ],
+        "description": "Daily original prerecorded and Live programming hand picked for their qualified experience as DJs and radio personalities to share in our paradise of music. When asked to define our style of music we say Tropical, Americana, Gulf Coast, Coastal, Variety, Raggae, Dub, Country, Southern Rock, Folk, Trop Rock, Island infusions and Trop Country with a hint of swizzled in blues.",
+        "discontinued": false,
+        "location": "Jacksonville, Florida, USA",
+        "logo": "https://pbs.twimg.com/profile_images/730121746662064129/dipAdLIU_400x400.jpg"
+    },
+    "Mo's Place Radio": {
+        "shortname": "",
+        "website": "http://www.mosplaceradio.com/?fbclid=IwAR03BRfaTuBAQov6sIZEKiwGfVtaPu4ATcjtwRBxAWw-S40mCPNiZKrnGK0",
+        "stream": "",
+        "genres": [
+            "rock",
+            "tropical"
+        ],
+        "description": "Playing great music 24/7, Live from Boston, MA - Give us a listen, you'll love us!",
+        "discontinued": false,
+        "location": "Boston, Massachusetts, USA",
+        "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FRdffmTcYaPHbYFhfetQZvMDx2Q3_5RDhR04kl--vpVg%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJOHJiVWxRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJeW9QcTJBc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2Njg4NTk1NjcwMDA.webp&w=3840&q=100"
+    },
+    "Songwriters Island Radio": {
+        "shortname": "Songwriters Island",
+        "website": "http://www.songwritersisland.com",
+        "stream": "https://everestcast-us.myautodj.com/songwriters",
+        "genres": [
+            "tropical",
+            "new artists",
+            "local",
+            "island"
+        ],
+        "description": "Welcome to Songwriters Island Radio, your home for great original music with a tropical twist.  We feature Singer Songwriters and play only original music, written and performed by the songwriter.  If you like well-written original music, you are home. Welcome to the family!",
+        "discontinued": false,
+        "location": "Punta Gorda Isles, Florida, USA",
+        "logo": "http://nebula.wsimg.com/8779a86b9152b90e2ea1054e5c7cd29e?AccessKeyId=E87F1DA8031B331C8141&disposition=0&alloworigin=1"
+    },
+    "BeachFrontRadio": {
+        "shortname": "BeachFront",
+        "website": "https://beachfrontradioflo.wixsite.com/beach-front-radio",
+        "stream": "https://s8.citrus3.com:8246/stream",
+        "genres": [
+            "80s",
+            "90s",
+            "2000s",
+            "hits"
+        ],
+        "description": "Powered By Beach Front Computers Port Orange and Surrounding Areas best solution in Computer Repair & Sales. We play hits from the 80's, 90's and early 2000's!  Music of this generation has nothing on the good old days of music.",
+        "discontinued": false,
+        "location": "Port Orange, Florida, USA",
+        "logo": "https://static.wixstatic.com/media/86eccf_255a42688a4c486e9592f82965e54e3f~mv2.png/v1/fill/w_346,h_262,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BFC%20Logo.png"
+    },
+    "Little Grass Shack Hawaiian Radio": {
+        "shortname": "Little Grass Shack",
+        "website": "https://www.lgsvegas.com",
+        "stream": "https://18213.live.streamtheworld.com/SP_R3401565.aac",
+        "genres": [
+            "hawaiian",
+            "tropical",
+            "island",
+            "local",
+            "news"
+        ],
+        "description": "We are a culturally inspired, community driven group actively involved in the betterment and preservation of the Hawaiian culture, island heritage and lifestyle through promotion and support via music and entertainment. The Spirit of Aloha lives here on the fabulous 9th Island, Las Vegas, Nevada. Live Pono, Live Aloha!",
+        "discontinued": false,
+        "location": "Las Vegas, Nevada, USA",
+        "logo": "https://www.lgsvegas.com/wp-content/uploads/2023/02/LGS-Logo-900.png"
+    },
+    "La Sanfe Radio": {
+        "shortname": "La Sanfe",
+        "website": "https://www.lasanfe-radio.com.mx",
+        "stream": "https://stream5.mexiserver.com:1139/;type=mp3",
+        "genres": [
+            "mexican",
+            "tropical",
+            "rock",
+            "oldies"
+        ],
+        "description": "Innovating the way of doing internet radio. We want to reactivate the local economy of San Felipe de Jesús and its surroundings.",
+        "discontinued": false,
+        "location": "Mexico City, Mexico",
+        "logo": "https://www.lasanfe-radio.com.mx/wp-content/uploads/2021/01/logo-default-200x.png"
+    },
+    "Open Radio Costa Rica": {
+        "shortname": "Open Radio",
+        "website": "https://www.openradiocr.net",
+        "stream": "https://node-20.zeno.fm/0dqffefm21zuv.acc",
+        "genres": [
+            "spanish",
+            "latin",
+            "salsa",
+            "tropical"
+        ],
+        "description": "Open Radio was born to be a complete information platform, which seeks the way to be linked between you who listen to us and us.",
+        "discontinued": false,
+        "location": "Puntarenas, Costa Rica",
+        "logo": "https://www.openradiocr.net/wp-content/uploads/2022/07/cropped-Logo-Rojo-Open-1280x720-1.jpg"
+    },
+    "91X": {
+        "website": "https://www.91x.com",
+        "stream": "https://14613.live.streamtheworld.com/XTRAFMAAC.aac",
+        "genres": [
+            "local",
+            "alternative",
+            "rock"
+        ],
+        "description": "Local. Independent. Alternative. Serving San Diego since 1983, 91X is one of the most recognized and iconic radio brands in North America.",
+        "discontinued": false,
+        "location": "San Diego, California, USA",
+        "logo": "https://www.91x.com/wp-content/themes/15zine-child/img/91x-logo.png"
+    },
+    "Z90.3": {
+        "website": "https://www.z90.com",
+        "stream": "https://18683.live.streamtheworld.com/XHTZFMAAC.aac",
+        "genres": [
+            "top 40",
+            "hits",
+            "contemporary"
+        ],
+        "description": "Today's Hit Music is on Z90! The station sets the tone in San Diego for a metropolitan contemporary hit radio format packed with music tailored to a mass appeal audience!",
+        "discontinued": false,
+        "location": "San Diego, California, USA",
+        "logo": "https://www.z90.com/wp-content/themes/15zine-child/img/z90logo_black.png"
+    },
+    "Magic 92.5": {
+        "website": "https://www.magic925.com",
+        "stream": "https://18433.live.streamtheworld.com/XHRMFMAAC.aac",
+        "genres": [
+            "easy listening",
+            "contemporary",
+            "island"
+        ],
+        "description": "The Beat Of San Diego. With an uplifting, fun and work-friendly Rhythmic Adult Contemporary island format, Magic 92.5 prides itself on our loyal, diverse audience.",
+        "discontinued": false,
+        "location": "San Diego, California, USA",
+        "logo": "https://www.magic925.com/wp-content/themes/15zine-child/img/magic925logo.png"
+    },
+    "100.7 BIG FM": {
+        "website": "https://bigfmsd.com",
+        "stream": "https://14003.live.streamtheworld.com/KFBGFMAAC.aac",
+        "genres": [
+            "hits",
+            "variety"
+        ],
+        "description": "The BIGGEST hits. The BIGGEST variety. Think BIG San Diego. The 100.7 BIG FM music library is so vast and expansive; it is unpredictable what you will hear next.",
+        "discontinued": false,
+        "location": "San Diego, California, USA",
+        "logo": "https://bigfmsd.com/wp-content/uploads/2020/04/logo.png"
+    },
+    "Anime Nexus": {
+        "website": "https://www.animenexusla.com",
+        "stream": "https://cast.animenexusla.com/radio/8000/animenexus-mp3",
+        "genres": [
+            "anime",
+            "kpop",
+            "jpop",
+            "soundtracks"
+        ],
+        "description": "The #1 in all of Latin America... AND NOTHING ELSE!!!",
+        "discontinued": false,
+        "location": "Mexico City, Mexico",
+        "logo": "https://www.animenexusla.com/wp-content/uploads/2021/05/ANIME-NEXUS-LOGO-15_Mesa-de-trabajo-1-500x188.png"
     }
 }
