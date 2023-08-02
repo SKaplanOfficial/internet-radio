@@ -63,6 +63,7 @@ Below you will find a list of sites to find internet radio stations on, organize
 - [myRadioTuner](https://www.myradiotuner.com)
 - [myTuner](https://mytuner-radio.com)
 - [navidiku](https://www.navidiku.rs/radio-stanice)
+- [Neocities Radio Streams](https://msx.gay/radio/neocities.txt)
 - [Online Radio Box](https://onlineradiobox.com/fj/navtarang/)
 - [Online-radio.eu](https://online-radio.eu)
 - [Onradius.ru](https://onradios.ru)
